@@ -1,0 +1,86 @@
+{
+ "id": "sh-43",
+ "sources": {
+  "seder_hadorot_segron": {
+   "rows": [
+    43
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "mikra",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "יהודה בן יעקב",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": null,
+  "region": [],
+  "born": {
+   "hebrew": {
+    "value": "ב'קצ\"ה",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ב'שי\"ד",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [],
+  "teachers": [],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "יעקב אבינו"
+    },
+    "src": [
+     "seder_hadorot_segron"
+    ],
+    "ref": "sh-28"
+   }
+  ],
+  "works": [],
+  "mentioned_in": null,
+  "summary": {
+   "value": "יהודה, בנו של יעקב אבינו. לפי חשבון סדר הדורות נולד בשנת ב'קצ\"ה ליצירה ונפטר בשנת ב'שי\"ד.",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "remember": null
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "התקופה (מקרא) לפי השנים שבסדר הדורות; השורה אינה אומרת זאת במפורש.",
+   "בשורה מופיע התאריך ט\"ו בסיון בלי פירוש אם הוא יום הלידה או יום הפטירה, ולכן לא נרשם.",
+   "'אבינו' ביעקב הוא הכינוי המקובל; השורה אומרת רק 'בן יעקב'.",
+   "המקור יחיד ודל: אין בו מקום הופעתו במקרא ולא מעשיו, ולכן mentioned_in ריק."
+  ],
+  "written": "2026-10-04"
+ }
+}
