@@ -1,0 +1,153 @@
+"""Build the full candidate list from Wikidata.
+
+Usage:
+    python scripts/candidates.py
+
+Collects every person who has a Hebrew Wikipedia article and one of the
+rabbinic occupations below, guesses the era (explicit era occupation first,
+otherwise by year of death), drops living people, and writes:
+    config/candidates-full.json   input for fetch.py
+    config/candidates-full.csv    the same list for review in a spreadsheet
+"""
+
+import csv
+import json
+import sys
+import time
+import urllib.parse
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from sources.common import http_get  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+SPARQL = "https://query.wikidata.org/sparql"
+
+# Occupation -> era it implies (None = decide by dates).
+OCCUPATIONS = {
+    "Q975574": "tannaim",    # תנאים
+    "Q474035": "amoraim",    # אמוראים
+    "Q55649848": "amoraim",  # אמוראי ארץ ישראל
+    "Q55649849": "amoraim",  # אמוראי בבל
+    "Q1062089": "geonim",    # גאונים
+    "Q2070193": "rishonim",  # ראשונים
+    "Q510005": None,         # אחרונים (split by dates into acharonim / acharonei_zmanenu)
+    "Q21584816": None,       # תלמודאי
+    "Q133485": None,         # רב
+    "Q2796156": None,        # רב
+    "Q359351": None,         # אדמו"ר
+    "Q931732": None,         # פוסק
+    "Q3570351": None,        # דיין
+    "Q12350380": None,       # מקובל
+    "Q2308372": None,        # ראש ישיבה
+    "Q50108322": None,       # פרשן המקרא
+    "Q109143736": None,      # פייטן
+}
+
+# One query for all occupations: the public endpoint may allow only ~1 request a minute.
+QUERY = """
+SELECT ?p ?occ ?title ?birth ?death WHERE {
+  VALUES ?occ { %s }
+  ?p wdt:P106 ?occ .
+  ?article schema:about ?p ; schema:isPartOf <https://he.wikipedia.org/> ; schema:name ?title .
+  OPTIONAL { ?p wdt:P569 ?birth . }
+  OPTIONAL { ?p wdt:P570 ?death . }
+}"""
+
+ERA_ORDER = ["mikra", "zugot", "tannaim", "amoraim", "savoraim", "geonim", "rishonim", "acharonim", "acharonei_zmanenu"]
+
+
+def year(value):
+    if not value:
+        return None
+    try:
+        y = int(value[: value.index("-", 1)])
+        return y
+    except ValueError:
+        return None
+
+
+def era_by_dates(born, died):
+    y = died if died is not None else (born + 70 if born is not None else None)
+    if y is None:
+        return None
+    if y <= 220:
+        return "tannaim"
+    if y <= 500:
+        return "amoraim"
+    if y <= 589:
+        return "savoraim"
+    if y <= 1040:
+        return "geonim"
+    if y <= 1550:
+        return "rishonim"
+    if y < 1900:
+        return "acharonim"
+    return "acharonei_zmanenu"
+
+
+def run():
+    values = " ".join(f"wd:{q}" for q in OCCUPATIONS)
+    url = f"{SPARQL}?{urllib.parse.urlencode({'query': QUERY % values, 'format': 'json'})}"
+    for attempt in range(6):
+        try:
+            return json.loads(http_get(url, accept="application/sparql-results+json", retries=1))["results"]["bindings"]
+        except Exception as err:  # rate limits / timeouts: wait well past a minute
+            print(f"  retry in {70 * (attempt + 1)}s after {err}", flush=True)
+            time.sleep(70 * (attempt + 1))
+    raise RuntimeError("query failed")
+
+
+def main():
+    people = {}
+    rows = run()
+    print(f"{len(rows)} rows", flush=True)
+    for r in rows:
+        era = OCCUPATIONS[r["occ"]["value"].rsplit("/", 1)[-1]]
+        qid = r["p"]["value"].rsplit("/", 1)[-1]
+        p = people.setdefault(qid, {
+            "id": qid, "title": r["title"]["value"], "label": None, "description": None, "born": None, "died": None, "era_hints": set(),
+        })
+        p["born"] = p["born"] or year(r.get("birth", {}).get("value"))
+        p["died"] = p["died"] or year(r.get("death", {}).get("value"))
+        if era:
+            p["era_hints"].add(era)
+
+    entries, skipped = [], {"living": 0, "no_era": 0}
+    for p in people.values():
+        if p["died"] is None and (p["born"] is None or p["born"] > 1920):
+            # No death date: either living or undated. Undated ancient figures
+            # usually carry an explicit era occupation, so keep those.
+            if not p["era_hints"]:
+                skipped["living" if p["born"] else "no_era"] += 1
+                continue
+        hints = sorted(p["era_hints"], key=ERA_ORDER.index)
+        era = hints[0] if hints else era_by_dates(p["born"], p["died"])
+        if era == "acharonim" and p["died"] and p["died"] >= 1900:
+            era = "acharonei_zmanenu"
+        if not era:
+            skipped["no_era"] += 1
+            continue
+        entries.append({"era": era, "title": p["title"], "id": p["id"], "label": p["label"],
+                        "born": p["born"], "died": p["died"], "description": p["description"]})
+
+    entries.sort(key=lambda e: (ERA_ORDER.index(e["era"]), e["died"] or 9999, e["title"]))
+    out = ROOT / "config" / "candidates-full.json"
+    out.write_text(json.dumps({"description": "Full candidate list generated by scripts/candidates.py from Wikidata.",
+                               "entries": entries}, ensure_ascii=False, indent=1), encoding="utf-8")
+    with open(ROOT / "config" / "candidates-full.csv", "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["era", "title", "id", "label", "born", "died", "description"])
+        w.writeheader()
+        w.writerows(entries)
+    counts = {}
+    for e in entries:
+        counts[e["era"]] = counts.get(e["era"], 0) + 1
+    print(f"\n{len(entries)} candidates; skipped {skipped}")
+    for era in ERA_ORDER:
+        if era in counts:
+            print(f"  {era}: {counts[era]}")
+
+
+if __name__ == "__main__":
+    main()
