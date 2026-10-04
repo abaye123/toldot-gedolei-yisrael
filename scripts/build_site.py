@@ -51,6 +51,9 @@ def main():
         "format": "biographies",
         "version": 2,
         "built": date.today().isoformat(),
+        # Required by the additional term in NOTICE (AGPL-3.0 section 7(b)).
+        "author": "abaye",
+        "license": "AGPL-3.0 with an attribution term: any use of these biographies must credit abaye (see NOTICE)",
         "eras": [{"key": k, "label": label} for k, label in ERAS],
         "credits": {k: {key: v for key, v in CREDITS[k].items() if key != "note"} for k in sorted(used)},
         "entries": entries,

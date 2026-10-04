@@ -10,6 +10,12 @@ Because Seder HaDorot is licensed CC BY-NC-SA, entries that use it - and the
 collection as a whole - are shared under **CC BY-NC-SA** and must not be used
 commercially.
 
+
+## Author of the biographies
+
+The biographies are by **abaye**. Crediting abaye is required for any use,
+copy or adaptation of them (AGPL-3.0 section 7(b), see `NOTICE`).
+
 ## ויקיפדיה העברית - Hebrew Wikipedia
 
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.he)

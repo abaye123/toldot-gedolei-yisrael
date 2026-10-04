@@ -155,7 +155,7 @@ document.getElementById("list").addEventListener("click",ev=>{
 });
 document.getElementById("flagsBtn").onclick=()=>document.body.classList.toggle("show-flags");
 document.getElementById("srcBtn").onclick=()=>document.body.classList.toggle("show-src");
-document.getElementById("credits").innerHTML=`<b>מקורות וזכויות:</b> הערכים נכתבו מחדש בתמצית על פי המקורות הבאים, לשימוש לימודי שלא למטרות רווח, בתנאי הרישיונות שלהם:<br>`+
+document.getElementById("credits").innerHTML=`<b>הביוגרפיות: ${esc(DATA.author)}.</b> מופצות ברישיון AGPL-3.0; כל שימוש בהן מחייב מתן קרדיט ל-${esc(DATA.author)}.<br><b>מקורות וזכויות:</b> הערכים נכתבו מחדש בתמצית על פי המקורות הבאים, לשימוש לימודי שלא למטרות רווח, בתנאי הרישיונות שלהם:<br>`+
   Object.entries(DATA.credits).filter(([k])=>k!=="editorial").map(([k,c])=>`${esc(c.name)}${c.author?` - ${esc(c.author)}`:""}${c.publisher?`, ${esc(c.publisher)}`:""}${c.license?` - ${c.license_url?`<a href="${esc(c.license_url)}" target="_blank" rel="noopener">${esc(c.license)}</a>`:esc(c.license)}`:""}${c.attribution?`. ${esc(c.attribution)}`:""}`).join("<br>")+
   `<br>עודכן: ${esc(DATA.built)}.`;
 chips();render();

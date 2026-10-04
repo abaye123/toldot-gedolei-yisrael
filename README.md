@@ -93,5 +93,10 @@ General Public License v3.0 (`LICENSE`). The biographies are original
 writing, composed from facts gathered from the sources above, with each
 source credited in every entry and in `CREDITS.md`.
 
+**Attribution is required.** As an additional term under section 7(b) of the
+AGPL (see `NOTICE`), any use, copy, distribution or adaptation of the
+biographies, in whole or in part, must credit **abaye** as their author in a
+way visible to its users, e.g. "Biographies by abaye" / "הביוגרפיות: abaye".
+
 The raw source snapshots in `data/raw/` are not covered by this license;
 each remains under its original license, listed above and in `CREDITS.md`.
