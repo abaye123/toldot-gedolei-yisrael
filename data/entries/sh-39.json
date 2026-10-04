@@ -1,0 +1,87 @@
+{
+ "id": "sh-39",
+ "sources": {
+  "seder_hadorot_segron": {
+   "rows": [
+    39,
+    65
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "mikra",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "שמעון בן יעקב",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": null,
+  "region": [],
+  "born": {
+   "hebrew": {
+    "value": "ב'קצ\"ג",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ב'שי\"ג",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [],
+  "teachers": [],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "יעקב אבינו"
+    },
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": null,
+  "summary": {
+   "value": "שמעון בן יעקב נמנה בסדר הדורות בין הצדיקים. נולד בשנת ב'קצ\"ג לבריאת העולם ונפטר בשנת ב'שי\"ג, בן מאה ועשרים שנה; בסדר הדורות נרשם לצדו התאריך כ\"ח בטבת.",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "remember": null
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקור יחיד: שורות 39 ו-65 בסדר הדורות (65: \"פטירת שמעון (בן 120)\", באותה שנה).",
+   "השורה מציינת \"(כ''ח טבת)\" בלי לפרש אם זהו יום הלידה או הפטירה; לכן לא נכלל בשדות התאריך.",
+   "\"אביו: יעקב אבינו\" נגזר מהשם \"שמעון בן יעקב\" בשורה; הצורה \"יעקב אבינו\" היא הכינוי המקובל.",
+   "sh-65 (\"שמעון\", שורה 65) הוא אותו אדם - כפילות שכדאי לאחד.",
+   "התקופה (מקרא) לפי הבקשה ברשימה; המקור אינו אומר זאת במפורש."
+  ],
+  "written": "2026-10-05"
+ }
+}

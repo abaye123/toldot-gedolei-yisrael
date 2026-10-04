@@ -1,0 +1,95 @@
+{
+ "id": "sh-38",
+ "sources": {
+  "seder_hadorot_segron": {
+   "rows": [
+    38,
+    67
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "mikra",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "ראובן בן יעקב",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": null,
+  "region": [],
+  "born": {
+   "hebrew": {
+    "value": "ב'קצ\"ב",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ב'שי\"ז",
+    "src": [
+     "seder_hadorot_segron"
+    ],
+    "alt": [
+     {
+      "value": "ב'שט\"ז",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [],
+  "teachers": [],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "יעקב אבינו"
+    },
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": null,
+  "summary": {
+   "value": "ראובן בן יעקב נמנה בסדר הדורות בין הצדיקים. נולד בשנת ב'קצ\"ב לבריאת העולם ונפטר בשנת ב'שי\"ז, ובמקום אחר בסדר הדורות נרשמה פטירתו בשנת ב'שט\"ז, בן מאה עשרים וארבע שנים.",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "remember": null
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקור יחיד: שורות 38 ו-67 בסדר הדורות; שורה 67 (\"פטירת ראובן (בן 124)\") נותנת ב'שט\"ז ונרשמה כ-alt.",
+   "השורה מציינת \"(י''ד כסלו)\" בלי לפרש אם זהו יום הלידה או הפטירה; לכן לא נכלל בשדות התאריך.",
+   "\"אביו: יעקב אבינו\" נגזר מהשם \"ראובן בן יעקב\" בשורה; הצורה \"יעקב אבינו\" היא הכינוי המקובל.",
+   "התקופה (מקרא) לפי הבקשה ברשימה; המקור אינו אומר זאת במפורש.",
+   "sh-67 (\"ראובן\", שורה 67) הוא כנראה אותו אדם - כפילות שכדאי לאחד."
+  ],
+  "written": "2026-10-05"
+ }
+}
