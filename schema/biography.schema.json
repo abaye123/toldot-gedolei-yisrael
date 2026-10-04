@@ -1,0 +1,445 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Biography entry",
+  "description": "One short biographical card. Every leaf of `fields` is a claim carrying its sources. Field names are English; values are Hebrew. See docs/data-model.md and docs/style-guide.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "sources",
+    "era",
+    "fields",
+    "review"
+  ],
+  "$defs": {
+    "wiki_source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "url",
+        "revid",
+        "retrieved",
+        "raw",
+        "credit"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "revid": {
+          "type": "integer"
+        },
+        "retrieved": {
+          "type": "string"
+        },
+        "raw": {
+          "type": "string"
+        },
+        "credit": {
+          "type": "string"
+        }
+      }
+    },
+    "provider": {
+      "enum": [
+        "wikipedia",
+        "wikidata",
+        "seder_hadorot_segron",
+        "toldot_tannaim",
+        "hamichlol",
+        "editorial"
+      ]
+    },
+    "src": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/provider"
+      }
+    },
+    "text_claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "src"
+      ],
+      "properties": {
+        "value": {
+          "type": "string",
+          "minLength": 1
+        },
+        "src": {
+          "$ref": "#/$defs/src"
+        },
+        "alt": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/text_claim"
+          }
+        },
+        "ref": {
+          "type": "string",
+          "description": "id of the mentioned person in data/people.json (set by scripts/link_refs.py)"
+        }
+      }
+    },
+    "opt_text_claim": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/text_claim"
+        }
+      ]
+    },
+    "text_claims": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/text_claim"
+      }
+    },
+    "life_event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "hebrew",
+        "gregorian",
+        "place"
+      ],
+      "properties": {
+        "hebrew": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "gregorian": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "place": {
+          "$ref": "#/$defs/opt_text_claim"
+        }
+      }
+    },
+    "family_claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "src"
+      ],
+      "properties": {
+        "value": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "relation",
+            "name"
+          ],
+          "properties": {
+            "relation": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            }
+          }
+        },
+        "src": {
+          "$ref": "#/$defs/src"
+        },
+        "ref": {
+          "type": "string",
+          "description": "id of the mentioned person in data/people.json (set by scripts/link_refs.py)"
+        }
+      }
+    },
+    "work_claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "src"
+      ],
+      "properties": {
+        "value": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "title",
+            "description"
+          ],
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "src": {
+          "$ref": "#/$defs/src"
+        }
+      }
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "wikipedia": {
+          "$ref": "#/$defs/wiki_source"
+        },
+        "hamichlol": {
+          "$ref": "#/$defs/wiki_source"
+        },
+        "wikidata": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "id",
+            "url",
+            "retrieved",
+            "raw",
+            "credit"
+          ],
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            },
+            "retrieved": {
+              "type": "string"
+            },
+            "raw": {
+              "type": "string"
+            },
+            "credit": {
+              "type": "string"
+            }
+          }
+        },
+        "toldot_tannaim": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "pages",
+            "credit"
+          ],
+          "properties": {
+            "pages": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "title",
+                  "url",
+                  "revid",
+                  "raw"
+                ],
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string"
+                  },
+                  "revid": {
+                    "type": "integer"
+                  },
+                  "raw": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "credit": {
+              "type": "string"
+            }
+          }
+        },
+        "seder_hadorot_segron": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "rows",
+            "url",
+            "raw",
+            "credit"
+          ],
+          "properties": {
+            "rows": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "integer"
+              }
+            },
+            "url": {
+              "type": "string"
+            },
+            "raw": {
+              "type": "string"
+            },
+            "credit": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "era": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "src"
+      ],
+      "properties": {
+        "value": {
+          "enum": [
+            "mikra",
+            "zugot",
+            "tannaim",
+            "amoraim",
+            "savoraim",
+            "geonim",
+            "rishonim",
+            "acharonim",
+            "acharonei_zmanenu"
+          ]
+        },
+        "src": {
+          "$ref": "#/$defs/src"
+        }
+      }
+    },
+    "fields": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "known_as",
+        "honorific",
+        "generation",
+        "region",
+        "born",
+        "died",
+        "buried",
+        "roles",
+        "teachers",
+        "students",
+        "family",
+        "works",
+        "mentioned_in",
+        "summary",
+        "remember"
+      ],
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/text_claim"
+        },
+        "known_as": {
+          "$ref": "#/$defs/text_claims",
+          "maxItems": 4
+        },
+        "honorific": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "generation": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "region": {
+          "$ref": "#/$defs/text_claims",
+          "maxItems": 3
+        },
+        "born": {
+          "$ref": "#/$defs/life_event"
+        },
+        "died": {
+          "$ref": "#/$defs/life_event"
+        },
+        "buried": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "roles": {
+          "$ref": "#/$defs/text_claims",
+          "maxItems": 4
+        },
+        "teachers": {
+          "$ref": "#/$defs/text_claims",
+          "maxItems": 5
+        },
+        "students": {
+          "$ref": "#/$defs/text_claims",
+          "maxItems": 5
+        },
+        "family": {
+          "type": "array",
+          "maxItems": 4,
+          "items": {
+            "$ref": "#/$defs/family_claim"
+          }
+        },
+        "works": {
+          "type": "array",
+          "maxItems": 6,
+          "items": {
+            "$ref": "#/$defs/work_claim"
+          }
+        },
+        "mentioned_in": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "summary": {
+          "$ref": "#/$defs/opt_text_claim"
+        },
+        "remember": {
+          "$ref": "#/$defs/opt_text_claim"
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "flags"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "draft",
+            "needs_rewrite",
+            "reviewed",
+            "approved"
+          ]
+        },
+        "flags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "written": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
