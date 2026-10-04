@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.html -diff
+data/raw/** -diff linguist-generated
+dist/** linguist-generated
+site/index.html linguist-generated
