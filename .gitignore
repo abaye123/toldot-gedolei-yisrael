@@ -1,0 +1,7 @@
+# Derived files - rebuilt from data/raw and data/entries
+data/briefs/
+data/fetch.log
+__pycache__/
+data/*.log
+# Work queue state of a running writing session (claims, attempts)
+data/work/
