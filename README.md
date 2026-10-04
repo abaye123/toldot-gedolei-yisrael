@@ -1,4 +1,4 @@
-# Biographies of Gedolei Yisrael
+# Toldot Gedolei Yisrael - תולדות גדולי ישראל
 
 Short, fixed-format biographical cards of Torah sages and authors, written in
 yeshivish Hebrew for students. Every fact in every card records the sources
