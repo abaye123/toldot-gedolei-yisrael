@@ -1,0 +1,88 @@
+{
+ "id": "sh-12",
+ "sources": {
+  "seder_hadorot_segron": {
+   "rows": [
+    12,
+    33
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "mikra",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "עבר",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": null,
+  "region": [],
+  "born": {
+   "hebrew": {
+    "value": "א'תשכ\"ג",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ב'קפ\"ז",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [],
+  "teachers": [],
+  "students": [
+   {
+    "value": "יעקב אבינו",
+    "src": [
+     "seder_hadorot_segron",
+     "editorial"
+    ]
+   }
+  ],
+  "family": [],
+  "works": [],
+  "mentioned_in": null,
+  "summary": {
+   "value": "עבר נמנה בסדר הדורות בין הצדיקים; נולד בשנת א'תשכ\"ג לבריאת העולם ונפטר בשנת ב'קפ\"ז. היה לו בית מדרש, ובו נטמן יעקב ארבע עשרה שנה.",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  },
+  "remember": {
+   "value": "משנת ב'קע\"א עד ב'קפ\"ה נטמן יעקב בבית מדרשו של עבר, ארבע עשרה שנה.",
+   "src": [
+    "seder_hadorot_segron"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקור יחיד: שתי שורות בסדר הדורות (12, 33).",
+   "\"יעקב אבינו\" בשדה התלמידים: בשורה 33 נכתב \"יעקב\" שנטמן בבית מדרשו; התואר \"אבינו\" הוא הכינוי המקובל.",
+   "התקופה (מקרא) לפי הבקשה ברשימה ולפי השנים; המקור אינו אומר זאת במפורש."
+  ],
+  "written": "2026-10-05"
+ }
+}
