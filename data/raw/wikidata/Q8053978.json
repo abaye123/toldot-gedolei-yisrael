@@ -1,0 +1,260 @@
+{
+ "id": "Q8053978",
+ "url": "https://www.wikidata.org/wiki/Q8053978",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8053978",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yiḥyah Qafiḥ"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחיא קאפח"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "prominent Yemenite rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תימני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מארי ישיש"
+    },
+    {
+     "language": "he",
+     "value": "יחיא אלקאפח"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yahya Kapach"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$6B6555FD-F9E6-404B-93E5-6B556F049D53",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$371E50EF-8BE6-4DF6-8EDB-433B56E54DE9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "28a00c281b1a847f74a1c6eb59349a7471edee91",
+      "datavalue": {
+       "value": {
+        "time": "+1931-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8053978$A7DBE62B-4000-447A-AD5B-0B78228AB802",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d72437d83b80e7b758a589519ee003ff18315f36",
+      "datavalue": {
+       "value": {
+        "time": "+1931-11-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8053978$dd05c8e8-47ff-55b7-a6aa-da5938f0f300",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "60eafa5315179a34dd7e400a383b0302433ce1a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$AEBF8E62-1FFE-4C49-B24F-5EFB1B3FA50C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$2ed3f26a-4e18-28fd-415c-d0bd3866ad91",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$311fd629-4979-45fa-bd00-55de3bbfac47",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "d386efd2ff34a36d6c889853587989194cb47453",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16130180,
+        "id": "Q16130180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053978$66eccd22-4317-0b11-1d32-0af2dcc6ddfa",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0db6e78c472ec8d653e43d6ea33546adea1ccf7e",
+      "datavalue": {
+       "value": {
+        "time": "+1850-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8053978$06FDF6B2-281D-40B9-B805-E731EF684CF6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיא קאפח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16130180": "דוד קאפח",
+  "Q2308372": "ראש ישיבה",
+  "Q2471": "צנעא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8053978.json"
+}

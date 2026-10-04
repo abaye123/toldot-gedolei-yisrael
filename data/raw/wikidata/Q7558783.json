@@ -1,0 +1,187 @@
+{
+ "id": "Q7558783",
+ "url": "https://www.wikidata.org/wiki/Q7558783",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558783",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon ben Abraham of Montpellier"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה מן ההר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם פרובאנסאלי בן המאה ה-13. הוא נולד בברצלונה, ועבר למונפלייה שבדרום צרפת"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה בן אברהם מן ההר"
+    },
+    {
+     "language": "he",
+     "value": "שלמה בן אברהם בן שמואל"
+    },
+    {
+     "language": "he",
+     "value": "שלמה מונטפלייר"
+    },
+    {
+     "language": "he",
+     "value": "שלמה ממונטפלייר"
+    },
+    {
+     "language": "he",
+     "value": "שלמה ממונפלייה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shelomoh ben Avraham min Hahar"
+    },
+    {
+     "language": "en",
+     "value": "Shelomoh ben Avraham ben Shemu'el"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558783$E4069307-68A7-4614-8558-2613821C7713",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558783$9C119D80-0D61-4BE6-9E55-46C35178F0BA",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "a4cee1605abe7fa8e33b33b1e45ffbfb83bea971",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1371903,
+        "id": "Q1371903"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558783$af456ca0-4317-1e7e-762d-2fa6d5ce75d8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1073a2e269fbfa5c47e3a9f33cdd3a29b9c9c51d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1492,
+        "id": "Q1492"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558783$8b22b563-4186-b8cc-fbc1-449a97014703",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fb27ff114a39faafb2e2e90e8347b4a686309d6b",
+      "datavalue": {
+       "value": {
+        "time": "+1300-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558783$97991542-4f9c-0ef8-8834-77bd1825d4e9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה מן ההר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1371903": "יונה גירונדי",
+  "Q1492": "ברצלונה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558783.json"
+}

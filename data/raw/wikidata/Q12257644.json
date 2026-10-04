@@ -1,0 +1,137 @@
+{
+ "id": "Q12257644",
+ "url": "https://www.wikidata.org/wiki/Q12257644",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12257644",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים בצלאל פנט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Bezalel Paneth"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1803–1874)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים בצלאל פנט (טושנאד)"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12257644$0B654CC3-A64C-4D03-9F09-950E5AE6A04C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2cebfeff8f131ac814645ea5860a63a0eae30210",
+      "datavalue": {
+       "value": {
+        "time": "+1803-06-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12257644$6B88018D-493F-4942-A34F-BA77A7453681",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f28ba769c2e5958e54c940cb7ade6d20e54df0d6",
+      "datavalue": {
+       "value": {
+        "time": "+1874-04-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12257644$20885E06-E121-4AF8-82AA-22CC1B7AD14D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12257644$8FD7533A-BAEA-490E-97E9-A765209EEDDA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים בצלאל פנט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12257644.json"
+}

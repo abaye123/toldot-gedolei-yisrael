@@ -1,0 +1,129 @@
+{
+ "id": "Q120861203",
+ "url": "https://www.wikidata.org/wiki/Q120861203",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q120861203",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב אחא בריה דרב אויא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בדור השישי, תלמיד-חבר לרב אשי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אחא בריה דרב אויא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120861203$e03e01c1-4cf2-2ad5-4d0c-4a100f900e67",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120861203$638cdbee-4d29-728d-f303-8576fafc5166",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120861203$8c7cd680-40ef-1332-c0ec-d85be576eb8c",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "90480caa8daef6c39d83a8f6a9436f08cec90e11",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 742620,
+        "id": "Q742620"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120861203$51e19573-4834-220d-8211-941f7ec919c1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב אחא בריה דרב אויא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל",
+  "Q742620": "רב אשי"
+ },
+ "raw": "data/raw/wikidata/Q120861203.json"
+}

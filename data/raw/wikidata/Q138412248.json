@@ -1,0 +1,170 @@
+{
+ "id": "Q138412248",
+ "url": "https://www.wikidata.org/wiki/Q138412248",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q138412248",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זאב וולף אברך"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק ורב קהילות בליטא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q138412248$96597bb8-429b-8592-bd4e-08e3ff6a6975",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q138412248$8d60fffb-48e3-aa45-ce9e-b77ad9d46f35",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5489f189b0db170f01f1e06ee01a7520f61bf2a",
+      "datavalue": {
+       "value": {
+        "time": "+1845-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q138412248$5cc5e46e-4603-6eae-3c2d-bf9cfffc2d6f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8293e3e5107315aa7e176cc1f09cf35dbc830d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 712011,
+        "id": "Q712011"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q138412248$6a219078-47d8-4504-0b8b-5440e295fd9c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "874afb83ac13020634bc468ec1cebe57d4a7d30c",
+      "datavalue": {
+       "value": {
+        "time": "+1921-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q138412248$bd910d79-4fcf-2872-ad6b-924382006f69",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5896313f8fdfda0fce5b1e28f509b3ee6bbc14fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 203675,
+        "id": "Q203675"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q138412248$fc22c5f9-4844-c105-5142-5bf61356c1cc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זאב וולף אברך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q203675": "מז'ייקיאי",
+  "Q5": "אדם",
+  "Q712011": "ריטובה"
+ },
+ "raw": "data/raw/wikidata/Q138412248.json"
+}

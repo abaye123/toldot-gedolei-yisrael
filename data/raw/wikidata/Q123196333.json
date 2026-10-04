@@ -1,0 +1,196 @@
+{
+ "id": "Q123196333",
+ "url": "https://www.wikidata.org/wiki/Q123196333",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q123196333",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob Reinowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב ריינוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "British rabbi (1818–1893)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בריטי (1818–1893)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123196333$25583117-4049-4208-9c65-2c6d94d954ce",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e3373dfb1966dc7d3d621e87ab4d1fedd3336737",
+      "datavalue": {
+       "value": {
+        "time": "+1818-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123196333$bc67de90-8bb6-4dd0-922e-e0856c01d1fb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b25374372e07657dfe76752f8518337c6d4d5a76",
+      "datavalue": {
+       "value": {
+        "time": "+1893-05-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123196333$c30e9f00-981b-477f-a0df-9013c778ada2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123196333$49ce4857-41f9-32be-f892-ae10369fae9e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123196333$607de76d-4e77-d14f-d8db-b17d4476ab88",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "2d5609f27863928dcf945648abcad5e707ffb875",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133892156,
+        "id": "Q133892156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123196333$fe056632-4d1c-5655-c327-97ef383cf86d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c8e27ec4739480c0a622d82d3abe4581da2bff09",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 852272,
+        "id": "Q852272"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123196333$febbd1b5-4099-168b-126c-00958a3b9cbc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב ריינוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q133892156": "ראש בית דין",
+  "Q3570351": "דיין",
+  "Q5": "אדם",
+  "Q852272": "וילקובישק"
+ },
+ "raw": "data/raw/wikidata/Q123196333.json"
+}

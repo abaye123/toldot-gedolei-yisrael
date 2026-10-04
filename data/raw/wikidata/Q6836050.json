@@ -1,0 +1,290 @@
+{
+ "id": "Q6836050",
+ "url": "https://www.wikidata.org/wiki/Q6836050",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6836050",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל יהודה הירש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Juda Hirsch"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ראשי בהולנד"
+   },
+   "en": {
+    "language": "en",
+    "value": "1872--1941; שמואל יהודה בן שמעון עזריה הירש ; Hirsch, Shmuel Yehuda; Hirsch, Samuel Juda Simon"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הירש, שמואל יהודה בן שמעון עזריה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6836050$102546DF-5F14-444E-B7D3-6EB739062F1F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6836050$99C1934D-F2B6-41CE-BC79-2C9283DD6E96",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "29b90d04cba32ff3345b35fb58d06a43e07e88a6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P937": [
+       {
+        "snaktype": "value",
+        "property": "P937",
+        "hash": "8889e0dd82425a41c98ce35fc0455129375acacf",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 793,
+          "id": "Q793"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P937"
+     ],
+     "id": "Q6836050$7C279EC6-D0CD-4093-B9F7-4770354D75B5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f7ddbdfc76c9de4e53d609a9e794694de5803518",
+      "datavalue": {
+       "value": {
+        "time": "+1872-10-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6836050$896E5013-45ED-4571-82E3-D379FDAB449B",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e0179f296067666db25238f55a828de7de3c20e5",
+      "datavalue": {
+       "value": {
+        "time": "+1872-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6836050$C0DBD72B-91B4-4C05-A554-F7690BCCDAB6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cece99ce572ea21e4dea0475976879dfcc873277",
+      "datavalue": {
+       "value": {
+        "time": "+1941-08-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6836050$EEE05970-AEA8-4279-94CB-B5500F6C2795",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "817d5d2c57ec019054592bb65b1f9085ad3f9e0f",
+      "datavalue": {
+       "value": {
+        "time": "+1941-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6836050$EEE1AF13-A66C-416A-A6DF-33EEDCD0F839",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b7857ef8f9a76ed1c43cd43c0027edc2c1a5d44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6836050$04A4128D-17E7-4C24-9C86-585B9F851548",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל יהודה הירש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם"
+ },
+ "raw": "data/raw/wikidata/Q6836050.json"
+}

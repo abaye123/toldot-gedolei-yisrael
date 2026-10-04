@@ -1,0 +1,128 @@
+{
+ "id": "Q25490301",
+ "url": "https://www.wikidata.org/wiki/Q25490301",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490301",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף סאמיגה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph ben Benjamin Samegah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב טורקי במאה ה-16"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490301$E84A6CF3-79EE-4D0D-BD73-42BC944E93D2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q25490301$fb94c6f8-4958-9244-b937-c1481381785b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "30ffb37ddf6317485db765f263f42eafa00843bf",
+      "datavalue": {
+       "value": {
+        "time": "+1629-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490301$B4EB465F-821D-4927-94D8-510469306EB6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "99a97daef69d6fa0cd5839a56a03d6fbce12f260",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 641,
+        "id": "Q641"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490301$0EA6BF7C-15F2-4E99-A334-99A3A8B5D707",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף סאמיגה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q641": "ונציה"
+ },
+ "raw": "data/raw/wikidata/Q25490301.json"
+}

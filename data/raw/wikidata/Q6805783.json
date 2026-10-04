@@ -1,0 +1,327 @@
+{
+ "id": "Q6805783",
+ "url": "https://www.wikidata.org/wiki/Q6805783",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6805783",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד אוקס"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Ochs"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחנך ישראלי (1904–1974)"
+   },
+   "en": {
+    "language": "en",
+    "value": "German-Israeli educator (1904-1974)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$CBC8F349-BE8C-4D20-9049-08E1E05984D9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "09a7ce69e3f53e1e0fdcf35ae73b13a3aaf2f850",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 974144,
+        "id": "Q974144"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$B1BE652E-5ADE-45FB-9EB1-70A9CF099A8B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$A3BF7158-898D-453C-A28F-532FBA51D9D3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a86e61ce3c8da99866510bed72f3d8a4c47a8dc5",
+      "datavalue": {
+       "value": {
+        "time": "+1904-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805783$0DAF11E8-7091-45F9-9D79-5C5C1502120A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "502d666420482e208badaa4044f2eef432e1d77b",
+      "datavalue": {
+       "value": {
+        "time": "+1904-12-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805783$751FFCCD-DBA7-4E59-AC63-6F993CCDD67C",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5bdd51e640cfbd53431d8085e9cf306a45c9e923",
+      "datavalue": {
+       "value": {
+        "time": "+1974-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805783$F0C84C89-9A40-49B9-8296-B017D5A88C7E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e6d5ac8bf0aa4bc40a4c94575a0d9f1320ccda18",
+      "datavalue": {
+       "value": {
+        "time": "+1974-10-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805783$ECDEB221-6804-4070-ACDD-A4933156DB35",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c65369c3c1c3b3c6381dc21ddb96ce24e9465825",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 365,
+        "id": "Q365"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$9360c1da-49db-9e90-4902-2cfbbbfc4f3e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f2be19a39baee046832c7b85fe1794273c1e676b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$55a768b4-41b4-3e7d-647a-1ec2e2e07d27",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7043fd1091405064791d657680da5a86891f3e7f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 607817,
+        "id": "Q607817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805783$7a684e4e-432c-7003-5528-1007087a5b0d",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "92f52a14a574145afdeb5a82cc86b993fcd43d2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7037452,
+        "id": "Q7037452"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2842": [
+       {
+        "snaktype": "value",
+        "property": "P2842",
+        "hash": "83db240cce17ab13fdd145a609d78ee7d97459f3",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 64,
+          "id": "Q64"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P585": [
+       {
+        "snaktype": "value",
+        "property": "P585",
+        "hash": "0297d81f2759a15f80268f91168fae9fa615b52c",
+        "datavalue": {
+         "value": {
+          "time": "+1932-06-15T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2842",
+      "P585"
+     ],
+     "id": "Q6805783$00b9235c-42a5-5173-a277-056d12fa7b1a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד אוקס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q33935": "תל אביב-יפו",
+  "Q365": "קלן",
+  "Q5": "אדם",
+  "Q607817": "בית העלמין קריית שאול",
+  "Q7037452": "גרדה אוקס",
+  "Q974144": "מחנך"
+ },
+ "raw": "data/raw/wikidata/Q6805783.json"
+}

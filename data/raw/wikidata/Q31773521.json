@@ -1,0 +1,181 @@
+{
+ "id": "Q31773521",
+ "url": "https://www.wikidata.org/wiki/Q31773521",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q31773521",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יששכר בר בלוך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Issachar Baer ben Samson Bloch"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yiśakhar Ber Blokh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31773521$444C713B-CC2D-44E8-B7FF-795553DBBFE8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c0422d39258d2bf960ba64127e06523c3926655",
+      "datavalue": {
+       "value": {
+        "time": "+1730-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q31773521$96E36E9B-FB0A-4AA4-8098-AA390735098D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bc080871a1de9de9c32482ca047ba21d1e558ac0",
+      "datavalue": {
+       "value": {
+        "time": "+1798-02-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q31773521$9B584ADA-A6CE-41AE-9B21-8F0B8F6BCC45",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "06962491a2db4f39edbcf32e8d85ee8dc07d2355",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1055,
+        "id": "Q1055"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31773521$E0E1B851-3A7B-4542-87A9-78CB7835877F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "199cc63fe3db891138134bf6218658accedde22f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 250832,
+        "id": "Q250832"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31773521$CE5E3E74-D2A4-4FE3-93CE-1232D6BE5230",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31773521$6E1F89A7-951B-4F8B-94B9-314987C7C116",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יששכר בר בלוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1055": "המבורג",
+  "Q133485": "רב",
+  "Q250832": "מטרסבורג",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q31773521.json"
+}

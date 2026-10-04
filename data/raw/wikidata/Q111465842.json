@@ -1,0 +1,170 @@
+{
+ "id": "Q111465842",
+ "url": "https://www.wikidata.org/wiki/Q111465842",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111465842",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל בנבנישתי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465842$46B55021-41EF-42BD-836F-30341AB8068E",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0c566e5e39b5ef1dd8977334e1b005939a06820",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465842$CB763DC3-4D89-4415-B8A0-935C71BCDA60",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bdd0acf691be6d60d749394ef0ecbee6c62e81e7",
+      "datavalue": {
+       "value": {
+        "time": "+1618-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111465842$C1C8E476-EFAE-4105-A562-86673663B259",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e8ea3ca72b750df0ef10d7843611e0a5e6bbc88c",
+      "datavalue": {
+       "value": {
+        "time": "+1688-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111465842$FAD0BCB8-E0F9-4812-A344-4F73BAF781B1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465842$4c9457c3-442e-7ed8-f1a0-cbceb9d10893",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "5d2f23a154509db462a41f09ae9115c82982b078",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 992584,
+        "id": "Q992584"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465842$d0f82768-4aa5-8369-f481-e0b7d0fd008d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל בנבנישתי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q406": "איסטנבול",
+  "Q5": "אדם",
+  "Q992584": "יהושע רפאל בנבנישתי"
+ },
+ "raw": "data/raw/wikidata/Q111465842.json"
+}

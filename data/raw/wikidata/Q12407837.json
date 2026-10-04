@@ -1,0 +1,181 @@
+{
+ "id": "Q12407837",
+ "url": "https://www.wikidata.org/wiki/Q12407837",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12407837",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה מרגוזה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של יפו וממחדשי היישוב היהודי בעיר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה הלוי מרגוזה"
+    },
+    {
+     "language": "he",
+     "value": "רבי יהודה הלוי מרגוזה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407837$5115B8B4-1705-4020-866E-C655906D46BF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407837$F9011976-0C2D-4F04-98FD-83DD0910CE76",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "96ca4dfd1992482a871484faca660b58f09698c1",
+      "datavalue": {
+       "value": {
+        "time": "+1783-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407837$5775B42C-9794-4F74-8FD0-B6A3379C797A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "56ea061d8ce691cd82227263e02ec9931bce6238",
+      "datavalue": {
+       "value": {
+        "time": "+1879-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407837$85AD8BD9-D9C4-444A-97BE-62DF5480AE62",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "15c7bbc7d258985cf1023bee48ab22703e351b5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180294,
+        "id": "Q180294"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407837$160577D4-F5F6-49B3-AC4E-0BDF724F27DB",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9bddd78433d169aa9382be35a0ee72ffb779e1c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11194,
+        "id": "Q11194"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407837$8611802E-59F5-4A29-BA42-A53B6FA328E4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה מרגוזה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11194": "סרייבו",
+  "Q133485": "רב",
+  "Q180294": "יפו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12407837.json"
+}

@@ -1,0 +1,166 @@
+{
+ "id": "Q111983003",
+ "url": "https://www.wikidata.org/wiki/Q111983003",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111983003",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה הכהן זאגורי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין, פוסק הלכה ומגדולי חכמי מרוקו"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111983003$ec09357d-45a9-74a1-968e-1045fa07d1e2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111983003$0cb80aea-4d79-5cbf-ed7c-37ccda156617",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111983003$a43ffc2b-483b-8ba6-f8cb-7803c0f0c5eb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4183cbf78eaffb6e37bcf22049eca837b10a225f",
+      "datavalue": {
+       "value": {
+        "time": "+1977-02-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111983003$DF1362F2-1C85-436F-84DE-1B7E15099475",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "94358286ee1cf21b469467746de5402894aaa9e3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 654695,
+        "id": "Q654695"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111983003$BFC60415-32C0-49F8-8CF6-A1AE8577E7F0",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111983003$a444f7d5-4dc5-02cc-8f75-7587281ba2f3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה הכהן זאגורי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q335336": "הר המנוחות",
+  "Q3570351": "דיין",
+  "Q5": "אדם",
+  "Q654695": "דבדו"
+ },
+ "raw": "data/raw/wikidata/Q111983003.json"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "Q1637336",
+ "url": "https://www.wikidata.org/wiki/Q1637336",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1637336",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Huna b. Joshua"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונא בריה דרב יהושע"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish scholar"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הונא בריה דרב יהושע"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1637336$C7C08C37-0D3A-481C-9468-C5186962B0D7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "179ac7d0947bc9bc2f27705981f55df7dadbbbef",
+      "datavalue": {
+       "value": {
+        "time": "+0400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1637336$DCA7C8A6-9A39-4C39-84CD-A86EF4CC6688",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1637336$07F5EB83-2AC3-47E9-A6A1-9C706AB4CDC7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1637336$14BF8D32-63A5-4084-BEBD-6CA185D092CB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "94297111150d5e830c537d6ab40b2e0d7a97fb97",
+      "datavalue": {
+       "value": {
+        "time": "+0410-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1637336$3ddbd71e-47b2-4738-512f-ed48ad67bd59",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב הונא בריה דרב יהושע",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q1637336.json"
+}

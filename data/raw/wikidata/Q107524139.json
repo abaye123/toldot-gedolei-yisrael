@@ -1,0 +1,198 @@
+{
+ "id": "Q107524139",
+ "url": "https://www.wikidata.org/wiki/Q107524139",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107524139",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלברט גרין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Albert Grün"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi, philologist (1906-1945)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107524139$c2b49e56-4d1f-fb95-3e1d-b14736c91d09",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107524139$8f427ed1-4938-4897-ae43-99150586d55b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "90a5c8214deabb50588e4e972f1f0a110b74a753",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13418253,
+        "id": "Q13418253"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107524139$4777fd8b-4fd0-f6b7-e368-88b086e140ff",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3a6f6080a964803bbd0481e227560c5d0580fadd",
+      "datavalue": {
+       "value": {
+        "time": "+1906-12-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107524139$2dcfca3f-440a-a495-51c4-166172959879",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4525a1fe9fee9603b65dd2543f5fa3c2990012be",
+      "datavalue": {
+       "value": {
+        "time": "+1945-03-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107524139$676bca0a-4f38-b122-36cb-95890ae3f24f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ea317025fb00b99e415f7c3c119dd1cee3ccebf6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 151198,
+        "id": "Q151198"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107524139$f409e60f-4bc7-7abf-43c7-a0ce0a27048d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0a58f9c4f9e61841ce65f7a6c72f1fc17abcebc3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 239519,
+        "id": "Q239519"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107524139$8081973a-40e7-bc10-f1c8-ec564fbb07f1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלברט גרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13418253": "פילולוג",
+  "Q151198": "מחנה הריכוז דכאו",
+  "Q239519": "Vultureni",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q107524139.json"
+}

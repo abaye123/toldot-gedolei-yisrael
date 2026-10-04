@@ -1,0 +1,130 @@
+{
+ "id": "Q12254977",
+ "url": "https://www.wikidata.org/wiki/Q12254977",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12254977",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב יצחק ניימן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Yitzchak Neumann"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rav of Montreal’s Belz community"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254977$06E479B0-8957-4194-9257-5A64F7D789F4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "523bfe3cc7607ba1f5d16407bbf8a5ed6b1a2704",
+      "datavalue": {
+       "value": {
+        "time": "+2007-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254977$B6CBE90A-F48A-4133-AF28-E2F2753D45D1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254977$1249EAB7-5F27-4BBD-AFD2-F20EE920837D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a2815254fe7dae0c4f505884a8c52efa1b84e02d",
+      "datavalue": {
+       "value": {
+        "time": "+1920-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254977$c0737a34-4fdc-6e05-76a0-875be0b3727b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב יצחק ניימן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12254977.json"
+}

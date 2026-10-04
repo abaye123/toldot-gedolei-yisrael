@@ -1,0 +1,178 @@
+{
+ "id": "Q55651737",
+ "url": "https://www.wikidata.org/wiki/Q55651737",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55651737",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים חביב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haim Raviv"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב יווני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Greek Rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651737$58B6FB31-B325-4959-90ED-7CC5DFEE52BA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651737$cdf5ad44-4c90-9493-71a5-16aa0575cb16",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2bf863ff7a15d5e5d2d83896d28b03a3a78c0485",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651737$d95a4e02-4da9-8fb8-1112-10513848e15d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "50256d211665544acb9f420878aee2da88b54e41",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651737$dd7a66db-48a9-52f4-ab51-a42142c13cf6",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651737$c41631c3-425a-da8c-cce6-0fcf464f8342",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14a1df4c551b57faf2779f7e3bb6c5ed123d07ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7341,
+        "id": "Q7341"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651737$288d1e03-4db1-19d2-2cf2-504de2611131",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים חביב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q5": "אדם",
+  "Q7341": "אושוויץ"
+ },
+ "raw": "data/raw/wikidata/Q55651737.json"
+}

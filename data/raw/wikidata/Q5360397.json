@@ -1,0 +1,226 @@
+{
+ "id": "Q5360397",
+ "url": "https://www.wikidata.org/wiki/Q5360397",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360397",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliakim ben Meshullam"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליקים בן משולם"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליקים ב\"ר משולם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360397$99487A4C-E2CD-41D7-9964-A6846820881F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360397$445EF854-AFE8-48CC-A580-C3D90533489A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "f9297a95dae016a21c3094b33ce10828ad6539e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36834,
+        "id": "Q36834"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360397$24F55665-8FA8-4238-9C9E-C18F17F32DC4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8fa261f63710c38dde47f72e75ce9aa2e1fa4ad2",
+      "datavalue": {
+       "value": {
+        "time": "+1001-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360397$AB2AC653-E697-4DCC-B1A5-6E1A97415833",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "32d06bb888d53359fff25806a90ceb4902949319",
+      "datavalue": {
+       "value": {
+        "time": "+1030-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q5360397$8d4bbe5a-f03c-4563-a8e9-b8e29f360de1",
+     "rank": "preferred"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "857e91917c6fe84083301a0a477d98cc74a6885f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7062474,
+        "id": "Q7062474"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360397$3D5DBD19-ACE2-4CCB-AF6A-287221C653E1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8200cd76085bcd5ea2e304400897b0486b3d984c",
+      "datavalue": {
+       "value": {
+        "time": "+1001-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360397$28F43F81-34D0-4ABB-980C-A91CE8576204",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליקים בן משולם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36834": "מלחין",
+  "Q5": "אדם",
+  "Q7062474": "שלמה בן שמשון"
+ },
+ "raw": "data/raw/wikidata/Q5360397.json"
+}

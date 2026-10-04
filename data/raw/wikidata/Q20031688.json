@@ -1,0 +1,143 @@
+{
+ "id": "Q20031688",
+ "url": "https://www.wikidata.org/wiki/Q20031688",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20031688",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נתן שפיגלגלס"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20031688$139670f6-4d31-1cf5-a959-22355f5d715f",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e228a3d02cd588648dce95bffb2f96fc123a32b",
+      "datavalue": {
+       "value": {
+        "time": "+1942-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20031688$7cdd5946-4a26-f7d3-5b59-da6c7b89c6f5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20031688$ab7db959-4a1e-1511-8faf-18f9de871dd5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2bf863ff7a15d5e5d2d83896d28b03a3a78c0485",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20031688$DFEA8A06-FD9B-41B5-A219-1EBD956303FC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "20f3bde6fd3ada05c1bd423ffbdf49c22dfc2e01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152010,
+        "id": "Q152010"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20031688$40c7b2ba-24aa-49d7-923d-a6909e6b67c1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתן שפיגלגלס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152010": "טרבלינקה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20031688.json"
+}

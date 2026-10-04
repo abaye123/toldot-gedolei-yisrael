@@ -1,0 +1,225 @@
+{
+ "id": "Q96528",
+ "url": "https://www.wikidata.org/wiki/Q96528",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96528",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם אריך קליבנסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Erich Klibansky"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German teacher (1900–1942)"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנהל ומורה חרדי, בגמנסיה החרדית \"יבנה\" בגרמניה. סופר, וממצילי הילדים במסגרת \"קינדר-טרנספורט\""
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אריך קליבנסקי"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "05e57bab2e52e9eebff4f45750be0af3e0d63bdf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q96528$95E4CC2C-ABF6-405C-94A2-0C675963D6EF",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "646e0d75afd1a77a11f66eb025611b24b80c9c99",
+      "datavalue": {
+       "value": {
+        "time": "+1900-11-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "q96528$23B52B9E-53D1-474F-BA63-66E1DF7A550F",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96528$694387AF-24B9-439E-B3E6-7FEE7A5DB920",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f1c0bba0f3a429d0d6bf08cbb13e6cb0648e34c8",
+      "datavalue": {
+       "value": {
+        "time": "+1942-07-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96528$A7F371A0-0BD0-4EA9-BCA1-B3C378F88A4C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96528$63104086-2C7E-4F08-87E7-681DF4F4DE87",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "24a7d7af59408fc9b8a5669c74c971d9975dbaa5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1056391,
+        "id": "Q1056391"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96528$84a46818-e472-40f3-9838-2eb9c74f2cab",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b60efa159831e9f44b52ba51ad19c36f8e3bb11e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5758653,
+        "id": "Q5758653"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96528$6406b234-5b45-417a-a6cc-83aa753007b0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fc3de94f3d546ee789e87a915115e3c563b30b86",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 316109,
+        "id": "Q316109"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96528$5BC287EE-B669-4073-B708-C476014603D7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם אריך קליבנסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1056391": "מנהל בית ספר",
+  "Q133485": "רב",
+  "Q1794": "פרנקפורט על המיין",
+  "Q316109": "מאלי טרוסטינץ",
+  "Q5": "אדם",
+  "Q5758653": "מורה בתיכון"
+ },
+ "raw": "data/raw/wikidata/Q96528.json"
+}

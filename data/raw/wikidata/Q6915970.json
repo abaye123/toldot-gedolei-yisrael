@@ -1,0 +1,191 @@
+{
+ "id": "Q6915970",
+ "url": "https://www.wikidata.org/wiki/Q6915970",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6915970",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses Ventura"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה ונטורה (סיליסטרה)"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Bulgarian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בולגרי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ventura of Tivol"
+    },
+    {
+     "language": "en",
+     "value": "Ventura of Jerusalem"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915970$D6672060-2D8D-4A38-96A2-5033697FA0FD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915970$E388025E-0793-454E-98E7-87EEA5F223A7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3e6b7b608abff78a5c5556cb15a79b6d5e8ac166",
+      "datavalue": {
+       "value": {
+        "time": "+1580-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "d8885d19ef3700510b30306785e67f22349ce5d6",
+        "datavalue": {
+         "value": {
+          "time": "+1580-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1326"
+     ],
+     "id": "Q6915970$B37B49E6-137F-4ACD-B69B-3D391DB909EB",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fb87c2e8e3adc519828f4d1036a1d6842a412274",
+      "datavalue": {
+       "value": {
+        "time": "+1700-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "f8420cc1b698ec2670b974575e057d7e40f970a5",
+        "datavalue": {
+         "value": {
+          "time": "+1624-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319"
+     ],
+     "id": "Q6915970$20a1a0c2-4eeb-9749-20b4-2313dee58dd1",
+     "rank": "preferred"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה ונטורה (סיליסטרה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6915970.json"
+}

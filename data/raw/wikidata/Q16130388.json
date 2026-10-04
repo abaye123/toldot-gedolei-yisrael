@@ -1,0 +1,123 @@
+{
+ "id": "Q16130388",
+ "url": "https://www.wikidata.org/wiki/Q16130388",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16130388",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל די אבילה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel ben Moses Avila"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130388$C1859346-6E89-4443-9BB2-618D2E8ABF88",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130388$77568863-0021-4C1F-877F-CA49D1B6555B",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "549ff908a870c6b176fad204fa240df85876959e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 108855383,
+        "id": "Q108855383"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130388$e49c70f7-480b-62f7-aea0-f8926709fb8b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fe1b8bb90f74ed1ea24192e2df8750be59e83a56",
+      "datavalue": {
+       "value": {
+        "time": "+1688-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130388$184E2695-F89B-4F7A-95B9-B8278B70E6DD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל די אבילה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q108855383": "חיים בן עטר (הראשון)",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16130388.json"
+}

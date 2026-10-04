@@ -1,0 +1,287 @@
+{
+ "id": "Q118925954",
+ "url": "https://www.wikidata.org/wiki/Q118925954",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118925954",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Meir ben Isaac Arama"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאיר עראמה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי (המאות ה־15–16)"
+   },
+   "en": {
+    "language": "en",
+    "value": "person (1460?-approximately 1545)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meʼir ben Yitsḥaḳ ʻAramah"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר בן יצחק עראמה"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בן יצחק ערמה"
+    },
+    {
+     "language": "he",
+     "value": "מאיר ערמה"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בן ערמה"
+    },
+    {
+     "language": "he",
+     "value": "ערמה, מאיר בן יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925954$BD104375-034C-4949-AECD-D1D60BF5961A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c84ac90c2c983620c04ed3e74f4cdca0d7ea4c24",
+      "datavalue": {
+       "value": {
+        "time": "+1460-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925954$06E4F8A5-F99A-4185-A0C5-676CF77D4993",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fe6ae69414f1cc196d50276c16cc466a89aefc8c",
+      "datavalue": {
+       "value": {
+        "time": "+1454-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "4d1cbc451d6ee08445f1d445f30a884d5fdfdff7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 16131807,
+          "id": "Q16131807"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cfdfd2208291f901d849370ae371093fcba94d75",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 110290992,
+          "id": "Q110290992"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241",
+      "P1480"
+     ],
+     "id": "Q118925954$ab6fbb7c-4a62-602c-fd7f-e96af36c0748",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "beca0cb94b4a0b23b7a4063402bd53d5c42ed98e",
+      "datavalue": {
+       "value": {
+        "time": "+1522-04-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925954$bb60401c-42a9-b799-a0ae-e83ae4dc8dd4",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3780ee52dd00665c473f89f5c33d56628cd8d8c4",
+      "datavalue": {
+       "value": {
+        "time": "+1545-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925954$F3B28606-B801-4F26-BE99-41282259D3B1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d1756aacc785b46663388fd903e073c40b761ebd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 496424,
+        "id": "Q496424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925954$D1555946-043B-4FBF-AD2F-3EDFC5A2A306",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925954$74520484-DC0A-4E19-80E2-BB05882A3412",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "3227da5c561faf242d77dcff2b2ceb6cb4ffa61c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 482980,
+        "id": "Q482980"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925954$3EE5B915-1DB4-4946-97BF-844BE808C4D8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר עראמה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q482980": "מחבר",
+  "Q496424": "קלטיוד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118925954.json"
+}

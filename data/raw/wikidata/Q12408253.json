@@ -1,0 +1,215 @@
+{
+ "id": "Q12408253",
+ "url": "https://www.wikidata.org/wiki/Q12408253",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408253",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק טריואקס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Triwaks"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "עיתונאי וסופר ציוני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק טריוואקס"
+    },
+    {
+     "language": "he",
+     "value": "אברהם יצחק טריוואקס"
+    },
+    {
+     "language": "he",
+     "value": "אברהם יצחק טריואקס"
+    },
+    {
+     "language": "he",
+     "value": "יצחק טריוקס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408253$30B49BA3-23E2-4D26-9193-461305335FCB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408253$9296C68E-1234-4A71-A68E-B857322E91EF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408253$02625521-DFE1-4DFB-9C40-67EBF0674430",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "943348a1c561d670ec8f5fab1132465a7c779b55",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1930187,
+        "id": "Q1930187"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408253$6C02CE2B-774C-4804-A2DB-6BEE34744B30",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408253$26917eb5-7701-44b2-ba27-9c2734015f19",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c7eabc211760b5e397a5a8e96207439050ace63b",
+      "datavalue": {
+       "value": {
+        "time": "+1893-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408253$4B6C9947-5D4A-4D56-899E-43BB7ADA30B2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "456ee07faa54909f846b127788124c061712e050",
+      "datavalue": {
+       "value": {
+        "time": "+1952-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408253$B126E31F-3E19-414C-9780-C53ED7C14D88",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק טריואקס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1930187": "עיתונאי",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק"
+ },
+ "raw": "data/raw/wikidata/Q12408253.json"
+}

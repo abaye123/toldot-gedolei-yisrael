@@ -1,0 +1,159 @@
+{
+ "id": "Q7013020",
+ "url": "https://www.wikidata.org/wiki/Q7013020",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7013020",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמחה זליג ריגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Simcha Zelig Reguer"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין בבריסק"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ר' שמחה זליג"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7013020$5003D946-DBEA-4682-BE74-9B020E861CC9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7013020$6BDBD5B5-1B13-4EB2-B986-339D46798D3D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d140ed46bccac634030601abb72167d9c739e7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 278743,
+        "id": "Q278743"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7013020$4EF18997-81CC-4E3F-A56D-FC80829AF370",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "909b2390ad592516b20d51a706981382d21350a4",
+      "datavalue": {
+       "value": {
+        "time": "+1864-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7013020$9EBDB2A0-1270-4F2C-B741-CB2D8EA356D1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "edd6cdaf4b93244ac96411ce8150db3c7d5549d0",
+      "datavalue": {
+       "value": {
+        "time": "+1942-10-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7013020$0856FBF0-C7B2-4A54-B3E5-BDF2CFB09C73",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמחה זליג ריגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q278743": "נבהרדק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7013020.json"
+}

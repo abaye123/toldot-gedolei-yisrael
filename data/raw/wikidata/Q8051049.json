@@ -1,0 +1,163 @@
+{
+ "id": "Q8051049",
+ "url": "https://www.wikidata.org/wiki/Q8051049",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8051049",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yechiel Perr"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחיאל יצחק פאר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rosh yeshiva"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה חרדי-אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Yechiel Yitzchak Perr"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051049$96E6AD1F-CB63-432C-8BBB-51B0FD9C90AE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051049$30430BAD-99E7-487E-A718-9B30D5AD60C4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5a2498cff4440e44887346186c88d7fe2a6cf0d1",
+      "datavalue": {
+       "value": {
+        "time": "+1935-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051049$8089B464-A45B-48A3-966C-282C86DFFC6C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8ef4f782973cb5b695f9bcb871ef827be0b7f954",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 58987,
+        "id": "Q58987"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051049$b5d6ddbb-420b-7600-d53a-5cfb136af180",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f7abfcb66bcec8bb63fb27a51afd9e1f4486aac7",
+      "datavalue": {
+       "value": {
+        "time": "+2024-05-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051049$16405edf-4968-8f40-50fd-103a282e178c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיאל יצחק פאר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q58987": "South Ozone Park"
+ },
+ "raw": "data/raw/wikidata/Q8051049.json"
+}

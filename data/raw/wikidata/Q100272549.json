@@ -1,0 +1,73 @@
+{
+ "id": "Q100272549",
+ "url": "https://www.wikidata.org/wiki/Q100272549",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100272549",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב עינא (אמורא)"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272549$d2c94512-4277-88cf-4b03-3a6fcfa8d02b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272549$67F642C6-28F5-4FDC-8AF2-392A2E145D80",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב עינא (אמורא)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q100272549.json"
+}

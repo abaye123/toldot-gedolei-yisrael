@@ -1,0 +1,191 @@
+{
+ "id": "Q6714197",
+ "url": "https://www.wikidata.org/wiki/Q6714197",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6714197",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה חיים פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shelomoh Ḥayim Fridman"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6714197$6C8736A8-9AE3-41C7-A254-BC52426929A2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3f6fe69bf4906adf0260be76b3975d3e33dbcca9",
+      "datavalue": {
+       "value": {
+        "time": "+1887-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6714197$FEDDAACE-A6D5-476D-A4AC-43A704293DD2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "14db986ca379c3b398aa7fca831553f1ed665358",
+      "datavalue": {
+       "value": {
+        "time": "+1972-08-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6714197$E2536440-714C-4550-90B5-7C2466360A35",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6714197$f2068c8a-940c-443f-b4e6-95b5316979ef",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6714197$FB428C22-159A-4E8F-8AF4-2B3EC3233ACE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3195a27adae387eaef4ccd7c999afadd1f68f425",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2005381,
+        "id": "Q2005381"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6714197$B928AF83-4F81-4805-B411-97B37FAEF20B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6714197$9E715E3F-167D-4465-B2A3-CC74EE3FF2CB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה חיים פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2005381": "סדיגורה",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q6714197.json"
+}

@@ -1,0 +1,185 @@
+{
+ "id": "Q464001",
+ "url": "https://www.wikidata.org/wiki/Q464001",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q464001",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל סרוג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Sarug"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מקובל ומפיץ קבלת האר\"י באירופה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish kabbalist, student of Isaac Luria (1590–1610)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ישראל סרוק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q464001$8BE877D4-7FE3-488F-AF0D-DE3A70F820E8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d67fe421f1ba6557f6410185c52d2c9058425f76",
+      "datavalue": {
+       "value": {
+        "time": "+1600-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q464001$3AB3E1F6-2C90-47DC-8C31-A41F3AB2F561",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b2c7657df21c1d719cf54a5e62e7bec569419ea8",
+      "datavalue": {
+       "value": {
+        "time": "+1700-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q464001$F36FC679-E198-459C-BEEE-A1E66FD4F531",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02895cb7f4fcc07119696b7df6f471124a4485d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 79,
+        "id": "Q79"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q464001$5836D3CB-87EB-4DDD-8A1B-C015382D2DF4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q464001$9ab34f7d-0113-4ef0-a97f-958a9f6951ee",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "eb18c81d05aad03a09a989fc970648296d8e8d5d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1402747,
+        "id": "Q1402747"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q464001$5a5f2ec0-48bc-4ff6-d413-0f95e847d4b9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל סרוג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1402747": "מנחם עזריה מפאנו",
+  "Q5": "אדם",
+  "Q79": "מצרים"
+ },
+ "raw": "data/raw/wikidata/Q464001.json"
+}

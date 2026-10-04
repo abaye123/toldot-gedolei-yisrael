@@ -1,0 +1,271 @@
+{
+ "id": "Q6302099",
+ "url": "https://www.wikidata.org/wiki/Q6302099",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6302099",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Judah Leon ben Moses Mosconi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה משקוני"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Bulgarian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "תלמיד חכם נודד מתקופת הראשונים, מחבר פירוש אבן העזר על פירוש אבן עזרא לתורה."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה לאון בן משה"
+    },
+    {
+     "language": "he",
+     "value": "יהודה מוסקוני"
+    },
+    {
+     "language": "he",
+     "value": "יהודה ליאון משקוני"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6302099$09928972-0EAF-4D34-939E-61B6792DFCA2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6302099$5A3CE8DA-CC8E-4DD2-AFA8-30901568A06B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "296ad5aafbb61a94e5fd4176a306fb91f8c6633b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2084705,
+        "id": "Q2084705"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6302099$3E7F28BA-0AB4-489C-B24D-37EC3C19F213",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4f73dadb8cfdc5d10fee88f721ac0d5e1cb82fdd",
+      "datavalue": {
+       "value": {
+        "time": "+1327-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6302099$287E595B-49C8-43D0-A550-72B1F3D56BE7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9df19b759cee616d7a2ff3aa0073d98ded08e374",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1223508,
+        "id": "Q1223508"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6302099$ee2b96f6-3740-41d4-8919-e1ee9095dba7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b74e4cdc6cb9e9ceb5510181a17dc13b6ad16b4",
+      "datavalue": {
+       "value": {
+        "time": "+1375-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6302099$28A792AE-60EE-4F68-808B-12501830AB4A",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "10b1ad539b72fc470d6deb631dd35b385a9ea39e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7494073,
+        "id": "Q7494073"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6302099$EAC9A2F2-B70F-4D7B-83CE-268FCFDE8EFF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "e59c50d43d9df4fb7266bb0c98c2a4dad3e27b77",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 123786481,
+        "id": "Q123786481"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P3680": [
+       {
+        "snaktype": "value",
+        "property": "P3680",
+        "hash": "f374efeb790d8f79b3b997604c402c0afe33c629",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 17266106,
+          "id": "Q17266106"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1310": [
+       {
+        "snaktype": "value",
+        "property": "P1310",
+        "hash": "cb1abb74d34502da63e485da530f7423f180bf0d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12410824,
+          "id": "Q12410824"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P3680",
+      "P1310"
+     ],
+     "id": "Q6302099$ce3823a3-4070-9188-33c4-9bfa5b9f4b00",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה משקוני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1223508": "אוחריד",
+  "Q123786481": "עובדיה בן דוד",
+  "Q133485": "רב",
+  "Q2084705": "פרשנות יהודית למקרא",
+  "Q5": "אדם",
+  "Q7494073": "שמריה האיקריטי"
+ },
+ "raw": "data/raw/wikidata/Q6302099.json"
+}

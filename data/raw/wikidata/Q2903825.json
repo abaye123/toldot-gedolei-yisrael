@@ -1,0 +1,189 @@
+{
+ "id": "Q2903825",
+ "url": "https://www.wikidata.org/wiki/Q2903825",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2903825",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שרגא פייבל מנדלוביץ'"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shraga Feivel Mendlowitz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שרגא פייבל מנדלוביץ"
+    },
+    {
+     "language": "he",
+     "value": "מנדלוביץ, שרגא פייוול"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903825$14A35E95-74F0-4E4A-95DC-F2EB984C09E8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "24b006b800cefa118c4e6a4f7b96387bebcbd2af",
+      "datavalue": {
+       "value": {
+        "time": "+1886-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2903825$EB6B99C2-B5F5-42B1-BF11-F0F35A6A0DDC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "edfa75111533c4cf44a694149fef615e258d77db",
+      "datavalue": {
+       "value": {
+        "time": "+1948-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2903825$E0F4CCE6-1086-4835-81B7-61175C3AC345",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903825$8D144121-0105-4E73-994D-EE5C41E49BB6",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "09d3c0e68036a125387682502f2970684010005c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1094180,
+        "id": "Q1094180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903825$ACCF8B88-C399-4C91-B4F0-8F8602452450",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a2abed3e875a1cce920bbc31f5c48d44eb7a77f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6983913,
+        "id": "Q6983913"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903825$88f0c8b3-435e-c191-79d6-73bfebe6ce99",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שרגא פייבל מנדלוביץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1094180": "Svetlice",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6983913": "בית הקברות שומרי שבת"
+ },
+ "raw": "data/raw/wikidata/Q2903825.json"
+}

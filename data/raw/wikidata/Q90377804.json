@@ -1,0 +1,148 @@
+{
+ "id": "Q90377804",
+ "url": "https://www.wikidata.org/wiki/Q90377804",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q90377804",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל משינאווא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי בדור השלישי לחסידות"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q90377804$e83f398b-4d48-7d2a-310f-83a6ad403ad4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2ea00a3b4c8d090f52bcf52ce254b64c2c25eaab",
+      "datavalue": {
+       "value": {
+        "time": "+1797-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q90377804$ce373446-47e2-8bbb-0142-bd6db7425aa3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q90377804$3a5dddae-4549-3082-6de7-360f90842b95",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "494332bee506c89bf12c98847eefa6d0841d40ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180086,
+        "id": "Q180086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q90377804$4a10f5d2-4d39-4f8e-cde1-b46980072b69",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "870c73e29002ef3aeeedde78fe98116a16f66650",
+      "datavalue": {
+       "value": {
+        "time": "+1873-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q90377804$0f172a92-453e-39ab-aac9-4e03604e8cf2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל משינאווא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q180086": "גליציה",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q90377804.json"
+}

@@ -1,0 +1,332 @@
+{
+ "id": "Q7064698",
+ "url": "https://www.wikidata.org/wiki/Q7064698",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7064698",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי גוטמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zvi Guttman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב רומני וישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "גוטמן, צבי בן אריה"
+    },
+    {
+     "language": "he",
+     "value": "גוטמאן, צבי בן אריה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Guttman, Hirsch"
+    },
+    {
+     "language": "en",
+     "value": "Guttman, Zwi"
+    },
+    {
+     "language": "en",
+     "value": "Guttman, Hers Zwi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064698$69DACC1E-9056-4E3E-BAD9-2DAD9A816B06",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064698$FD0B0404-2926-4D40-BC94-06C39686B7C5",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064698$83c04065-7874-424f-8369-31aa15ca6e87",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0c440629f208b94d37f80ea35605532eeffec2f5",
+      "datavalue": {
+       "value": {
+        "time": "+1973-08-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q7064698$502B0A88-F250-4509-A753-C9273F141C89",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3212c22fdd637a4bca1c3ba9fff5316a4fb5f090",
+      "datavalue": {
+       "value": {
+        "time": "+1973-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7064698$81EE0B65-7656-4CC9-8D68-FBBDD19F2F67",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f2a59142f89c43d9e1694cb744b31082f083a527",
+      "datavalue": {
+       "value": {
+        "time": "+1893-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7064698$57CA1D83-74FD-4A90-B0CC-F1F9905876C3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c9606e1ea9eec0aacac3f2bef62c9671c6a968c",
+      "datavalue": {
+       "value": {
+        "time": "+1893-11-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q7064698$8faca68d-4a47-23d0-23ea-737468331562",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ab4e30426fd6bc9c1552630cce3c8ee05df142de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 390162,
+        "id": "Q390162"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "600e5d9981a9c3cf04aad494693dc2e7a2c1161e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 444912,
+          "id": "Q444912"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q7064698$8445f50b-4f6a-3815-6d2a-2bdc7501edd5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f2be19a39baee046832c7b85fe1794273c1e676b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064698$21916853-4629-7907-127f-1127eb4dc642",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי גוטמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q33935": "תל אביב-יפו",
+  "Q390162": "חוש",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק"
+ },
+ "raw": "data/raw/wikidata/Q7064698.json"
+}

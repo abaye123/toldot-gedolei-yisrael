@@ -1,0 +1,308 @@
+{
+ "id": "Q6042158",
+ "url": "https://www.wikidata.org/wiki/Q6042158",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6042158",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליעזר הגר (דמשק אליעזר)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliezer Hager"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב רומני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$79F8F52B-1562-40FF-BC09-E70A6B4D68A9",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$8B071427-4082-4912-BF9C-440716AF0FA6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$6667BCF0-1784-418C-9017-C610C5F94221",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5eec4e76a070235ce2ff26423bedd89dbab33ba",
+      "datavalue": {
+       "value": {
+        "time": "+1891-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6042158$d27ebcab-1bab-478d-aacc-106bd1d7ecc9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e87b828200d00ceaf8e388462be02ea05026413c",
+      "datavalue": {
+       "value": {
+        "time": "+1946-08-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6042158$a3751b35-4637-fb03-c999-0bc3448eaa00",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "e0e688b7a4329319830b835a1593c9145dded245",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7213275,
+        "id": "Q7213275"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$aa6f5d43-45bb-6204-f281-b79bd073c5b3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "27c6c61c5aa1336ce5750cdd0807dad179c7d008",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 149118,
+        "id": "Q149118"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q6042158$74282bab-4188-1e4e-fec8-df73df15a46e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$357543dd-4998-6633-44ef-13a6e72eef82",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "00c03927ac6df44ba101cf5d5f68b8f74e30d638",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7212268,
+        "id": "Q7212268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1039": [
+       {
+        "snaktype": "value",
+        "property": "P1039",
+        "hash": "5eccbec7b73e2539f8796455e2e4eb60713247f7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 10861465,
+          "id": "Q10861465"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1039"
+     ],
+     "id": "Q6042158$b40b2967-4c7f-330c-b067-febf47fd6a3a",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "04823078a2e8c1c75e2cfabd492f679f8e13b886",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109497263,
+        "id": "Q109497263"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6042158$e05f3ac6-4771-2fd1-e36f-bb84c95947eb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר הגר (דמשק אליעזר)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109497263": "ישעיה שנייבאלג",
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q149118": "ויז'ניץ",
+  "Q5": "אדם",
+  "Q7212268": "חיים מאיר הגר",
+  "Q7213275": "ישראל הגר (אהבת ישראל)"
+ },
+ "raw": "data/raw/wikidata/Q6042158.json"
+}

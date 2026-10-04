@@ -1,0 +1,198 @@
+{
+ "id": "Q106081127",
+ "url": "https://www.wikidata.org/wiki/Q106081127",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q106081127",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה טולידאנו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Ṭoledano"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין, פוסק הלכה ומגדולי חכמי העיר מקנס שבמרוקו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moroccan Rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106081127$6ADE00F0-CB3C-42C1-A62F-CEA3BBBF9139",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P276": [
+       {
+        "snaktype": "value",
+        "property": "P276",
+        "hash": "b13cd1fa9cbc38a90b3feef81e689959daabf55d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 178663,
+          "id": "Q178663"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P276"
+     ],
+     "id": "Q106081127$7c72b997-45bc-acd0-6dad-1d7a693845fd",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "761adab06fc562bbdb3967d7354a005ee6e7bf11",
+      "datavalue": {
+       "value": {
+        "time": "+1724-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106081127$af289d60-40e5-2d8b-5ae6-919627f7a978",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a07a9c5315c3a9f2f9ede4cc00501dc466f5193",
+      "datavalue": {
+       "value": {
+        "time": "+1773-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106081127$42f236b5-4ff2-c352-1738-c7519fb66f8e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5d548d723266dda3cf99925f0d7fe9a163462f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 178663,
+        "id": "Q178663"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106081127$c881cec4-490b-9b23-cd07-08df38216943",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7aaaf51af8446d7f381213be422b2d1ceee8e93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 178663,
+        "id": "Q178663"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106081127$60682e89-4ad9-ec3c-39a9-fe52793689a3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה טולידאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q178663": "מקנס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q106081127.json"
+}

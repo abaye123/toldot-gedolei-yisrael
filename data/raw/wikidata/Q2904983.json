@@ -1,0 +1,354 @@
+{
+ "id": "Q2904983",
+ "url": "https://www.wikidata.org/wiki/Q2904983",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2904983",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "כלפון משה הכהן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Hacohen"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי מג'רבה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה חלפון הכהן"
+    },
+    {
+     "language": "he",
+     "value": "מוהרמ\"ך"
+    },
+    {
+     "language": "he",
+     "value": "כמ\"ה"
+    },
+    {
+     "language": "he",
+     "value": "הכמ\"ה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Moshe Kalphon Hacohen"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$6299A308-B602-4470-8F51-134AD1F87C43",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3eb899f3e8a57e4dad9f0aafa08ae8eecca98651",
+      "datavalue": {
+       "value": {
+        "time": "+1874-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904983$711E5398-8033-4841-BCA8-04133933C483",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "95393aaa92621a5097620c40e40bea7c9446ac47",
+      "datavalue": {
+       "value": {
+        "time": "+1874-01-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2904983$09CC4057-C799-410A-AC0F-1625077FCEEE",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "653c10825f7a204e41d66adc5d241c9f3ce87a59",
+      "datavalue": {
+       "value": {
+        "time": "+1950-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904983$3C3CD60C-F698-4F72-BD6A-F0B83BED0A0B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fcddb69d10f8a462f0dc7712ea9a7fb68257a29d",
+      "datavalue": {
+       "value": {
+        "time": "+1950-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2904983$09DBEFE8-321E-478E-9DBF-BAB95D5C5198",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$FE2A357C-460C-4AA2-A4F4-9590F1122539",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4092cdd40d32e467478f5ed861475a0c3a9db70b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188938,
+        "id": "Q188938"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$57d9e6c0-42fc-b143-c001-735f5ac14226",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "129730fa16290dc73db0c48fcc1559083fe1a07b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188938,
+        "id": "Q188938"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$0de51b79-4427-bb5d-fd19-58e237f39652",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$56ce8126-1f22-4bdf-8fd0-0137f46af508",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3e4e61991295a5de1f129a1345de825b10067244",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 124821140,
+        "id": "Q124821140"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$7dd8e8c7-43e1-bbf8-3731-233b596c4002",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "14c3827696a1ebd7905bde96e793d4f2c730ea2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113204943,
+        "id": "Q113204943"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904983$d8b180ed-403a-12b9-ce9b-e72134bbbbf0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "כלפון משה הכהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113204943": "שושן הכהן",
+  "Q124821140": "יוסף ברבי",
+  "Q133485": "רב",
+  "Q188938": "ג'רבה",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2904983.json"
+}

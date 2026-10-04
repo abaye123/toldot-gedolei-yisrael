@@ -1,0 +1,143 @@
+{
+ "id": "Q6753573",
+ "url": "https://www.wikidata.org/wiki/Q6753573",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6753573",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום מנוישטאדט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom mi-Noishṭaṭ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austrian rabbi from 14th century"
+   },
+   "he": {
+    "language": "he",
+    "value": "מראשי חכמי אוסטריה בסוף המאה ה-14"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלום מנוישטט"
+    },
+    {
+     "language": "he",
+     "value": "מהר\"ש נוישטט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6753573$98185771-39E8-426A-8BCB-C9844BF28707",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6753573$2AE0B311-8B31-4565-9820-5099E2E6B8DA",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "177fd8f38b45593bbd65f2a056cd235d5a6924af",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6087451,
+        "id": "Q6087451"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6753573$8882825a-4701-a107-a5f5-c905858eec2a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e343792e7bcf5cb3cd5e938410b0de1b5c7f23f",
+      "datavalue": {
+       "value": {
+        "time": "+1413-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6753573$c0507bcb-4178-9589-2bcf-f076ecec2e8d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום מנוישטאדט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6087451": "ישראל,"
+ },
+ "raw": "data/raw/wikidata/Q6753573.json"
+}

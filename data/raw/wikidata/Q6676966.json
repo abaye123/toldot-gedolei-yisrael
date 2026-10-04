@@ -1,0 +1,114 @@
+{
+ "id": "Q6676966",
+ "url": "https://www.wikidata.org/wiki/Q6676966",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6676966",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מצ'מון הנגיד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Maḍmūn b. Ḥasan b. Bundār"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מצ'מון בן יפת בן בונדאר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Madmun ben Japheth ben Bundar"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6676966$D20EE7F9-209B-44B2-83CF-91FBCEED5B66",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6676966$B59007B6-4D8D-493B-9BC0-2AEE193A761D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b7e0c9fca67ca812bea1f35b85c8bbf9af3ed62d",
+      "datavalue": {
+       "value": {
+        "time": "+1151-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6676966$14848659-4553-5692-1920-26c7ecbbcf83",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מצ'מון הנגיד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6676966.json"
+}

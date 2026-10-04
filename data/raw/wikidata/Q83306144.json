@@ -1,0 +1,159 @@
+{
+ "id": "Q83306144",
+ "url": "https://www.wikidata.org/wiki/Q83306144",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q83306144",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה זלמן אוסובסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד בסלובודקה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "זלמן אוסווסקי, שלמה זלמן אוסבוסקי"
+    },
+    {
+     "language": "he",
+     "value": "זלמן אוסבסקי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q83306144$cc0151b2-4f11-a87c-eb49-ca4441cb4e02",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q83306144$2864dc16-4a5a-4397-e488-933a101a611a",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "59811b6177217f8ad5ed6e5be7296676af05f933",
+      "datavalue": {
+       "value": {
+        "time": "+1883-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q83306144$70c498d9-4800-3406-bfdb-da504bc18e57",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2b43040a6abd24759531119005ec5176311c57b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4215244,
+        "id": "Q4215244"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q83306144$b0380f52-44bf-a2db-424c-8504362cc6fd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "22ed9d6b09c43659b4a582c187cd6ebbd7cd6bae",
+      "datavalue": {
+       "value": {
+        "time": "+1941-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q83306144$53e40d4a-4bb3-9408-e542-7f51326554aa",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה זלמן אוסובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4215244": "קרלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q83306144.json"
+}

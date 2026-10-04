@@ -1,0 +1,95 @@
+{
+ "id": "Q6855076",
+ "url": "https://www.wikidata.org/wiki/Q6855076",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6855076",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב עוקבא בר חמא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6855076$5AF227DD-21E8-449F-8B50-19E81A7E53A9",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "eda0c29de5ca13444f026d871c5e8638f40fd39f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2124832,
+        "id": "Q2124832"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6855076$26cefe3e-4353-6bd5-5f00-4b23783129e7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6855076$EDC790B7-13A6-4104-BF19-246EC5B72199",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב עוקבא בר חמא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2124832": "רב נחמן",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q6855076.json"
+}

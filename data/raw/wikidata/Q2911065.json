@@ -1,0 +1,156 @@
+{
+ "id": "Q2911065",
+ "url": "https://www.wikidata.org/wiki/Q2911065",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2911065",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עוזי משולם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Uzi Meshulam"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2911065$8918D655-6865-4908-ACAD-D676A6502765",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9735f947df8c419c1cdc4fd0ac742f6be326935b",
+      "datavalue": {
+       "value": {
+        "time": "+2013-07-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2911065$62C6BC65-FE76-4B7F-B382-FB8D5B51BF21",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2911065$7AB5E34F-B283-4BA4-9769-57E5AD55B81F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8f5b7a5b5be8ff2aa4bc853537ff98ab993dd6dc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 190828,
+        "id": "Q190828"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2911065$DE77FC35-491D-4BB5-BA48-9AC5908F8A78",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "19d69fdd691360bd5e70bf45a486853ea54ef5c3",
+      "datavalue": {
+       "value": {
+        "time": "+1952-10-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2911065$DB165E50-B910-4215-B28E-ED20917D8986",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עוזי משולם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q190828": "פתח תקווה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2911065.json"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "Q123477607",
+ "url": "https://www.wikidata.org/wiki/Q123477607",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q123477607",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד זגורי"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Zaguori"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "זאגורי, דוד בן מסעוד"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Zaguori, David B. Masud"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123477607$1896E546-6293-4761-917E-0BF642040231",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1c7c954f9c5b67b792ec5811f635bd72daece395",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109143736,
+        "id": "Q109143736"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123477607$e2d836be-453a-0738-3a84-91131222ce06",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "268f2ae5b9f89682be8416ad8ffe07f990c0a463",
+      "datavalue": {
+       "value": {
+        "time": "+1803-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123477607$b8d3db4b-481a-3ed9-9b82-51e8423bef31",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "290670d59d093015950a5d2e27c880f2ee754841",
+      "datavalue": {
+       "value": {
+        "time": "+1898-03-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123477607$c207aec0-42d1-35ee-6ad6-10eb9d668570",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "19a8bc5a6c2fc510e398792956c93079563a0581",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216939,
+        "id": "Q216939"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123477607$0899a302-43b4-1365-d1eb-75f3a4c9c246",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3ff7195a27045a0b61e473ff7dc00a932c8663e2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 597,
+        "id": "Q597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123477607$a764c7e2-4ce5-eeb1-94e3-fc5ff01a927d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד זגורי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109143736": "פייטן",
+  "Q216939": "אסואירה",
+  "Q5": "אדם",
+  "Q597": "ליסבון"
+ },
+ "raw": "data/raw/wikidata/Q123477607.json"
+}

@@ -1,0 +1,159 @@
+{
+ "id": "Q85995412",
+ "url": "https://www.wikidata.org/wiki/Q85995412",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q85995412",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שאול שמואל סירירו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shaʾul Sereo"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב במרוקו"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Maharshash"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85995412$F3BDD34F-7E2F-449F-B2AE-C0E7F5416D37",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "742c2dd8234d403ea985596bf85a665a20313bff",
+      "datavalue": {
+       "value": {
+        "time": "+1566-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85995412$7b25345d-45c4-76fc-43f1-a17da5eef73f",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b8fc1f05c41514c8db70561617dc585dc0bb5e4e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 114097065,
+        "id": "Q114097065"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85995412$d22d66ce-4035-b9a5-f9d8-8c04c494f35a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1c0f40bf82992bd8d516fa2eaa0e1829e60885ab",
+      "datavalue": {
+       "value": {
+        "time": "+1655-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85995412$1AC3C604-0F96-45CD-8135-28A579E23FDB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85995412$742B03D4-4123-4484-91F3-7A9C4AD91DE1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאול שמואל סירירו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q114097065": "בית הקברות היהודי בפאס",
+  "Q2796156": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q85995412.json"
+}

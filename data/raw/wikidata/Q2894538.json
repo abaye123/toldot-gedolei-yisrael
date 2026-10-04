@@ -1,0 +1,189 @@
+{
+ "id": "Q2894538",
+ "url": "https://www.wikidata.org/wiki/Q2894538",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2894538",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה שליפר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo Shleifer"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי של מוסקבה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chief Rabbi of Russia (1889–1957)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Solomon Mikhailovich Shlifer"
+    },
+    {
+     "language": "en",
+     "value": "Solomon Shlifer"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2894538$124B211F-024E-4F70-B713-E87FD2361AD4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f88adc1ffa7c14de775ab91d190e3c4c9ac2e684",
+      "datavalue": {
+       "value": {
+        "time": "+1889-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2894538$49B1DE23-2503-4527-85F0-B421FA6CEFF7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "735e5b37ee824e74e3ed9a160f7ee0bfae219c0e",
+      "datavalue": {
+       "value": {
+        "time": "+1957-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2894538$FBEE5232-9D70-4461-9B18-430388391678",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2894538$4A0B564D-0EAF-44F5-9B20-19B593AD12A1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "068228e3569e219c766587bb36a49bcaf6a16ac1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 649,
+        "id": "Q649"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2894538$92900676-A04C-4442-80B0-36C161522B47",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "900f50290891a64e73da8e2f19384d70d92d1fa9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 219595,
+        "id": "Q219595"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2894538$51D27157-AEBC-4999-A118-4C99F6620541",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה שליפר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q219595": "סמילה",
+  "Q5": "אדם",
+  "Q649": "מוסקבה"
+ },
+ "raw": "data/raw/wikidata/Q2894538.json"
+}

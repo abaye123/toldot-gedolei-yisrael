@@ -1,0 +1,332 @@
+{
+ "id": "Q542710",
+ "url": "https://www.wikidata.org/wiki/Q542710",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q542710",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Elisha ben Abuyah"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלישע בן אבויה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi of end of Second Temple period"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא ש\"שנה ופירש\""
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אחר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$27D8B46D-F121-4677-8D9D-0F7E91E6ED25",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$A996A5AD-DA4E-4087-98B7-760259C5EDB5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$688731C1-75A0-4E54-A31B-5BBBB6755A35",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a4017848cab322016f629390fcd0375a2d3f1bef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 42603,
+        "id": "Q42603"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$b3c018db-463a-feee-7029-a85e0207fe24",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "aaef898659297c95739377b59b3b90759b88a375",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2248623,
+        "id": "Q2248623"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$83db09f4-400e-2655-5e3e-a462b7d53898",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a256acd88ea8bfb4fd529de28020669e01f58bb5",
+      "datavalue": {
+       "value": {
+        "time": "+0070-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q542710$0377d2df-4d82-b5c8-ea13-8b1bf27c1a1a",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "033d6b930a6c5ebae4173e81810b892ffca8434f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1621623,
+        "id": "Q1621623"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$8D0DAF3B-8739-4134-8DF2-31E057BBB250",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b0d0200425617674e30861f0342de720a49e1c1d",
+      "datavalue": {
+       "value": {
+        "time": "+0135-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q542710$a18f5ae4-4b6c-d181-bf85-17e79c9e55c9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "26cc7c9e94a1db687619c48b2f951500d7d2f6cf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1747689,
+        "id": "Q1747689"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "889f0ed131a3884de838ec548ff63e2faf15a504",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 56644435,
+          "id": "Q56644435"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q542710$c8cf08e8-4431-3b7a-98ad-beca04ae1b83",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c564b4cf7ca16badb92579fa4acd9104df39385b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2590976,
+        "id": "Q2590976"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q542710$298A0446-7807-49EA-8B8A-07778CFA0830",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלישע בן אבויה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q1621623": "רבי מאיר",
+  "Q1747689": "רומא העתיקה",
+  "Q2248623": "scholar",
+  "Q2590976": "מתחם נבי שועייב",
+  "Q42603": "כהן דת",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q542710.json"
+}

@@ -1,0 +1,167 @@
+{
+ "id": "Q2899009",
+ "url": "https://www.wikidata.org/wiki/Q2899009",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2899009",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים אלעזר וקס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Elozor Wax"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1882–1889)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים אלעזר וואקס"
+    },
+    {
+     "language": "he",
+     "value": "חיים אלעזר ווקס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899009$3B8A2693-2382-48B8-B3B8-0FBEB9FE8FBE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f8f868507f65bbcfddfac168270c6541b3fd9d3b",
+      "datavalue": {
+       "value": {
+        "time": "+1882-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899009$3546E72E-078D-4F37-9F6E-93C39B5AE249",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ab01cffe3eb1a6d5b12b288f21db85fb6a886fd4",
+      "datavalue": {
+       "value": {
+        "time": "+1889-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899009$B568732F-7F5B-4A46-9687-151EBE3617BF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899009$F181AE99-C582-4486-9DF8-C8C97C7C3720",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a0e53b425fb87ea368441731116e9daceb2ba1d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 777169,
+        "id": "Q777169"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899009$CF786C28-CFDD-4CA4-9847-71176BBE8A35",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים אלעזר וקס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q777169": "טרנוגרוד"
+ },
+ "raw": "data/raw/wikidata/Q2899009.json"
+}

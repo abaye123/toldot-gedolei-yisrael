@@ -1,0 +1,178 @@
+{
+ "id": "Q12237617",
+ "url": "https://www.wikidata.org/wiki/Q12237617",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12237617",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם מנדל פנט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Menachem Mendel Paneth"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1818–1884)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12237617$6FF407C6-7227-4A66-A15D-3D8CFFF44B5B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12237617$DD528AAF-FAEA-4FC1-A6D8-71689FF8ADFC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2930f1fd4a7566cd511905d97421191af127ae28",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 273801,
+        "id": "Q273801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12237617$C54CE909-35C9-4494-A638-6A43F9DD3C3F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f0cb216a99ca780aa0767eb6f93a6d6551ad2251",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 923050,
+        "id": "Q923050"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12237617$B73BBF0C-2F0A-4B3B-B38C-046D09AA8A8C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "822bba1834508ee90cb93c4abe65136517c36b0e",
+      "datavalue": {
+       "value": {
+        "time": "+1884-10-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12237617$55212b66-466a-b268-0f19-f90623a4bf43",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "93cc6e08fbf3f87b8998d6999a70c158d342d7b0",
+      "datavalue": {
+       "value": {
+        "time": "+1818-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12237617$74b7f1ad-4035-7dcf-ab8f-72f71d212f46",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם מנדל פנט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q273801": "דז'",
+  "Q5": "אדם",
+  "Q923050": "טרצל"
+ },
+ "raw": "data/raw/wikidata/Q12237617.json"
+}

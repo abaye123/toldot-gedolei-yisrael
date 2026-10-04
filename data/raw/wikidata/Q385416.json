@@ -1,0 +1,257 @@
+{
+ "id": "Q385416",
+ "url": "https://www.wikidata.org/wiki/Q385416",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q385416",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ezra Attiya"
+   },
+   "he": {
+    "language": "he",
+    "value": "עזרא עטייה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת פורת יוסף"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1881–1970)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "עזרא עטיה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "ʻEzra ʻAṭiyah"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cce3fc04b92e1134de79d23ec228fa7aface6632",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q385416$8EA0AF17-BB62-4980-9DE7-35972860680D",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q385416$E7145233-E0E1-4103-A4F6-488BB47586B4",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q385416$0243127A-D99E-460E-9BCD-C9760CA7D319",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0d7f58534456173babab1131c0fbc631c20af831",
+      "datavalue": {
+       "value": {
+        "time": "+1970-05-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q385416$9D40D443-2013-44B2-BDFE-1EAA7E80B69B",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a246ad502d0cd9b65a9d9560acf36dfe3bc36c78",
+      "datavalue": {
+       "value": {
+        "time": "+1970-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q385416$A55365BF-7E69-4C95-983A-67DAAA0AADC6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7d3e3b015f6aab039e4363912363c1c58d619a03",
+      "datavalue": {
+       "value": {
+        "time": "+1881-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q385416$27527D5C-77EB-496C-B551-DC98D7E6E019",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3f6fe69bf4906adf0260be76b3975d3e33dbcca9",
+      "datavalue": {
+       "value": {
+        "time": "+1887-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q385416$CD17DDB1-D48B-4CE3-B30D-A33234646D51",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q385416$2720610A-3AD4-440A-9EE4-481DC4B65272",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q385416$9FCCA362-C642-496F-89B5-49B29E1B7A27",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזרא עטייה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q335336": "הר המנוחות",
+  "Q41183": "חלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q385416.json"
+}

@@ -1,0 +1,293 @@
+{
+ "id": "Q3303401",
+ "url": "https://www.wikidata.org/wiki/Q3303401",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3303401",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מיימון הדיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Maimon ben Yossef HaDayan"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish exegete, moralist and dayyan"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי, אביו של הרמב\"ם"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מימון הדיין"
+    }
+   ]
+  },
+  "claims": {
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ef0615aefbecbb1d1c1e9a58e5ee20db37a8fe1b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 127398,
+        "id": "Q127398"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q3303401$BF4A03C2-64ED-40DC-BE29-672C23712AC5",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$ABFC501C-B859-4853-B6C7-A6F086E9AAB8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ed299fa4d572e5545f713787e3293761eabf96db",
+      "datavalue": {
+       "value": {
+        "time": "+1110-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q3303401$90EB7AF8-93C0-490D-B4B0-0B62A65E327F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$50e6e46c-4c4a-f575-ac60-94c786ee3732",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b08b5e2483571be3fc92d54a46b1288f5aabaef0",
+      "datavalue": {
+       "value": {
+        "time": "+1170-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3303401$6563dff7-4e20-0031-b93d-4643b5c0abd4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71a8f7c83212c85746fac016f4864ff51a545f93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29,
+        "id": "Q29"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$A083B34B-96D4-4327-8CD1-99D61F3D3599",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "35fa47439a5887fca778b6b53bd1b3a19ad3b622",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 127398,
+        "id": "Q127398"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$dfd3e1ec-4e0c-db5f-914c-fb95dabac456",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6b3f21d8d7bf6ae38f93bc7ef9650371507eb668",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 958361,
+        "id": "Q958361"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$af30fdaa-41fb-f422-ad00-141719027605",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$D116C2A5-2DA9-4E4A-AA4E-CC44305E83AB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c4560a870387f6dde20cce6fc11c53b06a22f040",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 151920,
+        "id": "Q151920"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3303401$709CE9C6-8C13-4CC0-B3BD-2E5AF84B1B8D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מיימון הדיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q127398": "רמב\"ם",
+  "Q133485": "רב",
+  "Q151920": "טבריה",
+  "Q29": "ספרד",
+  "Q5": "אדם",
+  "Q958361": "ר\"י מיגאש"
+ },
+ "raw": "data/raw/wikidata/Q3303401.json"
+}

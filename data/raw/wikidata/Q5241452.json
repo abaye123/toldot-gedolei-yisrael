@@ -1,0 +1,134 @@
+{
+ "id": "Q5241452",
+ "url": "https://www.wikidata.org/wiki/Q5241452",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5241452",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "David ben Aryeh Leib"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוד לידא"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5241452$EA2B45E0-755E-4C12-9A56-AFC9AA24D768",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5241452$E55762C6-145C-4319-9AC1-BBE2C61E48A7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613dd28988140007c2caeec82e8843a9fa7a605b",
+      "datavalue": {
+       "value": {
+        "time": "+1650-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5241452$7F4A0915-2437-47F2-933B-313EAC785C01",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ade848f58ede4499254b293d08a8f29408ad5ee6",
+      "datavalue": {
+       "value": {
+        "time": "+1696-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5241452$CB50F4DB-76D2-476D-9AEB-AF4647E1D0D9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד לידא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5241452.json"
+}

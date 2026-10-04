@@ -1,0 +1,318 @@
+{
+ "id": "Q1689684",
+ "url": "https://www.wikidata.org/wiki/Q1689684",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1689684",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac ben Moses Arama"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק עראמה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi, philosopher and preacher"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "עקידת יצחק (ספר)"
+    },
+    {
+     "language": "he",
+     "value": "בעל העקידה"
+    },
+    {
+     "language": "he",
+     "value": "עראמה, יצחק בן"
+    },
+    {
+     "language": "he",
+     "value": "יצחק בן משה ערמה"
+    },
+    {
+     "language": "he",
+     "value": "רבי יצחק עראמה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yitshak ben Mosheh 'Arama"
+    },
+    {
+     "language": "en",
+     "value": "Ba'al ha-'Akedah"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "49789451585dff31825a80aa649c788700e4ba44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15696,
+        "id": "Q15696"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1689684$D52FE6B3-BED7-40EA-8F2A-C4A85169EEB4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "989195b044156fa59fc307a261f418493c249911",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2634,
+        "id": "Q2634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1689684$AC627453-A352-4367-B3A7-F01D775E0026",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1689684$5FA7F78E-1D38-40DA-A210-E1A11F151B76",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "543dfa096b397541419fe555f338f6ea0a1279c2",
+      "datavalue": {
+       "value": {
+        "time": "+1420-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1689684$C4FD79C6-1E50-4719-9293-C4DCC37DC7F5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ced80d0fe716d1b9812e86ed2c031742209cd52f",
+      "datavalue": {
+       "value": {
+        "time": "+1494-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1689684$BC423182-2731-4D1B-A197-26644F4669AE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "3a86e1c5a8e97d61b4c70eed5b83203f03d6ff3e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5869628,
+          "id": "Q5869628"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q1689684$04C7A3CE-FF36-4F13-B5D9-7577048DDF49",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "5de5c1837700d750ef762d42a03ba17f53688fb1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 130390801,
+        "id": "Q130390801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1689684$bd664f2e-467e-038d-f5a9-74d144020b91",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "9387e56c1ce610b71fc2254498c6ce4882455c04",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 110248506,
+        "id": "Q110248506"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1689684$a96b4e96-4c99-cbd0-9526-b8535f95ec6a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק עראמה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q110248506": "עקדת יצחק",
+  "Q130390801": "דוד עראמה",
+  "Q133485": "רב",
+  "Q15696": "סמורה",
+  "Q2634": "נאפולי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1689684.json"
+}

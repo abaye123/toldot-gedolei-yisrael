@@ -1,0 +1,169 @@
+{
+ "id": "Q107509350",
+ "url": "https://www.wikidata.org/wiki/Q107509350",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107509350",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "איזידור גולדברגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Izidor Goldberger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1876-1944)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107509350$d025c6a9-4ee7-62d9-c946-bbb43456195e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107509350$0392d4b3-4988-064f-e35b-a7741c707099",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e44c3596c429d819e554ba513d1860421f66b10a",
+      "datavalue": {
+       "value": {
+        "time": "+1876-07-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107509350$7c94d8a1-4619-2e12-b8e3-dd1222b4bf44",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ad6bac559024f176260dd538fd67490d5f80d0c6",
+      "datavalue": {
+       "value": {
+        "time": "+1944-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107509350$6608ea6d-4fc3-5947-4288-5f7814e5d5c6",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "abae23a0a70c71aa0500334780b43ea38e1e76c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 779206,
+        "id": "Q779206"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107509350$ea2cb910-4325-a30c-a28f-e5e00bbdc04f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P20",
+      "hash": "747c7f7330e2d27cbf35f921ac8bf47e65c2b825",
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107509350$fdb6fe54-4400-f7bf-9a1b-f277b96c415b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "איזידור גולדברגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q779206": "Bátorove Kosihy"
+ },
+ "raw": "data/raw/wikidata/Q107509350.json"
+}

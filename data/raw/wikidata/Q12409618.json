@@ -1,0 +1,344 @@
+{
+ "id": "Q12409618",
+ "url": "https://www.wikidata.org/wiki/Q12409618",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409618",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moshe Zvi Segal"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה צבי סגל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, בלשן וחוקר מקרא ישראלי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "M. H. Segal"
+    },
+    {
+     "language": "en",
+     "value": "Moses Hirsch Segal"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$887D7F77-8E28-438A-A62A-1CD50C9200FB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aa5f6c7bae09ff488f584fb8c9acdf3663ca5259",
+      "datavalue": {
+       "value": {
+        "time": "+1968-01-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409618$20066D5B-A35E-4D5D-BCB3-4E71520BC42C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8ec1c4c78cbedd2776cbde0ce15b5329eef52fe6",
+      "datavalue": {
+       "value": {
+        "time": "+1876-09-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409618$92056274-EE22-4965-9163-8B628D17AD27",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "9bbd381cb7c4a5cebeeaf3af6b7fec8f3f927087",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19829990,
+        "id": "Q19829990"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$41031a7b-4171-8297-e35c-13e8c2760e1f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b570478599879aba363e5158e03210bc4e4976e1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14467526,
+        "id": "Q14467526"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$5ADEE09A-5C63-4B8B-A5E3-B51DD37EFEF0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "3ab4dfa5a33c3842f4bfd26871292a0abc7f6138",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 23154,
+          "id": "Q23154"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "fc5ddd96ed8d6083f5a1f249b1cbe087c28328bc",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 23051,
+          "id": "Q23051"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q12409618$44952A3E-611C-479A-B1B9-F6A60E4B7D5A",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "c5b50a5d2efaa3debdb722c5e0b7652002fd7feb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7412587,
+        "id": "Q7412587"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$8960b1bc-42a5-bb74-f5e7-5f6e2ef37d07",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "bf12bd017e127713f8a596a37337a1fba51f8ec5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6302115,
+        "id": "Q6302115"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$bfdfc6e5-43fa-5002-bec0-0cedbfe6d250",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b5e4783150783157c868fc1768a8b615f43b29e0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152436,
+        "id": "Q152436"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409618$8a9c77e9-434d-010e-4eb0-37801deb93a1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8f83ebee3131f62c82a38eff3494e16be547a0d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1949593,
+        "id": "Q1949593"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "5d44a4c1458387f0cdf89b6b66e0d63ced7cebfa",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1540300,
+          "id": "Q1540300"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q12409618$323f0443-4d74-4c31-6f5b-394e7a748bae",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה צבי סגל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14467526": "בלשן",
+  "Q152436": "כפר סבא",
+  "Q1949593": "מוסדיס",
+  "Q19829990": "חוקר מקרא",
+  "Q5": "אדם",
+  "Q6302115": "בן-ציון סגל",
+  "Q7412587": "שמואל (סם) סגל"
+ },
+ "raw": "data/raw/wikidata/Q12409618.json"
+}

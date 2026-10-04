@@ -1,0 +1,225 @@
+{
+ "id": "Q1850885",
+ "url": "https://www.wikidata.org/wiki/Q1850885",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1850885",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבינא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ravina I"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי, דור חמישי-שישי, חברו של רב אשי."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבינא הראשון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1850885$B8B5F6FA-6C04-4D61-A459-730BD20C6266",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "179ac7d0947bc9bc2f27705981f55df7dadbbbef",
+      "datavalue": {
+       "value": {
+        "time": "+0400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1850885$7E59D504-E9A9-46F7-A2D2-D6BE5D5341CF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f23ca492099fb9d42538ea0c3af3cb7e009ad30b",
+      "datavalue": {
+       "value": {
+        "time": "+0422-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1850885$7D9867E8-61C0-4F72-9265-570FBD5CCD41",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1850885$4010A3BD-EA68-4099-9EB4-A6D839FD92A8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1850885$8275EBE1-63A6-4FB4-8303-EB4613007E76",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "3b1a684e5ae95094036f90a92cf50f4d8c924a19",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 38962860,
+        "id": "Q38962860"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1850885$00A4C172-2A99-4513-8464-D3E3307D49CF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבינא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q38962860": "Ravina's sister",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q1850885.json"
+}

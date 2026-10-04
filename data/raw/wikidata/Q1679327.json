@@ -1,0 +1,185 @@
+{
+ "id": "Q1679327",
+ "url": "https://www.wikidata.org/wiki/Q1679327",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1679327",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob ben Aaron Sasportas"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב ששפורטש"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi, cabalist, and anti-Shabbethaian"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, מגדולי ומראשוני הלוחמים בשבתאות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ששפורטו, יעקב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1679327$7A80725E-29DA-46D8-ADD6-049603358353",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "346c9f330e9536180c3bafafbb7e6725eba13db6",
+      "datavalue": {
+       "value": {
+        "time": "+1610-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1679327$4B3A5B35-B2E9-4FE5-BC29-D08921A6B1DD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "72966f356ccf50a56f2d8b84defb3a8e6af7e0db",
+      "datavalue": {
+       "value": {
+        "time": "+1698-04-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1679327$5AB53474-9E1F-4BF2-B890-85B6DDE86295",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5495b721b060739bfc77f8d7aa72fa6529241340",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 131818,
+        "id": "Q131818"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1679327$7A510072-946F-4E46-86B0-5F38C58782AD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1679327$767D868A-BC64-46E0-891B-394CEA63F702",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "01fceddb0e2f59e7ff4069dc87b1cfcd6e86fd1c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1679327$B851F754-6C80-448F-9EF2-4B3713851F2F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב ששפורטש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q131818": "אוראן",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם"
+ },
+ "raw": "data/raw/wikidata/Q1679327.json"
+}

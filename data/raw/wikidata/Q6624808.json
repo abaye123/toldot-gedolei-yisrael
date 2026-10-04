@@ -1,0 +1,299 @@
+{
+ "id": "Q6624808",
+ "url": "https://www.wikidata.org/wiki/Q6624808",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6624808",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים הכהן (מקובל)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim HaKohen"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Egyptian rabbi and kabbalist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק, משורר ומקובל; יליד מצרים, פעל בארם צובה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Chaim HaCohen"
+    },
+    {
+     "language": "en",
+     "value": "Ḥayyim ben Abraham, ha-Kohen, approximately 1585-1655"
+    },
+    {
+     "language": "en",
+     "value": "Ḥayyim ben Abraham, ha-Kohen, ca. 1585-1655"
+    },
+    {
+     "language": "en",
+     "value": "Ḥayim, ha-Kohen, ca. 1585-1655"
+    },
+    {
+     "language": "en",
+     "value": "Chayim ben Abraham, the Priest, ca. 1585-1655"
+    },
+    {
+     "language": "en",
+     "value": "Hayyim ben Abraham, c ha-Kohen, ca. 1585-1655"
+    },
+    {
+     "language": "en",
+     "value": "Hayyim ben Abraham ha-Kohen"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים בן אברהם, הכהן, מארם צובה, 1585?-1655?"
+    },
+    {
+     "language": "he",
+     "value": "חיים בן אברהם, הכהן, מארם צובה"
+    },
+    {
+     "language": "he",
+     "value": "כהן, חיים בן אברהם, מארם צובה"
+    },
+    {
+     "language": "he",
+     "value": "חיים, הכהן, מארם צובה"
+    },
+    {
+     "language": "he",
+     "value": "הכהן, חיים מארם צובה (מקובל)"
+    },
+    {
+     "language": "he",
+     "value": "כהן, חיים מארם צובה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$50016232-169B-4274-A4FB-9F875F23E011",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$8C1B0A79-2E2B-4265-8BA7-6240A0AEDB34",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6fe3da0640635f157544bbff2ce3974ffb4c5a8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1234713,
+        "id": "Q1234713"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$6001283F-B1A4-4505-A9D1-B7DED64BDEE0",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "200b67fa2cc50976ba17ee799e62de922ed6d3ad",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2302424,
+        "id": "Q2302424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$7EB8FE8E-B503-456D-A7B6-8540EBACC090",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "49983d792b58afe46044826d6e5afe424fbe029a",
+      "datavalue": {
+       "value": {
+        "time": "+1585-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6624808$F125F0DC-343B-459E-AB57-75944E1DD9DB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6de072d10d3b1497528aba908efc813cd3ea67b0",
+      "datavalue": {
+       "value": {
+        "time": "+1655-04-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6624808$C021F652-48A8-4847-94F2-066E6B0F78B2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02895cb7f4fcc07119696b7df6f471124a4485d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 79,
+        "id": "Q79"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$149259C6-DA79-43F9-A3D3-5AF387ECD066",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "99a97daef69d6fa0cd5839a56a03d6fbce12f260",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 641,
+        "id": "Q641"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$E1006ADE-4A58-4B21-B529-E666A2E8F093",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "bd0d7192189a4438703f250b53f9a658f3d070d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6761,
+        "id": "Q6761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6624808$BC8301F8-4024-404B-8176-DD26488DE769",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים הכהן (מקובל)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1234713": "תאולוג",
+  "Q133485": "רב",
+  "Q2302424": "חיים ויטאל",
+  "Q5": "אדם",
+  "Q641": "ונציה",
+  "Q6761": "ליבורנו",
+  "Q79": "מצרים"
+ },
+ "raw": "data/raw/wikidata/Q6624808.json"
+}

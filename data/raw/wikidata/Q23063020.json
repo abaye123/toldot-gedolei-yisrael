@@ -1,0 +1,329 @@
+{
+ "id": "Q23063020",
+ "url": "https://www.wikidata.org/wiki/Q23063020",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q23063020",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Adolf Salvendi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב אריה סלבנדי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ציוני הונגרי-גרמני במאה ה-20"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "סאלפענדי"
+    },
+    {
+     "language": "he",
+     "value": "אדולף סלבנדי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Adolf Salvendy"
+    },
+    {
+     "language": "en",
+     "value": "Salvendi, Adolf"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23063020$33FF14F9-9033-45B8-987C-766174AD1A97",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fe608cf64001582f46555c394d4a8993e7363866",
+      "datavalue": {
+       "value": {
+        "time": "+1837-01-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23063020$437A2714-FFB4-4838-8BAF-BB4407DC5E4B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fbbc2f44908297bde5f9f5731a67063f7893a27a",
+      "datavalue": {
+       "value": {
+        "time": "+1837-01-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q23063020$455BA6CB-A9E9-417B-8B91-488E93D67F49",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a38e31fe551d10615e86fec7e10db32aa790c603",
+      "datavalue": {
+       "value": {
+        "time": "+1837-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23063020$BF198F12-EE43-459F-94D8-C32002D352C1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5dcd10611b876c7a3fcc979d8475279303449904",
+      "datavalue": {
+       "value": {
+        "time": "+1913-12-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q23063020$10AAE040-6A0F-4171-B73C-F13CE77B2448",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8a84377fb0fb4baf38c1ccaca96fbb763008b02b",
+      "datavalue": {
+       "value": {
+        "time": "+1913-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23063020$96FE53AA-FCC6-492E-A46D-3DC172B763DB",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b5033b696ee930e520f2c26b6d3879fdff248825",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 376987,
+        "id": "Q376987"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23063020$71373F05-3BF4-4766-80AD-3F5F6E6B71AF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23063020$0109CA92-C5A9-4127-A2C8-2E04AC247932",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "f96230421186c1fb48632505bf8f41820dbb9f3a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113457044,
+        "id": "Q113457044"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23063020$A064CD5C-08CA-461C-B8A6-401B18245A6A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "64c736baaf44bc380a189dd0dffb0b591ff5e3d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1040,
+        "id": "Q1040"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q23063020$7e25112b-40c0-dd6d-d697-742500a1e08c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב אריה סלבנדי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1040": "קרלסרוהה",
+  "Q113457044": "הוגו סלבנדי",
+  "Q133485": "רב",
+  "Q376987": "נובה מסטו נאד ואהום",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q23063020.json"
+}

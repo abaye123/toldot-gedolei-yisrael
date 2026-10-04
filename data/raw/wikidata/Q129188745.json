@@ -1,0 +1,178 @@
+{
+ "id": "Q129188745",
+ "url": "https://www.wikidata.org/wiki/Q129188745",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q129188745",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Binyamin Zeev Farkas Mandelbaum"
+   },
+   "he": {
+    "language": "he",
+    "value": "בנימין זאב פרקש מנדלבאום"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi at Satu Mare"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הקהילה האורתודוקסית בסאטו מארה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q129188745$A561E896-87FD-44F6-A86F-1309A33A7A4E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q129188745$454ac10d-4e48-a6b2-1e96-826233bedb9d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "674e6127ecdbcd48b1a005a5f60b8b00c0c5376c",
+      "datavalue": {
+       "value": {
+        "time": "+1805-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q129188745$05a9e811-4d74-6c57-b6ed-e9636cc7adbc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5a348e25915017d5043e45759df2a6d9c0eb35e4",
+      "datavalue": {
+       "value": {
+        "time": "+1815-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q129188745$2d29bb1c-4e37-4d96-85c6-513a05e780b0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e187493a899c6dd0cbba0897c26aacd1b7da4b9c",
+      "datavalue": {
+       "value": {
+        "time": "+1897-09-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q129188745$f84f9eae-429f-3609-e0b5-753962eb8d4d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0468b6e158311b67dde08eeb997698d281c941c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185332,
+        "id": "Q185332"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q129188745$7e02cf32-4ff5-52cc-538d-962e561c626e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בנימין זאב פרקש מנדלבאום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q185332": "סאטו מארה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q129188745.json"
+}

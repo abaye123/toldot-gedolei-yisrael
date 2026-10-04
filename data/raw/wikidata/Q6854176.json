@@ -1,0 +1,170 @@
+{
+ "id": "Q6854176",
+ "url": "https://www.wikidata.org/wiki/Q6854176",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6854176",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אהרן אורלנסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של פתח תקווה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6854176$0A011C62-7164-4BFE-BCF1-9F939437823E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6854176$12C60AA0-BEF7-4434-926F-F32DA7116E44",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1a25dbac448f7b74b91f81dadb196fe238d41a2f",
+      "datavalue": {
+       "value": {
+        "time": "+1854-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6854176$E51DD370-6812-405F-8A66-04952EE34AD3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "67e1688d1ba4bccce128fb4572096307e6a28a53",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6854176$7BEAF553-2508-4739-8265-8F4F8D61AF75",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9ab0319f6875623ec38b051cc0d8ee0b3f213e8f",
+      "datavalue": {
+       "value": {
+        "time": "+1910-11-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6854176$2D57BEEA-5E6D-4193-AF95-1091DD626A5A",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6854176$314CD4E0-59C0-4807-88C8-9C004E2F69D0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן אורלנסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6958598": "בית הקברות סגולה",
+  "Q761": "ביאליסטוק"
+ },
+ "raw": "data/raw/wikidata/Q6854176.json"
+}

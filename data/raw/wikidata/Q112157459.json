@@ -1,0 +1,178 @@
+{
+ "id": "Q112157459",
+ "url": "https://www.wikidata.org/wiki/Q112157459",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112157459",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם פונטרימולי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Ponṭremoli"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, פרשן תפילה ומנהג, פוסק, מחנך, ובעל בית דפוס באזמיר שבטורקיה במאה ה-19"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פונטרימולי, אברהם בן חיים בנימין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112157459$C15C65AC-175F-4767-A39C-E5035BA8832E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112157459$20399A26-8EE5-4599-8B10-A666E5E84C1E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1e42436c5a0a544ca69c1917573cb7698641d9e6",
+      "datavalue": {
+       "value": {
+        "time": "+1891-07-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112157459$79f6c91f-455c-8097-4132-6c49631e96fa",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "50070f4f68aa91a06428f0f6670e2f7c6f540a5e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112157459$621537a9-4a79-e537-a4fb-cc10c7fc8b66",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60faaab1b44e35fb34c09b3cdbcf51d607bebc8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112157459$B290D723-5D90-4B8D-932E-DD565BB96831",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "50eef9005d2e42813d7feb69acdd9b5cd5df0fe2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18810782,
+        "id": "Q18810782"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112157459$5555ec66-481b-59fb-0237-e444feabb417",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם פונטרימולי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18810782": "חיים בנימין פונטרימולי",
+  "Q35997": "איזמיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112157459.json"
+}

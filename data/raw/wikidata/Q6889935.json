@@ -1,0 +1,185 @@
+{
+ "id": "Q6889935",
+ "url": "https://www.wikidata.org/wiki/Q6889935",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6889935",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל מקארוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shmuel of Karov"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hassidic Rebbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shemuʼel, mi-Ḳoriv"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6889935$FE654630-68BD-4F09-859A-0DDEEBCC253D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6889935$C73EF9FA-EF39-4DDB-8AEE-28AC83F6022B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b6e1b24d57acb3aa64e8a6fac97a877b924fdab",
+      "datavalue": {
+       "value": {
+        "time": "+1820-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6889935$846F7348-8B85-4BF6-8F11-8A3C44865427",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "380231747258b41788ecaf2d105fbdfcc1745765",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 986984,
+        "id": "Q986984"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6889935$4fca87bf-459e-673f-6568-e5fc1e109de1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9632dd14a5ff38f15120b383987fee98c462a785",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2316,
+        "id": "Q2316"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6889935$BABC25D0-C52F-42BB-BA43-B8543D107458",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "dabae7ab3ae049156e6ce8d6f03089addd659f3f",
+      "datavalue": {
+       "value": {
+        "time": "+1735-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6889935$753F9A4F-75E1-4ACF-BF2F-6771D1B051F2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מקארוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2316": "קורוב",
+  "Q5": "אדם",
+  "Q986984": "פרודניק"
+ },
+ "raw": "data/raw/wikidata/Q6889935.json"
+}

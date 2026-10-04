@@ -1,0 +1,143 @@
+{
+ "id": "Q112201916",
+ "url": "https://www.wikidata.org/wiki/Q112201916",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112201916",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם לופטביר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham ben Leyb Luftbir"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומחבר שו\"ת \"זרע אברהם\""
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Avraham ben Leyb Lufṭbir"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "לופטביר, אברהם בן ליב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112201916$1a3bed04-46c8-debe-11e4-061631d2a941",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112201916$2b50e468-416d-a38e-58d0-7268c7e5c397",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c255592179cc133f1dbf6d7778a893cb0aba8e28",
+      "datavalue": {
+       "value": {
+        "time": "+1860-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112201916$588c11f3-41c8-2990-60a4-9fae6647293c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "183039709d7071738a9091146a3e9030e2304ae0",
+      "datavalue": {
+       "value": {
+        "time": "+1918-04-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112201916$f8aba5a4-4858-967e-7328-c64da0a284ee",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם לופטביר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112201916.json"
+}

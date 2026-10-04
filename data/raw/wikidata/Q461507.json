@@ -1,0 +1,187 @@
+{
+ "id": "Q461507",
+ "url": "https://www.wikidata.org/wiki/Q461507",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q461507",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד אבודרהם"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Abudirham"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אבודרהם"
+    },
+    {
+     "language": "he",
+     "value": "האבודרהם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461507$8D907813-3AAD-4EB9-885A-FC2F77A5D95E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461507$EEF712A8-CEC2-48E8-A4BC-1283CD713886",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461507$b34880d1-46af-45ee-9684-98518cba1419",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8cbc58795ff473ff0dd56794d8e5779af7148edb",
+      "datavalue": {
+       "value": {
+        "time": "+1400-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q461507$c40d5158-4254-6ec3-a130-ded9688bb717",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5bf09a355ce2123bc19dfef647f95dc8d33ef7b4",
+      "datavalue": {
+       "value": {
+        "time": "+1400-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q461507$82f57896-4ed8-488f-ea16-0adfb42ad0af",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "8a7f237fe9ad6671a407ed8beeea5918ac711702",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126960453,
+        "id": "Q126960453"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461507$07ff51ed-40c7-61cd-efd3-702dc0b8c9ba",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד אבודרהם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q126960453": "אבודרהם",
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q461507.json"
+}

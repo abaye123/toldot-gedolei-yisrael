@@ -1,0 +1,141 @@
+{
+ "id": "Q12403346",
+ "url": "https://www.wikidata.org/wiki/Q12403346",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12403346",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אהרן יודלוביץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Aaron Yudelovitch"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב במנצ'סטר, בבוסטון ובניו יורק"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Avroham Aaron Yudelovitch"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403346$3344E206-E693-4026-B39E-94D77ABEE20A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403346$89C74729-E8CA-4982-BE0A-DBC13D3A5245",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4c4bf5eff3fce60b86d88bc8e9ebb6ed8914fb23",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403346$23F7812D-8D4C-4E62-8C88-38A698534A48",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "80e735a864d580a337cab48324d03d11662a5b75",
+      "datavalue": {
+       "value": {
+        "time": "+1930-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403346$FD153EE6-F258-4662-8061-B129D2EF5445",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אהרן יודלוביץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12403346.json"
+}

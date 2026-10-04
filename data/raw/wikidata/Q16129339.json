@@ -1,0 +1,174 @@
+{
+ "id": "Q16129339",
+ "url": "https://www.wikidata.org/wiki/Q16129339",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16129339",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Fridman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מבויאן ונשיא ישיבת חכמי לובלין."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129339$5B60F5F7-D3E8-4B9D-82CC-0F403FDFC38A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129339$852E95FB-813A-4B6A-988B-1D75344D0276",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e28101ae37e1e614afe3839ab774da38cf056863",
+      "datavalue": {
+       "value": {
+        "time": "+1881-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16129339$1208D42F-97E3-431C-87CC-FF07FB6E9B7F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "50256d211665544acb9f420878aee2da88b54e41",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16129339$B8C918A6-B13D-44ED-B112-05ADDC8C8091",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14a1df4c551b57faf2779f7e3bb6c5ed123d07ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7341,
+        "id": "Q7341"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129339$5a8d889b-f170-4b48-90b0-999fc1ab1994",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "661f86b77be84e2dc411d1119b662d798473c10b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1638961,
+        "id": "Q1638961"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129339$CB50F8FE-5837-4E00-A93C-26F7E6E5A70C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1638961": "הוסיאטין",
+  "Q5": "אדם",
+  "Q7341": "אושוויץ"
+ },
+ "raw": "data/raw/wikidata/Q16129339.json"
+}

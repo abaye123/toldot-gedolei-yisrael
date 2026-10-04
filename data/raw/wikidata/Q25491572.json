@@ -1,0 +1,166 @@
+{
+ "id": "Q25491572",
+ "url": "https://www.wikidata.org/wiki/Q25491572",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25491572",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל סולובייצ'יק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בסמולנסק ודיין בדרום אפריקה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491572$8BB8F152-0A42-4C2E-9E15-B3265DCDA7D9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491572$2725b35b-40ee-7495-dd96-5bbf164458e9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491572$4bfa3c26-436c-fde3-4943-780b772cf443",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4b35434c632dff0358c2a76bd6e8a48e63e6ea86",
+      "datavalue": {
+       "value": {
+        "time": "+1951-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25491572$6cd8c779-48d2-352a-ba39-cf3c971f2478",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491572$69486fc3-4c7a-1ea1-feee-c1a1ef3ba007",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "d58d892c574000c690f4fac6603d9145cf1c3fe0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25492887,
+        "id": "Q25492887"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491572$0f27a774-45bc-2e1a-a9cc-17ec62e9b4ff",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל סולובייצ'יק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q25492887": "אברהם ברוך סולובייצ'יק",
+  "Q3570351": "דיין",
+  "Q5": "אדם",
+  "Q60": "ניו יורק"
+ },
+ "raw": "data/raw/wikidata/Q25491572.json"
+}

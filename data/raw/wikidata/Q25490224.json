@@ -1,0 +1,318 @@
+{
+ "id": "Q25490224",
+ "url": "https://www.wikidata.org/wiki/Q25490224",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490224",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהונתן אבלמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jonathan Abelman"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi (1854-1903)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק הלכה (1854-1903)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Jonathan ben Abraham Isaac"
+    },
+    {
+     "language": "en",
+     "value": "Yehonatan Abelmann"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אבעלמאן, יהונתן בן אברהם אבא יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אבלמן, יהונתן בן אברהם יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אבלמאן, יהונתן בן אברהם יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אבעל-מאנן, יהונתן בן אברהם יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אבעלמאן, יהונתן"
+    },
+    {
+     "language": "he",
+     "value": "אבלמאן, יעקב יהונתן"
+    },
+    {
+     "language": "he",
+     "value": "אבלמאן, יהונתן בן אברהם אבא יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אבעלמאנן, יהונתן בן אברהם אבא יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490224$0C6A5F59-EAE0-4EEC-87CF-B31E6581C418",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1a25dbac448f7b74b91f81dadb196fe238d41a2f",
+      "datavalue": {
+       "value": {
+        "time": "+1854-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "44d769ae972e75a19476ef05bb0ffe22265fc4a9",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817522,
+          "id": "Q2817522"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q25490224$e3fc08ae-4a0b-1dcf-212e-d4a41602b3e0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7523daedfa7f20c5737c82059705e8278a7a3844",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 161890,
+        "id": "Q161890"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490224$4e593d9d-4c0f-b157-bb3d-f028862669fc",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0de6ead19a10258c308a23ef960445f940a16afa",
+      "datavalue": {
+       "value": {
+        "time": "+1903-03-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "a80877adb34c95ac0c5eb4528dabdc2026485501",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 3594151,
+          "id": "Q3594151"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "d34b6c37fe55109fddda0b5a6ce2727e48a313db",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817573,
+          "id": "Q2817573"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452",
+      "P4241"
+     ],
+     "id": "Q25490224$e785ba87-4663-a40a-ac69-e54f9893429c",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bde54959eb4b7b9f463bd2071adc7dcf314b0a64",
+      "datavalue": {
+       "value": {
+        "time": "+1903-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490224$22E4AA0D-36EA-4875-9953-BE08D0B08BD5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "243e0b9f523a6ba7c5f428bd101c7a01f45b8e2a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490224$833454ad-4642-fcea-5bd8-6c0441aadf33",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490224$2811601D-05AB-4DEA-976C-8F4F07A28922",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהונתן אבלמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q161890": "וליואונה",
+  "Q5": "אדם",
+  "Q761": "ביאליסטוק"
+ },
+ "raw": "data/raw/wikidata/Q25490224.json"
+}

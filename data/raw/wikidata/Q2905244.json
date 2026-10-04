@@ -1,0 +1,257 @@
+{
+ "id": "Q2905244",
+ "url": "https://www.wikidata.org/wiki/Q2905244",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2905244",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "איסי בן יהודה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Issi ben Judah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בבלי מהדור החמישי"
+   },
+   "en": {
+    "language": "en",
+    "value": "2nd and 3rd-century Middle Eastern rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "איסי בן עקביה"
+    },
+    {
+     "language": "he",
+     "value": "איסי בן גמליאל"
+    },
+    {
+     "language": "he",
+     "value": "יוסף הבבלי"
+    },
+    {
+     "language": "he",
+     "value": "יוסף איש הוצל"
+    },
+    {
+     "language": "he",
+     "value": "איסי בן גור אריה"
+    },
+    {
+     "language": "he",
+     "value": "איסי בן מהללאל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Isi ben Judah"
+    },
+    {
+     "language": "en",
+     "value": "Issi Ha-babli"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905244$B9FDCD2F-026F-4F72-95AE-C6E77114949B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905244$BCF802D4-0171-45FE-B771-68175CF10908",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "11ec072ec65bbbd71d55282822e6dd73685717fe",
+      "datavalue": {
+       "value": {
+        "time": "+1000-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 6,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2905244$EA627451-ECD5-4A6B-BBE2-2710871B08B5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2905244$C7D25327-A96B-45A7-A460-6C63A4157409",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905244$1df69286-5652-4acd-8074-782a8e96a3d3",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b952e447c8a522f72b83561d3be26673ee28839f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 739520,
+        "id": "Q739520"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905244$f6d33287-47a9-1f8a-f023-40b161056f2e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "איסי בן יהודה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5684": "בבל",
+  "Q739520": "רבי אלעזר בן שמוע"
+ },
+ "raw": "data/raw/wikidata/Q2905244.json"
+}

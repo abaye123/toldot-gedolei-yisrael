@@ -1,0 +1,234 @@
+{
+ "id": "Q118916716",
+ "url": "https://www.wikidata.org/wiki/Q118916716",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118916716",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ḥayim Ary. Leyb ben Yosef (Ḥayim Aryeh Leyb ben Yosef)"
+   },
+   "he": {
+    "language": "he",
+    "value": "חיים אריה ליב פנסטר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דרשן, מחבר ספר שער בת רבים."
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Fenster, Ḥayyim Aryeh Loeb"
+    },
+    {
+     "language": "en",
+     "value": "Yosef, Ḥayim Ary. Leyb ben"
+    },
+    {
+     "language": "en",
+     "value": "Ben Yosef, Ḥayim Ary. Leyb"
+    },
+    {
+     "language": "en",
+     "value": "Ḥayim Aryeh Leyb ben Yosef"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118916716$A8645E0A-D064-4016-B4FA-7BFB10AE4F49",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118916716$c9d6c12e-4e9e-c9d0-1a5f-732d05388100",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d026163f3967272c5c8b824a55a1f371450eef54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 432386,
+        "id": "Q432386"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118916716$80a331cb-4d79-8b31-31e6-f66ebd0572cc",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ccf38627689d407e0b0aef89ed9078987f0b5625",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118916716$d557dbcb-45c9-1383-39de-07551bbc653c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "bfbcd77533ed8656ba377cc10dc00c3351960bb1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 282380,
+        "id": "Q282380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118916716$04a66da5-4860-d579-47ec-d9dd1087f27f",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "613b83f815a9ecee0c67774a76a578cc7eeda19b",
+      "datavalue": {
+       "value": {
+        "time": "+1896-11-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118916716$01135a3d-4233-e008-466a-6f9ec7cbbdac",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "939f24cf7c46cc2f3ae15410a86d736db960fe2e",
+      "datavalue": {
+       "value": {
+        "time": "+1834-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "9ea801d2db4061617d93c6605df0914c2e49cff2",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 122238716,
+          "id": "Q122238716"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q118916716$6a22c3d4-4639-d6e7-e987-21b86e5a31a8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים אריה ליב פנסטר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q270": "ורשה",
+  "Q282380": "ידוובנה",
+  "Q432386": "דרשן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118916716.json"
+}

@@ -1,0 +1,421 @@
+{
+ "id": "Q982189",
+ "url": "https://www.wikidata.org/wiki/Q982189",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q982189",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי יפה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordecai Yoffe"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Bohemian rabbi (c. 1530 – 1612)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צ'כי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הלבוש"
+    },
+    {
+     "language": "he",
+     "value": "בעל הלבושים"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Mordecai Yaffe"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$27117E13-B453-4E9C-A104-54AEF7E295E6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e1c4016467ea135ce9905986e36a5bf05d0e344c",
+      "datavalue": {
+       "value": {
+        "time": "+1612-03-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q982189$0991C5EC-F4BB-4A00-B645-4136836A474A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "295b8d0bd4c2ae939378c49143eac082e4e06c6a",
+      "datavalue": {
+       "value": {
+        "time": "+1612-03-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q982189$4595390D-5D5B-4A91-BB05-BCF1BD20E333",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$C5FC938E-89C7-433D-87FB-AB0304DC8962",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$D64CFC60-1A0B-46CD-8E3E-3B2C567CFDA0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$5e57b6d1-491f-ad9e-03e8-f126ff6c6c7f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a3586e6990a9fa17f225fc06b82eba158b67b76d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 268,
+        "id": "Q268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$AA56D832-142C-412C-B210-FA29872F6E0A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2b8b0df7f9c79f8b366037f948213e0117bfe547",
+      "datavalue": {
+       "value": {
+        "time": "+1535-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q982189$6FFDAB5F-B0F1-4FAA-B8EC-62BD64E73C5A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5e6135c9af6e4d562eba8cf11cc34d7f2d2f97d4",
+      "datavalue": {
+       "value": {
+        "time": "+1530-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q982189$06317265-CCD8-4AA9-80B0-E42A1442D8A1",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a37917e77a2eab6e3127f9bd9cbc670eb7d78290",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$4DD8B11B-A084-4CC8-9747-F480C622894F",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "7615350c10c904269a0e5c48fcf4c57996ba0c41",
+      "datavalue": {
+       "value": "בעל הלבושים",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q982189$9E5C394E-C7F1-4FC7-BA17-941FE0CBBF38",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "89d921cae3bc28306b3148d5e45a97460b430158",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1949189,
+        "id": "Q1949189"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$7DB67A96-C488-4514-8799-54F0C252D78C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "62301a7de000748d8a641a46c47dfb094004a554",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83960,
+        "id": "Q83960"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$BD366C57-3A7F-4387-BEA9-D93058806B7E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "faafd6db50f506304a1b3bdab780e02593b23541",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6791843,
+        "id": "Q6791843"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$640B34EF-F606-4E06-9740-07BE3D45F5F6",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "a2a783b29ebc4875dcb6aecf6182bb5b2912e04a",
+      "datavalue": {
+       "value": {
+        "text": "בעל הלבושים",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q982189$173fb6fa-4f6b-d65f-29c7-aca736758c40",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "ca1a2cce85e3715f01168c45b00a81f955494c93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113809228,
+        "id": "Q113809228"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982189$eb20a799-4e20-cbbb-7716-639516bb7ac3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי יפה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1085": "פראג",
+  "Q113809228": "יעקב קופלמן",
+  "Q133485": "רב",
+  "Q1949189": "רמ\"א",
+  "Q2308372": "ראש ישיבה",
+  "Q268": "פוזנן",
+  "Q5": "אדם",
+  "Q6791843": "מתתיה בן שלמה דלקרוט",
+  "Q83960": "שלמה לוריא",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q982189.json"
+}

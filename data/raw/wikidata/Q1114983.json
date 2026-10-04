@@ -1,0 +1,333 @@
+{
+ "id": "Q1114983",
+ "url": "https://www.wikidata.org/wiki/Q1114983",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1114983",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Sámuel Kohn"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל כהן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi, historian (1841-1920)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samuel Kohn"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$FE036D8B-E492-4A79-A31B-E2E6E44F0A75",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$8AE17987-F176-46A4-864F-B8B8CFF9FD2E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$22d907d7-2508-434c-959a-f1b2a0ed4293",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$8F9CA805-BEE1-47BE-990B-20FA4F49F68E",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "75921b576d87e4a3f5d30302121b0b7b8a9ee9cb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 203344,
+        "id": "Q203344"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$5A18A2D9-CBD2-4C43-826C-B0B08867545E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "06a401e44891da7ffc8c0bec6b761eb7912d31b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$F7CE90F1-3138-4747-84FF-AF1A42D74C2D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "582fa6fc6d9224599f5ed3f20177762f9a82afc5",
+      "datavalue": {
+       "value": {
+        "time": "+1841-09-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q1114983$2283A81F-0FA6-45EE-8C69-B25D49F85403",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c75df0209dd63ad5c9fe1c463f62ffc0a7c23ae",
+      "datavalue": {
+       "value": {
+        "time": "+1841-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1114983$4EF9197C-3CB5-441C-B33C-3D08509D0AF1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5d870a2ff7a79f9a8e9154e11087a13e4ec67eb6",
+      "datavalue": {
+       "value": {
+        "time": "+1920-03-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q1114983$621BD7D1-F912-4E6A-BB02-CCD60F21EB4D",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8548deac198c9406fef10989e67b4b38ae813681",
+      "datavalue": {
+       "value": {
+        "time": "+1920-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1114983$3D484314-CEFA-4F73-98CB-07469924F392",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "764fa4a2e77415363f248bd0da252e7fd49bcac6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1120689,
+        "id": "Q1120689"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1114983$f9af2aeb-4f45-bfc4-cd7c-ef08db5a2164",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל קוהן (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1120689": "בית הקברות היהודי ברחוב קוזמה",
+  "Q133485": "רב",
+  "Q1781": "בודפשט",
+  "Q201788": "היסטוריון",
+  "Q203344": "באיה",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1114983.json"
+}

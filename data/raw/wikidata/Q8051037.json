@@ -1,0 +1,163 @@
+{
+ "id": "Q8051037",
+ "url": "https://www.wikidata.org/wiki/Q8051037",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8051037",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yechezkel Rabinowicz"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחזקאל רבינוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yechezkel Hakohen Rabinowicz"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ccb1814ae4331dbd5ba5cca58cd7adfc54891db3",
+      "datavalue": {
+       "value": {
+        "time": "+1910-11-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051037$B35C5584-2BC4-4F58-92F6-2C6BA39850DF",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051037$2914F79E-2356-489F-8599-1DA51F1388A9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051037$B1DD5379-DA50-414D-A0EF-FDF2FC444F3F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f6114c6faf6ab3d04c5b1c116ede488a5f767788",
+      "datavalue": {
+       "value": {
+        "time": "+1862-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051037$B7C8F2A2-9D9C-4873-BEC4-574C39E211AB",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c31e35545edd00400ee45560860df870628332ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 158796,
+        "id": "Q158796"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051037$87F408DB-506E-4C91-A9F7-9C5500B427A6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחזקאל רבינוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q158796": "ראדומסק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8051037.json"
+}

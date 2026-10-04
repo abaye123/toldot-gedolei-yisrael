@@ -1,0 +1,178 @@
+{
+ "id": "Q4668949",
+ "url": "https://www.wikidata.org/wiki/Q4668949",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4668949",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Judah ha-Kohen Schwartz"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם יהודה שוורץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1824–1883)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668949$68214B6C-FB8F-44F9-B4CA-E59CDD663DB2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "196f1e1102bccac1f8ea80bb99c0450846cde49c",
+      "datavalue": {
+       "value": {
+        "time": "+1824-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668949$2621157F-6DBA-40C6-B1A9-FEFB1DF26EBE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e18afbcbced9d4124ab1e527b14c2feff93853f3",
+      "datavalue": {
+       "value": {
+        "time": "+1824-07-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668949$b9566c18-4f9b-32a1-238c-7879dd5a6075",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "da1035532b2d877fe6adbbd9e810f26d71626f31",
+      "datavalue": {
+       "value": {
+        "time": "+1883-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668949$9FF3CE4E-C6A4-4CF1-8CEC-16A536E92446",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668949$C517E654-1F62-4794-BC61-D28525EE4C98",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "44408453f53b31e4e5fc992a14b8a90cdd9c523b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1018357,
+        "id": "Q1018357"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668949$7054E271-4B67-4E07-92D7-A0C28169C746",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם יהודה שוורץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1018357": "מאד",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4668949.json"
+}

@@ -1,0 +1,102 @@
+{
+ "id": "Q7296280",
+ "url": "https://www.wikidata.org/wiki/Q7296280",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7296280",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rav Giddel"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גידל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "amora sage of Babylon"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7296280$1BBACA4D-D06E-4A34-9D85-5132A872B348",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7296280$AC962339-EF43-4DEB-A0A0-EA4079007343",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7296280$CB4A9595-4EC0-4EBF-BD90-EC327F443063",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב גידל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q7296280.json"
+}

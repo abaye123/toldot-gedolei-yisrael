@@ -1,0 +1,213 @@
+{
+ "id": "Q23062735",
+ "url": "https://www.wikidata.org/wiki/Q23062735",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q23062735",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ferdinand Rosenthal"
+   },
+   "he": {
+    "language": "he",
+    "value": "פרדיננד רוזנטל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi and author (1839-1921)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ferdinand Shraga Feisch Rosenthal"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "שרגא פיש 'פרדיננד' רוזנטל"
+    },
+    {
+     "language": "he",
+     "value": "שרגא פיש רוזנטל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23062735$CFB9816D-A148-41EB-AF73-4C7998E704E0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4daa8cbc6b58473d3813958b4e54b36a04595ce4",
+      "datavalue": {
+       "value": {
+        "time": "+1839-11-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23062735$86894442-DBA0-4201-B186-CFE220FC49BA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aa5d09d066b1d5423ac0c3ae0dfecdc595b920dd",
+      "datavalue": {
+       "value": {
+        "time": "+1921-03-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23062735$5C0EC41B-C30D-4F84-9089-1643B6186366",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ff9317b5363d235b4a108d3b64ebb84958829dcb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 184998,
+        "id": "Q184998"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23062735$69CCC2D3-0D55-467E-9F2B-C7BEE8C70408",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "c24b05b638dccd55cad25fa4be45d784fae82373",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 59605367,
+        "id": "Q59605367"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23062735$a3d69326-4e4f-3708-e6af-ad9bbb928f2e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23062735$2EAEEC1C-ADCE-4BCC-AE84-EBD11743AA32",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9226ba3aad526380d802b422b81895a3eaa635f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23062735$972DA7D6-2383-49E3-8A3E-F22862CCCF10",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פרדיננד רוזנטל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1799": "ורוצלב",
+  "Q184998": "קאפושוואר",
+  "Q5": "אדם",
+  "Q59605367": "Käthe Rosenthal"
+ },
+ "raw": "data/raw/wikidata/Q23062735.json"
+}

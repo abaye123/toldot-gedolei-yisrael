@@ -1,0 +1,156 @@
+{
+ "id": "Q41943329",
+ "url": "https://www.wikidata.org/wiki/Q41943329",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q41943329",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מקיקץ ישראל חדאד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mekiketz Israel Haddad"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41943329$b1ff1a4a-40fb-eebf-02a1-f6a895ff5a3c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "314d8f58008208ada297d174f9eb51c721480281",
+      "datavalue": {
+       "value": {
+        "time": "+1980-09-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41943329$F3D9C35E-3032-4D0D-9766-3ABD6FC36304",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4092cdd40d32e467478f5ed861475a0c3a9db70b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188938,
+        "id": "Q188938"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41943329$2303F9A6-C03E-4E95-AC4B-7468873308C2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7c988c2b8798352d673e3f8e71cc60c12cd1b643",
+      "datavalue": {
+       "value": {
+        "time": "+1912-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41943329$8fde89c1-4369-77e5-876b-e75336ba0b9c",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41943329$65c2245f-48f0-1290-1ca3-8b90cc4f6c24",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מקיקץ ישראל חדאד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q188938": "ג'רבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q41943329.json"
+}

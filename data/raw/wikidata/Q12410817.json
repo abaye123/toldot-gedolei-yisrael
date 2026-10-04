@@ -1,0 +1,185 @@
+{
+ "id": "Q12410817",
+ "url": "https://www.wikidata.org/wiki/Q12410817",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12410817",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי הירש מייזליש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Tsevi Hirsh Maizlish"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בגליציה ובהונגריה, רב במחנות העקורים ולאחר מכן רב בשיקגו"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מייזליש, צבי הירש בן דוד דוב, 1902-1974"
+    },
+    {
+     "language": "he",
+     "value": "מיזלש, צבי הירש בן דוד דב"
+    },
+    {
+     "language": "he",
+     "value": "מיזלס, צבי הירש בן דוד דב"
+    },
+    {
+     "language": "he",
+     "value": "מיזליש, צבי הירש בן דוד דב"
+    },
+    {
+     "language": "he",
+     "value": "מייזלש, צבי הירש בן דוד דוב"
+    },
+    {
+     "language": "he",
+     "value": "מייזלס, צבי הירש בן דוד דוב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Hersh Meisels"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410817$E4E5237B-963A-4E5D-B71E-CAF895652B53",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410817$81A3D545-D4A7-4789-B386-C15990AAC40E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fba2fff7d75d4a1f0dc50f194a4b26741c245b0b",
+      "datavalue": {
+       "value": {
+        "time": "+1901-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410817$a92c6707-4e0b-8ddf-7e88-91798e08b2e4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "63c837dcf4bd66ceca5a8e5988ac0e18ebebea20",
+      "datavalue": {
+       "value": {
+        "time": "+1974-01-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410817$210d97f0-4e46-1576-0461-9f69058d1794",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0edcd0ac3f6b0a835ad55d423589f9cbbb91a9b3",
+      "datavalue": {
+       "value": {
+        "time": "+1974-01-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410817$E761BBA0-A37B-4598-8944-4221C5F4617F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש מייזליש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12410817.json"
+}

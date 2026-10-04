@@ -1,0 +1,190 @@
+{
+ "id": "Q12254765",
+ "url": "https://www.wikidata.org/wiki/Q12254765",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12254765",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק הורוביץ (מעליץ)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchok Horowitz"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254765$9507540E-251A-4CB3-BB69-3D2B546AF2F1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254765$35498be7-4fa6-ce99-12cc-7d1f209c30f3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fba2fff7d75d4a1f0dc50f194a4b26741c245b0b",
+      "datavalue": {
+       "value": {
+        "time": "+1901-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254765$8431daa7-4cf3-7c49-a1a8-50a7876695dd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "30db06812660089816d77edb0ba0b0e637531753",
+      "datavalue": {
+       "value": {
+        "time": "+1977-07-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254765$dd2b6d85-4d8e-f2f1-467c-6389c78307b2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "be8cf397d312355c509b51c0ef76d4c48fb83375",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 658861,
+        "id": "Q658861"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254765$3af96110-42bd-d2ad-28a8-f741d172ab9d",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8c9ebccbaa0e96a6a530880b52af7ea41ca43cd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P463": [
+       {
+        "snaktype": "value",
+        "property": "P463",
+        "hash": "ecde48ae5ec3e9e9336b66f00558850902c37156",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 7212376,
+          "id": "Q7212376"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P463"
+     ],
+     "id": "Q12254765$7f9f9684-4232-ca1b-02f0-1595cca57a68",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק הורוביץ (מעליץ)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q658861": "מיילץ"
+ },
+ "raw": "data/raw/wikidata/Q12254765.json"
+}

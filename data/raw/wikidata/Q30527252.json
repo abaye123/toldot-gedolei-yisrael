@@ -1,0 +1,95 @@
+{
+ "id": "Q30527252",
+ "url": "https://www.wikidata.org/wiki/Q30527252",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30527252",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב נחמן בר רב הונא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527252$D31202D2-ABEC-4A87-A26A-C085CFDE359E",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527252$923B27A9-530C-4B73-BB30-41C1B77C6151",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527252$A18372D3-BC2F-44EA-8AF0-F4086010E6E1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב נחמן בר רב הונא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל"
+ },
+ "raw": "data/raw/wikidata/Q30527252.json"
+}

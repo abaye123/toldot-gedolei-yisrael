@@ -1,0 +1,165 @@
+{
+ "id": "Q1003936",
+ "url": "https://www.wikidata.org/wiki/Q1003936",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1003936",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Friedmann"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Friedmann Abraham"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5f1581205938b23a30949526437b86b0f051d47f",
+      "datavalue": {
+       "value": {
+        "time": "+1879-07-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003936$f6114f04-4844-e280-c295-e6a110fd81ce",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003936$5f671ac3-42f9-6141-0bdd-25950da61c9b",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003936$c4914282-455f-9f6c-200c-3904a089808d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "30fa283c730c7d73b4327da0607237fcaee5b300",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 174665,
+        "id": "Q174665"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003936$17f392cf-4c32-427c-86b3-4fe554498f23",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003936$3c8137be-4b06-a831-3756-e4dba0043687",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P19",
+      "hash": "075f6bd3c5b1dc67d84dec842e29629072949889",
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003936$970d7147-4b2e-42ce-530c-947bbaedc193",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q174665": "אלבה יוליה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1003936.json"
+}

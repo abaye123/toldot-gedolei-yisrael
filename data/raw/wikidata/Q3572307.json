@@ -1,0 +1,178 @@
+{
+ "id": "Q3572307",
+ "url": "https://www.wikidata.org/wiki/Q3572307",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3572307",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים יצחק חייקין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchak Chaikin"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "French rabbi (1907–1993)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3572307$B59259E9-AF87-4D28-AADD-582BF7BE6943",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3572307$90D0FA9E-8320-4411-B6BE-E82B3C7E9F61",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0335df488dbd3fca77d11c136afd6d34a704a882",
+      "datavalue": {
+       "value": {
+        "time": "+1907-03-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3572307$F002FA65-145B-4A66-A7C0-F784C3474534",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a3945aa5fe27cefb573b51dfe8fd2d1211d37e4c",
+      "datavalue": {
+       "value": {
+        "time": "+1993-04-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3572307$FD7D6862-4262-40C5-ABED-EDCAEAC77E22",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "beebd55cb5f1ce8d8ee14d1796a7e7576c2637e8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 956635,
+        "id": "Q956635"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3572307$878B9C90-DE06-4603-A386-B0D86DED145B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "95fd4aad9eff03409eaa1941340300d5bb603423",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107501,
+        "id": "Q107501"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3572307$38431024-2cc7-43d1-82e2-82b6ce841058",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים יצחק חייקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q107501": "סרסל",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q956635": "קוסובה"
+ },
+ "raw": "data/raw/wikidata/Q3572307.json"
+}

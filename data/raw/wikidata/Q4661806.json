@@ -1,0 +1,200 @@
+{
+ "id": "Q4661806",
+ "url": "https://www.wikidata.org/wiki/Q4661806",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4661806",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron Alfandari"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן אלפנדרי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "מפרש הרמב\"ם והטור, מחכמי איזמיר וחברון"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661806$A1A3D0F3-D728-4B87-B9C4-350E65CC523C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bcca59c1c4045cfe0d5c1328739cb73a948a9108",
+      "datavalue": {
+       "value": {
+        "time": "+1700-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4661806$FBD6B6FA-618E-4A89-A870-9729D72B9E1D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ac46ee863cbaf321946582f90a98478acb922d60",
+      "datavalue": {
+       "value": {
+        "time": "+1774-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4661806$EF0AB957-960F-4567-B97A-AD00A2BB22FD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661806$0C457F86-D613-4ACD-A7AF-89894676CB63",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60faaab1b44e35fb34c09b3cdbcf51d607bebc8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661806$183DF7EE-0F52-4FA4-886A-A0CF664629B9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "934123dc6dc063bf8ce1caf29dc7b4178f168ae5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168225,
+        "id": "Q168225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661806$955897A7-8442-40E7-9AA1-D6E844C32491",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "36512bdb5705a42d49399c404eb2806bb0ff31ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4866096,
+        "id": "Q4866096"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661806$03868ba6-4f0a-99dd-278b-f627929060f0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן אלפנדרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q168225": "חברון",
+  "Q35997": "איזמיר",
+  "Q4866096": "ברזילי יעבץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4661806.json"
+}

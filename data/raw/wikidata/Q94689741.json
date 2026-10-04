@@ -1,0 +1,148 @@
+{
+ "id": "Q94689741",
+ "url": "https://www.wikidata.org/wiki/Q94689741",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q94689741",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רפאל יעקב מן רקובסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מורה הוראה, וכיהן כרב המרכזים הרפואיים הדסה בירושלים במשך כ-50 שנה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94689741$e367bc19-4366-9565-8b18-ee1dca55157e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94689741$660c527b-44cc-053c-952f-923db57d3023",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "84ae6677e3df0e1ad93c0ea07f86e84443d5011a",
+      "datavalue": {
+       "value": {
+        "time": "+1922-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94689741$7ae83352-4bff-804a-476b-8001481d4498",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e49cdbd90533da02463b0d0600e53bd7d94fe3be",
+      "datavalue": {
+       "value": {
+        "time": "+2012-01-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94689741$26BF7308-E0F3-4E2B-B904-28F4E5FEA923",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94689741$D2954BDE-9D2C-4CC0-8585-B7A0B7092474",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רפאל יעקב מן רקובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q94689741.json"
+}

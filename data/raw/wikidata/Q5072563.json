@@ -1,0 +1,178 @@
+{
+ "id": "Q5072563",
+ "url": "https://www.wikidata.org/wiki/Q5072563",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5072563",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chanoch Ehrentreu"
+   },
+   "he": {
+    "language": "he",
+    "value": "חנוך ארנטרוי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "British rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בריטי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072563$6982962F-1D22-49E1-B8DF-C04689E61DE7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "86b46f583eb3226c26f1391bb23fb94e2fc79f59",
+      "datavalue": {
+       "value": {
+        "time": "+1932-12-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5072563$80DC0DB5-166E-44E8-B64B-466468CF2B36",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072563$B119390E-EF6B-4C07-98A0-EBD5EF9E9A9C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "05e57bab2e52e9eebff4f45750be0af3e0d63bdf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072563$17E7A88C-D0E6-4A4F-B07B-EE54E5005001",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3691a2055c6343cd307a9ec6b8e007cd78cf7de8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7374196,
+        "id": "Q7374196"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072563$c829e7ce-4805-3bff-977c-9ff9414e4549",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6905bff1ec45812111ffc85288cce8494d439c5d",
+      "datavalue": {
+       "value": {
+        "time": "+2022-11-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5072563$71d6f101-4bb2-7b9f-0a3b-f424b134db20",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנוך ארנטרוי (לונדון)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1794": "פרנקפורט על המיין",
+  "Q5": "אדם",
+  "Q7374196": "בית החולים המלכותי החופשי"
+ },
+ "raw": "data/raw/wikidata/Q5072563.json"
+}

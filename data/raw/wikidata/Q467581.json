@@ -1,0 +1,332 @@
+{
+ "id": "Q467581",
+ "url": "https://www.wikidata.org/wiki/Q467581",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q467581",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב בן יצחק אשכנזי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jacob ben Isaac Ashkenazi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אשכנזי, יעקב בין יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3553d45566ffbde287aca15279ddc0a0509066ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 991840,
+        "id": "Q991840"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q467581$4755F4E3-58ED-4822-8839-8CAAC2952B7A",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$BFAFEBB2-44B3-4880-9A4D-0771D9597720",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b0da60851044e73a3e1329918641add96f912c1d",
+      "datavalue": {
+       "value": {
+        "time": "+1550-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q467581$98225480-5D5F-4947-A52A-9A7FA091A7DA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8f7bf4d1f5e559a49f14cd1dfbac843a10b347e4",
+      "datavalue": {
+       "value": {
+        "time": "+1624-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q467581$CDAFDBC8-51C8-4DBA-9C29-87BE952910C2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e443d8e29195c3ffabb53a3fb31f57b8d439dfda",
+      "datavalue": {
+       "value": {
+        "time": "+1628-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q467581$8ABF6DF8-CB86-4D99-92AC-1375F1AB3351",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0aaae72351171113562b48d992c623de242b2da6",
+      "datavalue": {
+       "value": {
+        "time": "+1623-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q467581$91E27A3F-96FA-4993-B384-3E81AFC26DC9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$C0E106E3-2BD7-4F61-892D-957BD15FA1F5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$604D3050-B6B5-49DB-8624-86806516F0E1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$263C0E5E-7BC3-4CB2-8FD7-B8AAA8CFABFB",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "362b35be3b9e7f6721b9a91b1032d6888a76a175",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 24262584,
+        "id": "Q24262584"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$2514E764-F63E-405C-85B6-C4BD8234CACA",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "13631789d24c1fccf45d1ce3d730515340d14d8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$67AD115C-94A4-4279-833E-B7D29429BA8C",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "f8e2c1489237bd8d4495113d860a2b17827bcf98",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118694,
+        "id": "Q118694"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467581$3a70d43f-4a1b-ba9f-fff2-3f71acef6b57",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב בן יצחק אשכנזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1085": "פראג",
+  "Q118694": "צאינה וראינה",
+  "Q133485": "רב",
+  "Q24262584": "מתרגם תנ\"ך",
+  "Q333634": "מתרגם",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q991840": "יאנוב לובלסקי"
+ },
+ "raw": "data/raw/wikidata/Q467581.json"
+}

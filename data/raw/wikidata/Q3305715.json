@@ -1,0 +1,159 @@
+{
+ "id": "Q3305715",
+ "url": "https://www.wikidata.org/wiki/Q3305715",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3305715",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Menahem ben Solomon"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנחם בן שלמה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Menachem ben Salomo"
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "eded77de83f29c9b2da86e29c69a28e8a3c2c7d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14972848,
+        "id": "Q14972848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3305715$D1055B29-EC94-4EB5-9226-CE400DFF2E16",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3305715$74ADE3F1-367F-4ABB-87D8-74162B391131",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3305715$11782400-514D-4653-8D8B-3494E654BB5B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b5ce0598eff636c95b1143c7f24bbb1dad07efbf",
+      "datavalue": {
+       "value": {
+        "time": "+1050-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3305715$f151aeaa-c48a-49ac-9ae4-9e6dde171858",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "22bf7e0895b36002ce756914f81306954a921739",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 220,
+        "id": "Q220"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3305715$E5386A7E-2638-4C46-BEE3-27DE0B0740B9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם בן שלמה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14972848": "מילונאי",
+  "Q220": "רומא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3305715.json"
+}

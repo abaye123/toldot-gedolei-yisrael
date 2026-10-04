@@ -1,0 +1,262 @@
+{
+ "id": "Q25490331",
+ "url": "https://www.wikidata.org/wiki/Q25490331",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490331",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי אקלר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordechei Akaler"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבם של אנוסי משהד"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מולא מורד"
+    },
+    {
+     "language": "he",
+     "value": "אקאלר, מרדכי בן רפאל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Āqālar, Murdakhāy‏"
+    },
+    {
+     "language": "en",
+     "value": "Mullā Murād‏‏"
+    },
+    {
+     "language": "en",
+     "value": "Aḳaler, Mordekhai ben Refaʼel‏"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490331$29d32268-49e9-b127-619d-d8656ea7b1f0",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490331$6E106F1F-40D0-4AB6-9E53-69267A7ED36F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P136": [
+       {
+        "snaktype": "value",
+        "property": "P136",
+        "hash": "23cef8ed99905159089d8c975b577d6f702ce0f4",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12617225,
+          "id": "Q12617225"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P136"
+     ],
+     "id": "Q25490331$c20f092e-4bff-a93f-4d96-b45050bd1c91",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490331$b5ad4f7d-4b55-1634-faab-c281f3a74baa",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4c4bf5eff3fce60b86d88bc8e9ebb6ed8914fb23",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490331$4f18ab48-4bb7-e20e-2344-9380eacd1bf3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2335f3a303798d55a0261556603a6a860594c99f",
+      "datavalue": {
+       "value": {
+        "time": "+1936-06-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490331$b03fb280-4b08-122c-7bea-b276b003d67f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a29f4fb9fac99caeb411f890f611032884d3fdd7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 121157,
+        "id": "Q121157"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490331$49552230-4fbf-31ba-18be-e07328e904c3",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490331$9ee6f68e-40f0-eaae-e640-c915383b4581",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי אקלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q121157": "משהד",
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q333634": "מתרגם",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25490331.json"
+}

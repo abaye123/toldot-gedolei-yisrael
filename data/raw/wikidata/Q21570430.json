@@ -1,0 +1,150 @@
+{
+ "id": "Q21570430",
+ "url": "https://www.wikidata.org/wiki/Q21570430",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q21570430",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל זיברטנסקי"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל לובצ'ר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21570430$BB4007E5-3620-4B91-959A-4C649DD130D8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "43509062e92bffea8c439399c9e724a9698773f3",
+      "datavalue": {
+       "value": {
+        "time": "+1898-07-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q21570430$BA91FA66-7BB6-4C04-85BD-59C00B4C93E3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e3373dfb1966dc7d3d621e87ab4d1fedd3336737",
+      "datavalue": {
+       "value": {
+        "time": "+1818-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q21570430$fe6574c8-2dd3-4487-9124-00f354e45986",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21570430$9efba2a5-4f11-758c-74be-cdc53d86c942",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cf2f33dfa34f48a4275d523b55007cce290e86aa",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2596991,
+        "id": "Q2596991"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21570430$bd6551f8-4e2f-fc59-75ac-3f2235963fe7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל זיברטנסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2596991": "לובצ'ה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q21570430.json"
+}

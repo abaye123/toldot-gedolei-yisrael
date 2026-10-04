@@ -1,0 +1,325 @@
+{
+ "id": "Q6883691",
+ "url": "https://www.wikidata.org/wiki/Q6883691",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6883691",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל קליין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Klein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, היסטוריון וחוקר הגאוגרפיה של ארץ ישראל"
+   },
+   "en": {
+    "language": "en",
+    "value": "20th-century historical-geographer (1886–1940)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "קלין, שמואל בן אברהם צבי‏"
+    },
+    {
+     "language": "he",
+     "value": "קליין, שמואל בן אברהם צבי‏"
+    },
+    {
+     "language": "he",
+     "value": "קליין, שמואל (רב, חוקר א\"י)‏"
+    },
+    {
+     "language": "he",
+     "value": "קלין, שמואל‏"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Ḳlein, Shemuʾel"
+    },
+    {
+     "language": "en",
+     "value": "Qlayn, Šěmūʾel"
+    },
+    {
+     "language": "en",
+     "value": "Qlayn, Šemuʾel"
+    },
+    {
+     "language": "en",
+     "value": "Klein, Šmuel ben Avraham Cvi"
+    },
+    {
+     "language": "en",
+     "value": "Klein Z."
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$64B910E6-9440-4EE1-A826-9C9842D43B2F",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$3E56680D-6590-4C35-9E56-EB33CA623E3B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "38a9c1a8be853d88a32b79d4185ceeec39bb47b0",
+      "datavalue": {
+       "value": {
+        "time": "+1886-11-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6883691$81347270-59C4-43FD-A3F4-98E8E44AEFDF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a5d95c9e57940260c450acb1c6c4b9552de497ef",
+      "datavalue": {
+       "value": {
+        "time": "+1940-04-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6883691$FD6CDE73-2D93-4DC5-9834-ED3D0CDB658A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6d913480a986f50224cbab9d770090aabd57c82e",
+      "datavalue": {
+       "value": {
+        "time": "+1940-04-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6883691$862117fa-46b7-72d1-4cee-0a25ec949ea1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$159480c9-4f77-1259-4930-10602f21201c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e1955e3fc327ecdfa86aa002ddfc9626c2a0992a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1176573,
+        "id": "Q1176573"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$30a2b327-4fc5-581f-1e11-9a5d01f895fc",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$d1c12b2f-4aa8-1a4a-b5f6-45c58a9ae4c4",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$765d9c40-485a-e7bc-d651-507a6ffcfe74",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a57d12815372e8b955880595566c7ab2e4c9592a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 901402,
+        "id": "Q901402"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$45dd5cd1-606d-4bf8-826f-a179f27c58e0",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "8ae51d0ac49f1acba95b94696deb6a768dd85e00",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404611,
+        "id": "Q12404611"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6883691$4B789319-E777-408E-8CCB-861A70ECBC27",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל קליין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1176573": "מזסילאש",
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q12404611": "בן-ציון לוריא",
+  "Q133485": "רב",
+  "Q201788": "היסטוריון",
+  "Q5": "אדם",
+  "Q901402": "גאוגרף"
+ },
+ "raw": "data/raw/wikidata/Q6883691.json"
+}

@@ -1,0 +1,150 @@
+{
+ "id": "Q131731215",
+ "url": "https://www.wikidata.org/wiki/Q131731215",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q131731215",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל הילמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shmuel Helman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני אשכנז במאה ה-18"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131731215$F4C89910-9DD0-4D33-B65D-2D66314858AF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131731215$5dd9f9bc-4619-04b3-0f1d-aaed56760ac6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1f34b51c1b7b5d9ad8203e8e2713b7585a762bf8",
+      "datavalue": {
+       "value": {
+        "time": "+1764-12-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131731215$21720e45-49b2-c8dd-c607-be53ef087fa3",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8f5e63ffd7145418ba54f2d66dd7e9dbf143bdfd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22690,
+        "id": "Q22690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131731215$82f58724-45bd-683d-de8d-bed50e8711ba",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f0225268ce3b7ad5a3adf943d42054c939a9f0c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 984538,
+        "id": "Q984538"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131731215$faffa1a4-48b2-7cae-c869-5a4d4629f7e9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל הילמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q22690": "מץ",
+  "Q5": "אדם",
+  "Q984538": "קרוטושין"
+ },
+ "raw": "data/raw/wikidata/Q131731215.json"
+}

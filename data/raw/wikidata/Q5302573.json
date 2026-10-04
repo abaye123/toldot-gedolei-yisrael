@@ -1,0 +1,251 @@
+{
+ "id": "Q5302573",
+ "url": "https://www.wikidata.org/wiki/Q5302573",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5302573",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Dovid Povarsky"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוד פוברסקי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פוברסקי, יהושע דוד"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehoshua Dovid Povarsky"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302573$FC84D182-F5E9-45BF-A632-3AEB2A587147",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302573$27BE8BEE-F0B0-42DB-A5AD-18C8945E1AF0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302573$8F63B850-27FE-404A-8894-2DC6E0191C03",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f08fe34d6ec75cb0ef97eb04f02d62e72f6dbc94",
+      "datavalue": {
+       "value": {
+        "time": "+1902-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302573$E1877A50-8939-47C7-A68B-68DF8BBE8EC3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bb35ab47b4ff515d52c275a9e059eb626eeb04a1",
+      "datavalue": {
+       "value": {
+        "time": "+1999-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302573$BE32C5B2-4B2E-438E-B91D-7448A6D4A27A",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "e5ac86a39032e7558f2f97017727c08d9d6a3469",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2909981,
+          "id": "Q2909981"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q5302573$381fc840-45e7-842c-9987-9d869998be47",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "135681d6af98634ae643b079c633e79257c91a1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7188316,
+        "id": "Q7188316"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302573$d46a6b28-4f14-949e-4514-3f2703bd6814",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "1d4eca7de8d8b2849a916d465a439027209786bd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 124782204,
+        "id": "Q124782204"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302573$3c89bec7-4dc8-50f9-a430-9ea58ec66b1d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד פוברסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q124782204": "שלום פוברסקי",
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם",
+  "Q7188316": "ברוך דוב פוברסקי"
+ },
+ "raw": "data/raw/wikidata/Q5302573.json"
+}

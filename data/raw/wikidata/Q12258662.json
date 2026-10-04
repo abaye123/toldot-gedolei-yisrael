@@ -1,0 +1,174 @@
+{
+ "id": "Q12258662",
+ "url": "https://www.wikidata.org/wiki/Q12258662",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12258662",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ברכיה טייטלבוים"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12258662$116EBEED-4736-4F51-94AD-1DF2AE0861B8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12258662$70F687D1-2F5C-4087-A6E4-83CA5EF22226",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c671b33b65282c789f948d688b8a597b1f741a16",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116417,
+        "id": "Q116417"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12258662$B4F407A7-4C84-4DA4-9C52-77C9154B8635",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "06a401e44891da7ffc8c0bec6b761eb7912d31b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12258662$104B2439-3D4A-4FF4-8202-65803BA6AD93",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b851bfb8799c4e3e5e0115e5f72207fe0c3b1486",
+      "datavalue": {
+       "value": {
+        "time": "+1865-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12258662$f6a6bcbb-4c6e-7b64-f16a-53bd067b5534",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d0efdb882931d066926d48357fdbcf3cf6d71436",
+      "datavalue": {
+       "value": {
+        "time": "+1917-04-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12258662$bb4b3fd3-4f78-2807-3b56-1b22c0323f95",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברכיה טייטלבוים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q116417": "שאטוראליאויהיי",
+  "Q133485": "רב",
+  "Q1781": "בודפשט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12258662.json"
+}

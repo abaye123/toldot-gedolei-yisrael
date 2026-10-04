@@ -1,0 +1,178 @@
+{
+ "id": "Q63958647",
+ "url": "https://www.wikidata.org/wiki/Q63958647",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q63958647",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ארתור וייסקופף"
+   },
+   "en": {
+    "language": "en",
+    "value": "Artúr Weiszkopf"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "23f344d5b9e7c24a72bd9903e940bd3dc7607412",
+      "datavalue": {
+       "value": {
+        "time": "+1942-05-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q63958647$FDFA2E34-2C0B-4C59-A05F-E245D3143D44",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q63958647$3B220FB1-65BB-4B85-970F-BB5276CAE601",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q63958647$83773f0a-d80b-4923-8558-adf53fc409c7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3ee1fcba9e32cd256b2dae9c13fbdc672e47ce9a",
+      "datavalue": {
+       "value": {
+        "time": "+1877-01-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q63958647$67C9AE13-D2D0-455A-9C1A-64E04021309B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "563dfb94018507bfe8f241c780f6041afe54a29a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q63958647$46c5c102-a7bf-4423-a00c-f7ebc07a3b50",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "27560c04206d1af71fa74259f9e7089a4e7f0de4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 27541,
+        "id": "Q27541"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q63958647$a37c3327-41b1-c9af-5f41-2c266a7cac4d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ארתור וייסקופף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1781": "בודפשט",
+  "Q27541": "רוזומברוק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q63958647.json"
+}

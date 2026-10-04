@@ -1,0 +1,277 @@
+{
+ "id": "Q393084",
+ "url": "https://www.wikidata.org/wiki/Q393084",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q393084",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבינו יהודה ליאונטין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehuda HaKohen ben Meir"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German Talmudic rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פוסק מהמאה ה-10"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה הכהן ליאונטין (הזקן)"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehuda ben Meir"
+    },
+    {
+     "language": "en",
+     "value": "Yehudah Leontin"
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "2bf8273c509f0a10e46acaa094d74bf3d96bad58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11900058,
+        "id": "Q11900058"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q393084$41862C51-40D0-403E-8D50-EF7B66F0A158",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q393084$ED20BACC-3FC5-456D-BF06-724F3FCB6865",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q393084$9BE0416E-F9BB-4864-8626-BDB5FF7E8823",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q393084$3D71D2D6-76DF-47A5-8F05-9C0DAED75AAA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "40148590eb4d2d70dd6b3755f5e51e75f399da71",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1720,
+        "id": "Q1720"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q393084$22DE580A-2738-4153-9CEA-CB779C6C7A8D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52c5db29f8182e4a32f070f0b2c384be3424cb1d",
+      "datavalue": {
+       "value": {
+        "time": "+1000-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q393084$F68DB72D-B1AE-434C-898D-1A9F7316CD6E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b6fcdd9f9dacb093f69b35b3f222359ee45ca23",
+      "datavalue": {
+       "value": {
+        "time": "+1100-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q393084$00881227-1BA2-4AAC-9AD4-7497C46D649D",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "0c0abf277546a6813102e3dab5d6a8780f92d71a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982050,
+        "id": "Q982050"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q393084$41a7133e-44ab-56a3-e097-e2b7b26b2a59",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה הכהן ליאונטין (הזקן)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11900058": "חוקר ארצות",
+  "Q133485": "רב",
+  "Q1720": "מיינץ",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q982050": "רבנו גרשום"
+ },
+ "raw": "data/raw/wikidata/Q393084.json"
+}

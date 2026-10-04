@@ -1,0 +1,189 @@
+{
+ "id": "Q7410415",
+ "url": "https://www.wikidata.org/wiki/Q7410415",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7410415",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samson of Chinon"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמשון מקינון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samson ben Isaac of Chinon"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "שמשון בן יצחק מקינון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7410415$625E721D-CDEC-41D4-ABFE-245F2A7A1422",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7410415$81FA3284-6BBD-4D50-BAA7-6F6F1C80E3BD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f8ae046c62dc076fed2173df8a8d691b653b34b9",
+      "datavalue": {
+       "value": {
+        "time": "+1260-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q7410415$08B21D16-FCBF-4592-8F47-BFDF0C21E099",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f7adadc05968199a521af792298ddca05f68723d",
+      "datavalue": {
+       "value": {
+        "time": "+1330-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q7410415$00E2B91B-898D-4314-AB2C-E4EF8C160F83",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמשון מקינון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7410415.json"
+}

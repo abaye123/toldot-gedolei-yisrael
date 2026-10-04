@@ -1,0 +1,187 @@
+{
+ "id": "Q118925818",
+ "url": "https://www.wikidata.org/wiki/Q118925818",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118925818",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Daniel ben Saadiah ha-Bavli"
+   },
+   "he": {
+    "language": "he",
+    "value": "דניאל, הבבלי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "scholar, active 1170-1220"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Bavli, Daniel ben Saadiah, active 1170-1220'"
+    },
+    {
+     "language": "en",
+     "value": "Daniel ibn al-Amshata, active 1170-1220'"
+    },
+    {
+     "language": "en",
+     "value": "Daniyel, ha-Bavli, active 1170-1220'"
+    },
+    {
+     "language": "en",
+     "value": "Ibn al-Amshata, Daniel, active 1170-1220'"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אבן-אלמאשיטה, דניאל"
+    },
+    {
+     "language": "he",
+     "value": "אלמאשיטה, דניאל"
+    },
+    {
+     "language": "he",
+     "value": "<<אל>>מאשיטה, דניאל"
+    },
+    {
+     "language": "he",
+     "value": "דניאל בן סעדיה, הבבלי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925818$137B4A49-9BA0-442F-8F19-969C5EB24C0C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c7b1840d8c4bf73eb4cf54cfb92767f3d36268b3",
+      "datavalue": {
+       "value": {
+        "time": "+1170-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925818$974E8395-8AF6-40DE-AEF1-E6C1DD9023DE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cde5400e5353df27ee7a3e1f031d9ba801df4975",
+      "datavalue": {
+       "value": {
+        "time": "+1220-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925818$4C97D262-0134-4797-B0A8-3D60ACC5C50E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925818$803b4a39-4c60-4b38-acad-b1ff1086e206",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925818$554572EF-8B21-4867-9560-D049BF422D35",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דניאל הבבלי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118925818.json"
+}

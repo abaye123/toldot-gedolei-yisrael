@@ -1,0 +1,277 @@
+{
+ "id": "Q59524566",
+ "url": "https://www.wikidata.org/wiki/Q59524566",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q59524566",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Simon Eppenstein"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמעון אפנשטיין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi, Judaic scholar. born:1864-08-27, died:1920-11-20"
+   },
+   "he": {
+    "language": "he",
+    "value": "חוקר יהדות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אפנשטיין, שמעון בן שלמה"
+    },
+    {
+     "language": "he",
+     "value": "שמעון עפנשטיין"
+    },
+    {
+     "language": "he",
+     "value": "שמעון עפפנשטיין"
+    },
+    {
+     "language": "he",
+     "value": "שמעון עפפנשטין"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Eppenstein, S."
+    },
+    {
+     "language": "en",
+     "value": "ʿEppenšṭayn, Šimʿon (S.), 1864-1920"
+    },
+    {
+     "language": "en",
+     "value": "אפפנשטיין, שמעון, 1864-1920"
+    },
+    {
+     "language": "en",
+     "value": "Eppenstein, Simon"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$3ABCE9B2-50BE-40A8-A4A8-6E277CA88AD6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5b4735d38a73e1303cd9f66be221a2deb813e270",
+      "datavalue": {
+       "value": {
+        "time": "+1864-08-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q59524566$E7BFC84F-CEA5-4506-AE03-E79C4E70A397",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d7fe1c90fc19a032bc235424169560a67c42d19c",
+      "datavalue": {
+       "value": {
+        "time": "+1864-08-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q59524566$2E5B38FD-2B85-4A44-BA5F-7D45B72A592B",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "69b1d5ea4975ece567898ddc07f9d58f7713b6bb",
+      "datavalue": {
+       "value": {
+        "time": "+1920-11-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q59524566$C0042194-0978-4134-82BF-6FFCCA12D9BF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$4DF71566-368F-488B-877B-391BF739EB82",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$372B059B-D370-4C43-AC9F-2F54A20D3A69",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb1fbdd090ef3cb31f51c8348856b9392520e3d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5121550,
+        "id": "Q5121550"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$609E1094-EB0F-4BB4-B25C-096EC76AC214",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f0225268ce3b7ad5a3adf943d42054c939a9f0c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 984538,
+        "id": "Q984538"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$63d77f78-4c25-212e-d64c-0bc44d8f1d54",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "353773fafc33fa38af83afc667553d3328c2714c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 64,
+        "id": "Q64"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q59524566$A8B4D57D-E62C-4CBC-BAF1-8D2BDDCB8704",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון אפנשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201788": "היסטוריון",
+  "Q5": "אדם",
+  "Q5121550": "חוקר יהדות",
+  "Q64": "ברלין",
+  "Q984538": "קרוטושין"
+ },
+ "raw": "data/raw/wikidata/Q59524566.json"
+}

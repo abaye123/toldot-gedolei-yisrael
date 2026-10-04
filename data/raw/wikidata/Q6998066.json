@@ -1,0 +1,152 @@
+{
+ "id": "Q6998066",
+ "url": "https://www.wikidata.org/wiki/Q6998066",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6998066",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רפאל קצנלנבוגן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Refaʼel Eliyahu Yitshak Halevi Katsenelenbogen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב חרדי ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6998066$A5522197-F9B7-4588-8D93-615244651A72",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6998066$8A45A0E2-7212-4474-947B-7761F8D1F2C0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6998066$90A5713F-0D94-43DE-9A6E-CAE4BD9FB82D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fd1034b2a29db126bf066e4b9514336965eb14c8",
+      "datavalue": {
+       "value": {
+        "time": "+1972-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6998066$4c6ab194-414b-67ed-4d60-55beecd1311f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "830a1669d6b855baa5447358b5540ba187b4126e",
+      "datavalue": {
+       "value": {
+        "time": "+1894-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6998066$5210ec87-1b6c-4da1-9dcf-38f8fe311f40",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רפאל קצנלנבוגן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6998066.json"
+}

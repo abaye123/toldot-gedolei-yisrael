@@ -1,0 +1,167 @@
+{
+ "id": "Q12408309",
+ "url": "https://www.wikidata.org/wiki/Q12408309",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408309",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ירוחם פישל פרלא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jeroham Fishel Perla"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, ומחבר תורני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish halakhist (1846-1934)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ירוחם פישל פערלא"
+    },
+    {
+     "language": "he",
+     "value": "יהודה ירוחם פישל פערלא"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408309$8F21B768-111C-47B5-97BC-BE1597F46186",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408309$B3E8D87C-FDE9-4474-B954-06A5EA68562F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408309$82C6C972-803D-462E-AAEF-675FE7E2091F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a813580c04c99b2357150e229feb860b4df3a1da",
+      "datavalue": {
+       "value": {
+        "time": "+1846-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408309$E36ED301-3613-4BA3-A6CF-ACE2702A9779",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "85f4b556649337d03ea9c9967642009785a3cb8c",
+      "datavalue": {
+       "value": {
+        "time": "+1934-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408309$700719B3-8732-4C16-BAB2-5F047606FAA1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ירוחם פישל פרלא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408309.json"
+}

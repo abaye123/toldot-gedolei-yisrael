@@ -1,0 +1,157 @@
+{
+ "id": "Q113355547",
+ "url": "https://www.wikidata.org/wiki/Q113355547",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113355547",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר ביקייאם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meʾir ben Ḥalifa Bikayam"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbinical scholar, teacher, and author (died on August 3, 1769)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר בן חליפה ביקייאם"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בן חליפה ביקיאם"
+    },
+    {
+     "language": "he",
+     "value": "מאיר ביקים"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בקיאם"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בקייאם"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Bikayam, Meʾir"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355547$C352ECA9-BC7B-4AA1-9455-45189F0B7C23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355547$CC480BD4-92C7-47EC-A645-639F8BC6E881",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4ec7616b308c1d1a0ef4f93b64a93b59eb926e5a",
+      "datavalue": {
+       "value": {
+        "time": "+1769-08-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355547$916C32B9-A8DF-464D-8017-981F0E3D2A60",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7d0459e27cfb45ad2b5fc658cbd764d5b0e813ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355547$741F7C43-DEFD-4489-B1C4-D0A68F25F526",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר ביקייאם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q35997": "איזמיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113355547.json"
+}

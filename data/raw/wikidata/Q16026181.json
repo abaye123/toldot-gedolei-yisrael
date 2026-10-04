@@ -1,0 +1,174 @@
+{
+ "id": "Q16026181",
+ "url": "https://www.wikidata.org/wiki/Q16026181",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16026181",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel Aaron Goldstein"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל אהרון גולדשטיין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi, scholar, community leader (1852-1935)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16026181$19851B93-FA0B-4305-A3D7-06DCA289B361",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "67c61e44d7da32e5282a95f62fa35a428976a135",
+      "datavalue": {
+       "value": {
+        "time": "+1852-06-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16026181$70B7BB20-5F11-40B4-8723-7B91CBD54EAA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8d1e1576a1d3f1bcd40bc33bda65f6b02058cd7b",
+      "datavalue": {
+       "value": {
+        "time": "+1935-05-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16026181$7999E714-4DA6-4E40-9374-37671A132E13",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16026181$46D439AB-8276-46AA-9FFD-FBA835E92509",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "852d200368a32e692d3ab7e7da543989cea57093",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16026181$4EF09935-BE28-4E5D-ADA0-3EEF1171297E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "8d9f6f6b2d3a76db1fefa58adf8781789e256a64",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16902851,
+        "id": "Q16902851"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16026181$957e4231-484e-088b-7dfc-3b2a3c95fe26",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל אהרון גולדשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16902851": "Waikumete Cemetery",
+  "Q5": "אדם",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q16026181.json"
+}

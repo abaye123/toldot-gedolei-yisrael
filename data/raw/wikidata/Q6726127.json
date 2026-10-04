@@ -1,0 +1,205 @@
+{
+ "id": "Q6726127",
+ "url": "https://www.wikidata.org/wiki/Q6726127",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6726127",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אריה ליב ברלין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Löb Berlin"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני (1737–1814)"
+   },
+   "en": {
+    "language": "en",
+    "value": "German Rabbi (1737–1814)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aryeh Löb Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Löb ben Abraham Meïr Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Loeb ben Abraham Meir Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Loeb Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Löw Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Löw Mayer"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6726127$9B87D4A7-F83A-4C4B-BEC6-657B64528FA4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6726127$69712E12-6728-491D-AD02-3C11B512A557",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28baf43237c68d2990405cd9566858abd3813c52",
+      "datavalue": {
+       "value": {
+        "time": "+1737-07-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6726127$D8BE8466-0DEB-409D-83E9-83827919CDE2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d1a8f761ec13cd4a8228b82c2e101c22d2f57c2c",
+      "datavalue": {
+       "value": {
+        "time": "+1814-05-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6726127$2BBAA263-75A3-4792-959B-5F0A4216B5D2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d8db1cc5e6a287d78acf16011e2713428491bf37",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3075,
+        "id": "Q3075"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6726127$7006F44B-A18B-4E6E-A1A3-89F0E1651403",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b846774e598f5bb7ce6e91308e0efc240b56b33a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2865,
+        "id": "Q2865"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6726127$f9045e3b-42e8-fc22-34cc-9771fb6c3b3e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה ליב ברלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2865": "קאסל",
+  "Q3075": "פירט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6726127.json"
+}

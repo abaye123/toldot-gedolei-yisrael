@@ -1,0 +1,188 @@
+{
+ "id": "Q126934568",
+ "url": "https://www.wikidata.org/wiki/Q126934568",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q126934568",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אהרן אבן חיים"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה, דיין בחברון ואב בית הדין של איזמיר במאה השבע עשרה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q126934568$DA5DE528-635E-4E10-9F1B-675CC16D5B32",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bddf6192cd13a90624810143f1b146bd85de84f8",
+      "datavalue": {
+       "value": {
+        "time": "+1630-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q126934568$bc0f5c69-425f-600d-906f-80e8b4927baa",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "72c4d20a36cdb9aecde2b8dabee7f11dbef98276",
+      "datavalue": {
+       "value": {
+        "time": "+1688-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q126934568$432889ce-46c3-08be-6a8a-4155f31f478d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "eb3c664a9afbda170a27e0ad7c271983c48bd910",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168225,
+        "id": "Q168225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q126934568$f9b009fa-4fff-760f-f73b-a05675de7f00",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q126934568$324164bd-4982-76fa-c7c3-490ba52e0286",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q126934568$1ab05c69-4f6c-f1d4-652d-9f1422fb466f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q126934568$1e3f5b10-4b20-0fa9-4195-74e62d66611b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן אבן חיים (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q168225": "חברון",
+  "Q3570351": "דיין",
+  "Q5": "אדם",
+  "Q694994": "אב בית דין",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q126934568.json"
+}

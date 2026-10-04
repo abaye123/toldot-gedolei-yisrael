@@ -1,0 +1,189 @@
+{
+ "id": "Q30526744",
+ "url": "https://www.wikidata.org/wiki/Q30526744",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526744",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה מישל שמואל שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shapira, Mosheh Mishel Shemuʼel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי, רבה של רוגובה למשך קרוב לחמישים שנה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שפירא, משה מישל שמואל"
+    },
+    {
+     "language": "he",
+     "value": "שפירא, מישל שמואל"
+    },
+    {
+     "language": "he",
+     "value": "שפירא, משה מישל שמואל בן יוסף"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526744$D77C7C41-D5C5-42AB-8A80-23D05E4885AF",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6d2e8e3ec812b0e7675ab5622684ee0d5a7f06b4",
+      "datavalue": {
+       "value": {
+        "time": "+1855-05-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526744$dc51a4dc-4ef6-7614-a038-c9c1d173bd5b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9173fac99244e4015545fd3a1b2d6549b15a56cd",
+      "datavalue": {
+       "value": {
+        "time": "+1933-03-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526744$17c787be-4733-a7d2-22e6-0b36cb0a0e00",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526744$023aa66f-4e44-9591-7ebc-47ad723a4805",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1b9d24084cec9fd984e69c9334e5831b3cdd07bb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1719466,
+        "id": "Q1719466"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526744$a4ae683d-4758-3764-3209-b852628e182f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e97063c44669d253d7da81f4996f60938df159ca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2707138,
+        "id": "Q2707138"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526744$91a640bd-4ea0-a9d3-0818-13e70eb243b7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מישל שמואל שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1719466": "פוניבז'",
+  "Q2707138": "רוגובה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30526744.json"
+}

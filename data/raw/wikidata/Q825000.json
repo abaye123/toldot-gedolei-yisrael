@@ -1,0 +1,223 @@
+{
+ "id": "Q825000",
+ "url": "https://www.wikidata.org/wiki/Q825000",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q825000",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Bernhard Felsenthal"
+   },
+   "he": {
+    "language": "he",
+    "value": "ברנהרד פלזנטל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1822-1908)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי יליד גרמניה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1d089e2b817322ea0d1068472f5177cc1943ba80",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 642327,
+        "id": "Q642327"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q825000$A6284C59-1068-43D9-8C1D-09D8990DE0FE",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d7380773473f17e64dd387e7781ab43590142b9a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1297,
+        "id": "Q1297"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q825000$88242836-2FC1-4436-A3F0-CF722BF3351C",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q825000$44A5D04F-96A5-4F77-AD0A-B7486CF61626",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2749d0077142cbf67c7a181c8e6011c73afe1f3d",
+      "datavalue": {
+       "value": {
+        "time": "+1822-01-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q825000$F23D4D2A-0E9B-4EEA-8450-B87CF0A5E88D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "20a60f00bee0d3ebebb18ce374ae6052c8255900",
+      "datavalue": {
+       "value": {
+        "time": "+1908-01-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q825000$15391DEE-D2A6-42A6-B275-0BC5683A35EE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q825000$45CBBCD6-6BA2-42ED-8F7D-C9D15A7FF56D",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "1b57b40ded545130aaa5e87c2ddfec61ccd36565",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7368200,
+        "id": "Q7368200"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P625": [
+       {
+        "snaktype": "value",
+        "property": "P625",
+        "hash": "7cd1c64f96143fc799dcb00a0b93667725370232",
+        "datavalue": {
+         "value": {
+          "latitude": 41.982906,
+          "longitude": -87.679894,
+          "altitude": null,
+          "precision": 1e-06,
+          "globe": "http://www.wikidata.org/entity/Q2"
+         },
+         "type": "globecoordinate"
+        },
+        "datatype": "globe-coordinate"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P625"
+     ],
+     "id": "Q825000$f4cd1184-47c8-bcb1-e52e-33c74722c3ea",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברנהרד פלזנטל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1297": "שיקגו",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q642327": "מינכוויילר",
+  "Q7368200": "בית הקברות של רוזהיל"
+ },
+ "raw": "data/raw/wikidata/Q825000.json"
+}

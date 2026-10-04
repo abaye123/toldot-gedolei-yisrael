@@ -1,0 +1,163 @@
+{
+ "id": "Q1689923",
+ "url": "https://www.wikidata.org/wiki/Q1689923",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1689923",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלכסנדר משה לפידות"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aleksander Mōše Lapîdôt"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Alexander Moses Lapidot"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2cbcae56003056fe73b7bfc8e1d9110cdb128155",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1689923$83F66DA6-1836-4ECB-A1E4-128500CCA2EB",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1689923$ED1C45C8-7DA8-40AF-84F3-1E6E6234A2EB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "338dcc335f1baab785b0e744a312f39fc79d926e",
+      "datavalue": {
+       "value": {
+        "time": "+1819-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1689923$CEB98792-AE9F-45CB-97ED-CAE834C05A80",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "831974f10799f1842aab7e38e74aacb4566dd010",
+      "datavalue": {
+       "value": {
+        "time": "+1906-03-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1689923$3A11ACF9-B46F-4C33-8FA0-F3B50E1F7623",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1689923$C484420F-9610-4EE3-BC65-5529099AA04C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלכסנדר משה לפידות",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q216": "וילנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1689923.json"
+}

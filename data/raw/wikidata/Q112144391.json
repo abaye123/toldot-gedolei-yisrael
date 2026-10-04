@@ -1,0 +1,164 @@
+{
+ "id": "Q112144391",
+ "url": "https://www.wikidata.org/wiki/Q112144391",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112144391",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דניאל הכהן נהר"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07314facf24e058d64179c91dd139592bb6ef5a8",
+      "datavalue": {
+       "value": {
+        "time": "+1881-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112144391$236DC251-0881-4ACD-92B5-E25EB0A07968",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144391$B5EB2367-BB72-4F72-99DE-C2739119E362",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c03ebea7518acfd5f6fba15c282c8847d7c3fa59",
+      "datavalue": {
+       "value": {
+        "time": "+1804-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112144391$4594CED8-9FFB-437E-8DAF-B51BACA65165",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144391$98317BE8-05E0-4745-BFC3-17EF87E4EBAF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60faaab1b44e35fb34c09b3cdbcf51d607bebc8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144391$D548E988-32F2-499B-A517-637607A9C847",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7d0459e27cfb45ad2b5fc658cbd764d5b0e813ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144391$E9957687-A714-4F78-9C08-CB994021BA3C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דניאל הכהן נהר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q35997": "איזמיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112144391.json"
+}

@@ -1,0 +1,239 @@
+{
+ "id": "Q25497495",
+ "url": "https://www.wikidata.org/wiki/Q25497495",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25497495",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל זיתון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israël Zeitoun"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25497495$EA880E5E-69EB-408C-BF71-6966F5D23E49",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25497495$22851dc2-453e-f888-eb95-613378847154",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d9f999f2a09400d48e1059f293f35d71e3a6e429",
+      "datavalue": {
+       "value": {
+        "time": "+1840-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25497495$f8377b10-402a-1e81-dbc7-5d48bdff5820",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3cf3106530111597dd48db197838ce9226c06d97",
+      "datavalue": {
+       "value": {
+        "time": "+1921-08-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25497495$16627730-4c2b-fbd8-0257-b29c602af180",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "075405f1838517284476be031d3df49661a5fc7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104434326,
+        "id": "Q104434326"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "bcecdc49b05260261ec6291688de5a564399c174",
+        "datavalue": {
+         "value": {
+          "time": "+1917-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "45acbcecada614a613a032facb0650e16d0e5f67",
+        "datavalue": {
+         "value": {
+          "time": "+1921-08-22T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "71f949da8bcedfd8243fe3575b98545706522c97",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 86005990,
+          "id": "Q86005990"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P1366"
+     ],
+     "id": "Q25497495$dff14fbb-4e4c-3e55-5bc5-478502a8e4ce",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "81275081de74d34a8e3a061262c4d3cfab6bed63",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113296118,
+        "id": "Q113296118"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25497495$b460f252-49ec-a71e-30a8-aaa45a880a74",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל זיתון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q104434326": "הרב הראשי של תוניסיה",
+  "Q113296118": "אברהם חג'אג'",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25497495.json"
+}

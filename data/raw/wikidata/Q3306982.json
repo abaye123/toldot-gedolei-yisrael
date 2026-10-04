@@ -1,0 +1,191 @@
+{
+ "id": "Q3306982",
+ "url": "https://www.wikidata.org/wiki/Q3306982",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3306982",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Messaoud-Raphael El-Fassi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלפסי, מסעוד רפאל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Masʻud Refaʼel Alfasi"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אלפאסי, מסעוד רפאל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3306982$C0A73CD3-C8E1-4709-AB39-3EE4D2E281A6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3306982$E638B6CA-B9B1-41F0-986C-86F617C971AD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5fa15d9f036719f27dc21c3efbcdb08998c03f7e",
+      "datavalue": {
+       "value": {
+        "time": "+1774-12-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3306982$2A1CEEA2-BC8E-40BF-9308-F96356FF7A91",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "87bb77c9127a98c955e2f5a18a760274d9ae3871",
+      "datavalue": {
+       "value": {
+        "time": "+1776-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3306982$b072a73a-4e47-3315-b22e-7c29eb716605",
+     "rank": "deprecated"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a789066caefc18efddf1138ef86bd2c8cbf3e884",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3306982$59FC5644-ED1B-42B6-81D1-396683BB9B11",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "90d27227ac5bd229ec0cd87f60e5f296b62af999",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3306982$9824f539-6268-45b9-b4c1-13a2f7813e7b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מסעוד רפאל אלפסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3572": "תוניס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3306982.json"
+}

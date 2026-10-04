@@ -1,0 +1,148 @@
+{
+ "id": "Q112144409",
+ "url": "https://www.wikidata.org/wiki/Q112144409",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112144409",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נסים רפאל יצחק צורייאנו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק טורקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f250199b95cff75a9621a8e76aa345c258096430",
+      "datavalue": {
+       "value": {
+        "time": "+1860-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112144409$FAE192C6-A0DD-48E1-B34C-D591CFF98796",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144409$A76E6287-8BAA-4752-B936-9DF3F640E482",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "45875366e2b1a7e3ed311f8adb1ddf9ff9911e16",
+      "datavalue": {
+       "value": {
+        "time": "+1820-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112144409$6948784A-44EF-4906-AF7C-2EDAA928F684",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144409$14E8447E-BA4F-49A6-8E2E-3018EA304009",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f86f1d912ca6bf5dbb57553118e49cf3c76f216",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43048,
+        "id": "Q43048"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144409$C0F92A3A-CEDF-4B49-85A7-736321EB26C3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נסים רפאל יצחק צורייאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q43048": "רודוס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112144409.json"
+}

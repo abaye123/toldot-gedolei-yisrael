@@ -1,0 +1,178 @@
+{
+ "id": "Q6843886",
+ "url": "https://www.wikidata.org/wiki/Q6843886",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6843886",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק הוברמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchak H. Cohen Huberman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מקובל חסידי, כונה \"הצדיק מרעננה\""
+   },
+   "en": {
+    "language": "en",
+    "value": "(1896-1977) Hasidic Kabbalist"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6843886$0FC029A5-A9A3-4636-9F17-54C2A66D4B76",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6843886$af115a9c-392b-4e77-aec0-93ca6fabc00e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6843886$bc176065-4d37-54fd-1588-18b1c6c266bf",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0ea87eb4f8289ccbc615f7645168ee085d66b541",
+      "datavalue": {
+       "value": {
+        "time": "+1896-05-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6843886$f2eb1b8b-4057-0c45-f2f9-84d3efc7d055",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "40c69639dfc3f658bad31bf79eb4870448a0b977",
+      "datavalue": {
+       "value": {
+        "time": "+1977-01-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6843886$9fb083d7-4099-dfbe-54af-118028d9e46a",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "e2242d19e8b734f9126e51c410e93c94847a1393",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 125399271,
+        "id": "Q125399271"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6843886$aa665c3e-42a5-d91e-de1a-b2fb9e7f8b16",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק הוברמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q125399271": "צבי הירש גליקסון",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6843886.json"
+}

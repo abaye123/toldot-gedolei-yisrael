@@ -1,0 +1,188 @@
+{
+ "id": "Q2664632",
+ "url": "https://www.wikidata.org/wiki/Q2664632",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2664632",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Simeon the Just"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמעון הצדיק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "כהן גדול, תנא, מאנשי כנסת הגדולה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish High Priest during the time of the Second Temple"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Simeon the Righteous"
+    },
+    {
+     "language": "en",
+     "value": "Shimon HaTzadik"
+    },
+    {
+     "language": "en",
+     "value": "Shimon the Righteous"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$3E1A3DE2-A6B0-421E-B6A6-F192BCDFEBBB",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "34015417fb97216d2f1406fd4af00623b0be38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2590159,
+        "id": "Q2590159"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$4568830f-47d8-d15a-b335-b85e1db15ac7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "65cd564b888ba004428ab27af4966b05a9430f49",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 51677,
+        "id": "Q51677"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$befc75c7-42ba-1b65-869b-4023bd446e78",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "f9b323407af5a8ae160d9e0cc09e773013677d16",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 191787,
+        "id": "Q191787"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$3e5cb74b-4c21-23b9-73b7-2ec73b01df94",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f7403f3e89efb75d6a114310fe868c8ee4d04d04",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 51677,
+        "id": "Q51677"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$E1A9F4B2-9351-4CAD-B54B-F52BF313B253",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b20cf6953471514f8394a16256ebbb9776ebddce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12071211,
+        "id": "Q12071211"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2664632$b5f4c0d9-41f5-95a0-762d-0f800569d943",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון הצדיק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12071211": "קבר שמעון הצדיק",
+  "Q191787": "עזרא הסופר",
+  "Q2590159": "אנטיגנוס איש סוכו",
+  "Q5": "אדם",
+  "Q51677": "כהן גדול"
+ },
+ "raw": "data/raw/wikidata/Q2664632.json"
+}

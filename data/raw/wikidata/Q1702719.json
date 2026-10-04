@@ -1,0 +1,195 @@
+{
+ "id": "Q1702719",
+ "url": "https://www.wikidata.org/wiki/Q1702719",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1702719",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yom-Tov Lipmann-Muhlhausen"
+   },
+   "he": {
+    "language": "he",
+    "value": "יום טוב ליפמן מילהויזן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אשכנזי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יום טוב ליפמן מילהאוזן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yom-Tov Lipmann ben Solomon Muhlhausen"
+    },
+    {
+     "language": "en",
+     "value": "Yomtov Lippmann Mühlhausen"
+    },
+    {
+     "language": "en",
+     "value": "Yom-Tob Lipmann-Mühlhausen"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1702719$7BC0E81A-7191-47EA-A79F-F45C50A8D7B1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6f1ab4ae4831ef357cee175bcbb42cd39e2d8549",
+      "datavalue": {
+       "value": {
+        "time": "+1400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1702719$388831C1-DB3D-4E50-B75D-DF5C59D4D467",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "931b8bc93cfda95323431e74a310fe55785e20ee",
+      "datavalue": {
+       "value": {
+        "time": "+1500-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1702719$5502D573-4FC8-4615-A220-7A6536D1C76D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1702719$bb78d2e8-d0b7-48bb-a860-57248726ad58",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1702719$4E8D4574-A882-4A08-A522-7AB6B6AF065E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1702719$f624fd3d-4f41-7c52-27b3-c52317fc51a9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יום טוב ליפמן מילהויזן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1702719.json"
+}

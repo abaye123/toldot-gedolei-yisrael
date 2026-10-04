@@ -1,0 +1,141 @@
+{
+ "id": "Q741458",
+ "url": "https://www.wikidata.org/wiki/Q741458",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q741458",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rav Assi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אסי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "3rd-century BCE Babylonian rabbi, first generation amora"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Assi"
+    },
+    {
+     "language": "en",
+     "value": "Assi (I)"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741458$2E2434F0-CA82-4331-9854-92E21E43E427",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741458$7770B90E-D86E-4F0C-8846-D4E8C6BD12CF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741458$749205AD-7D55-468C-90B2-58CA9562E07A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c335a1e8a1a42189122b80c970ab6a0bc2776437",
+      "datavalue": {
+       "value": {
+        "time": "+0200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 6,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q741458$d6a6ff26-2a0e-415f-a2cc-4691abe05a91",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב אסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q741458.json"
+}

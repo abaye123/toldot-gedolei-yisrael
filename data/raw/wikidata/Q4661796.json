@@ -1,0 +1,110 @@
+{
+ "id": "Q4661796",
+ "url": "https://www.wikidata.org/wiki/Q4661796",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4661796",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron Abba ben Johanan ha-Levi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן אבא בן יוחנן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ukrainian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אוקראיני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "31fbe2730b37e5e3e629ec864224a52120268bc8",
+      "datavalue": {
+       "value": {
+        "time": "+1643-06-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4661796$4C235D76-F925-4AC5-B292-4DC438B37E1A",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661796$6F4E07DB-F129-4A6C-9CC7-A4A18A1009DE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661796$358B9B17-286F-440A-814C-AD05A66F1895",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן אבא בן יוחנן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4661796.json"
+}

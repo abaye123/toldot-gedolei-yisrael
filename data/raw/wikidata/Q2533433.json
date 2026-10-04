@@ -1,0 +1,267 @@
+{
+ "id": "Q2533433",
+ "url": "https://www.wikidata.org/wiki/Q2533433",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2533433",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אונקלוס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Onkelos"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "author of an edition of the Targum"
+   },
+   "he": {
+    "language": "he",
+    "value": "מתרגם התורה לארמית"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אונקלוס הגר"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "22bf7e0895b36002ce756914f81306954a921739",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 220,
+        "id": "Q220"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2533433$5875BEB3-08BF-4D19-88EF-68D2C9C2F0C0",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2533433$16DE33B5-70CC-48E6-94D5-169AD7863B01",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f0efdbd2bce70bf9bf9176839f20b67a474f9c99",
+      "datavalue": {
+       "value": {
+        "time": "+0120-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2533433$933EDC1D-C0D4-40A3-9BA8-F7CD665392AE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2533433$8B112296-50CA-407E-82D3-06B17D41921E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "362b35be3b9e7f6721b9a91b1032d6888a76a175",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 24262584,
+        "id": "Q24262584"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2533433$493B67A7-9A1B-4F1F-8FA6-7DC3BBE845F0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2533433$ca2d86bd-704c-4ce7-9255-4ebcf946377e",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "dd1b651be357f3d7867a6b05ef8ca64d5171a548",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20851350,
+        "id": "Q20851350"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2533433$7539D3BF-B753-4285-A121-BF4A403CE215",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f4cdcbde66a8f78ef344b35c5a92c4251d2b6c9c",
+      "datavalue": {
+       "value": {
+        "time": "+0001-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2533433$A95110F9-0AC8-48C6-A73D-53E7B0E1DA4F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אונקלוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20851350": null,
+  "Q220": "רומא",
+  "Q24262584": "מתרגם תנ\"ך",
+  "Q333634": "מתרגם",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2533433.json"
+}

@@ -1,0 +1,191 @@
+{
+ "id": "Q557278",
+ "url": "https://www.wikidata.org/wiki/Q557278",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q557278",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה ליב קרינסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehuda Leib Krinsky"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Belarusian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בלרוסי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q557278$150B0B83-5316-4BB1-9B3B-82699B97A486",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q557278$3691B43F-189F-442C-A7FF-BC257CBCDD85",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4f8fe0c39e4ad88629f612b8357fa911b87e9101",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43845,
+        "id": "Q43845"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q557278$22aa4306-4759-326f-af97-69c0c7ce14db",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q557278$f3fb8a21-4739-2708-f8b1-3db374bfdf64",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "296ad5aafbb61a94e5fd4176a306fb91f8c6633b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2084705,
+        "id": "Q2084705"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "0a0859296c9e1e44cf0f298f4e848211d4ce28f0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 110646418,
+          "id": "Q110646418"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q557278$695e049f-4812-517a-6f23-846eb0f0efd5",
+     "rank": "deprecated"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "77b20b4e92bb0d0f40277044c18919eed5b0a7ee",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q557278$be2bae0f-4a62-6a63-e9cb-d82ee84c8ccc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה ליב קרינסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2084705": "פרשנות יהודית למקרא",
+  "Q36180": "סופר",
+  "Q43845": "איש עסקים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q557278.json"
+}

@@ -1,0 +1,245 @@
+{
+ "id": "Q98446069",
+ "url": "https://www.wikidata.org/wiki/Q98446069",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q98446069",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yisroel Aryeh Zalmanowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "ישראל אריה זלמנוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi (1916-2003)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה של עכו ו\"זקן חסידי צאנז\" בישראל, לאחר השואה כיהן כרב במחנה ברגן-בלזן"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yiśraʼel Aryeh Zalmanovits"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Yisroel Aryeh Zalmanowitz"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98446069$f31c4648-d5dc-4161-9a2b-7ae3c2a1a6f8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "058e327a777589e681843df87850abcf23eb5d96",
+      "datavalue": {
+       "value": {
+        "time": "+1916-12-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q98446069$d7aac4db-d399-45b7-a47b-8cce068ef081",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "86ea41a784c71d453b35cd78e523b77d2a892db8",
+      "datavalue": {
+       "value": {
+        "time": "+2003-06-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q98446069$a44e5fb0-8aee-4e97-b0b8-0f37fd65c63b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98446069$BD5F6B3B-4475-45FE-B69A-5058021377D2",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "9ed7bb3af88697550ed17cbcb340333ad6ccba4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "de427f852c5b080d8513a588df345fb31d289487",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 126084,
+          "id": "Q126084"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "34a743649bf81ee978a347dfe0ca47dff27b8b4b",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 6416327,
+          "id": "Q6416327"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q98446069$99077FE2-D296-4475-92DF-1F3443BBBCED",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98446069$11B7DD99-930C-498F-B099-541797FA49CC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "18bfa98535a548d225b983ad81051f68ba502f31",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98446069$22429BCC-9F5F-4A07-A3BE-8FFB5D2DF665",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל אריה זלמנוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6958598": "בית הקברות סגולה",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q98446069.json"
+}

@@ -1,0 +1,314 @@
+{
+ "id": "Q12236274",
+ "url": "https://www.wikidata.org/wiki/Q12236274",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12236274",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי דב טברסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordechai Dov Twerski"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי, אבי שושלת חסידות הורנסטייפול"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1839–1903)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "טווערסקי, מרדכי דוב"
+    },
+    {
+     "language": "he",
+     "value": "מרדכי דב, מ\"מ בהארנאסטייפאלע"
+    },
+    {
+     "language": "he",
+     "value": "טברסקי, מרדכי דוב בן משולם זושא יצחק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Mordecai Dov, of Hornistopol"
+    },
+    {
+     "language": "en",
+     "value": "Mordekhai Dov Tverski"
+    },
+    {
+     "language": "en",
+     "value": "Mordekhai Dov Ṭversḳi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12236274$493D1F6E-7A61-48A7-AAB0-623105013887",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12236274$501A871C-C8B0-4A5B-ACE1-CC068109AA08",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "89ac6ab2454f261ccae974c638f8ab60460b31a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55648918,
+        "id": "Q55648918"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12236274$a111c0f9-45fb-3006-f792-e92d24c81fc8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "eb58908cf792017b949172798b1513ae61dbfab6",
+      "datavalue": {
+       "value": {
+        "time": "+1903-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q12236274$6a27f2a4-4b66-866a-dba2-c0323f19adec",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "88c831084848313f112d616dfb8ab8185ddf8b6f",
+      "datavalue": {
+       "value": {
+        "time": "+1903-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12236274$2DA756AF-102B-44A6-884E-96D5264F32EE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "398fbcc9a3d900af1791aed4a191163eba963b36",
+      "datavalue": {
+       "value": {
+        "time": "+1839-12-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q12236274$7ebd444c-4cc1-6925-ebee-fd24cfe0781d",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e2282ad1aec057648b8353a7d9534bf6231a0770",
+      "datavalue": {
+       "value": {
+        "time": "+1839-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12236274$8fa1f29e-5e64-4f79-b10f-f3070acdda91",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7beaaed17398097297b15debde45cc75a06d1a30",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3543790,
+        "id": "Q3543790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12236274$bcc30b41-4ffd-cf0f-029a-13c85e934051",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8cdfaee420c2400a1cd7c4c2f50798ebec193bea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3543790,
+        "id": "Q3543790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12236274$dc3dae33-4dd6-47d9-e124-0d19e6c65c59",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי דב טברסקי (הורניסטייפול)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3543790": "הורנוסטייפל",
+  "Q5": "אדם",
+  "Q55648918": "משולם זושא אוירבך"
+ },
+ "raw": "data/raw/wikidata/Q12236274.json"
+}

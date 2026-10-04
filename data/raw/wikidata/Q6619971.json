@@ -1,0 +1,176 @@
+{
+ "id": "Q6619971",
+ "url": "https://www.wikidata.org/wiki/Q6619971",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6619971",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם קארפ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham J. Karp"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "היסטוריון יהודי אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6619971$622CA851-0BAE-4184-8A91-B3CEC3479513",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bd638c036eb5af3c98687f2a3163b5c0753b0ca8",
+      "datavalue": {
+       "value": {
+        "time": "+1921-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6619971$547A755F-136D-4E53-A643-39BD982889FD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "93f2ebe009078e1c3f17ae1b0a0ba67295997743",
+      "datavalue": {
+       "value": {
+        "time": "+2003-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6619971$CDB3469C-BC31-43FD-8418-612A80BD0139",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6619971$49A0C231-6B35-4077-B6D2-2CB648A826B1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6619971$26F684A4-15F3-475C-BFC3-9A0A957A898F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "007d9014543f122d697d82fb1d0d314f9b5d9c9c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920508,
+        "id": "Q2920508"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6619971$af124452-4ca7-a03c-026a-d3540d9fdbb8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם קארפ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201788": "היסטוריון",
+  "Q2920508": "אינדורה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6619971.json"
+}

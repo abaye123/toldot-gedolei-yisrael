@@ -1,0 +1,185 @@
+{
+ "id": "Q113133907",
+ "url": "https://www.wikidata.org/wiki/Q113133907",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113133907",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי פישר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zvi Hirsch Fischer"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי, רבן של הערים אסוד ודוואוואניה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1841–1902)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Tzvi Hirsch Fischer"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113133907$C64D99AF-55E8-4A2B-93BE-03A91EFFFF02",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "820c43083b7b924d2d5d31b073a6ad1c1be57403",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 855052,
+        "id": "Q855052"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113133907$5DF13513-9435-43A9-B98F-55DFB9C24E39",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113133907$6a8eb34e-44f3-1ac6-4b5d-d56a4dcd6958",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c75df0209dd63ad5c9fe1c463f62ffc0a7c23ae",
+      "datavalue": {
+       "value": {
+        "time": "+1841-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113133907$0a4f43ba-4314-3419-9c05-96a403eda54e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b2413ff97ab498d493d01e9f8d6b7683f4b4574e",
+      "datavalue": {
+       "value": {
+        "time": "+1902-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113133907$e63ab9b0-459a-190f-d59f-14e779e09d6f",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "963b7efd9281aa714f4beec3a17b55dbf7d0d524",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113133908,
+        "id": "Q113133908"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113133907$0e2fd7ab-489d-789c-cc43-24bec1ecc436",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי פישר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113133908": "עקיבא פישר",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q855052": "מזטור"
+ },
+ "raw": "data/raw/wikidata/Q113133907.json"
+}

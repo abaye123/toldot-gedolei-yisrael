@@ -1,0 +1,163 @@
+{
+ "id": "Q18035580",
+ "url": "https://www.wikidata.org/wiki/Q18035580",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18035580",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק שלמה אונגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitshak Shelomoh Unger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה הונגרי, רבה הראשון של קהילת חוג חת\"ם סופר ברח' הרב יהודה לייב מיימון בבני ברק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Unger, Yitsḥaḳ Shelomoh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18035580$0C7CCE1C-E1FD-4AFA-9E9A-868093BB3183",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18035580$F539C28A-0F6F-4052-8F9C-21550CF8886D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "20c3b27443e082b5c0a229cd4fd465c0d26333dd",
+      "datavalue": {
+       "value": {
+        "time": "+1921-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18035580$7f451646-43b1-2c33-fda8-fe0b3ea2a6fe",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "174ff81af8ffd6cd3e44a5a82193670eb08ef98c",
+      "datavalue": {
+       "value": {
+        "time": "+2004-06-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18035580$29ab5b4d-4694-8382-4c25-ad10eec0782c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ff15b7c965a807ebdfdd9f99553fd4a0d2988b23",
+      "datavalue": {
+       "value": {
+        "time": "+2004-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18035580$B1670564-5DBB-47A1-9403-2DAB69CEAA6D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק שלמה אונגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18035580.json"
+}

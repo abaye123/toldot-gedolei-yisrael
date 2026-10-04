@@ -1,0 +1,268 @@
+{
+ "id": "Q5553105",
+ "url": "https://www.wikidata.org/wiki/Q5553105",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5553105",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Gershon Ashkenazi"
+   },
+   "he": {
+    "language": "he",
+    "value": "גרשון אשכנזי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Gerschon Ulif Aschkenasi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$CBB95D9B-611C-46AF-9CB2-976CFCBACAB9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$F51331EB-78E0-4680-ABAF-24FF7CB75FE7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8f5e63ffd7145418ba54f2d66dd7e9dbf143bdfd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22690,
+        "id": "Q22690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$15314cd0-cd35-43d8-be8c-402d5228e287",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bdd0acf691be6d60d749394ef0ecbee6c62e81e7",
+      "datavalue": {
+       "value": {
+        "time": "+1618-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q5553105$bb28d9f0-ee39-47a5-b792-6dcee0f4359b",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "54146adc5b4afa6f9cb8a36bbed05e461c44e179",
+      "datavalue": {
+       "value": {
+        "time": "+1650-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5553105$8DDB4C5B-7D07-4086-9E2B-55FCF47B1276",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e570c20039ac05ac7da34720e7ab5f7f3e3b1362",
+      "datavalue": {
+       "value": {
+        "time": "+1693-03-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5553105$f4914fd6-4795-96f7-6275-a62694ddc94b",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "c07c64897f1dbdf3955a527fb6abe77613dc847e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6816375,
+        "id": "Q6816375"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$5995a8cc-4278-02e4-735d-07bf4a338bd6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3315ccf3bea8e8547e20314cff94d1f64e63d3a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1691747,
+        "id": "Q1691747"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$6028744f-43e0-8831-d1b5-75dcf175561c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a4c267a8f2dcdcf04a5e9266c9664517938f6bc5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6289929,
+        "id": "Q6289929"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5553105$5ad84904-40fa-8a92-72c7-d82ab588290a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "גרשון אשכנזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1691747": "יואל סירקיש",
+  "Q22690": "מץ",
+  "Q5": "אדם",
+  "Q6289929": "יהושע חריף",
+  "Q6816375": "מנחם מנדל קרוכמל"
+ },
+ "raw": "data/raw/wikidata/Q5553105.json"
+}

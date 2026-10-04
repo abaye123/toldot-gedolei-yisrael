@@ -1,0 +1,167 @@
+{
+ "id": "Q6118997",
+ "url": "https://www.wikidata.org/wiki/Q6118997",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6118997",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob Meir Biderman"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב מאיר בידרמן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Jacob Meir Biderman"
+    },
+    {
+     "language": "en",
+     "value": "Yaʻaḳov Meʼir Biderman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6118997$C14E9B88-BA8E-4A7E-80A2-73FB8ACE52F9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1132b49557d1a0ed16f4b2a96fbaa854f138775f",
+      "datavalue": {
+       "value": {
+        "time": "+1941-06-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6118997$1a828243-ae0a-4017-9cd4-fd3b2d04b46c",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6118997$FF11209D-BB6E-4678-B6C5-D1126FA2CBCC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "23ce5607bf244cb383bac98e3916009266062151",
+      "datavalue": {
+       "value": {
+        "time": "+1869-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6118997$D9714E48-67BF-4DEA-A17F-4452CEEC7EB0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5d49dbeb2efe3b2d44d054bdc8c6ac1449ae9b39",
+      "datavalue": {
+       "value": {
+        "time": "+1870-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6118997$1F6EB30E-BC08-476F-8D43-B15504A6415D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב מאיר בידרמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6118997.json"
+}

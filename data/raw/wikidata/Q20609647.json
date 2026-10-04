@@ -1,0 +1,168 @@
+{
+ "id": "Q20609647",
+ "url": "https://www.wikidata.org/wiki/Q20609647",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20609647",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל חיים מנשה פרידמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראב\"ד קהל יטב לב דסאטמאר בוילאמסבורג"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609647$AD4202A1-431F-4367-9300-95305AB5707A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "763dbf9f4072dac308b53e15c674aaf9f50754a1",
+      "datavalue": {
+       "value": {
+        "time": "+1926-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609647$f23ff738-4aa3-5cc0-fe36-143756163644",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609647$abae1386-428f-c7b4-4c99-d186fa4f482d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609647$e3c724c2-45ff-6587-9e0a-2ad8f361be3c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9e2ce247bd2d291813c7b97cd0b4a4b146edbbdf",
+      "datavalue": {
+       "value": {
+        "time": "+2020-12-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609647$bfe8feee-4cc4-a88a-2ed4-7c08dbec57b9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609647$03d423dc-4c2a-0b1a-8e60-2bd29e34c465",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל חיים מנשה פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q3570351": "דיין",
+  "Q5": "אדם",
+  "Q60": "ניו יורק",
+  "Q694994": "אב בית דין"
+ },
+ "raw": "data/raw/wikidata/Q20609647.json"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "Q6004580",
+ "url": "https://www.wikidata.org/wiki/Q6004580",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6004580",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Immanuel Aboab"
+   },
+   "he": {
+    "language": "he",
+    "value": "עמנואל אבוהב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bd2b58afec75d8405f2ad8796a95da30073cc457",
+      "datavalue": {
+       "value": {
+        "time": "+1555-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q6004580$05368813-4aed-234e-53f4-56032f072bbd",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6004580$8FC6DC10-9C35-4060-9D2B-BE291FA4CE4A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e443d8e29195c3ffabb53a3fb31f57b8d439dfda",
+      "datavalue": {
+       "value": {
+        "time": "+1628-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6004580$EC803DD2-A69D-4FA9-ADA1-38DB1F1E9329",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6004580$6D2EED41-BA05-4325-A02D-2CB58387EFDA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4706f2cb59d7e67f7fbbd28d9af8eb51ebf6f0ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36433,
+        "id": "Q36433"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6004580$611a3b7a-4716-cb9d-5a05-2f946391b601",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5f567f06450b2aced12a68c3376efe2612d80c19",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6004580$da3592e3-4fe4-56a9-b7b1-bb171a29439b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עמנואל אבוהב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q188336": "צפת",
+  "Q36433": "פורטו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6004580.json"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "Q6962016",
+ "url": "https://www.wikidata.org/wiki/Q6962016",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6962016",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פנחס דורון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Pinchas Doron Spalter"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פרופסור ליהדות ומחבר ספרות תורנית בעברית ובאנגלית"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Pinḥas Doron"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6962016$D2DC9DFE-0991-44B6-B30B-B5102F775A43",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6962016$5AA0B370-98F0-4F8C-B712-F5C21B27CA00",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "3227da5c561faf242d77dcff2b2ceb6cb4ffa61c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 482980,
+        "id": "Q482980"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6962016$1ccb27d9-451a-af9c-2cc6-9a6f00a5f0ad",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "aae9ec8bb049dee46c244f7f6ea1db0a3402c681",
+      "datavalue": {
+       "value": {
+        "time": "+1933-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6962016$5D5A5390-0246-452E-9A42-5B5E24827EEB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d169fc51fd4283ae28968daf064b445514445d9e",
+      "datavalue": {
+       "value": {
+        "time": "+2019-08-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6962016$878db9f5-4f06-8a4e-bd97-9d69c21cb327",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פנחס דורון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q482980": "מחבר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6962016.json"
+}

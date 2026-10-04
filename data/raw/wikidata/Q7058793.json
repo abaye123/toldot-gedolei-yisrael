@@ -1,0 +1,169 @@
+{
+ "id": "Q7058793",
+ "url": "https://www.wikidata.org/wiki/Q7058793",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7058793",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים זלמן דימיטרובסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haim Zalman Dimitrovsky"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חוקר תלמוד ישראלי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "H. Z. Dimitrovsky"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "זלמן דזימיטרובסקי"
+    },
+    {
+     "language": "he",
+     "value": "זלמן דימיטרובסקי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7058793$C8407E92-D7D8-452D-BCCD-D227D90289FC",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7058793$9196c4c5-08e3-42f0-a7f5-dedcf6387712",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7058793$c16412c3-6387-44c2-8729-09c447ab82a7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ff4a26f17fefca23b250effb6d424d27bac5ce8c",
+      "datavalue": {
+       "value": {
+        "time": "+2011-07-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7058793$88fb6aba-4b32-0b51-76b1-68bcc6ff40a4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "02deeacc7a06075cdf339eabc9cf700d30589a25",
+      "datavalue": {
+       "value": {
+        "time": "+1919-09-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7058793$8f70f1d7-4ef0-aa05-68ab-a7cb6699747b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים זלמן דימיטרובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q21584816": "תלמודאי",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7058793.json"
+}

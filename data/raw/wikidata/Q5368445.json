@@ -1,0 +1,213 @@
+{
+ "id": "Q5368445",
+ "url": "https://www.wikidata.org/wiki/Q5368445",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5368445",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Elya Svei"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליה שווי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי. מייסד ישיבת פילדלפיה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Elya Rabbi Svei"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אליהו שוויי"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368445$93011029-4a78-a847-a29c-100730fe06b6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e63561afa15111690b635b2f843e6c4a46697c46",
+      "datavalue": {
+       "value": {
+        "time": "+2009-03-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5368445$E8A9D8DA-1B2E-4821-9EB3-485169DB16F9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "657a9d0351bc5231a34f575b38c8cc3c1efe4547",
+      "datavalue": {
+       "value": {
+        "time": "+1924-03-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5368445$ECAC56D4-366E-44E9-9C56-AADA0CD790CE",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368445$27B6B4AF-8AD0-4B7F-8F1F-D36D5CC38406",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368445$BF26E7DB-B633-4EF6-8D92-41229C7D5013",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368445$17fa3603-83ad-4788-8678-886a1a84394f",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "325a3489cb3b2c3361688bfb4ca46df95b931ffc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 136562991,
+        "id": "Q136562991"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368445$0c83d401-4b3c-ed80-a972-ea6282eb60e9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו שווי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q136562991": "יהודה שווי",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5368445.json"
+}

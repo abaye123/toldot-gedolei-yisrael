@@ -1,0 +1,199 @@
+{
+ "id": "Q12409094",
+ "url": "https://www.wikidata.org/wiki/Q12409094",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409094",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מיכאל נהוראי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Michael Nehorai"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב והוגה ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מיכאל צבי נהוראי"
+    },
+    {
+     "language": "he",
+     "value": "מיכאל צבי ליטמן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Michael Tzvi Littman"
+    },
+    {
+     "language": "en",
+     "value": "Michael Zvi Nehorai"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409094$5DDA152B-BB28-4EC3-8093-04A0B089B19A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5597f884813188bdd8727851dd766973ac1f05bb",
+      "datavalue": {
+       "value": {
+        "time": "+1931-10-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409094$BF3AD79F-3554-4127-85AE-1DFA04F99FE2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409094$08A2D157-53EC-41AC-955F-B9662E5FD15E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "89358f0fafe01d4087f995ee6781cd818f1b0c2d",
+      "datavalue": {
+       "value": {
+        "time": "+2020-10-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409094$DB5E9A7F-5489-4762-BDB9-7FB60315D873",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409094$A31A4FAF-56C8-40D2-96FD-94E0D3975AA3",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "74c915c14fb1dbe4e0067ed99dd9d75169141c49",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14635620,
+        "id": "Q14635620"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409094$fd3ca24c-41b3-f24e-7b67-c36c078788e4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מיכאל נהוראי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14635620": "יאיר נהוראי",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12409094.json"
+}

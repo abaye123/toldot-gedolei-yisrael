@@ -1,0 +1,152 @@
+{
+ "id": "Q114457184",
+ "url": "https://www.wikidata.org/wiki/Q114457184",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q114457184",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחיא אמסלם"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין באוראן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moroccan rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457184$3674B5B4-508D-4A0A-9C02-B55DEE392E69",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457184$FC51C7D3-EDB6-4561-9566-A5912B305265",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6789d236ef8a84f06a6282e811eb4596d706ac02",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1017333,
+        "id": "Q1017333"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457184$c4d265bc-4a7d-c449-db54-dc07ca4829e9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7c988c2b8798352d673e3f8e71cc60c12cd1b643",
+      "datavalue": {
+       "value": {
+        "time": "+1912-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114457184$778b1429-4338-d0c7-acbd-ae93b1656e1b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a9f13d767a69bfc64bd7feeb90e1f5bf9f4e4977",
+      "datavalue": {
+       "value": {
+        "time": "+2005-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114457184$aacddac3-49a4-9825-a4df-d0dcd21e7677",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיא אמסלם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1017333": "תאפילאלת",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q114457184.json"
+}

@@ -1,0 +1,152 @@
+{
+ "id": "Q16130655",
+ "url": "https://www.wikidata.org/wiki/Q16130655",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16130655",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף דוד שחור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef David Shahor"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shaḥor, Yosef Daṿid"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130655$2C4D6259-A07B-42D8-AC5C-23D856AD50C1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130655$9DCC1E8B-4DFA-4A2C-8A30-CABF4286DA93",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2cd4be96326829d3b76ec1646c10404c6394bfa5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 615132,
+        "id": "Q615132"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130655$6864766d-43b0-9126-6435-fefd65863690",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "20bb3f9f8a077be1ef084cc8a22856df790d5c75",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1861531,
+        "id": "Q1861531"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130655$f9cefb58-4c16-fba8-d041-1fff9b8a0333",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5a3bceb5b617f05ceb546745a8801f34a1b4b0bb",
+      "datavalue": {
+       "value": {
+        "time": "+1906-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130655$A2FE7B52-1665-4ACC-8122-4ADD1A470C6D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף דוד שחור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1861531": "נפתלי צבי יהודה ברלין",
+  "Q5": "אדם",
+  "Q615132": "רוז'ינוי"
+ },
+ "raw": "data/raw/wikidata/Q16130655.json"
+}

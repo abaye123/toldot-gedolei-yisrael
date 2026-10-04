@@ -1,0 +1,134 @@
+{
+ "id": "Q6119558",
+ "url": "https://www.wikidata.org/wiki/Q6119558",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6119558",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob of London"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב מלונדון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "British rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בריטי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6119558$93233F8D-CC6A-4B04-8FDD-995DF94A6A94",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6119558$7B10C430-244B-45B7-9D61-EB8BD07D54EC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9bb2c1bc85cd053e0bb2b9977e756bb0a8ce9a9d",
+      "datavalue": {
+       "value": {
+        "time": "+1101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6119558$9CC4431E-646B-406E-8C6E-11F9F9E8EDD7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7b7d517e18986416f89e18460e30607867aa5ef2",
+      "datavalue": {
+       "value": {
+        "time": "+1217-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6119558$E0D3A34B-5895-4700-9AED-166394B7506F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב מלונדון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6119558.json"
+}

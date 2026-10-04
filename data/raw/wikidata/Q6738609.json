@@ -1,0 +1,242 @@
+{
+ "id": "Q6738609",
+ "url": "https://www.wikidata.org/wiki/Q6738609",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6738609",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב קשמכר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמן ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "painter (1941-2011)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב קשמאכר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6738609$620C754A-B110-4E73-89A9-5FEF9E5C863F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "15a797df5f0bcaa24a6ade2e80203480db7a5b8c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1028181,
+        "id": "Q1028181"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6738609$3871CD8A-3AB5-4795-A377-6D4A31D0D900",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1564a0f1fd3084bda346c1f27dd5deced9a4759f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33231,
+        "id": "Q33231"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6738609$087BE25A-C22C-4896-A145-28448CC36E94",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6738609$d04a62fc-4dfe-9ac8-85e5-20262efe2542",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "83d2bdb2d5200d2c44c9c8a5f552545308f27e2a",
+      "datavalue": {
+       "value": {
+        "time": "+1941-06-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6738609$6e9cb8b7-40a9-ea72-9486-4c81311ecb57",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b8a3990a69eac85fc184b0f4a345fe5932f505da",
+      "datavalue": {
+       "value": {
+        "time": "+1941-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6738609$22FB7669-8C56-413F-8131-BEA135EF9FA5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e248653deec1d1bb97a26f9ab14b6a44ca398cfc",
+      "datavalue": {
+       "value": {
+        "time": "+2011-07-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6738609$399cde61-4f10-5a93-4a7e-586ac857dc31",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6e06e16c6c1694dcfff0f3da9804529e9cbe0b82",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7061378,
+        "id": "Q7061378"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6738609$3e5909f4-5fa9-457a-9923-b7cd82d70495",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב קשמכר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1028181": "צייר",
+  "Q133485": "רב",
+  "Q33231": "צלם",
+  "Q5": "אדם",
+  "Q7061378": "בית הקברות היהודי העתיק בצפת"
+ },
+ "raw": "data/raw/wikidata/Q6738609.json"
+}

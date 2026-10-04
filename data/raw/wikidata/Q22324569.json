@@ -1,0 +1,163 @@
+{
+ "id": "Q22324569",
+ "url": "https://www.wikidata.org/wiki/Q22324569",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q22324569",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו אלן לוין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Allan Levine"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Reform Canadian/Israeli Rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliyahu Allan Levine"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22324569$52D157FE-F108-41F6-B053-25FA04E2E164",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22324569$76B3BCB8-5868-48D6-843C-BDC3DC716C9F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bdf0a8149d7fcf57981dadcd30871db1e2faa2f8",
+      "datavalue": {
+       "value": {
+        "time": "+1932-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q22324569$57b199b7-41f6-85ac-e943-136072817a6c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e564f43b5b46cddac9b02b20443454f4be92e1a1",
+      "datavalue": {
+       "value": {
+        "time": "+2016-01-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q22324569$d448916d-4037-a374-ed37-fe1d62605509",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e2ed16f1609750d475bf77d8f5b36463e2ad4e77",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 340,
+        "id": "Q340"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22324569$ad6965b4-4e57-a179-adb4-d364675dca08",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו אלן לוין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q340": "מונטריאול",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q22324569.json"
+}

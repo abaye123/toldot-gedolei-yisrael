@@ -1,0 +1,257 @@
+{
+ "id": "Q25490109",
+ "url": "https://www.wikidata.org/wiki/Q25490109",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490109",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חזקיה פייבל פלויט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hezekiah Feivel Plaut"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Hezekiah Feivel Flaut"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490109$b35cbf49-42f2-ce1a-5335-cf2951832445",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "994bf5325af5df9be0fb5e5a2612cb10f1b4da85",
+      "datavalue": {
+       "value": {
+        "time": "+1818-01-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q25490109$6293d206-4bcc-e68a-83ca-e9940d805387",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "93cc6e08fbf3f87b8998d6999a70c158d342d7b0",
+      "datavalue": {
+       "value": {
+        "time": "+1818-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490109$E1AC24F2-A233-42E1-9B28-42528BEF7A80",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d41fb948316df514865242095ef773ae86758d96",
+      "datavalue": {
+       "value": {
+        "time": "+1894-12-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490109$e07aa587-44f9-1925-a46d-6885362f75b1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bb6bf9e3bbc0a8cee246eff4e06afcb1d9d606f4",
+      "datavalue": {
+       "value": {
+        "time": "+1895-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490109$53E020A6-9AD0-46DD-B0A0-C6D887C4AA07",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "4d1274533ece6efb7d47ac26d9062cba61e09d4e",
+      "datavalue": {
+       "value": "חבר בן חיים",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P407": [
+       {
+        "snaktype": "value",
+        "property": "P407",
+        "hash": "2325b398f0a3b386ff59d59713eef9f23d4b26da",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 9288,
+          "id": "Q9288"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P407"
+     ],
+     "id": "Q25490109$cb63eb4d-44a4-13b0-0dd4-8ac0494254ac",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "97d9336561f06eb8d17824e729f6b088e0387911",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 470369,
+        "id": "Q470369"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490109$8fce5918-45b1-b7eb-4081-970eaea72a4d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490109$3EEF6E66-D87F-44A9-88E5-DE60F01FEDD8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חזקיה פייבל פלויט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q470369": "קולין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25490109.json"
+}

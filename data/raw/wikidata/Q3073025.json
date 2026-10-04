@@ -1,0 +1,159 @@
+{
+ "id": "Q3073025",
+ "url": "https://www.wikidata.org/wiki/Q3073025",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3073025",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים פישל סלומון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Fishel Salomon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש קבוצת המתיישבים ביסוד המעלה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פישל סלומון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3073025$F28D35FE-8A5B-42E3-A39B-BA720EFAB0E2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "daee5832eab756b80182ad3f064569de364c752b",
+      "datavalue": {
+       "value": {
+        "time": "+1849-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3073025$4968BF48-847E-4194-AD4C-98454C04DE95",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "06232d8966c2f1f6942d47db2df16c6fb40232aa",
+      "datavalue": {
+       "value": {
+        "time": "+1924-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3073025$8BA7A922-F8AF-4A83-93F7-37290E3EB5B3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3073025$0ED66E67-F4C9-4D97-9523-20A2556E9882",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8a65e1196a32d41581373d03f1b420d5fcf958ed",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 34266,
+        "id": "Q34266"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3073025$4ff0fb03-6789-420a-820c-63baae9357a7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים פישל סלומון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q34266": "האימפריה הרוסית",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3073025.json"
+}

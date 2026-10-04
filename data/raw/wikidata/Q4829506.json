@@ -1,0 +1,217 @@
+{
+ "id": "Q4829506",
+ "url": "https://www.wikidata.org/wiki/Q4829506",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4829506",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avrohom Yissochor Englard"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם ישכר אנגלרד"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829506$4D0C1966-CBEF-4D70-BADE-6CF59DE34729",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5fcc3c77897d370a048bf15b1d32b3ce2009f1ed",
+      "datavalue": {
+       "value": {
+        "time": "+2005-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829506$76934AFC-8473-4F51-B056-10255C7CF239",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829506$9A2F3EC4-9EAC-4796-B77F-632F1C405BC0",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829506$1646C7CB-C14B-4550-99F9-E5943BD36877",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "739069e624d709afa39fca59c085b3cd5e3e1c7f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12408370,
+        "id": "Q12408370"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829506$315E2B55-98FB-4C9F-BCFC-728A40866F74",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c0a9c0798dd1cc6d0e7fe98c0128e706144c6b83",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11748283,
+        "id": "Q11748283"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829506$E430AB9C-EEDF-4595-8476-FAD273DCD725",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "22681f47e380695ae11e311de1ca6a2608482fb9",
+      "datavalue": {
+       "value": {
+        "time": "+1909-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "b07545694ad55ed51f4dd0d96d48dd63b3e9fcda",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 60070514,
+          "id": "Q60070514"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q4829506$c7e21168-4f78-7a33-10eb-4a7ac838e316",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם ישכר אנגלרד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11748283": "קרומולוב",
+  "Q12408370": "ישעיהו אנגלרד",
+  "Q133485": "רב",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4829506.json"
+}

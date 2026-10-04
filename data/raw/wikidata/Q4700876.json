@@ -1,0 +1,187 @@
+{
+ "id": "Q4700876",
+ "url": "https://www.wikidata.org/wiki/Q4700876",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4700876",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Akiba Lehren"
+   },
+   "he": {
+    "language": "he",
+    "value": "עקיבא להרן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "בנקאי ונדבן יהודי-הולנדי שעמד בראש ארגון הפקידים והאמרכלים של אמסטרדם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Dutch banker (1795–1876)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Akiba Mozes Lehren"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "עקיבא לעהרן"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4fe6ae04ce35282144f19a383feeec084506e37c",
+      "datavalue": {
+       "value": {
+        "time": "+1876-11-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4700876$80FAB7C4-F903-45FD-B072-72013201571D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2fc680b10085d9dd6df3d9b283fd022acfcc06ac",
+      "datavalue": {
+       "value": {
+        "time": "+1795-07-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4700876$CBE6A68E-0BF2-447C-8AC3-F0F5B97027AD",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4700876$AC826EE6-464D-4A76-851A-3629E41254D0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5ced95cd3b3aa25fdf2bbfee599e066f56ba5224",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 806798,
+        "id": "Q806798"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4700876$236FFF32-9815-4F40-A82E-55DBFD148F49",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4700876$34E936DB-B7F4-48AC-B05A-41F4D6F8B7A2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4700876$516DDA1F-1245-47D6-8D24-545752CC4235",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עקיבא להרן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם",
+  "Q806798": "בנקאי"
+ },
+ "raw": "data/raw/wikidata/Q4700876.json"
+}

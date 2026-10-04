@@ -1,0 +1,167 @@
+{
+ "id": "Q827736",
+ "url": "https://www.wikidata.org/wiki/Q827736",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q827736",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליעזר בן נתן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Nathan"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Halakist and poet"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק ופייטן, מבעלי התוספות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ראב\"ן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Raavan"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q827736$9284C557-84D8-4C26-BDB6-FAA3684F7F64",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q827736$1449b548-c0fd-4364-ac22-4f75016470c1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q827736$66af8854-27a1-4d40-b8de-3a87a9a0f008",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d8316b82b224c52ffdaec576ae711cefd65f9a2b",
+      "datavalue": {
+       "value": {
+        "time": "+1170-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q827736$39CF0A96-042B-4F1E-AC73-6061FB041EFD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cd45aa6526cb3813d5ec826882684bc9fc474376",
+      "datavalue": {
+       "value": {
+        "time": "+1090-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q827736$47C72221-0DA3-4E23-A91C-CA401276F4EB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר בן נתן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q827736.json"
+}

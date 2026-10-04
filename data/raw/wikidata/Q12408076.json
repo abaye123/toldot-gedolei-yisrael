@@ -1,0 +1,189 @@
+{
+ "id": "Q12408076",
+ "url": "https://www.wikidata.org/wiki/Q12408076",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408076",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחיא הלוי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם מחכמי צנעא במאה ה-17 ודיין בבית הדין בצנעא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408076$F3C484E6-BC53-42AA-A03D-72F42D2BDE80",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408076$11461C1F-9939-4A3D-A092-986CF3D08891",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408076$b3a25f6e-42a6-4b59-0902-0968637fb732",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1d5ff5a474c84a5f1c862d99b6390a3a7d11bf3a",
+      "datavalue": {
+       "value": {
+        "time": "+1611-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408076$db274fb6-4d72-fdd5-a2d1-d5e3bc0cd9a5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "924dabdfe94bfe59d990c82898c4d4a311b19db3",
+      "datavalue": {
+       "value": {
+        "time": "+1696-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408076$acf9be40-4139-a1a7-8fb0-98eb54a7da53",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "60eafa5315179a34dd7e400a383b0302433ce1a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408076$4FA4C2B1-5BF7-4C76-B5A2-6D376F158435",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408076$8AEC7239-4021-484F-B60A-E6028021CA5F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיא הלוי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2471": "צנעא",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408076.json"
+}

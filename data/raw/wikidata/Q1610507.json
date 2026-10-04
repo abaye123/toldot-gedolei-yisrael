@@ -1,0 +1,357 @@
+{
+ "id": "Q1610507",
+ "url": "https://www.wikidata.org/wiki/Q1610507",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1610507",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hermann Adler"
+   },
+   "he": {
+    "language": "he",
+    "value": "נפתלי הרמן אדלר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Chief Rabbi of the British Empire from 1891 to 1911"
+   },
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי לבריטניה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אדלר, נפתלי"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3b23f8647f88966fc949dcef2e77566c61c9ba53",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1715,
+        "id": "Q1715"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1610507$E6E3642E-4B00-4E2C-B2EB-D846AFD59405",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1610507$48D43254-24F3-40AA-A3BF-73894ABE0C01",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a33e051e33e2b3c32f6b78258e404d7b930287e9",
+      "datavalue": {
+       "value": {
+        "time": "+1839-05-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q1610507$111DD224-D079-4F48-9F0D-331951041679",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e2282ad1aec057648b8353a7d9534bf6231a0770",
+      "datavalue": {
+       "value": {
+        "time": "+1839-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1610507$6C90ECFD-E61C-48AE-B69D-7349A9833421",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e145479241ebdd27449044da0a2d8ba11bd84e55",
+      "datavalue": {
+       "value": {
+        "time": "+1911-07-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q1610507$8EC29286-9DC4-499E-8687-0E461D279704",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "95c8d14f7df6d888445522ce8f2570277413c1f1",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1610507$73FBAD86-0E22-487D-9EB9-C795A36FD396",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$306E1EBE-5F6E-4427-A374-48CF3D15CC6B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$b1736c79-48bb-017a-2c52-bce120fdbdc3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$ADB736FE-EDDC-4281-8A34-1F250213BF43",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "75338421c001eadbeabbb9d8f8438aa94f1a9556",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 78287,
+        "id": "Q78287"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$9af87650-48a7-13e1-5614-7aa1d1d86d65",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "1c9803e1265fbcf6a360f9abbe5add1a6a69a93b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 8003686,
+        "id": "Q8003686"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$2746d3fc-635e-4b08-bc3c-1b59b9786364",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "444143b8292a5b900ed6fd24b2efa3912a281d2e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15997886,
+        "id": "Q15997886"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1610507$7301184a-4b07-a880-0c87-04bd0fcac842",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נפתלי הרמן אדלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15997886": "Henrietta Adler",
+  "Q1715": "הנובר",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q78287": "נתן מרקוס אדלר",
+  "Q8003686": "בית הקברות היהודי בווילסדן",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q1610507.json"
+}

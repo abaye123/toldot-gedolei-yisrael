@@ -1,0 +1,302 @@
+{
+ "id": "Q6620284",
+ "url": "https://www.wikidata.org/wiki/Q6620284",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6620284",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם מנחם רפאפורט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Menahem ben Jacob, ha-Kohen, Porto"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בקהילות קרימונה, וירונה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רפא, מנחם בן יעקב הכהן, מפורטו‏"
+    },
+    {
+     "language": "he",
+     "value": "רפפורט, אברהם מנחם בן יעקב, הכהן"
+    },
+    {
+     "language": "he",
+     "value": "פורט, אברהם מנחם הכהן אשכנזי"
+    },
+    {
+     "language": "he",
+     "value": "אברה׳ מנחם בכמ״ר יעקב כהן ז״ל רפ״א מפורט"
+    },
+    {
+     "language": "he",
+     "value": "רפא מפורטו, אברהם מנחם בן יעקב, הכהן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6620284$27BED8DB-D4FD-4A81-AFB5-A80DD9EA9467",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e7f40efe18551c39d78dcdea52f2654ec6723926",
+      "datavalue": {
+       "value": {
+        "time": "+1520-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q6620284$D6C927E7-7506-4764-9B51-B5C6CB55D634",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "94e347e0905ef31885a1a6681dda7d3330a71291",
+      "datavalue": {
+       "value": {
+        "time": "+1596-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q6620284$7D70558A-E7FD-4343-B304-5B47568569E5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e6af1c917edbb6880ffa19adbeeb4eca8f01c1f",
+      "datavalue": {
+       "value": {
+        "time": "+1596-12-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6620284$06fe2835-400d-54d9-d878-e67b9c992783",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6620284$9E997992-C8C5-461A-8294-7A957D7C1814",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02c4293090969a756e0ad4be463d2b53af260194",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6620284$c0caf57b-4ef1-c7b1-a4a6-b77b2e114f9a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "560f13a07eaf5e617a60f5a01e080ebbc08a25cd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 641,
+        "id": "Q641"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6620284$03eefa48-4b9c-3202-24b2-a99881c3d233",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b663e678c73a7eb7dec0ea2a8c56ac214039df70",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 38,
+        "id": "Q38"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6620284$76b6772d-4e8e-a137-abc0-5ef1b8b23ce5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם מנחם רפאפורט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q38": "איטליה",
+  "Q5": "אדם",
+  "Q6247": "מנטובה",
+  "Q641": "ונציה"
+ },
+ "raw": "data/raw/wikidata/Q6620284.json"
+}

@@ -1,0 +1,152 @@
+{
+ "id": "Q1003926",
+ "url": "https://www.wikidata.org/wiki/Q1003926",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1003926",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Friedlander Méír Hirsch"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאיר צבי פרידלנדר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי, חוקר תלמוד"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003926$27E3A77E-BC0B-40A1-BF0C-18D3160D6865",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e9dfde757c05820b0360b3041ca4d32ead9b2ebb",
+      "datavalue": {
+       "value": {
+        "time": "+1900-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003926$D10BE59D-2588-41D7-88D7-865F0ED96757",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003926$a1533ba1-b040-458a-8b30-79166b91518e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "366523b637874a01c37f12b859446eb118dba5b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 392704,
+        "id": "Q392704"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003926$4b912b27-fddc-41a2-b97b-8ef2bafb40d4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b83aef5bb38479586e2bec0d1f8ea22a7855dd2c",
+      "datavalue": {
+       "value": {
+        "time": "+1795-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003926$0291d85b-b5f5-4f60-aa10-9dd7f293ae4c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר צבי פרידלנדר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q392704": "שורני",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1003926.json"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "Q6616438",
+ "url": "https://www.wikidata.org/wiki/Q6616438",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6616438",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה דוד ואלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses David Vali"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פרשן מקרא, רופא, מלומד, ומקובל יהודי מאיטליה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish biblical commentator, physician, scholar, and Kabbalist from Italy"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6616438$CEB65099-1B67-415F-B627-362353F76515",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6616438$00b10955-f2aa-42ee-aca9-031f2924ef91",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cb04e8b0c6f2a8229e1b583dddc1d21223e917cb",
+      "datavalue": {
+       "value": {
+        "time": "+1696-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6616438$4D904C53-9A97-43C5-8F8C-C9B99848CA03",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "003cb3e9c617d169d3f32c487c5946e6b750d4a5",
+      "datavalue": {
+       "value": {
+        "time": "+1777-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6616438$092834F4-B2BB-4B66-86CA-7E27627D4A8F",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "140f9cfa8ee61b9ca4df8ff1e3dc8dd13d35a519",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982845,
+        "id": "Q982845"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6616438$bb6af049-4bab-1d15-5dfa-3938c8f80a9a",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "f643ac0e3f292903a30a3c75ea0381a33a628589",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 617,
+        "id": "Q617"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6616438$1bcf1931-486f-513f-1d04-a545e63b71c4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה דוד ואלי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q617": "פדובה",
+  "Q982845": "רמח\"ל"
+ },
+ "raw": "data/raw/wikidata/Q6616438.json"
+}

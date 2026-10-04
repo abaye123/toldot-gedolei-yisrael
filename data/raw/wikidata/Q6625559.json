@@ -1,0 +1,167 @@
+{
+ "id": "Q6625559",
+ "url": "https://www.wikidata.org/wiki/Q6625559",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6625559",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו מאיר בלוך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elijah Meyer Bloch"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Orthodox Jewish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה ליטאי אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliyahu Meir Bloch"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Eliyahu Meir Bloch"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6625559$E63D7DE1-2E77-4B72-9992-E7579DF9BF91",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ff7b347271afa97c57eeabe585614a0d61a97a0c",
+      "datavalue": {
+       "value": {
+        "time": "+1894-10-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6625559$7A667A74-3882-45EF-8A17-C82B183A8439",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ff2ca0110463acea7a33c8844060df1106de9496",
+      "datavalue": {
+       "value": {
+        "time": "+1895-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6625559$F0CDC834-4585-46CF-BE99-5E782415D905",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d58d2fde256bab0282256235cea3a0b0c896bbda",
+      "datavalue": {
+       "value": {
+        "time": "+1955-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6625559$0B4872CF-F969-4A0A-A3D4-92156D19D67D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6625559$2350b0fd-c34e-4b5d-86ab-59a8d1677130",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו מאיר בלוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6625559.json"
+}

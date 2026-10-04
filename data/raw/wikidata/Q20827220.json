@@ -1,0 +1,307 @@
+{
+ "id": "Q20827220",
+ "url": "https://www.wikidata.org/wiki/Q20827220",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20827220",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פינחס במברגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Selig Pinchas Bamberger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בהמבורג, מתרגם ספרי יסוד ביהדות"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1872-1936)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פינחס זליג במברגר"
+    },
+    {
+     "language": "he",
+     "value": "פינחס הלוי במברגר"
+    },
+    {
+     "language": "he",
+     "value": "פנחס  במברגר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Selig Bamberger"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$60E3FC31-DF63-41BB-A8C9-D8ED70CEA7FF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7da6de5fefd1fcc8ef00d7e98a14b1c3c69310b6",
+      "datavalue": {
+       "value": {
+        "time": "+1936-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20827220$45EDAF46-EEA0-40B7-A0F6-D5CD509032C1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "05aac4e511138b2af8396e21648b3e3810b9bb68",
+      "datavalue": {
+       "value": {
+        "time": "+1936-08-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20827220$C2416A6B-3211-440A-BBB0-65390F03A28A",
+     "rank": "preferred"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2240cc161114bc2acfe659d6ddae6a6abfa7e6fb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18081768,
+        "id": "Q18081768"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$0EBA07B9-5FF1-4677-906A-B8FEBE577861",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "61a986a436585572ecd37230711e9edbd924fc3b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 69429,
+        "id": "Q69429"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$E2780D75-D185-4959-9CC9-B59A5B23CDD8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e0179f296067666db25238f55a828de7de3c20e5",
+      "datavalue": {
+       "value": {
+        "time": "+1872-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20827220$1C3F9857-9DD6-48E3-A2BD-B1F8F6F15828",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6ccff6fde0be36f1d2be6d8a435b5f6324e2d4fe",
+      "datavalue": {
+       "value": {
+        "time": "+1872-11-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20827220$4723B34F-8A19-43C7-B533-0D920E90ABDE",
+     "rank": "preferred"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$0949BA24-7076-406F-8F0E-8CC305DD5CA1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$04C2763B-02E3-492F-AB04-E4E69322328B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$98716CDF-184A-4075-A6F2-EC8764D2EDA4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8bc3a00e2035c63c36dda8717c29c988389137d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1055,
+        "id": "Q1055"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20827220$03DF4642-28EF-4923-97CC-B819A39D11F7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פינחס במברגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1055": "המבורג",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q18081768": "שלמה במברגר",
+  "Q333634": "מתרגם",
+  "Q5": "אדם",
+  "Q69429": "לנגנאו"
+ },
+ "raw": "data/raw/wikidata/Q20827220.json"
+}

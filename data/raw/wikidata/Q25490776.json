@@ -1,0 +1,180 @@
+{
+ "id": "Q25490776",
+ "url": "https://www.wikidata.org/wiki/Q25490776",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490776",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים הכהן רפפורט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ḥayim Kohen Rapoporṭ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני, רבה של לבוב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים רפפורט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490776$39646519-C8F0-40E3-BECB-CC935B9CCA07",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490776$b5953dd2-442a-723a-8652-5d07a28f9562",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b73f53d2f5ca1c1da5199bef3fc7f7d639e6b472",
+      "datavalue": {
+       "value": {
+        "time": "+1699-11-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490776$0fc49b79-4bd5-8068-08ce-5943e6f20326",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "efb36ac377d4ce670bb1aa024c8ac9e235c3967b",
+      "datavalue": {
+       "value": {
+        "time": "+1771-06-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490776$2a35d5e4-4304-4d2a-96fa-5f9368be3f52",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f0bf8f509cc632680b23936d9cb58faeaed4af5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490776$0d44b8af-4446-689f-d578-6542cde101ff",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "79e73d263d3587db774228bab2e49c9284d37f73",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490776$307f817f-44e5-e8cd-f088-68c32daf46a1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים הכהן רפפורט (לבוב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36036": "לבוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25490776.json"
+}

@@ -1,0 +1,172 @@
+{
+ "id": "Q25492764",
+ "url": "https://www.wikidata.org/wiki/Q25492764",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25492764",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף ידידיה קרמי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Jedidiah Carmi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מקובל ופייטן בן יהדות איטליה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492764$CC93A5E2-0D96-4CD2-BCC7-0AD6A242E0BE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2d81e48321f8e5f379eb88727978c501436f4d46",
+      "datavalue": {
+       "value": {
+        "time": "+1590-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25492764$2EDD901E-B7E1-4BDE-907A-D2D58DC5E341",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0c0110fcb0c96c942a785e60e74dcdb6708443da",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 279,
+        "id": "Q279"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492764$6305ac9f-49f4-f68f-7968-9d448c2c4c1e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1bdc7e6c0bc25e4e8a8552943872c3391ad089b3",
+      "datavalue": {
+       "value": {
+        "time": "+1650-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25492764$3c16c163-4dea-d377-6f2f-2bacec3c553d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1c7c954f9c5b67b792ec5811f635bd72daece395",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109143736,
+        "id": "Q109143736"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492764$8a576453-4874-d5f5-9998-d9bdf2c7b9a5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492764$A3303CD7-4DFF-4130-A03A-160C2B388DF1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף ידידיה קרמי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109143736": "פייטן",
+  "Q133485": "רב",
+  "Q279": "מודנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25492764.json"
+}

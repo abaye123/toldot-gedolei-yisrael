@@ -1,0 +1,351 @@
+{
+ "id": "Q29548683",
+ "url": "https://www.wikidata.org/wiki/Q29548683",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q29548683",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אהרן שמואל תמרת"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aaron Samuel Tamares"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של מילייציץ, הוגה דעות מראשי חובבי ציון בפולין"
+   },
+   "en": {
+    "language": "en",
+    "value": "european Rabbi (1869-1931)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אחד הרבנים המרגישים"
+    },
+    {
+     "language": "he",
+     "value": "תמרות, אהרן שמואל"
+    },
+    {
+     "language": "he",
+     "value": "תמרס, אהרן שמואל"
+    },
+    {
+     "language": "he",
+     "value": "תמרת, אהרן שמואל בן משה יעקב"
+    },
+    {
+     "language": "he",
+     "value": "אהרן שמואל תַמַרֶת"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Aḥad ha-Rabanim ha-Margishim"
+    },
+    {
+     "language": "en",
+     "value": "Aḥad ha-Rabbonim ha-Margishim"
+    },
+    {
+     "language": "en",
+     "value": "Tamaret, Aharon Shemuʼel"
+    },
+    {
+     "language": "en",
+     "value": "Tamaret, Aharon Shemuʾel"
+    },
+    {
+     "language": "en",
+     "value": "TAMARES, AARON SAMUEL B. MOSES JACOB"
+    },
+    {
+     "language": "en",
+     "value": "ʾAḥad ha-rabonim ha-margišim‏"
+    },
+    {
+     "language": "en",
+     "value": "Tamares, Aharon Shemu’el"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$ac0eea11-4121-866a-f150-9c1d53e31343",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3284b58cbecc286eb481e21e0f07a0953334605f",
+      "datavalue": {
+       "value": {
+        "time": "+1869-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q29548683$63e06972-48ac-1722-d4e8-7d0b50f16abe",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2ce12c55e82988442af61894c818f4a7bce137b1",
+      "datavalue": {
+       "value": {
+        "time": "+1931-08-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q29548683$5fc75760-4ccb-92d0-8832-04b062b1946a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "78fd450bc53f33d5ea9d96b55e3df00bbff4e01f",
+      "datavalue": {
+       "value": {
+        "time": "+1931-08-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q29548683$de973672-4df7-c802-fdae-677e95f36ba4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d028f44f6bb9a9248f82e2dd744481b6f52130b1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2392709,
+        "id": "Q2392709"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$25a7f9d7-4c9d-d373-a932-9da290a3a861",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$92ae1904-49ee-bb82-e187-0f1179f932f9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$E41A4E75-3859-493D-8C75-AA955BB455E0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$A1F1B9B6-7D6F-4E86-A193-9BCC7A90CEDD",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29548683$31E0B001-D795-49CF-AADC-E5791346F400",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7099f0e54b4f5a7e4f1d1c0fcaa4f9b78d7562ed",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3917705,
+        "id": "Q3917705"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "ca72926d094d7e51f963b32a869e3b1ada6dfd8f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2294422,
+          "id": "Q2294422"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131"
+     ],
+     "id": "Q29548683$84b30b69-4454-b2cd-1555-8225281bc4bd",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "5ee372ac3571481bec98ef471eefb45d67899ca9",
+      "datavalue": {
+       "value": "אחד הרבנים המרגישים",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q29548683$b1978982-42a1-87d9-f432-4c693d6240df",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן שמואל תמרת",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2392709": "מילייצ'יצה",
+  "Q2796156": "רב",
+  "Q36180": "סופר",
+  "Q3917705": "מאלץ'",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q29548683.json"
+}

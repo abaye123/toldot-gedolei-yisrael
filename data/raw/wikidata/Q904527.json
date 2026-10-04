@@ -1,0 +1,169 @@
+{
+ "id": "Q904527",
+ "url": "https://www.wikidata.org/wiki/Q904527",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q904527",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Dávid ben Menachem Mandel Deutsch"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוד דייטש"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1756–1831)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "David ben Menahem Mendel Deutsch"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "דוד בן מנחם מנדל דויטש"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q904527$99BC492E-46DF-4C33-84D8-501FCC4A155E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q904527$b7238200-40e6-1de0-1a35-c8fed8598389",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6730fefaa9bddc00fa4f9c39dba618687e859747",
+      "datavalue": {
+       "value": {
+        "time": "+1756-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q904527$80acd0d8-3243-4596-9f4d-297f8eb31ac9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ae1e23bebf51a76f42c692402c4a42683eb8398e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26397,
+        "id": "Q26397"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q904527$581fa774-4bca-b44a-9454-9867acfa93d1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "647d52b8d432be2562e414f7d23020b47a0b0a7a",
+      "datavalue": {
+       "value": {
+        "time": "+1831-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q904527$cf1e627d-49ee-bd57-731d-be30eab2d8a0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד דייטש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q26397": "ניטרה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q904527.json"
+}

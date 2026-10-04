@@ -1,0 +1,116 @@
+{
+ "id": "Q6754355",
+ "url": "https://www.wikidata.org/wiki/Q6754355",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6754355",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mar-Zutra III"
+   },
+   "he": {
+    "language": "he",
+    "value": "מר זוטרא בר מר זוטרא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מר זוטרא השלישי"
+    },
+    {
+     "language": "he",
+     "value": "מר זוטרא בן מר זוטרא"
+    },
+    {
+     "language": "he",
+     "value": "זוטרא בר מר זוטרא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6754355$D0EB2E2F-E6AB-4B74-B542-B893E1F3DAA4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3530fd226798b47caf06030e40f8e204fb6961b7",
+      "datavalue": {
+       "value": {
+        "time": "+0502-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6754355$85891541-3660-49C1-BBC9-B944B047224C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6754355$3d7b0dfb-81a2-42ba-b0db-f7188954fd63",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מר זוטרא בר מר זוטרא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6754355.json"
+}

@@ -1,0 +1,215 @@
+{
+ "id": "Q5067840",
+ "url": "https://www.wikidata.org/wiki/Q5067840",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5067840",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chaim Yitzchak Bloch Hacohen"
+   },
+   "he": {
+    "language": "he",
+    "value": "חיים יצחק בלוך"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi (1864-1948)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Chaim Yitzchok Bloch"
+    },
+    {
+     "language": "en",
+     "value": "Chaim Isaac Bloch"
+    },
+    {
+     "language": "en",
+     "value": "Hayyim Yitzhak HaCohen Bloch"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067840$F2201A69-607A-42C9-BD63-98BA6357CB22",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a4e6f2213e04ff5397f41e809eccd4c6a7abbd3e",
+      "datavalue": {
+       "value": {
+        "time": "+1865-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067840$3A0A6E46-D6E3-44EC-8CF8-149454EF03BB",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b14f24cc3c5d9348dabee69b480ced4035db53b4",
+      "datavalue": {
+       "value": {
+        "time": "+1864-10-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067840$0980c74a-4882-caa9-9638-be2fd3c30db4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ae1d631f42e444eedc2db759e90ab00835b50e2a",
+      "datavalue": {
+       "value": {
+        "time": "+1948-03-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067840$6966C083-737C-4621-B4D5-728F63283C42",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067840$BB4E4187-C442-4269-862D-A8C481A8893F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1982f9b41f9cec5051fa8fa66339386a62d0a056",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 977255,
+        "id": "Q977255"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067840$65816F82-A63A-4C66-BCF9-7458F7CC1378",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "970ede06d8ac96b5b1dfe6e3b1a3d7d41895889b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26339,
+        "id": "Q26339"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067840$1C3B3FC0-39FA-4949-82D0-074101E3B153",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים יצחק בלוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q26339": "ג'רזי סיטי",
+  "Q5": "אדם",
+  "Q977255": "פלונגה"
+ },
+ "raw": "data/raw/wikidata/Q5067840.json"
+}

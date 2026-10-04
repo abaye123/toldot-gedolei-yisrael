@@ -1,0 +1,300 @@
+{
+ "id": "Q2904852",
+ "url": "https://www.wikidata.org/wiki/Q2904852",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2904852",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב לורברבוים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Lorberbaum"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק ופרשן, מחבר \"נתיבות המשפט\""
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "בעל הנתיבות"
+    },
+    {
+     "language": "he",
+     "value": "יעקב בן יעקב משה מליסא"
+    },
+    {
+     "language": "he",
+     "value": "הרבי מליסא"
+    },
+    {
+     "language": "he",
+     "value": "יעקב מליסא"
+    },
+    {
+     "language": "he",
+     "value": "הגאון מליסא"
+    },
+    {
+     "language": "he",
+     "value": "ר' יעקב מליסא"
+    },
+    {
+     "language": "he",
+     "value": "בעל נתיבות המשפט"
+    },
+    {
+     "language": "he",
+     "value": "יעקב לארבערבוים"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yaakov ben Yaakov Moshe Lorberbaum of Lissa"
+    },
+    {
+     "language": "en",
+     "value": "Yaakov of Lisa"
+    },
+    {
+     "language": "en",
+     "value": "Yaʿaqov Ben Yaʿaqov Moshe of Lissa"
+    },
+    {
+     "language": "en",
+     "value": "Jakob Lissa"
+    },
+    {
+     "language": "en",
+     "value": "Ya‘akov ben Ya‘akov Mosheh of Lissa Lorbeerbaum"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$22C96A49-6E35-4720-B3D3-2D512E836BF4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2dec126213abfbb785c9be7e3ead2a6e3548dbe5",
+      "datavalue": {
+       "value": {
+        "time": "+1760-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904852$755C9929-291C-4B7A-A7A6-5975AB99A13B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "85de75dd1e8d97bfcfadd127fd25458a5b5dd1b6",
+      "datavalue": {
+       "value": {
+        "time": "+1832-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904852$7E0000FE-CB2B-4B0C-819F-FE1DB09EFC6C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e884bd90b3a80a72da4967e4b38cafced7672881",
+      "datavalue": {
+       "value": {
+        "time": "+1832-05-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904852$07F184F3-B1DD-4C33-BE4F-A4B39BC827B1",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$0FB57048-4683-4A96-B2A5-A531010C41E5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5a5f608576c74051696349eb97f6186bfa6b30dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 158923,
+        "id": "Q158923"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$14AC6E0A-E4FE-4ADA-8C11-8094D7DD7667",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "f27186a74c870fd0811d7efde033124d23007b26",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 158923,
+        "id": "Q158923"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$0EE3D432-50D3-4B5B-8243-9FE6E56ADD7E",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d10832782f8b515e56744ca8f053fa9320955ab4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 93576848,
+        "id": "Q93576848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$f4cba816-453f-9319-4ef8-a7c636bf4fbb",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0ee521836c5b1f9c2d89a858a63e254946706aa4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7007074,
+        "id": "Q7007074"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904852$f7c35842-4a72-6d0e-49e7-656677f51949",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב לורברבוים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q158923": "סטרי",
+  "Q5": "אדם",
+  "Q7007074": "משולם איגרא",
+  "Q93576848": "נתיבות המשפט"
+ },
+ "raw": "data/raw/wikidata/Q2904852.json"
+}

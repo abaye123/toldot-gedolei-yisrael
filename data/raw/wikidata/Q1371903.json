@@ -1,0 +1,357 @@
+{
+ "id": "Q1371903",
+ "url": "https://www.wikidata.org/wiki/Q1371903",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1371903",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יונה גירונדי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yonah Gerondi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבינו יונה"
+    },
+    {
+     "language": "he",
+     "value": "רבנו יונה"
+    },
+    {
+     "language": "he",
+     "value": "יונה בן אברהם גירונדי"
+    },
+    {
+     "language": "he",
+     "value": "רבי יונה גירונדי"
+    },
+    {
+     "language": "he",
+     "value": "אשכנזי, אברהם,"
+    },
+    {
+     "language": "he",
+     "value": "מאירי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jonah Gerondi"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2fb5834c6a22140c4fc919f97952fca72238c241",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7038,
+        "id": "Q7038"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1371903$87BCF7F0-C0A3-46E2-BA01-3973D9D5A1FF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "422328a9e0a1b7a285ce1c567bb0021d1a25ab33",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5836,
+        "id": "Q5836"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1371903$F11D33B4-BA4F-44F2-B4CC-3DF3E6A3694E",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$72187859-2FDE-4D0F-BDE4-0D83B4EE1197",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b38c75216f9d8b20b0149f86f3467448460af86c",
+      "datavalue": {
+       "value": {
+        "time": "+1210-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "510e0a7384da1c4e5af8f67e645a5c3b27714509",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q1371903$6D1A3C8D-89F5-4218-83E5-8D0A5A9121DC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "59af92eefbbc089716bf88c13d0cedb74007a84d",
+      "datavalue": {
+       "value": {
+        "time": "+1263-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "510e0a7384da1c4e5af8f67e645a5c3b27714509",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q1371903$DF7BC05E-92FE-4BA9-9BEE-C6D325DE1E95",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$62403B09-92D1-44F4-8C2A-3CD69B33D2B1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$9C267C7A-9610-4B8E-A73A-1B6446C9E209",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e708e0753ed9acade20c57547bf1be8063630f13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21185790,
+        "id": "Q21185790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$5D766ECB-9126-4B98-AB09-E64457BA63AD",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "6957552cf6fd9af35abb74ce59fb8d8b220d36b5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982170,
+        "id": "Q982170"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$21be65e9-4947-caeb-6a75-efe4a799053a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "6d908081e86a705db8257a3c0830fa420ac0a152",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 962334,
+        "id": "Q962334"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$535bc1ce-464f-f49f-3f0f-db79a2ab81e4",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a6a44d06760773cd798b2ee70448eb35c9a05070",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7558783,
+        "id": "Q7558783"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1371903$797b2e25-498e-538d-b9e6-3b8b1190a7c6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יונה גירונדי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21185790": "exegete",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם",
+  "Q5836": "טולדו",
+  "Q7038": "ז'ירונה",
+  "Q7558783": "שלמה מן ההר",
+  "Q962334": "הלל בן שמואל",
+  "Q982170": "רשב\"א"
+ },
+ "raw": "data/raw/wikidata/Q1371903.json"
+}

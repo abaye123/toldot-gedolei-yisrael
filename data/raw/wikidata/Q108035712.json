@@ -1,0 +1,181 @@
+{
+ "id": "Q108035712",
+ "url": "https://www.wikidata.org/wiki/Q108035712",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q108035712",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רצ'א צארום"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב תימני, מראשי פלג הדרדעים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yemeni rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רצון צארום"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108035712$4e65b526-40cd-36bb-e9fa-61f539a5af15",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108035712$0f019cbe-402f-dcd1-36b1-5121fafc1b8b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2cef74b7023f6664e10e181e299beb07891b4000",
+      "datavalue": {
+       "value": {
+        "time": "+1879-10-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108035712$56ed7c38-4bc7-e3e0-ad15-f3c5688b2717",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108035712$86979b32-41b0-7672-adf3-89c5868ce9e0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "22c4bbc7e950926e050e6db6779610e66781ed66",
+      "datavalue": {
+       "value": {
+        "time": "+1970-02-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108035712$c8625598-4dfb-2c88-cd6c-968a9db2b748",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108035712$538db213-4dcf-a517-f2c8-396e1f482833",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רצ'א צארום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q2471": "צנעא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q108035712.json"
+}

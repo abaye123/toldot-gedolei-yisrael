@@ -1,0 +1,169 @@
+{
+ "id": "Q12254423",
+ "url": "https://www.wikidata.org/wiki/Q12254423",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12254423",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק מאיר השיל (ז'ינקוב)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Meir Heschel"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254423$85097303-14B0-48AD-B744-C0684D49B9A6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254423$6d3eb055-442b-5279-8e53-6cc9a5ee8731",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "03796d49c045f7ff7fb3e6b8f3e7b9e0cc1294a4",
+      "datavalue": {
+       "value": {
+        "time": "+1776-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254423$CD879E37-1BF4-41BB-9F4E-5043AD27A74C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "62d55caddb8bc9cd1b1fd8515920e01d21b511d4",
+      "datavalue": {
+       "value": {
+        "time": "+1855-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12254423$16AE5C3B-E265-4FA0-BF31-4139255EA8C3",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "31fc60938cc6793675ada7e5fe400197e674f916",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 330132,
+        "id": "Q330132"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254423$eff90d06-4037-ee41-be6d-129a3500a9ef",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "8e5437e0e375807a67eee2aefa45f10a70de9bd9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12234461,
+        "id": "Q12234461"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12254423$43e6c441-4b58-28f4-e517-36d5cc9e6571",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק מאיר השיל (ז'ינקוב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12234461": "משולם זוסיא השיל",
+  "Q133485": "רב",
+  "Q330132": "אברהם יהושע השיל מאפטא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12254423.json"
+}

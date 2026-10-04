@@ -1,0 +1,195 @@
+{
+ "id": "Q125662",
+ "url": "https://www.wikidata.org/wiki/Q125662",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q125662",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פרץ זאבל איגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Levi Eger"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1769-1842)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "איגר, זאבל,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Perez Sabel Egers"
+    },
+    {
+     "language": "en",
+     "value": "Samuel Lewin Meyer"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "38b5a2e6564a4ddd6c3b5e47ed47a3a963640eca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7072,
+        "id": "Q7072"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q125662$CBEECE53-1753-4B5D-92F5-B7E1C8621991",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a86c39e54e5cd484affe2029a2f81eea835f7ffd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2773,
+        "id": "Q2773"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q125662$220BAEB7-7829-4178-A561-7E586129545C",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125662$E71E2400-F338-4D01-8C7C-40CF376F4EA1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3b03a0423341c93f58a04b1132c4a92947843363",
+      "datavalue": {
+       "value": {
+        "time": "+1769-06-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q125662$AE3B4150-87AF-43B0-8A86-05EA04F6382C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6ad86358575109b342f0d57695fd74abea36f64b",
+      "datavalue": {
+       "value": {
+        "time": "+1842-12-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q125662$7D6E5CB5-C128-49B0-9EF7-BBC2BE030681",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125662$CD975004-C43D-4BCA-BDE5-4253C267A63A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פרץ זאבל איגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2773": "בראונשווייג",
+  "Q5": "אדם",
+  "Q7072": "הלברשטאדט"
+ },
+ "raw": "data/raw/wikidata/Q125662.json"
+}

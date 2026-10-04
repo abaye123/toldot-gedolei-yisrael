@@ -1,0 +1,159 @@
+{
+ "id": "Q66476481",
+ "url": "https://www.wikidata.org/wiki/Q66476481",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q66476481",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה זלמן אולמן (זכרון מאיר)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo (salomon) Ullman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראב\"ד מודיעין עילית ודיין ומו\"צ זכרון מאיר בני ברק"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רש\"ז אולמן"
+    }
+   ]
+  },
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28f1ce9016372c42bd2f5dc70bc6707190ada357",
+      "datavalue": {
+       "value": {
+        "time": "+1947-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q66476481$e2644bd4-4f19-5f3e-62ae-93f1832d0e31",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q66476481$AC82EE76-F522-4B32-909A-2595CBE49F63",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q66476481$f158c39f-3091-4680-9112-97c7351d1b62",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "caa9999d8a3fa9b573c1c9c7d8e01f326dd0edd8",
+      "datavalue": {
+       "value": {
+        "time": "+2019-10-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q66476481$490252b4-434e-c0f6-7058-3d5d9af6024a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "34279e12f62eb288a5a28f34cb1df5a27b15784b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 93358,
+        "id": "Q93358"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q66476481$f2d255e3-41c8-377b-9036-4ee68dfeb368",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה זלמן אולמן (זכרון מאיר)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q93358": "אוראדיה"
+ },
+ "raw": "data/raw/wikidata/Q66476481.json"
+}

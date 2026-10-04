@@ -1,0 +1,279 @@
+{
+ "id": "Q6721776",
+ "url": "https://www.wikidata.org/wiki/Q6721776",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6721776",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם נחום פרידמן (השני)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Menachem Nachum Friedmann"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Menahem Nahum Friedmann"
+    },
+    {
+     "language": "en",
+     "value": "Menahem Nahum Friedman"
+    },
+    {
+     "language": "en",
+     "value": "Menachem Nachum Friedman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6721776$A6413C2A-FC26-4F3C-9911-23694318C93E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6721776$529A76C2-ACC2-4E0B-8C71-A0BAEA76C58C",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "9bf0ae5ac31ddc69adca65ac36ee231b9aa0f4a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7183396,
+        "id": "Q7183396"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6721776$a28f9a7e-4fb8-4a5c-3c5b-a10eeda5601b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c2f88cc2a54ae4e8d3c6684295cb229fd6c0b35",
+      "datavalue": {
+       "value": {
+        "time": "+1879-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6721776$51842d79-45b5-566e-32b0-4782a56ae4a9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d077f357737efc16ea200fc5b615328509d96a3f",
+      "datavalue": {
+       "value": {
+        "time": "+1879-10-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6721776$A3F79DBB-2A7B-49DB-91FD-02E1F1EB40D6",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b2bda4dc17ea1b3042c7dc00257ef4325fd91411",
+      "datavalue": {
+       "value": {
+        "time": "+1933-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6721776$ed65cbc7-4afd-fc71-d897-44ffc660d8eb",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cd0380e329ba9a2ba0e17a9677b983b8d26cfc25",
+      "datavalue": {
+       "value": {
+        "time": "+1933-06-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6721776$7EB55F5B-4FA5-4AE7-AAE2-3C607DB0C2A9",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c498c5079550a927e1cbe6d5a2bcdbc11cb6f668",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6721776$1AC221BF-DF01-49B7-9473-C852CE197E54",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם נחום פרידמן (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1741": "וינה",
+  "Q5": "אדם",
+  "Q7183396": "אברהם יהושע השיל פרידמן"
+ },
+ "raw": "data/raw/wikidata/Q6721776.json"
+}

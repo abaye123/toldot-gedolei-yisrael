@@ -1,0 +1,190 @@
+{
+ "id": "Q6866685",
+ "url": "https://www.wikidata.org/wiki/Q6866685",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6866685",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי יהודה ליב וינקלר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordecháj Jehuda Winkler"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Mordekhai Leyb ben Naftali Ṿinḳler"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "מרדכי ליב ווינקלער"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6866685$9501CD0B-786E-425E-B07F-BD77EA183B93",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6866685$5AF5FCAC-4A22-488D-B84C-0ACFDDC63C28",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a23915be1f227f36c2138ffc0b3dd0e164c3d868",
+      "datavalue": {
+       "value": {
+        "time": "+1844-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6866685$ef36803e-4028-72ea-4065-773dd961a0be",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4fec1d1c722d0cafcb20efbbbb134d2ea6e28765",
+      "datavalue": {
+       "value": {
+        "time": "+1932-07-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6866685$885ce842-4537-5e6e-0680-0188d5a91458",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "43ca40cf0e0cf3a77b28ea0daf671592c73b38f1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 791779,
+        "id": "Q791779"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6866685$0aa7ae5d-469a-b41a-14af-a88769c72b37",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P19",
+      "hash": "075f6bd3c5b1dc67d84dec842e29629072949889",
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1810": [
+       {
+        "snaktype": "value",
+        "property": "P1810",
+        "hash": "23917726cfb8a1cedc2c75e848c8ce5798e47303",
+        "datavalue": {
+         "value": "Lepontovic",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1810"
+     ],
+     "id": "Q6866685$6ebd15f6-411c-dc11-7390-0d7154fed551",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי יהודה ליב וינקלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q791779": "אברהם שמואל בנימין סופר"
+ },
+ "raw": "data/raw/wikidata/Q6866685.json"
+}

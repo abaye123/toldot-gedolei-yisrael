@@ -1,0 +1,207 @@
+{
+ "id": "Q359768",
+ "url": "https://www.wikidata.org/wiki/Q359768",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q359768",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב יוסף"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rav Yosef b. Hiyya"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי, דור שלישי, חברו של רבה, ראש ישיבת פומבדיתא."
+   },
+   "en": {
+    "language": "en",
+    "value": "babylonian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב יוסף בר חייא"
+    },
+    {
+     "language": "he",
+     "value": "יוסף בר חייא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359768$31730259-252F-49D7-B960-A9C45879159F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3e0aef1dec7daa75b4b978b7de77afd833c6a873",
+      "datavalue": {
+       "value": {
+        "time": "+0333-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q359768$9DEAC939-48B4-47D4-90AF-220BB9A7565D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359768$6BC6C389-61F5-4E96-9CB9-EAFE12AD7F74",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359768$D42FEF2E-682F-442D-947F-CF20FEB21FFA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ccf3df3112d6daf3d6ac0ef32f7c4afa6712ae4c",
+      "datavalue": {
+       "value": {
+        "time": "+0270-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P459": [
+       {
+        "snaktype": "value",
+        "property": "P459",
+        "hash": "907b019d4c93ad88c9caf55bfff3c19ab686e290",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P459"
+     ],
+     "id": "Q359768$c2b5a346-04b0-4c46-a331-54bf1cbb9861",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יוסף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q359768.json"
+}

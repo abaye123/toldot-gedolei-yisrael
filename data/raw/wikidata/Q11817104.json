@@ -1,0 +1,178 @@
+{
+ "id": "Q11817104",
+ "url": "https://www.wikidata.org/wiki/Q11817104",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q11817104",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Pinchas Menachem Joskowicz"
+   },
+   "he": {
+    "language": "he",
+    "value": "פנחס מנחם יוסקוביץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11817104$4C75A152-67B9-4099-8CB1-160DA89C848F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c4cf591fec5e280e270564d6eb6d21e0224d45a9",
+      "datavalue": {
+       "value": {
+        "time": "+1924-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11817104$AA549BC8-59DD-4140-9F45-1F10CB482086",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ec07e1fac28d2cbaa6698078f57e87bdfc488640",
+      "datavalue": {
+       "value": {
+        "time": "+2010-11-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11817104$80BF3C95-50A5-47A2-B7AE-9B815B802467",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11817104$F4C9E79D-4A8C-4DD0-B3EA-FB66EF87DEDA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5f85bab4dc927d29cff375e6f0f2ff1393442fe7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 169237,
+        "id": "Q169237"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11817104$CF2CF211-1937-4020-BAF4-2C6733EDE34C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11817104$C003AEBC-1D43-48FF-983D-1830BCEFD5AB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פנחס מנחם יוסקוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q169237": "זדונסקה וולה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q11817104.json"
+}

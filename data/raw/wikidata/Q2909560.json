@@ -1,0 +1,346 @@
+{
+ "id": "Q2909560",
+ "url": "https://www.wikidata.org/wiki/Q2909560",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2909560",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם דנציג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Danzig"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומחבר ספר חיי אדם ועוד"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם דנציגר"
+    },
+    {
+     "language": "he",
+     "value": "בעל חיי אדם"
+    },
+    {
+     "language": "he",
+     "value": "דאנציג, אברהם"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham ben Jehiel Michal Danzig"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$4650CE73-6A70-43BA-946D-2447E5A2450E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0df3a3bc5a9dfb7e1012dc28976eaab9279cceb7",
+      "datavalue": {
+       "value": {
+        "time": "+1748-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2909560$A22DD223-AD84-4D6E-B6C7-93E6E8FA74B3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b6e1b24d57acb3aa64e8a6fac97a877b924fdab",
+      "datavalue": {
+       "value": {
+        "time": "+1820-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2909560$A0AB71B2-FEE0-4965-B121-1DD33D27CC98",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b8f7c2ce3063f1cf89421ecf8e6216e98be5c0c1",
+      "datavalue": {
+       "value": {
+        "time": "+1820-09-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2909560$5F1DC5F0-1076-4ACB-8C4D-3B6F3A55D2DD",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$FAAAD2ED-82D9-4116-A18F-84752D7D817B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$321550B6-4651-4F9B-B4C9-4FA4BB9E0294",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$bdc2cf44-4edf-0a68-edb0-3ff34156f1f4",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "6b3a75dc7e46a3acdffa0b3709a16cb02a449514",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12407437,
+        "id": "Q12407437"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$c0fe2ca7-45dd-765d-48f6-a31a8096d064",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "5b12512aee3d0098d3e6a3cb1b7edd0fe9b64233",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 58962661,
+        "id": "Q58962661"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$67450da4-4bc9-819c-30ec-d37827889a71",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bcbe5e2fd28e7ff6bc9e60c4657f64a6699b6ed0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$bff8d61a-48aa-b0d0-4b1b-22b50bbbefd9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d4311a19478f5afe8cd7d1c6321bfb5d1a411362",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1792,
+        "id": "Q1792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$c0d1dccc-4c23-d545-07f8-d1418fde5812",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "57a8571c43cadc1b089dd84d85aefe735d01e95c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 65239097,
+        "id": "Q65239097"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2909560$62d37390-4eb5-fdc2-66c2-3cf239ef2bce",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם דנציג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12407437": "חיי אדם",
+  "Q133485": "רב",
+  "Q1792": "גדנסק",
+  "Q216": "וילנה",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q58962661": "חכמת אדם",
+  "Q65239097": "בית הקברות היהודי בשניפישוק",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q2909560.json"
+}

@@ -1,0 +1,265 @@
+{
+ "id": "Q6682143",
+ "url": "https://www.wikidata.org/wiki/Q6682143",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6682143",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה מרדכי חדש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Mordekhai Ḥadash"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rosh Yeshiva of Yeshivat Or Elchanan in Jerusalem (1940-2016)"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת אור אלחנן בירושלים (1940-2016)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$0845FAED-58F5-45C7-946D-58BD9B403D4C",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$637741b4-25a8-467c-9706-368a1de1f299",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "85817eff04170a0b1adcfe86263fadbb79798d7c",
+      "datavalue": {
+       "value": {
+        "time": "+1940-12-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6682143$45283ae8-4a96-8c7c-19bd-42d90b60c167",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$73d258a6-4516-4662-66e8-ed7283eed0f6",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$7656bd2b-483e-949b-ef05-77bac245f7b7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5a8ebc945c2378d8700705e618d7ea6f97690f31",
+      "datavalue": {
+       "value": {
+        "time": "+2016-08-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6682143$94b00c31-4d54-0eff-2550-940fdc380563",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "133a43383f893c09f889b6fd65fd22f3bb4b8cb3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404506,
+        "id": "Q12404506"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "0f20392c20763cb88d5aaad96b38644d4cc5ac65",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1218,
+          "id": "Q1218"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131"
+     ],
+     "id": "Q6682143$e40fcbcb-4dd6-94c3-7a64-034df5bb5ec1",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "d5cb0df4cc9b348f34a8e3d97a0ea2a2e939e93f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12408755,
+        "id": "Q12408755"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$684d841e-46ad-4ab4-f19f-a18c785a2eab",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "7264ef05591902d7f2b410a2430ba6c9f3739c84",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 27990366,
+        "id": "Q27990366"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6682143$77e20f67-447a-3738-bde4-b9fe948d7b3e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מרדכי חדש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404506": "בית החולים הדסה עין כרם",
+  "Q12408755": "מאיר חדש",
+  "Q2308372": "ראש ישיבה",
+  "Q27990366": "חיים אריה חדש",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6682143.json"
+}

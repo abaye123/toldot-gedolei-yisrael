@@ -1,0 +1,263 @@
+{
+ "id": "Q75357",
+ "url": "https://www.wikidata.org/wiki/Q75357",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q75357",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל ברונא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Bruna"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Czech rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צ'כי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהר\"י ברונא"
+    },
+    {
+     "language": "he",
+     "value": "ברונא, ישראל חיים,"
+    },
+    {
+     "language": "he",
+     "value": "מהר\"י בירן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Israel of Bruna"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f19bc8eaa6ff4370c085563ed9aee781a0df62cc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14960,
+        "id": "Q14960"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q75357$4DE3CB57-F91D-4F54-A00B-91CB65A5634B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b6ab1b9abc120ed61abab84aaeb390e684aa1009",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2978,
+        "id": "Q2978"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q75357$BC5E3AD8-3DCC-41EF-837B-038EB3C48154",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q75357$8772F0FE-79E8-45BA-9C25-6AC6B191AAE9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q75357$0bc6c759-472c-a33d-fccf-12b6d9d2c0a1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "37ed186b64275257822bf0b23514ea8b16d8d88c",
+      "datavalue": {
+       "value": {
+        "time": "+1400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q75357$9A602225-39F9-418D-8FAC-32D9F0203826",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "01486bd7ca7a1cba69fc114a1bcd4f24ff956b88",
+      "datavalue": {
+       "value": {
+        "time": "+1480-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q75357$51795801-69BE-435F-9AF9-2DD705FC3B22",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "179bc91131c87840cb305ebf78506452fa354f12",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 45017,
+        "id": "Q45017"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q75357$18c0aaab-4f35-c126-8892-8d2f66fa59b9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל ברונא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14960": "ברנו",
+  "Q2978": "רגנסבורג",
+  "Q45017": "ישראל איסרלן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q75357.json"
+}

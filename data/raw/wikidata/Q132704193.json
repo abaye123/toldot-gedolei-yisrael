@@ -1,0 +1,168 @@
+{
+ "id": "Q132704193",
+ "url": "https://www.wikidata.org/wiki/Q132704193",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q132704193",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים מרדכי צוויגנהפט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מורה צדק (מו\"צ) ושוחט ובודק בפולין"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "624fd5d22aa295f31180e360408ad8eda756ffd8",
+      "datavalue": {
+       "value": {
+        "time": "+1853-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q132704193$86f5e371-43ca-fb70-c413-e1dff8e7c8fe",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1808b0ccc5493e0921b5b321280a96b2f1acbbdb",
+      "datavalue": {
+       "value": {
+        "time": "+1941-01-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q132704193$aa23c3ed-4cdc-eeb6-cf2a-63cdc57b8e02",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b16334681eb29e83c2b0866c9ff798489a306411",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 991924,
+        "id": "Q991924"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132704193$a7d89342-4d32-c0d9-1ae1-10aa181629d7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132704193$2887fb13-4da0-2086-923e-1712b111948d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1d76076dfc49c0fb31e71204e81b7d1b84ae8d5d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2777958,
+        "id": "Q2777958"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132704193$bf9d490d-4e58-d076-0e0f-669514c02d62",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132704193$9ed3d9b5-4869-871d-c07c-0a2d342539ec",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים מרדכי צוויגנהפט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2777958": "שוחט",
+  "Q5": "אדם",
+  "Q931732": "פוסק",
+  "Q991924": "חנטשין"
+ },
+ "raw": "data/raw/wikidata/Q132704193.json"
+}

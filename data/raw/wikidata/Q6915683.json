@@ -1,0 +1,187 @@
+{
+ "id": "Q6915683",
+ "url": "https://www.wikidata.org/wiki/Q6915683",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6915683",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses Alashkar"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה אלשקר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק ודיין ספרדי בולט"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהר\"ם אלשקר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Moses ben Isaac Alashkar"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915683$ACF92D49-6DCE-4295-8475-9238C41E7ECA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915683$8419847B-C624-4D14-8126-626061047EF1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "615acab1c322af73dcbdb4f7bd6928e78f4d7718",
+      "datavalue": {
+       "value": {
+        "time": "+1466-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6915683$23ED4C17-E3ED-4DDC-9DE2-71B7D5A58C8B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a22c227731d08235192c13a4d0327e8ecdfe7157",
+      "datavalue": {
+       "value": {
+        "time": "+1542-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6915683$67029B8D-8128-445D-89B1-A42A221668E9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915683$73B0BC8A-335A-433D-AD22-643D902479A4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "49789451585dff31825a80aa649c788700e4ba44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15696,
+        "id": "Q15696"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915683$ABD4011F-2EA0-42DF-970B-3463C27CB724",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה אלשקר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q15696": "סמורה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6915683.json"
+}

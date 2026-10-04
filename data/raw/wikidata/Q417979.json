@@ -1,0 +1,277 @@
+{
+ "id": "Q417979",
+ "url": "https://www.wikidata.org/wiki/Q417979",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q417979",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Akiba Israel Wertheimer"
+   },
+   "he": {
+    "language": "he",
+    "value": "עקיבא ישראל ורטהיימר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "(1778-1835)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אורתודוקסי באלטונה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e3271ad45bbc8eda9b83bacd661f508adc893086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q417979$73045472-27C1-4E00-97EA-7B781CF8D235",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2baa0eed4a100a95e6a6c930cfccf52fe0a2bd49",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1630,
+        "id": "Q1630"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q417979$B8D8DAE7-337E-4E37-910A-7B002127A960",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q417979$A0F2FB58-E348-4549-9602-3699A41DFA05",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fce525f844b4683159bde2c6accdbc536292d195",
+      "datavalue": {
+       "value": {
+        "time": "+1778-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q417979$7C757413-EA9B-49C4-B47E-B1140FD84BEC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e8785cc8a97db46000238f765316ef3f9705748c",
+      "datavalue": {
+       "value": {
+        "time": "+1835-05-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q417979$0393FA1B-3399-4584-8720-4E229775EFAE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q417979$DBD8C11A-17A1-461C-BA52-BBA7FCAB6511",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "9ed7bb3af88697550ed17cbcb340333ad6ccba4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P276": [
+       {
+        "snaktype": "value",
+        "property": "P276",
+        "hash": "df8092b6588488bce1813dd8266fc57924c7e476",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1630,
+          "id": "Q1630"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "d068511f47eda06455e11ae6a2a9c6e029c6fb5e",
+        "datavalue": {
+         "value": {
+          "time": "+1823-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "b6062deb5f535e5553fd886b8a9f5cb77203ba07",
+        "datavalue": {
+         "value": {
+          "time": "+1835-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "87ae258b750c2424d978e0205bf5cd495872b786",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 55850014,
+          "id": "Q55850014"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P276",
+      "P580",
+      "P582",
+      "P1365"
+     ],
+     "id": "Q417979$012731e2-4bd0-6aac-4da8-00e8f3b37b3b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עקיבא ישראל ורטהיימר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1630": "אלטונה",
+  "Q1799": "ורוצלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q417979.json"
+}

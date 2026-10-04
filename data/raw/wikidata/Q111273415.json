@@ -1,0 +1,78 @@
+{
+ "id": "Q111273415",
+ "url": "https://www.wikidata.org/wiki/Q111273415",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111273415",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פלימו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111273415$70733aaa-47e7-d7e0-e84f-c727b24c4f99",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111273415$8224d7ea-4078-349b-4944-a20422bd7e23",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פלימו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q111273415.json"
+}

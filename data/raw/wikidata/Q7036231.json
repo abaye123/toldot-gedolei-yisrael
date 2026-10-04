@@ -1,0 +1,207 @@
+{
+ "id": "Q7036231",
+ "url": "https://www.wikidata.org/wiki/Q7036231",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7036231",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחיא צאלח"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yiḥyah Salaḥ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Yemeni Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "הראב\"ד הקבוע השישי של בית דין צנעא בתימן"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מארי יחיא צאלח"
+    },
+    {
+     "language": "he",
+     "value": "מהרי\"ץ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036231$573F12BA-8B24-4BD1-B86F-72369AF77697",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036231$899719EF-0824-47CD-89C2-DC3385AD0F1E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036231$a2e4fe89-4711-d83b-e494-307a74ec5592",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036231$16ADCDC7-9A8E-4C72-9F62-F3431384076F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "135f6361352538ccfe5cbb890ded34cc1f91424d",
+      "datavalue": {
+       "value": {
+        "time": "+1713-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7036231$91f1a4a7-4598-0b7f-6903-de41c650da90",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "46e0f44f5ed5d0717b197db790d5ac669c8495b4",
+      "datavalue": {
+       "value": {
+        "time": "+1714-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7036231$F457BA10-C5F5-4AEE-8F5B-9FBB10642B56",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a3463b325395d5d5e1894edeac4d73be4440e86",
+      "datavalue": {
+       "value": {
+        "time": "+1805-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7036231$01EE3C05-BD91-4632-B164-921CD8573FB0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיא צאלח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q5": "אדם",
+  "Q694994": "אב בית דין"
+ },
+ "raw": "data/raw/wikidata/Q7036231.json"
+}

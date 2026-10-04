@@ -1,0 +1,192 @@
+{
+ "id": "Q6999811",
+ "url": "https://www.wikidata.org/wiki/Q6999811",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6999811",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק בן וואליד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Ben Walid"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "19th century Rabbi and community leader in Tetuan, Morocco"
+   },
+   "he": {
+    "language": "he",
+    "value": "מקובל מגדולי רבני מרוקו, אב בית הדין ורבה של קהילת יהודי תטואן במשך כ-40 שנים. מחבר שו\"ת \"ויאמר יצחק\""
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ishak Ben Gualid"
+    },
+    {
+     "language": "en",
+     "value": "Isaac Bengualid"
+    },
+    {
+     "language": "en",
+     "value": "Yitsḥaḳ Ibn Ṿalid"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6999811$908D9144-C556-4D52-A666-058E31902F23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6999811$C6476307-AC9F-42EE-A47A-FBFAB294DDD4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d80247aef374e715b49072b8ae841c6433efa997",
+      "datavalue": {
+       "value": {
+        "time": "+1777-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6999811$616E95F5-245E-4770-99C2-79FCAC1E3FED",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d228bf9daa77a3764aea7e21015b6441f506cfa2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185157,
+        "id": "Q185157"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6999811$7A46A2AA-7699-4B3D-803A-EB71B80C57D7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2146c94b9dd9f0508a68622c8efd7e436e8c8431",
+      "datavalue": {
+       "value": {
+        "time": "+1870-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6999811$89D81275-2667-484E-8E2A-2BD26908F050",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9d5a439f4a7d87b6b99434ec6a6da5a37fae51af",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185157,
+        "id": "Q185157"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6999811$5B848181-F6EA-4A0E-8759-710A02892B4C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק בן וואליד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q185157": "תטואן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6999811.json"
+}

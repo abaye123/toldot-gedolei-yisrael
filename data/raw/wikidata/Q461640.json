@@ -1,0 +1,202 @@
+{
+ "id": "Q461640",
+ "url": "https://www.wikidata.org/wiki/Q461640",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q461640",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac ben Joseph ibn Pulgar"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק פולקר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "14th-century Spanish philosopher and poet"
+   },
+   "he": {
+    "language": "he",
+    "value": "פילוסוף ספרדי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Isaac Polqar"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461640$205AB01B-3D60-4E2D-8CAB-BCFD9F765D35",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "931b8bc93cfda95323431e74a310fe55785e20ee",
+      "datavalue": {
+       "value": {
+        "time": "+1500-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q461640$86907829-7708-4302-854D-B6D7A68A5CBB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461640$A0F5A416-9814-4170-B16F-2D0B7CE04079",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461640$3AA3A656-9B72-49C5-BBCB-F9CDD4393CA7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461640$daee39df-0d3b-4428-802e-0df8e37e3517",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f34842b6c47bf01e696d6892713a8c2d4d813e2c",
+      "datavalue": {
+       "value": {
+        "time": "+1201-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q461640$6E0CE78E-7181-443C-912F-01FEDC2C8267",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק פולקר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4964182": "פילוסוף",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q461640.json"
+}

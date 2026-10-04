@@ -1,0 +1,163 @@
+{
+ "id": "Q2895787",
+ "url": "https://www.wikidata.org/wiki/Q2895787",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2895787",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון שוואב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shimon Schwab"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1908–1995)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שוואב, שמעון בן חנה ובן יהודה,"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ee7fe2f00f9c4186ddfbf7b687e27647b1dea619",
+      "datavalue": {
+       "value": {
+        "time": "+1995-02-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895787$D5854558-08B6-4A26-B9C1-F5E0F39039E5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f98bc373773397ff92120174276b994b0a8ab21a",
+      "datavalue": {
+       "value": {
+        "time": "+1908-12-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895787$7FEFB4BF-5A38-4D44-865C-6628B89541C3",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895787$16F73A76-F17B-4C20-ADCA-CAF023C6B7C9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895787$5981C56F-CE7C-45D4-AA7C-483364BB00CA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "05e57bab2e52e9eebff4f45750be0af3e0d63bdf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895787$8C2BF928-077C-4537-BA7F-D81D712B8F92",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון שוואב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1794": "פרנקפורט על המיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2895787.json"
+}

@@ -1,0 +1,153 @@
+{
+ "id": "Q2893952",
+ "url": "https://www.wikidata.org/wiki/Q2893952",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2893952",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים מאיר יחיאל שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Meir Jechiel Szapira"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, אדמו\"ר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים מאיר יחיאל ממוגלינצא"
+    },
+    {
+     "language": "he",
+     "value": "חיים מאיר יחיאל שפירא ממוגלינצא"
+    },
+    {
+     "language": "he",
+     "value": "חסידות מוגלינצא"
+    },
+    {
+     "language": "he",
+     "value": "חיים מאיר יחיאל ממוגלניצא"
+    },
+    {
+     "language": "he",
+     "value": "השרף ממוגלינצא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2893952$BF6207FD-874F-4A00-B983-DD5EC854E6DE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2893952$BEFAA278-4FBA-4026-A2AF-68868FC10E19",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3db9110dd219dba1a78055fe9551881e3ee77aad",
+      "datavalue": {
+       "value": {
+        "time": "+1849-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2893952$8CF88457-5D5B-477A-B38C-7CE68A3A4C02",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "62d586d09a28261f0be6832bdc716b2f2e34b4b4",
+      "datavalue": {
+       "value": {
+        "time": "+1789-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2893952$4198E158-1881-4847-A45B-C138759937B5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים מאיר יחיאל שפירא (מוגלניצא)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2893952.json"
+}

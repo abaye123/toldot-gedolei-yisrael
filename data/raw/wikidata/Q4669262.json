@@ -1,0 +1,134 @@
+{
+ "id": "Q4669262",
+ "url": "https://www.wikidata.org/wiki/Q4669262",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669262",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham ben Mordecai Galante"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם גלנטי (מקובל)"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi and kabbalist"
+   },
+   "he": {
+    "language": "he",
+    "value": "מקובל איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669262$58371048-6912-4C88-8B85-4FA767375AC1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b89b56d4bf22fdc9d1c54a69c609b508d753c1c9",
+      "datavalue": {
+       "value": {
+        "time": "+1588-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669262$000282DE-6361-4220-AD79-2F97B1DB2D46",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669262$95A73FDE-85F0-4933-8406-599A40FFB43B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d9ff575a7513254dccf6d54d99eaa029f5ccb4a2",
+      "datavalue": {
+       "value": {
+        "time": "+1501-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669262$7AB03495-7B8C-4D17-A90C-317457896A4A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם גאלאנטי (מקובל)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4669262.json"
+}

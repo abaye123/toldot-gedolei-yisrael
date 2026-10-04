@@ -1,0 +1,251 @@
+{
+ "id": "Q730056",
+ "url": "https://www.wikidata.org/wiki/Q730056",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q730056",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chaim Hirschensohn"
+   },
+   "he": {
+    "language": "he",
+    "value": "חיים הירשנזון"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American Orthodox rabbi (1857–1935)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הירשענזאהן, היים"
+    },
+    {
+     "language": "he",
+     "value": "הרב חיים הירשנזון"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5f78741dc3a80a53e2a584f9bfc7434a5e1484db",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q730056$E4765157-A93C-4D1B-A8D4-1AA48BD51403",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$4DCFB9D1-A3BA-4EEE-B418-B1EBE66D601C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c8ef63cfe1db5d10ddcac997f7c42bf4f56f9ace",
+      "datavalue": {
+       "value": {
+        "time": "+1857-08-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q730056$CD956185-415C-431E-BFB1-746259754BAB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4c99b4861a469fd23a384efd02066c5607d8ee3b",
+      "datavalue": {
+       "value": {
+        "time": "+1935-09-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q730056$E45C95BD-5FC9-4BB1-8336-487B8D311FBF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$3E9863EF-6EEC-4900-8512-90479D6BA2FF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8e178d1d7932f0f309bc1b8400f86ed8fa6b82df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 138578,
+        "id": "Q138578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$C68E46D4-653A-4815-8FCD-92DCCF9A4CB1",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "627648ef1f6fd7ae9bd697d230ff4109188ac704",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 24068937,
+        "id": "Q24068937"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$5b71f140-4c5f-cb98-0196-50e2a146fb53",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "705f8e6267c38d6f77a09a535ce31095b4569d7b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 62380982,
+        "id": "Q62380982"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$c3560471-4136-7642-5043-54391cb88e2e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "a29f144773814b2c20b4bada9ff3881687ca0001",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7694847,
+        "id": "Q7694847"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q730056$f6e1250b-463c-bf18-880f-5409197e94d1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים הירשנזון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q138578": "הובוקן",
+  "Q188336": "צפת",
+  "Q24068937": "תמר דה סולה פול",
+  "Q5": "אדם",
+  "Q62380982": "נחמה אדלרבלום",
+  "Q7694847": "תהילה ליכטנשטיין"
+ },
+ "raw": "data/raw/wikidata/Q730056.json"
+}

@@ -1,0 +1,238 @@
+{
+ "id": "Q2899033",
+ "url": "https://www.wikidata.org/wiki/Q2899033",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2899033",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי מנחם מנדל קאליש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordechaj Menachem Mendel Kalisz"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר השני של וורקא, ובנו של האדמו\"ר הראשון מוורקא רבי ישראל יצחק קאליש"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "האדמו\"ר האמצעי מוורקא"
+    },
+    {
+     "language": "he",
+     "value": "מנחם מנדל קאליש"
+    },
+    {
+     "language": "he",
+     "value": "מנחם מנדל מוורקא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Menaḥem Mendel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899033$32E643AE-B22C-495A-BD92-F208DB20DC08",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a04f3b3ab3ce4eb83c73a474f8051b28d58d43ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1716786,
+        "id": "Q1716786"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899033$1920E2FB-40B7-463D-B1EF-5442C3946B9D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899033$9249D756-4189-4189-B451-DD10337AE8F5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4b6525268ebac7699ed77f252ea01a9b4e6f3106",
+      "datavalue": {
+       "value": {
+        "time": "+1819-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899033$32F8CC43-88F9-496E-8022-4E54DBA52B52",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9cd9634310a794ebc078b0049aabcdb378889c0",
+      "datavalue": {
+       "value": {
+        "time": "+1868-06-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2899033$2D2AC20D-0957-44EF-A309-944686AF520E",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2c497be0733fc6d7c5531e51e3389c810b244bd8",
+      "datavalue": {
+       "value": {
+        "time": "+1868-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899033$B0B00128-EF3C-48EE-A3F3-647666B7D1A9",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "faf883cbab9fd4f332cb6529d731aefeec766be5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7222976,
+        "id": "Q7222976"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899033$2456769B-3DA3-458A-8509-2E82EC95BD0D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי מנחם מנדל קאליש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1716786": "בית הקברות היהודי בוורשה",
+  "Q5": "אדם",
+  "Q7222976": "שמחה בונם קאליש"
+ },
+ "raw": "data/raw/wikidata/Q2899033.json"
+}

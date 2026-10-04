@@ -1,0 +1,243 @@
+{
+ "id": "Q107534232",
+ "url": "https://www.wikidata.org/wiki/Q107534232",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107534232",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף גז (הראשון)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yossef Guez"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi (1793-1853)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף גז (הראשון)"
+    },
+    {
+     "language": "he",
+     "value": "הרב יוסף גז (הראשון)"
+    },
+    {
+     "language": "he",
+     "value": "גג', יוסף בן דוד, 1793-1853"
+    },
+    {
+     "language": "he",
+     "value": "גיג, דוד, המאה ה-18"
+    },
+    {
+     "language": "he",
+     "value": "יוסף בן דוד גיג"
+    },
+    {
+     "language": "he",
+     "value": "גדז', יוסף בן דוד, 1793-1853"
+    },
+    {
+     "language": "he",
+     "value": "גז, יוסף בן דוד"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Gig, Daṿid, active 18th century"
+    },
+    {
+     "language": "en",
+     "value": "Ghez, David, active 18th century"
+    },
+    {
+     "language": "en",
+     "value": "Gig, Daṿid, 18th cent."
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534232$E8CFDC8E-A0D9-4D39-A6BC-05366C28242B",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "dede6062b3246d1a9abf819fd1d72e32ef5db0d4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107534225,
+        "id": "Q107534225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534232$9e0a6093-4837-bddd-ac4c-2ef4963e2941",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "2d0e935f3e51073c1a1e1afc6235d3d96181da5f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 108399691,
+        "id": "Q108399691"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534232$3d7e3db5-4562-ebd2-d807-4eed604e9bb5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534232$07bfddad-45d7-c2a7-5703-bf672834c5a0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f60ed9fcd09cc2616785bb5755e1dfa4a60effd8",
+      "datavalue": {
+       "value": {
+        "time": "+1793-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107534232$ea0ba2f5-4a9a-c4c6-2b0d-043d356968ef",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d09f63b307df8d023ae75d8a27c359bdf0ca610c",
+      "datavalue": {
+       "value": {
+        "time": "+1853-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107534232$d5727d25-4d37-fc5b-b730-78a08a709080",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "41133a6b580b7eb252f154da197fb93249e18913",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107534235,
+        "id": "Q107534235"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534232$9704e43e-4466-c1bc-614c-1dcf50cb0306",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף גז (הראשון)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q107534225": "אליהו חי גג'",
+  "Q107534235": "דוד חזקיה גז",
+  "Q108399691": "חיים דוד גז",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q107534232.json"
+}

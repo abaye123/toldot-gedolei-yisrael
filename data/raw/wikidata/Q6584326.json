@@ -1,0 +1,183 @@
+{
+ "id": "Q6584326",
+ "url": "https://www.wikidata.org/wiki/Q6584326",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6584326",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה קאשטרו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Ḳaśṭro"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשי הקהילה במאה ה-16 בירושלים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "קאשטרו, משה בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "קסטרו, משה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6584326$A28E5121-A2D0-434B-A34F-BBD614F2F48F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6584326$CB59CE7B-65D8-402C-B293-2A980AF81B52",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "482165f61a5cb2dd895d2f790d6c8fd6729bde11",
+      "datavalue": {
+       "value": {
+        "time": "+1547-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6584326$BF6F19D6-E568-4B84-A986-41FCD1D5F475",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6584326$9508b95a-4099-993c-d813-3a90d902218f",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1af2ebd96c51b89326d33595d115673e87b0a2c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6535573,
+        "id": "Q6535573"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6584326$7fbbff4e-4948-746c-e924-e2b8994fc1c7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02895cb7f4fcc07119696b7df6f471124a4485d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 79,
+        "id": "Q79"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6584326$77FA874C-90DB-49FE-9D46-02D8F9E75AAD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה קאשטרו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6535573": "אבן-חביב, לוי בן יעקב,",
+  "Q79": "מצרים"
+ },
+ "raw": "data/raw/wikidata/Q6584326.json"
+}

@@ -1,0 +1,165 @@
+{
+ "id": "Q7494069",
+ "url": "https://www.wikidata.org/wiki/Q7494069",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7494069",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Shemaiah of Soissons"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי שמעיה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French scholar"
+   },
+   "he": {
+    "language": "he",
+    "value": "תלמידו של רש\"י, מחכמי צרפת במאה ה-11 ובתחילת המאה ה-12"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמעיה השושני"
+    },
+    {
+     "language": "he",
+     "value": "ר' שמעיה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7494069$BA866B6A-1BCC-46E8-8D9D-4F65B8E61445",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "49501730455b7b775c7dc87137c84889e28d0d2b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26456,
+        "id": "Q26456"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7494069$6bc5371f-446f-5dba-3572-3cc5095ab164",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7494069$4C513D1C-C1C8-4D14-BA0A-0EC360CDCB70",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "95eea96421f1d9acce064f79d59e5062caa4ad7d",
+      "datavalue": {
+       "value": {
+        "time": "+1200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7494069$8E247FF9-8CB4-47CE-BB33-3A6109F1E9FF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "876df05ddd0ccae70647f0fd54895f7d16062570",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 167152,
+        "id": "Q167152"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7494069$1A892F40-A1E9-4AEE-897B-89B35B8E4ECE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי שמעיה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q167152": "סואסון",
+  "Q26456": "רש\"י",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7494069.json"
+}

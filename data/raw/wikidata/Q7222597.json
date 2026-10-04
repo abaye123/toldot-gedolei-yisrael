@@ -1,0 +1,185 @@
+{
+ "id": "Q7222597",
+ "url": "https://www.wikidata.org/wiki/Q7222597",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7222597",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום אליעזר הלברשטאם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom Eliezer Halberstamm"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב משושלת צאנז , מייסד החסידות רצפרט (1862–1944)"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1862–1944)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי שלום אליעזר האלבערשטאם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7222597$A18F3A6E-91FA-4FB7-B7E4-0E9C708ADC12",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7222597$8812A024-9F21-48CC-B282-9D378F882C6C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14a1df4c551b57faf2779f7e3bb6c5ed123d07ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7341,
+        "id": "Q7341"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7222597$906f7e5a-8c97-4ebd-9971-853a3c09dffe",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f6114c6faf6ab3d04c5b1c116ede488a5f767788",
+      "datavalue": {
+       "value": {
+        "time": "+1862-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7222597$b20807c6-421e-9ad5-42af-4570f3df3c85",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ad6bac559024f176260dd538fd67490d5f80d0c6",
+      "datavalue": {
+       "value": {
+        "time": "+1944-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7222597$df661234-47ae-8580-f917-127bce7fc2dc",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "1c21c8c4017c5d81fe3c106689db9f145c8c8529",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 744298,
+        "id": "Q744298"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7222597$4D8FD883-336C-4B4B-B35E-C354C5AD0191",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום אליעזר הלברשטאם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7341": "אושוויץ",
+  "Q744298": "חיים הלברשטאם"
+ },
+ "raw": "data/raw/wikidata/Q7222597.json"
+}

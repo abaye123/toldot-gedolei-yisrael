@@ -1,0 +1,161 @@
+{
+ "id": "Q3282162",
+ "url": "https://www.wikidata.org/wiki/Q3282162",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3282162",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Malkiel Ashkenazi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מלכיאל אשכנזי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Malchiel Ashkenazi"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "מלכיאל אשכנזי מחברון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3282162$03575A1E-5584-4B94-AF62-6D3B3B95C45C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3282162$2777A391-D052-4D64-9B2F-DB69C4A2999A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "76fcfed06239909e35fa9428130a5bbabd791aaa",
+      "datavalue": {
+       "value": {
+        "time": "+1520-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "9818a0fd3fce9ef046b3fee90c6845026501322d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 18122778,
+          "id": "Q18122778"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31",
+      "P1480"
+     ],
+     "id": "Q3282162$F5C34442-2A27-4AAB-8223-1E5E0BDB3679",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מלכיאל אשכנזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3282162.json"
+}

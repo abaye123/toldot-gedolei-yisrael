@@ -1,0 +1,410 @@
+{
+ "id": "Q6831341",
+ "url": "https://www.wikidata.org/wiki/Q6831341",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6831341",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליה שמואל הרטום"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elia Samuele Artom"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומחנך איטלקי-ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi (1887-1965)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$716EE5D7-3B4C-44A0-849A-4A5F9306B33B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$3E3C61F2-0276-4426-8B26-300E0BAD04D3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2d7c05e4ead590af1a7acb4eacd8835971b2c88a",
+      "datavalue": {
+       "value": {
+        "time": "+1887-06-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6831341$f00e804e-44a5-8472-a4c4-0f125df9a98a",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f6ebf66a66121f8a5ee280bf1884f2225e3e497f",
+      "datavalue": {
+       "value": {
+        "time": "+1887-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6831341$F95D9A44-D783-45B0-A9EF-C4D75E4829C4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "24f42504f99bf5bc8bfc3c63c1ebcc31ee13e5cc",
+      "datavalue": {
+       "value": {
+        "time": "+1965-02-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6831341$d1a1deab-449d-1a87-421e-f32cc1ccedab",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ef31b0977df421299d889eab619a958c47d1f6e8",
+      "datavalue": {
+       "value": {
+        "time": "+1965-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6831341$1B812DC9-D291-44E1-8624-D9621D80B836",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "67e540c10f97d4662fe19f4418059cd38c4b3f54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 495,
+        "id": "Q495"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$4746D1C8-1BDC-4E10-8481-5D0C68B0EE1F",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "f7deaef4a0e1d16c6bdbde5869295a8f84a34659",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7037237,
+        "id": "Q7037237"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$C03B106B-AA3E-485A-B7CD-12EE9C400E89",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "abce19191288d59144164df0359d6e6000e9f8ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 220,
+        "id": "Q220"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$9ecc38b5-4138-df15-3dd4-a3759522ed23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$554208c2-4e6b-e638-3b34-e8b4035061d2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "9bbd381cb7c4a5cebeeaf3af6b7fec8f3f927087",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19829990,
+        "id": "Q19829990"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$8f48857e-4c77-2405-1e26-f240a85ed9b8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "330821417269b3e834fcd97ab9040b5cb84dd2d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1231865,
+        "id": "Q1231865"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$d64248d0-4b61-fc06-23ab-0fe59f0fd425",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cbe652155c23d4823e70fffb8dfef9ba3ef0a125",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37226,
+        "id": "Q37226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$9ae27d8c-b311-498c-b87c-bf6031c9b9eb",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$87f51309-7354-4d4b-bfbc-d156f253a1be",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "31ff01cb14f6d8de4a6d99ad6e744946cc0e0659",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107113651,
+        "id": "Q107113651"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6831341$713A8488-E6BD-4277-87D1-3FA1FFCFF0C6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליה שמואל הרטום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q107113651": "Giulia Cassuto Artom",
+  "Q1231865": "איש חינוך",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q19829990": "חוקר מקרא",
+  "Q220": "רומא",
+  "Q333634": "מתרגם",
+  "Q37226": "מורה",
+  "Q495": "טורינו",
+  "Q5": "אדם",
+  "Q7037237": "מנחם עמנואל הרטום"
+ },
+ "raw": "data/raw/wikidata/Q6831341.json"
+}

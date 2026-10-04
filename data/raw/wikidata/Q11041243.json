@@ -1,0 +1,131 @@
+{
+ "id": "Q11041243",
+ "url": "https://www.wikidata.org/wiki/Q11041243",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q11041243",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה בר מרימר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah b. Meremar"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Babylonian sage"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Judah Mar b. Meremar"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11041243$4BABEA55-B424-4F33-A6E2-7E2AED7652B5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11041243$809C8A40-9640-4FE6-841C-45802F71BCCA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11041243$943EC769-277D-4140-90DC-7458F4B1A56E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "12d3727a9c8cdcda3ebbc888399fb7b98ad9e80d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409537,
+        "id": "Q12409537"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11041243$99ac3f9e-4e92-1605-8bc1-f1b67dc448ed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה בר מרימר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12409537": "מרימר",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q11041243.json"
+}

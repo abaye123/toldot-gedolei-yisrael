@@ -1,0 +1,199 @@
+{
+ "id": "Q1217250",
+ "url": "https://www.wikidata.org/wiki/Q1217250",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1217250",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ארנסט נוימן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ernő Neumann"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Romanian Rabbi (1917-2004)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב רומני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1217250$CF02B69B-B9AC-4280-BC73-30983044BAF5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "431abfd58e5cf59075f1cfc77ceb9c3599b72316",
+      "datavalue": {
+       "value": {
+        "time": "+1917-01-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1217250$F34AAF80-3417-41D3-BE78-503573610728",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5c63fde29ccc1cb8fe09329e2a72b9c1a7cb64f4",
+      "datavalue": {
+       "value": {
+        "time": "+2004-04-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1217250$FEC1038E-7D05-41E0-BBC8-704258C53C54",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1217250$96876AB9-0171-4220-8FD7-FC60941D44CC",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f2be00b62180cd494c426b15e2ded27e4fef4c41",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1189427,
+        "id": "Q1189427"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q1217250$c8a91645-4480-e859-fec4-7e54fe919ca5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5b09648233e46727d9f2a041d6f9a90a48bbf995",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83404,
+        "id": "Q83404"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1217250$1462edb1-4713-3bd5-303e-d985020f7006",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ארנסט נוימן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1189427": "צ'ייקה",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q83404": "טימישוארה"
+ },
+ "raw": "data/raw/wikidata/Q1217250.json"
+}

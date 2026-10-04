@@ -1,0 +1,157 @@
+{
+ "id": "Q5360788",
+ "url": "https://www.wikidata.org/wiki/Q5360788",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360788",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben-Arhah"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר בר ארחא"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi in Hebron, Kabbalist and doctor"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliezer ben Isaac ben-Arhah"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360788$3A8C5617-7768-442C-8BE9-00F15B401362",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360788$563E15AE-5E17-474E-9737-88F9C00730E3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ca2510e0c0502dad839b269177beea61538e59eb",
+      "datavalue": {
+       "value": {
+        "time": "+1652-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360788$36BD3296-D7A4-403A-893E-F4F82F07154F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5f78741dc3a80a53e2a584f9bfc7434a5e1484db",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360788$97463E86-CBEC-412E-842C-0DBD370AD421",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "934123dc6dc063bf8ce1caf29dc7b4178f168ae5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168225,
+        "id": "Q168225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360788$E0DD00E4-FE97-4939-9CB3-88D3B9971998",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר בן ארחא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q168225": "חברון",
+  "Q188336": "צפת",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5360788.json"
+}

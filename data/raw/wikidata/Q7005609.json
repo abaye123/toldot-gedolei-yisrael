@@ -1,0 +1,152 @@
+{
+ "id": "Q7005609",
+ "url": "https://www.wikidata.org/wiki/Q7005609",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7005609",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב קלמס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של מוסקבה וחבר מועצת הרבנות הראשית בימי קום מדינת ישראל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7005609$CD775EAD-D7BF-4B48-B5E1-7DD00B216748",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7005609$6C7FB8BC-3142-492B-B1C8-7E700EE64234",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7b8cb1b7b007d1b3204452b949f8c58ee7f5d85a",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7005609$1B466C29-2E03-4CD9-BEBF-FBA6AAA78C58",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4564761fb69fb7aceb81fa3916389cb4ec37ce0c",
+      "datavalue": {
+       "value": {
+        "time": "+1953-02-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7005609$25EC19D4-0813-4C80-8DAD-DA87F0993610",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7005609$47f2966d-b5b7-4f54-9f39-1f695bf7d19e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב קלמס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7418236": "בית הקברות סנהדריה"
+ },
+ "raw": "data/raw/wikidata/Q7005609.json"
+}

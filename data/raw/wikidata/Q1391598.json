@@ -1,0 +1,399 @@
+{
+ "id": "Q1391598",
+ "url": "https://www.wikidata.org/wiki/Q1391598",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1391598",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה פיינשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Feinstein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מגדולי פוסקי ההלכה החרדים לאחר השואה, יו\"ר מועצת גדולי התורה של אגודת ישראל בארצות הברית"
+   },
+   "en": {
+    "language": "en",
+    "value": "Great Orthodox Jewish Rabbi of the 20th century (1895–1986)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הרב פיינשטיין"
+    },
+    {
+     "language": "he",
+     "value": "אגרות משה"
+    },
+    {
+     "language": "he",
+     "value": "משה פינשטיין"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "06b98c8c87de7a0728555e1c282198dc61c7c511",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201429,
+        "id": "Q201429"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "fa87986d938cfb8f346fc8c48e6fbf60540d15f3",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 593230,
+          "id": "Q593230"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "q1391598$50DA0ED7-9D9B-48E3-9B34-A1E8E1225B9E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1391598$16FD9072-50CD-4359-BE20-09F0C00F8457",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$ABAA24DE-2811-4363-9BBB-F40574C17AC4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "795bba9e7e38f5ad6c57ab72d56ddd92f85fedeb",
+      "datavalue": {
+       "value": {
+        "time": "+1895-03-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391598$D303AB70-9FA2-4D71-8CCF-13A5F8A947E2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aa8385fbeafa22745da3e11b838899fe69a74fbc",
+      "datavalue": {
+       "value": {
+        "time": "+1986-03-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391598$150976C5-D425-4C50-B7A1-F15B74291FF5",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P625": [
+       {
+        "snaktype": "value",
+        "property": "P625",
+        "hash": "f7a678bc9c42e3b327ef74ca47a3450e3e095df9",
+        "datavalue": {
+         "value": {
+          "latitude": 31.8,
+          "longitude": 35.183333,
+          "altitude": null,
+          "precision": 1e-06,
+          "globe": "http://www.wikidata.org/entity/Q2"
+         },
+         "type": "globecoordinate"
+        },
+        "datatype": "globe-coordinate"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P625"
+     ],
+     "id": "Q1391598$789EB4BC-10BF-4E53-A1DA-E7A1358E599B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6fe3da0640635f157544bbff2ce3974ffb4c5a8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1234713,
+        "id": "Q1234713"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$80C85CFA-7F7E-41B6-9B6C-C518DB9061C1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$0C040F36-FBD4-481D-80DF-7320E0EAB21A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$BD53BD06-BBDC-4D05-BC28-EBFFF50AAFB6",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "cda6c762d86810b75af88000b6375b515f4cdc35",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5302567,
+        "id": "Q5302567"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$0D3AD639-4CB9-4E31-81B7-AC9362866D34",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "9685493cfffdcc647a3756976f1868cd74e73360",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7317646,
+        "id": "Q7317646"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$814BD53F-347D-4F57-8B33-CE4AD29F3242",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$3c25cde7-e8df-4c30-a883-647a2e1d60ee",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "9ed7bb3af88697550ed17cbcb340333ad6ccba4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391598$38adb650-4158-940b-5175-0c95d26a0392",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה פיינשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1234713": "תאולוג",
+  "Q133485": "רב",
+  "Q201429": "אוזדה",
+  "Q2308372": "ראש ישיבה",
+  "Q335336": "הר המנוחות",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם",
+  "Q5302567": "דוד פיינשטיין",
+  "Q60": "ניו יורק",
+  "Q7317646": "ראובן פיינשטיין"
+ },
+ "raw": "data/raw/wikidata/Q1391598.json"
+}

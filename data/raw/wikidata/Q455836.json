@@ -1,0 +1,173 @@
+{
+ "id": "Q455836",
+ "url": "https://www.wikidata.org/wiki/Q455836",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q455836",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודאי גאון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehudai Gaon"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "8th-century rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "גאון בבלי, ראש ישיבת סורא."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב יהודאי גאון"
+    },
+    {
+     "language": "he",
+     "value": "יהודאי בן נחמן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jehudai Gaon"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q455836$802624E9-F6B6-42A0-82E5-01CD9F84D41A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q455836$6F068FE1-5286-4100-980D-2C85DD86813B",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q455836$7b3353b9-4789-8990-1424-229b4bc41452",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0260285c874e25b85fb1212ce0730af224747002",
+      "datavalue": {
+       "value": {
+        "time": "+0700-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q455836$68a7e85e-42f4-70c2-f626-84f07844436b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f039342c38d637ae74b98367651353d81b1e1f0b",
+      "datavalue": {
+       "value": {
+        "time": "+0762-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q455836$7b24faa6-4b6d-1e64-dfc0-0e39b4f6f16c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודאי גאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q455836.json"
+}

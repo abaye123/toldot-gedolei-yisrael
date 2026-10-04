@@ -1,0 +1,300 @@
+{
+ "id": "Q136410256",
+ "url": "https://www.wikidata.org/wiki/Q136410256",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q136410256",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב קאפיל לנדמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Kopel Landmann"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בטרנופול (1840–1915)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב קאפיל בן צבי הירש לאנדמאן"
+    },
+    {
+     "language": "he",
+     "value": "יעקב קופל לנדמן"
+    },
+    {
+     "language": "he",
+     "value": "יעקב קאפיל לאנדמאן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yaʻaḳov Ḳopil Landman"
+    },
+    {
+     "language": "en",
+     "value": "Yakov Kopel Landman"
+    },
+    {
+     "language": "en",
+     "value": "Jacob Kopel Landman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136410256$c3808bb9-485f-54a6-af18-dea41ef227c9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d9f999f2a09400d48e1059f293f35d71e3a6e429",
+      "datavalue": {
+       "value": {
+        "time": "+1840-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q136410256$fa30ba3c-4ec8-8788-ff26-96beeec3ce20",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3bf37d35bd1829e7ca82185238a77c49d3c14185",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2602975,
+        "id": "Q2602975"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "3591009a4e581cd59dd1946d9502a450f012db22",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2396442,
+          "id": "Q2396442"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "70d93bd2f063d32bcdb294097b793e4254f636f0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 131964,
+          "id": "Q131964"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q136410256$95f2b00b-44fb-a3c7-551f-042ba404d8d7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b1187482254634794e9e65805571db7cdc041778",
+      "datavalue": {
+       "value": {
+        "time": "+1915-09-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "9406256ac210765f84217efafe83a59f3b63bbda",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2920950,
+          "id": "Q2920950"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q136410256$587fcdfa-4819-e1af-1e06-6323336ee449",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "080b86e1cfc1a6d736ab9f087567142c7f09df73",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156743,
+        "id": "Q156743"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "3591009a4e581cd59dd1946d9502a450f012db22",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2396442,
+          "id": "Q2396442"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q136410256$1ce1d7da-44da-8392-fea8-7dd4131179e3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136410256$d7c0a2c0-4adf-cf58-9bb8-c09c175e13b0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב קאפיל לנדמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156743": "טרנופול",
+  "Q2602975": "סצ'ליסקה נובה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q136410256.json"
+}

@@ -1,0 +1,309 @@
+{
+ "id": "Q7064185",
+ "url": "https://www.wikidata.org/wiki/Q7064185",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7064185",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פנחס אפשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Pinehas Epstein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בירושלים"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Pinḥas ben Yeshaʻyahu"
+    },
+    {
+     "language": "en",
+     "value": "Pinḥas ben Y."
+    },
+    {
+     "language": "en",
+     "value": "Pinehas B. Isaiah Epstein"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "עפשטיין, פנחס בן ישעיהו"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064185$DE135BE5-230D-42ED-9893-92891F606C38",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064185$6221FA26-B0D1-4763-A72D-95CD3A25759C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064185$B3A1370D-245C-4980-AA6A-6C3C803AC376",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "72ba92ad9276f3309a8a2e1d8c623491f58cd514",
+      "datavalue": {
+       "value": {
+        "time": "+1969-12-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7064185$A9D9AF66-59B0-435E-8C42-622FAB73D991",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "68fb592db8a31cce3be55b924562981d64fa12d6",
+      "datavalue": {
+       "value": {
+        "time": "+1969-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7064185$11B49ACC-B47E-4221-84C8-9C11F869A43B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064185$732D72DF-4D99-4F80-B42A-1AE24A267DEC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e6a96e453a0ff7a54e8473caaf99f51acb9c1340",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "e9a52f18146ac901faaf9b7e500e5cec3abae846",
+        "datavalue": {
+         "value": {
+          "time": "+1886-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "4821f24f503e6f373c21bb02b53318fa8f0d3ff1",
+        "datavalue": {
+         "value": {
+          "time": "+1887-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319",
+      "P1326"
+     ],
+     "id": "Q7064185$aa9ca2d2-4a18-0a7f-1355-acd14b2675f0",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3f6fe69bf4906adf0260be76b3975d3e33dbcca9",
+      "datavalue": {
+       "value": {
+        "time": "+1887-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7064185$27CF8498-D978-4ED4-80C6-D2C1E0F7DBA4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aedcb1965948ee1626a56b45281e7778b168f80d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 336204,
+        "id": "Q336204"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7064185$697c3ae7-4cc4-637a-5ba4-95ad7cc133b6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פנחס אפשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q336204": "גרייבו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7064185.json"
+}

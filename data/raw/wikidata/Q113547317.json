@@ -1,0 +1,191 @@
+{
+ "id": "Q113547317",
+ "url": "https://www.wikidata.org/wiki/Q113547317",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113547317",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Braude Arye Leib"
+   },
+   "he": {
+    "language": "he",
+    "value": "אריה לייב ברודא (לבוב)"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113547317$a85e260b-42b9-3c36-fb02-354e2354afd1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113547317$0c74f674-4cde-85d9-cefa-405986b87d90",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3c7d9d0799c9992d64930360804927de935a43aa",
+      "datavalue": {
+       "value": {
+        "time": "+1840-12-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113547317$c52df452-4caa-3567-d62e-e9c51a2af009",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "11a3ee481123e08c32ba2c984b4dca81e95ff4e2",
+      "datavalue": {
+       "value": {
+        "time": "+1928-07-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113547317$7cb32ec7-4443-6094-a936-482add4bc076",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "13d78fe1481777d47503cd32698d0e3aeb7be96d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 181376,
+        "id": "Q181376"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113547317$556b48bd-4458-c160-e808-4940702baebe",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "79e73d263d3587db774228bab2e49c9284d37f73",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113547317$f28d1d7e-4df7-609b-2739-f636de7ae8cc",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "fc064e507e56ae5d539618f213f358d0df622a80",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2891922,
+        "id": "Q2891922"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113547317$697dd22a-443a-7fd5-4604-5d59eb881883",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה ליב ברודא (לבוב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q181376": "גרודנו",
+  "Q2891922": "מרדכי זאב ברוידא",
+  "Q36036": "לבוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113547317.json"
+}

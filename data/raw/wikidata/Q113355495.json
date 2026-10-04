@@ -1,0 +1,124 @@
+{
+ "id": "Q113355495",
+ "url": "https://www.wikidata.org/wiki/Q113355495",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113355495",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב מסקין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ברוסיה, ליטא וארצות הברית במאה ה-20"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355495$FEB5E623-2819-44D1-915C-D237E8B08B4B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355495$9637887F-3148-4FCF-A425-73A5E00310F1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "57d8977d2a6565711fa44fe6ee53663b569f14fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37,
+        "id": "Q37"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355495$2B6E04E9-77A8-46AA-9CEF-6B9CAB457639",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f2e5b1c6347dc51701d7cb6eb5bfa6eed860eee2",
+      "datavalue": {
+       "value": {
+        "time": "+1956-02-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355495$DC7A0DC8-896B-444B-9290-51C947397D0A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב מסקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q37": "ליטא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113355495.json"
+}

@@ -1,0 +1,148 @@
+{
+ "id": "Q30526791",
+ "url": "https://www.wikidata.org/wiki/Q30526791",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526791",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבטליון בן שלמה מקונסיליו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי במאה ה-16"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526791$388572b6-4fb0-bd14-f8f9-378a0dc1c06f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "24b575210c19ae8dd0b0f3479be80908f288d85a",
+      "datavalue": {
+       "value": {
+        "time": "+1540-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526791$88e1e272-4f34-4878-bdce-b5121f61de96",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6c33cf84e3ba4a8f4b4a0e219a17d37f36f1a27b",
+      "datavalue": {
+       "value": {
+        "time": "+1616-10-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526791$892b0368-4c4b-f371-4222-3fedeb4d1ceb",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526791$83cd52a5-45ac-6f29-7b8e-8064b47c404f",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b80262acbea4348f6a8388f603d0d309d5531f8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7411889,
+        "id": "Q7411889"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526791$7368973c-4e24-9cbd-3b0a-0c98ded1d16f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבטליון בן שלמה מקונסיליו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7411889": "שמואל יהודה קצנלבוגן"
+ },
+ "raw": "data/raw/wikidata/Q30526791.json"
+}

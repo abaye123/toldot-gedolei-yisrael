@@ -1,0 +1,172 @@
+{
+ "id": "Q3859681",
+ "url": "https://www.wikidata.org/wiki/Q3859681",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3859681",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mnachem Risikoff"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנחם הכהן ריזיקוב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American-Russian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3859681$FD678D5E-D6C1-4B69-B0C5-5E5ACE4D53D1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1b36837ec0a677efe0cd9da6f9376469cff530d2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3859681$30BB70D6-4DEC-448B-BAD4-9C93826CC521",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ce983621fc1ae9bc560497d97c6972e98d12ff47",
+      "datavalue": {
+       "value": {
+        "time": "+1866-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3859681$9E141811-ADD5-431A-A1C2-90C2D291A1EB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "509bb2049e3ff5a4413ecff9509895e5e295e0cf",
+      "datavalue": {
+       "value": {
+        "time": "+1960-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3859681$D6D9363F-4B58-4E0A-BA46-70C2D08D67C8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3859681$DF5B32C3-1FC9-426C-9E97-875ED54F6EAA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3859681$B2C8DA4D-C0B6-4E20-87C3-B92F8660FF50",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם הכהן ריזיקוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18419": "ברוקלין",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3859681.json"
+}

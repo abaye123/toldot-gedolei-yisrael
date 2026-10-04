@@ -1,0 +1,132 @@
+{
+ "id": "Q7558723",
+ "url": "https://www.wikidata.org/wiki/Q7558723",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558723",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Petit"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה פטיט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מבעלי התוספות"
+   },
+   "en": {
+    "language": "en",
+    "value": "13th-century French Tosafist"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558723$890481C6-AF0E-469D-ACE7-E22F4AC22047",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558723$00410B8F-FAB6-44FC-9FFE-E035D1663404",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6989fb4ff1e7aaf86fe0b4c7a183242932a68861",
+      "datavalue": {
+       "value": {
+        "time": "+1305-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558723$f90ed4c7-44a6-d415-bf74-9a4e18f4f43b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ad5ac2b5584d7bfc7640f27cb61e548f4ccb5956",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 173063,
+        "id": "Q173063"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558723$3a320248-4b04-876d-0000-9c3a4c489789",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה פטיט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q173063": "קסטיליה (אזור היסטורי)",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558723.json"
+}

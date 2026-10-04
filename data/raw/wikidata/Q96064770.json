@@ -1,0 +1,152 @@
+{
+ "id": "Q96064770",
+ "url": "https://www.wikidata.org/wiki/Q96064770",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96064770",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joel ben Isaac ha-Levi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יואל הלוי מבונא"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "12th-century German Tosafist"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96064770$a2dd908e-88bb-4b94-8e9a-961279de07cf",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b11bf75b40b5a908116e41b3538b4fbb80ee7a82",
+      "datavalue": {
+       "value": {
+        "time": "+1115-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96064770$752bb698-0309-4ee7-ae9a-c7624081065b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "96146a1ae001ee69be321a503400d52b13fc3859",
+      "datavalue": {
+       "value": {
+        "time": "+1200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96064770$36dcc3e9-3f03-498d-926c-ff05977d2469",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96064770$90991BCA-A86B-411C-B038-5687B5C427FF",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "516cb4dbc33305eaf2c23245bdadb928533f2c3a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5360791,
+        "id": "Q5360791"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96064770$51d3072d-405e-f4f1-7960-cd50cc33426c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יואל הלוי מבונא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5360791": "אליעזר בן יואל"
+ },
+ "raw": "data/raw/wikidata/Q96064770.json"
+}

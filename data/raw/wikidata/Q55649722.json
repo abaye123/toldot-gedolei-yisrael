@@ -1,0 +1,140 @@
+{
+ "id": "Q55649722",
+ "url": "https://www.wikidata.org/wiki/Q55649722",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55649722",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עזרא הכהן מסלתון טראב"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649722$25D01C63-23B1-4751-91FB-51FAA84DBE4C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d46fe8e1427e8a8d2a525e04baf20be01d96bf6e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3766,
+        "id": "Q3766"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649722$48E721BD-7F56-463E-80F4-9B7F76DE336A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d03339f6b2adabb5484642a6ee3ebb595ad485b0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3766,
+        "id": "Q3766"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649722$BCFFC764-F361-4577-8F7D-0B22B3FF5997",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b0ca864294c987cf998689a18fd4d92973f69903",
+      "datavalue": {
+       "value": {
+        "time": "+1920-02-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55649722$142D862B-41E1-46FA-8A83-4915A1B43B2A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649722$4cbb812b-4a25-0dad-dd44-e5373edb747f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזרא הכהן מסלתון טראב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3766": "דמשק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q55649722.json"
+}

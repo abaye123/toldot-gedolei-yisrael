@@ -1,0 +1,100 @@
+{
+ "id": "Q139765481",
+ "url": "https://www.wikidata.org/wiki/Q139765481",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q139765481",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע בן זירוז"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בן הדור החמישי לתנאים, מוצג בתלמוד כ\"בן חמיו של רבי רבי מאיר\", תלמידו של רבי רבי יהודה הנשיא."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139765481$83b54706-44e7-3866-117b-d752e9da3641",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139765481$64a23f1a-43b0-f86a-d40b-b19ada493c52",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9257ef806e5ae6dff92a577bbf771211275b2fab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 380427,
+        "id": "Q380427"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139765481$d20ab460-4d07-ea2a-4554-6a7d24886cb4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע בן זירוז",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q380427": "רבי יהודה הנשיא",
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q139765481.json"
+}

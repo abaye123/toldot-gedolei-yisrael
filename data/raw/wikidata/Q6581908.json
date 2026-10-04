@@ -1,0 +1,178 @@
+{
+ "id": "Q6581908",
+ "url": "https://www.wikidata.org/wiki/Q6581908",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6581908",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רונן נויבירט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ronen‏ Neuwirth"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6581908$6BAF5F04-3845-42A6-82FB-837357294758",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9a87525b23af39c89597f785de545b73f55c93c7",
+      "datavalue": {
+       "value": {
+        "time": "+1970-12-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6581908$75c9e2eb-4b8e-ea82-6eaf-cd6f340b5bb9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9ed12efa39447f2927841b027d54cf8c4d46d1fe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152602,
+        "id": "Q152602"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6581908$9b8603c1-4172-bb7c-c96b-fb4fe2d848f8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6581908$312158ce-4a94-bf40-235e-dc3e83d7e809",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c6b45bf7135205980e2e745321b9cdcc905b355e",
+      "datavalue": {
+       "value": {
+        "time": "+2021-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6581908$ab7fc097-4cf3-cd3d-b404-42aa9b966e4d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "6c97bc1272d0873c76049ecc607fc5e13238089b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152413,
+        "id": "Q152413"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6581908$e2937341-4276-cf07-3795-e800aa0bcd1c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רונן נויבירט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152413": "גבעתיים",
+  "Q152602": "קריית אתא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6581908.json"
+}

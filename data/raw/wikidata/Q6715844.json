@@ -1,0 +1,126 @@
+{
+ "id": "Q6715844",
+ "url": "https://www.wikidata.org/wiki/Q6715844",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6715844",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב דימי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rav Dimi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי מהדור השלישי והרביעי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6715844$25CCA4EF-36A1-4EF8-9EA1-8E2D42FB5941",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "4947d7ba01a273e34a5896bf1a117818ac8ff7b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6715844$E2BE5E42-0029-4046-B0D4-3035ED3EB728",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "982616870af1e5e9bbdf2de81fa096e2d4e97468",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15843470,
+        "id": "Q15843470"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6715844$6F4AD620-8629-4138-A403-4DF266F004D5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6715844$37E86EF9-0070-4D3B-BF87-DEAE7BF66298",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב דימי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q15843470": "התקופה הרומית בארץ ישראל",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל"
+ },
+ "raw": "data/raw/wikidata/Q6715844.json"
+}

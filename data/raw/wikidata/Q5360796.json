@@ -1,0 +1,227 @@
+{
+ "id": "Q5360796",
+ "url": "https://www.wikidata.org/wiki/Q5360796",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360796",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer of Touques"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר מטוך"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מאחרוני בעלי התוספות ועורכם של קבצי תוספות רבים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Among the last Tosafists, and editor of many Tosefot compositions"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "תוספות טוך"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360796$08ECEA27-9DC5-4723-BAE6-64310C947E9B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360796$AC2A332B-938D-4E65-BE29-E200A7047037",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "eb83a40a5d4d186b4c0fdc73275b2499a5341ecf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2066514,
+        "id": "Q2066514"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360796$F9EB38A0-F0C0-489D-B5D8-0EFC726F8221",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d401f5546e017c61022709f3cce3a3e2c631b368",
+      "datavalue": {
+       "value": {
+        "time": "+1274-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360796$a1c1a4ea-48c3-022a-aaa6-3edde3727c30",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "049ce574b35dfe18adfbb3234c51783e32dc8054",
+      "datavalue": {
+       "value": {
+        "time": "+1250-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360796$55be7c01-426b-05c5-e649-bf7c55b40e0a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "77cf09a3fa852a97d43844260ab29c322d0d94b2",
+      "datavalue": {
+       "value": {
+        "time": "+1234-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360796$6e354172-4c0a-4709-b8df-2cc6beb5b6aa",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8c913cd17e7b0b918fb5cbdf7820308a81ef2c1f",
+      "datavalue": {
+       "value": {
+        "time": "+1290-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360796$f1ac18e8-46a9-04c8-75e5-a0f901749e9d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "691ba9a094b96f533ecf834d3c658496e560c5d6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3249,
+        "id": "Q3249"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360796$f3cb9ea0-3683-4e70-9aeb-9aca926c64ed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר מטוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2066514": "בעלי התוספות",
+  "Q3249": "קלבדוס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5360796.json"
+}

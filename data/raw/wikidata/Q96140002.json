@@ -1,0 +1,159 @@
+{
+ "id": "Q96140002",
+ "url": "https://www.wikidata.org/wiki/Q96140002",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96140002",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Elyakim Rosenblatt"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליקים רוזנבלט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "orthodox-Jewish rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Elyakim Getzel Rosenblatt"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96140002$e7851872-1332-474b-8821-ec1142088770",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "85dc29b7440e06417587407a6cecdfee5e5daa0d",
+      "datavalue": {
+       "value": {
+        "time": "+2019-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96140002$7100cca1-10b1-4472-99ea-4d150c1f66f0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f47662be297a0195232c178ef66e0b29518c1437",
+      "datavalue": {
+       "value": {
+        "time": "+1933-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96140002$DECBCC83-2B01-4D62-887F-8BA17494D798",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f37a862f8e63e99bdaeecf20255b772aa5eb36fe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96140002$FF059C71-2B5D-47AC-AEC6-6690F5BBF278",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96140002$defd9b94-cef0-4644-a190-e325af26cbc1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליקים רוזנבלט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18419": "ברוקלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q96140002.json"
+}

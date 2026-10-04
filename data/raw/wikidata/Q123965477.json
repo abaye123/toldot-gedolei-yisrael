@@ -1,0 +1,178 @@
+{
+ "id": "Q123965477",
+ "url": "https://www.wikidata.org/wiki/Q123965477",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q123965477",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שאול (שחוד) שרים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shaul Shrim"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי של ביירות ורב קהילת יוצאי חלב בסאו פאולו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chief Rabbi of Beirut and Rabbi of Aleppo-originated São Paulo jewish community"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123965477$ffdabe6e-4820-cdbe-8933-9275832063db",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123965477$c14a2ef5-4983-fb67-c560-ea12d50f44c7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b5f4acc297c0a5bcdce31d0c602bf0576d9a26f8",
+      "datavalue": {
+       "value": {
+        "time": "+1914-12-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123965477$94e3f818-4e21-28ef-f4dc-7bc9618f9033",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "21976b8d0e166c4fb39bad8058eb562b23321a42",
+      "datavalue": {
+       "value": {
+        "time": "+1999-07-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q123965477$602be9a6-4de1-fdf6-0754-16246a20ce7f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cce3fc04b92e1134de79d23ec228fa7aface6632",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123965477$beda5c13-47cc-4f50-ca79-a4969f034bba",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b1dccfdaff7739743315ed45ac8526cf61704d5f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 174,
+        "id": "Q174"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q123965477$14e37ef7-424b-605b-47b6-6104df4573db",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאול שרים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q174": "סאו פאולו",
+  "Q41183": "חלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q123965477.json"
+}

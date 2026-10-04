@@ -1,0 +1,253 @@
+{
+ "id": "Q8051291",
+ "url": "https://www.wikidata.org/wiki/Q8051291",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8051291",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yehuda Heller Kahana"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה כהנא הלר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi (1743-1819)"
+   },
+   "he": {
+    "language": "he",
+    "value": "בעל קונטרס הספקות על תקפו כהן להש\"ך"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehuda Heller-Kahane"
+    },
+    {
+     "language": "en",
+     "value": "Yehudah Kahana"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$A9D8E869-51AD-454E-8866-B64511EDDF37",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$1F2C4B74-D1DE-4444-A1BF-9C65B5A063E2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c4ef20127bdab5d9248a2e0a391b546b8d86f52c",
+      "datavalue": {
+       "value": {
+        "time": "+1743-12-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051291$5E7C19FE-942A-40B4-81FD-CF252702D419",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4bb7a9a3ccc409c713352ac578ed296d301c27a4",
+      "datavalue": {
+       "value": {
+        "time": "+1819-04-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051291$2FF9C65A-0B4E-4567-B018-A237FD309685",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "3ea6a19b438aafae5e17806cfd47d8488f831b48",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 89985572,
+        "id": "Q89985572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$b1273703-4b14-92d6-6acb-f8fe59d6d5ed",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "1f87b337b69e4f1a527b6c1ef6c729b186c37487",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 98266843,
+        "id": "Q98266843"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$f2a5a6b2-47d3-4d55-64db-9d872792a1b9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "17d57453dec8adac547064435002f59c210976a9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 146453,
+        "id": "Q146453"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$db4e2a69-4b2a-28f6-bd6f-d4716d8761ce",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "57f86e477169465bdfa9e3ae0137c60e089af931",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 334874,
+        "id": "Q334874"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$34a3553b-4549-f165-c8fd-cfc508d87cf5",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "62b35d0ce3e0d17ace2da28198eec3f19138b690",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2907499,
+        "id": "Q2907499"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051291$9ae81ffc-4710-e2d5-bea0-a8b3b6a0c72a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה כהנא הלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q146453": "קאלוש",
+  "Q2907499": "אריה לייב הלר",
+  "Q334874": "סיגט",
+  "Q5": "אדם",
+  "Q89985572": "קונטרס הספיקות",
+  "Q98266843": "תרומת הכרי"
+ },
+ "raw": "data/raw/wikidata/Q8051291.json"
+}

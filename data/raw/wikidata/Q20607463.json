@@ -1,0 +1,177 @@
+{
+ "id": "Q20607463",
+ "url": "https://www.wikidata.org/wiki/Q20607463",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20607463",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה הורוביץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר פולני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי יודעלע מעליצער"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607463$3660E80D-2A54-4412-AAF3-7491CA1763CA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a11b053d261c47e79dc0e7074cce9f46cff1a0cf",
+      "datavalue": {
+       "value": {
+        "time": "+1821-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20607463$E51A25F3-59A7-42CB-89AC-3F174132393E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d28868ff913bf90d02914ea7243ef6fc7b07c034",
+      "datavalue": {
+       "value": {
+        "time": "+1879-01-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20607463$9A78C249-51B5-47A1-9500-5965A2A99F59",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "4551d6b05280a7719c0a53aaa445bb0742c01cbf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 658861,
+        "id": "Q658861"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607463$0009D5E8-E06A-4B32-ADB9-3FAB571FD533",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607463$2B6906B5-CE20-4106-8622-CC594BBD8543",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f1fbb9cc3d969e7199aaffb31d49e2cc14d01b44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12255183,
+        "id": "Q12255183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607463$39E838A5-20F1-4869-8F5E-9835A883C251",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה הורוביץ (מעליץ)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12255183": "יעקב הורוביץ (מעליץ)",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q658861": "מיילץ"
+ },
+ "raw": "data/raw/wikidata/Q20607463.json"
+}

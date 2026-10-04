@@ -1,0 +1,156 @@
+{
+ "id": "Q3574656",
+ "url": "https://www.wikidata.org/wiki/Q3574656",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3574656",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Zaki Cohen"
+   },
+   "he": {
+    "language": "he",
+    "value": "זכי כהן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "ottoman rabbi (1829–1904)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב סורי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3574656$54A976BF-9E26-4463-A1AF-94A43B19F52F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "064ab169c45a1a273599ba90bbcb65103fa2d18c",
+      "datavalue": {
+       "value": {
+        "time": "+1829-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3574656$C52F9FA8-E5B9-4650-84AC-00E9C0E68CD3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "66022a3bf550cd94122b1cd9f59bc8586f56fede",
+      "datavalue": {
+       "value": {
+        "time": "+1904-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3574656$2A88EC90-7F8D-4A6C-927A-76FFC0476ABB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3574656$E53B0D2F-8B80-4E09-BA6D-E682FD410418",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cce3fc04b92e1134de79d23ec228fa7aface6632",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3574656$a669afc3-4dbc-13ed-d83d-344927ccea72",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זכי כהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q41183": "חלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3574656.json"
+}

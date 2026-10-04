@@ -1,0 +1,287 @@
+{
+ "id": "Q95007660",
+ "url": "https://www.wikidata.org/wiki/Q95007660",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q95007660",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Salomon Nissen"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה ניסן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Talmudic scholar"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה ניססען"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Solomon Nisen"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95007660$7BE2D563-31DA-4C4C-9E4C-E0564E78F8BC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "342317206d5c84344c4b87b90d56c9654c79a0b5",
+      "datavalue": {
+       "value": {
+        "time": "+1872-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "50e734dd0c96c44ff90990293522a3ca2eeb224f",
+        "datavalue": {
+         "value": {
+          "time": "+1872-03-07T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "36b2b3c532c9a63e6801e9a34be0ea2d62ab38d2",
+        "datavalue": {
+         "value": {
+          "time": "+1872-04-06T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1932": [
+       {
+        "snaktype": "value",
+        "property": "P1932",
+        "hash": "1cef32e28189f0888542aa090b9a2a94c4b41106",
+        "datavalue": {
+         "value": "27 Adar 1872",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319",
+      "P1326",
+      "P1932"
+     ],
+     "id": "Q95007660$BD20882E-9E35-4163-972E-1AC25F518258",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "13d1072a51326e905eb66981d82ef5629ebe84ba",
+      "datavalue": {
+       "value": {
+        "time": "+1804-12-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q95007660$ad03697c-4d29-7fa8-dc92-006d4fd358a9",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c03ebea7518acfd5f6fba15c282c8847d7c3fa59",
+      "datavalue": {
+       "value": {
+        "time": "+1804-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q95007660$958C9FEE-1F77-4C32-9469-9FCA238AAB4F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e3271ad45bbc8eda9b83bacd661f508adc893086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95007660$77600851-4862-de17-c5a1-9e9b6312a8b7",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "f1b458663746c8d316886eefdf5edbeb19502cc2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 114597,
+        "id": "Q114597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95007660$0bc80696-4ff8-d69e-eb75-c9d602d5bcaa",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9226ba3aad526380d802b422b81895a3eaa635f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95007660$D78A2337-DFC7-4146-B6DC-B582BCDFA896",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95007660$CBFC4C29-5583-4F75-862E-222F3C278C23",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה ניסן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q114597": "בית העלמין היהודי בורוצלב",
+  "Q1799": "ורוצלב",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q95007660.json"
+}

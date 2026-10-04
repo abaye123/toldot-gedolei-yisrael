@@ -1,0 +1,178 @@
+{
+ "id": "Q1228708",
+ "url": "https://www.wikidata.org/wiki/Q1228708",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1228708",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Siegfried Klein"
+   },
+   "he": {
+    "language": "he",
+    "value": "זיגפריד קליין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1882–1944)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b034d9c375e89b4e24f01649ccecd48b5e6ece5e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 702411,
+        "id": "Q702411"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1228708$94352A73-B4B0-4ECB-818B-B22BADF80EBE",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0b905cba7f19b4fc0d446a14e511ce33c30de7da",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 663764,
+        "id": "Q663764"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1228708$512DB74E-BE4B-432C-8C0F-42EE8866A8CD",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1228708$1ACD60AC-87B7-4624-BA5F-86AB4AC19EDA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d965de5aa0ef93eba019aba7c080790355ca21f6",
+      "datavalue": {
+       "value": {
+        "time": "+1882-12-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1228708$E795DDF9-EA70-417D-8532-87CF5EA1A74D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4d9a679741136962499c313cffe0d5d953f20a23",
+      "datavalue": {
+       "value": {
+        "time": "+1944-08-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1228708$CEBF656B-D66E-4946-ADE6-E256D6EBCEEE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1228708$DA2D30C6-03EF-445A-B323-59A83A34454C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זיגפריד קליין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q663764": "מחנה ההשמדה בירקנאו",
+  "Q702411": "ריידט"
+ },
+ "raw": "data/raw/wikidata/Q1228708.json"
+}

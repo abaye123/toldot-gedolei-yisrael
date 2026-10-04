@@ -1,0 +1,395 @@
+{
+ "id": "Q3308207",
+ "url": "https://www.wikidata.org/wiki/Q3308207",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3308207",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Michael Friedländer"
+   },
+   "he": {
+    "language": "he",
+    "value": "מיכאל פרידלנדר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "orientalist, Bible translator, translator (1833-1910)"
+   },
+   "he": {
+    "language": "he",
+    "value": "מזרחן וחוקר בתחום מדעי היהדות שחי ופעל בלונדון אנגליה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פרידלנדר, מ."
+    },
+    {
+     "language": "he",
+     "value": "פרידלנדר, מיכאל בן יהושע פאלק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Michael Friedlander"
+    },
+    {
+     "language": "en",
+     "value": "M. F-r."
+    },
+    {
+     "language": "en",
+     "value": "M. F."
+    },
+    {
+     "language": "en",
+     "value": "Michael Friedlaender"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$7018265C-AD1C-4831-9412-0500672B9FCA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "29df1a5cbe08aaee22e95b995190657c1e29e966",
+      "datavalue": {
+       "value": {
+        "time": "+1833-04-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3308207$66E69ED0-9F7D-439D-8BBA-81A32CC7EDC1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "12a0a52a35c2912c8eb7f5e008e7c838d55ce3a4",
+      "datavalue": {
+       "value": {
+        "time": "+1833-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "f3ccaf73be6b0e93d5aa04790382fdc76eb62e53",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 90399975,
+          "id": "Q90399975"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q3308207$426604B2-DAA2-45B7-AA0A-11D5CAA8D103",
+     "rank": "deprecated"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "44d038645f2ddd762f7fb0420f85ec264d2f8206",
+      "datavalue": {
+       "value": {
+        "time": "+1910-12-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3308207$4C54A86A-5F2B-4872-AFA1-4933D09DB348",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "97ebc5a2a5eaa20682eb52dd1638bea99b10bc41",
+      "datavalue": {
+       "value": {
+        "time": "+1910-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "f3ccaf73be6b0e93d5aa04790382fdc76eb62e53",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 90399975,
+          "id": "Q90399975"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q3308207$AA76AC7D-31C4-42E4-87D0-AE3510D5CB74",
+     "rank": "deprecated"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "91798e34c0c8c76dd20c457d9b6c42ac1d39b022",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1731155,
+        "id": "Q1731155"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$62795EB6-6128-4A7E-B0AA-CFD16999E4E7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "362b35be3b9e7f6721b9a91b1032d6888a76a175",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 24262584,
+        "id": "Q24262584"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$CADC9A24-0A11-42AB-A49A-A437BDE9E2A9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$AFC8D881-03EB-4DD6-8C20-740D93A1FF60",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$98ECAAC4-829E-415C-B3D6-AF2085E8BC3C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d026163f3967272c5c8b824a55a1f371450eef54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 432386,
+        "id": "Q432386"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$8E079C67-6AF9-4D69-B1D3-97CFBA89C7DE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8cb8a2975ac4e5c5a5add3206db8258b18d177c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1005837,
+        "id": "Q1005837"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$11CA2E4B-2C07-45FE-B08F-3A140433EEB7",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "475edd7df2c63c725cb534fb0398d8c6b084b333",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22295561,
+        "id": "Q22295561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$4ecebde7-4ac0-d6d7-d333-9e0cc4618c8c",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3308207$6334db1a-4433-4690-b7fb-036e97595ce3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מיכאל פרידלנדר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1005837": "Jutrosin",
+  "Q133485": "רב",
+  "Q1731155": "מזרחן",
+  "Q22295561": "The guide of the perplexed of Maimonides",
+  "Q24262584": "מתרגם תנ\"ך",
+  "Q333634": "מתרגם",
+  "Q432386": "דרשן",
+  "Q5": "אדם",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q3308207.json"
+}

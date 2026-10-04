@@ -1,0 +1,191 @@
+{
+ "id": "Q95349498",
+ "url": "https://www.wikidata.org/wiki/Q95349498",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q95349498",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yeḥiel Mikhel ben Avraham ha-Leṿi Epshṭain"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחיאל מיכל אפשטיין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "17th-century Jewish writer"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "בעל קיצור של\"ה"
+    },
+    {
+     "language": "he",
+     "value": "בעל קיצור שני לוחות הברית"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jehiel Michel Epstein"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95349498$4C6899B1-F50A-4D8D-BAEA-077794179677",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2d18eae19c52b15e78a413605cb9dda0370e86c2",
+      "datavalue": {
+       "value": {
+        "time": "+1706-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q95349498$0DDAC630-ACC1-4AB5-A6D7-68C1D94FD9CC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95349498$1EA1ACB3-A66E-41DF-8533-1DF007D826E9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7eb2953936669f86f833c2b0ed80dc34a95ec03a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95349498$AA19FB60-4255-41F4-9DAC-67D7BA6F892A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "52ba4275425663e3259c07a54ccdfa6f9ef11c3d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q95349498$14789852-BC52-49B8-A588-F004E956319D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "54146adc5b4afa6f9cb8a36bbed05e461c44e179",
+      "datavalue": {
+       "value": {
+        "time": "+1650-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q95349498$a974b604-45d8-6124-67ce-59855aca33ed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיאל מיכל אפשטיין (קיצור של\"ה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1794": "פרנקפורט על המיין",
+  "Q36036": "לבוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q95349498.json"
+}

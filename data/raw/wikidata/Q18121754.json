@@ -1,0 +1,148 @@
+{
+ "id": "Q18121754",
+ "url": "https://www.wikidata.org/wiki/Q18121754",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121754",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה לייב קמינר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תלמיד חכם, חותנו של השפת אמת מגור"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121754$F8E63B17-F4F8-49A9-B8D1-455825021041",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121754$A5400AE1-F703-4040-86BF-F4271E248EEA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7bca9c8314f10628c1a7db52b8ea53e4d7d4c1a1",
+      "datavalue": {
+       "value": {
+        "time": "+1827-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121754$b71db98d-4e93-0e9e-9c35-6ad3c14c9577",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07117f29ce5931a60192f7ea3be129dfeaaed991",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121754$997251f9-4db2-d05b-9f70-0af3301de974",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5d8c700e1c8f4f31b8ecc5ca78ffd2662403efbe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1021080,
+        "id": "Q1021080"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121754$0f2483f4-4d91-bb71-d2ff-04d732f902e4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה לייב קמינר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1021080": "ליפניק על הבצ'ווה",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18121754.json"
+}

@@ -1,0 +1,281 @@
+{
+ "id": "Q921589",
+ "url": "https://www.wikidata.org/wiki/Q921589",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q921589",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Jose"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי אליעזר בן רבי יוסי הגלילי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא"
+   },
+   "en": {
+    "language": "en",
+    "value": "1st-century CE rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי אליעזר בנו של רבי יוסי הגלילי"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בנו של רבי יוסי הגלילי"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר ברבי יוסי הגלילי"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן רבי יוסי הגלילי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$D8630CBE-1B39-4088-BAD1-771FBA360562",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "38edb7bf4f52ccd8431196184197f684b4ffac58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83241,
+        "id": "Q83241"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$2880C261-6F75-491D-8E82-98AED62F8440",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "26b62c365cc7b12eac28e4cabb1712eeea9815eb",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q921589$4326AE7F-71C8-43CB-B306-D424A1767DA2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7388395e2d336b3acfd9413d3b09fa6ece6bde71",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q921589$8E8531D4-34AC-4B58-BF8E-26CAB0D15CC4",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "07ad27315fbe6f043ecff74300ab715ee7fe439a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982173,
+        "id": "Q982173"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$44877a74-468b-ca2c-03b5-4d65e06bc544",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$1609447E-A885-42DF-B0E1-C43ABBB154B7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$19104788-4374-48A7-8179-6EB2D221761F",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "63fad936b788ccfb0c6157848f9b279381dd7a2b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2916525,
+        "id": "Q2916525"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q921589$6380af27-4345-59fb-9d14-1ff16177842e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אליעזר בן רבי יוסי הגלילי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q2916525": "דלתון",
+  "Q5": "אדם",
+  "Q83241": "הגליל",
+  "Q982173": "רבי יוסי הגלילי"
+ },
+ "raw": "data/raw/wikidata/Q921589.json"
+}

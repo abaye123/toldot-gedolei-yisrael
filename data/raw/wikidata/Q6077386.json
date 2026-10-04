@@ -1,0 +1,244 @@
+{
+ "id": "Q6077386",
+ "url": "https://www.wikidata.org/wiki/Q6077386",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6077386",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac ben Abba Mari"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק בן אבא מרי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "12th-century Provençal rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "עיטור סופרים"
+    },
+    {
+     "language": "he",
+     "value": "עשרת הדברות (ספר)"
+    },
+    {
+     "language": "he",
+     "value": "יצחק בן אבא מארי"
+    },
+    {
+     "language": "he",
+     "value": "ספר העיטור"
+    },
+    {
+     "language": "he",
+     "value": "מאה שערים (ספר)"
+    },
+    {
+     "language": "he",
+     "value": "העיטור"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077386$F9B18D25-5863-4B85-A797-21B8FFBE1FBA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e487465627b6ff13f35158e425e9f59eefb3e72b",
+      "datavalue": {
+       "value": {
+        "time": "+1193-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q6077386$73CCAD7A-4405-47D6-858A-F363321406C8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2922f8ada8cc627c5f20d70845f2f13dd5b3f725",
+      "datavalue": {
+       "value": {
+        "time": "+1190-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6077386$A0F8F7EA-59ED-4131-9C78-EB6CD41886C8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077386$FBC1AD04-8D1F-4D45-B43A-34F47A3BEAC7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ee36576fc4543e427b6e2ffcc77990b426abd4bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23482,
+        "id": "Q23482"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077386$9EE297EB-FF3E-487A-AE94-ED5F0C3A3F85",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d899bc8791ed4d114f53a5197c6a1ff17d01d421",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 61125721,
+        "id": "Q61125721"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077386$1e52d874-47f3-05da-a8e2-6dca68051e4e",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9889b1454ec123424c3411476e556814952020c2",
+      "datavalue": {
+       "value": {
+        "time": "+1122-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6077386$6880ED51-0A35-488A-9428-5C3922AA33EB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק בן אבא מרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q23482": "מרסיי",
+  "Q5": "אדם",
+  "Q61125721": "העיטור"
+ },
+ "raw": "data/raw/wikidata/Q6077386.json"
+}

@@ -1,0 +1,147 @@
+{
+ "id": "Q12408287",
+ "url": "https://www.wikidata.org/wiki/Q12408287",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408287",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק שמואל אליהו פינקלר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchok Shmuel Eliahu Finkler"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408287$6324CE9E-BAAA-4A90-AFCF-4DA3CFDBEC5A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408287$683A2B32-9B99-4A17-AA99-7E40B08AAFB2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "180d5d797b4965ce4d3a1fc2c1cdc2d4e14f1fb9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3141156,
+        "id": "Q3141156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408287$E2E441A2-8833-4A2B-9E8B-DE7921B08472",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f53c059ddbb45e31a5f0a83b8fbc6a4e9644d596",
+      "datavalue": {
+       "value": {
+        "time": "+1892-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408287$f2ef8614-42dc-9d9f-2a16-1e01d77734da",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "befcc0b8a05b08bd0cf6ea14bf95f4f3d14b6ccd",
+      "datavalue": {
+       "value": {
+        "time": "+1944-11-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408287$2f9cd525-4ce0-ce9e-6ac8-34a1317c83a8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק שמואל אליהו פינקלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3141156": "ראדושיצה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408287.json"
+}

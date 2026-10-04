@@ -1,0 +1,178 @@
+{
+ "id": "Q6982457",
+ "url": "https://www.wikidata.org/wiki/Q6982457",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6982457",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ברוך שמעון סלומון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Barukh Shimʻon Salomon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "היה הרב הראשי וראש אבות בתי הדין בפתח תקווה וראש ישיבת נחלת דוד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982457$9B0EF543-A5C1-4B59-A25F-BF4F1D2BC917",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "94f62d1afa34ad4362ecc73226b26b93c0973496",
+      "datavalue": {
+       "value": {
+        "time": "+1939-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6982457$69100FE4-45CB-4A55-ABB3-16EFA6CB51AE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "453140aa5f856c1837cd056c017dd836feb0cc01",
+      "datavalue": {
+       "value": {
+        "time": "+2009-03-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6982457$6C10DD1C-A479-4365-BE9C-F8E4B5085071",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982457$F8148F03-61CE-44B3-A066-CCA28702942C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982457$d9155667-484b-ddff-cc5c-6b4f03acc08e",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "85676b6b846e868520b9983fe1abb67185113a33",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7068444,
+        "id": "Q7068444"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982457$176A767B-FC86-4FDD-9A3F-0EE87C106CB1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברוך שמעון סלומון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6958598": "בית הקברות סגולה",
+  "Q7068444": "דוד סלומון"
+ },
+ "raw": "data/raw/wikidata/Q6982457.json"
+}

@@ -1,0 +1,207 @@
+{
+ "id": "Q114064260",
+ "url": "https://www.wikidata.org/wiki/Q114064260",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q114064260",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Sfej"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם צפיג"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי, חיבר פירוש על הרמב\"ם על אף היותו סגי נהור"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Avraham ben Yeʼuda‏ Tsefig"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114064260$b54027c4-1563-47d4-bfd3-a0b27fee3ae9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114064260$7a3c6d4d-4c16-5cf9-21ab-2b2d7e4eba3c",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7cf651656f01b00aaec4b0056f9836fe24e0d03f",
+      "datavalue": {
+       "value": {
+        "time": "+1800-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114064260$4932ae23-4266-5110-8a1a-945d57ef6220",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114064260$537181c3-492f-5834-4737-0e3c7443c448",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0a138cc15afab372e839c292bef94e15b3397a96",
+      "datavalue": {
+       "value": {
+        "time": "+1784-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114064260$a551dd7d-48c3-0b70-d4c8-87cc47ced134",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6321a9b2db46eba7644d0c367a6f2796d0ad65c1",
+      "datavalue": {
+       "value": {
+        "time": "+1804-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114064260$94655b5e-4b0a-0645-09e2-25a3fc7b06ce",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "01fceddb0e2f59e7ff4069dc87b1cfcd6e86fd1c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114064260$d360ed17-48da-a90f-7507-f7c6bf9d553c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם צפיג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3572": "תוניס",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם"
+ },
+ "raw": "data/raw/wikidata/Q114064260.json"
+}

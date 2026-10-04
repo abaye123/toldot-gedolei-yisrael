@@ -1,0 +1,181 @@
+{
+ "id": "Q4829429",
+ "url": "https://www.wikidata.org/wiki/Q4829429",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4829429",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avraham Wolfensohn"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם וולפנזון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Talmudic judge"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם וולפסון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829429$10D10484-5B06-4A52-896E-149A7334DE9D",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829429$A019F626-B665-438E-9C1E-63C46409988D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e75c2816e34f3828df2a10a496055f6ad1e0313f",
+      "datavalue": {
+       "value": {
+        "time": "+1783-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829429$6DACCAF7-AE56-4370-8144-FA581ECACEB3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "62d55caddb8bc9cd1b1fd8515920e01d21b511d4",
+      "datavalue": {
+       "value": {
+        "time": "+1855-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829429$1BBDACA8-6686-4377-A0B5-8B3DFF893284",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829429$B87EDC82-4FF0-480E-8302-F6B1B1D0BA14",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "d8d8700d9fc6b6a9d381df358013b1e75c0b04fb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7065346,
+        "id": "Q7065346"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829429$2DF859D2-B4F2-42C1-AD08-CBEE7A408396",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם וולפנזון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7065346": "זאב וולפנזון"
+ },
+ "raw": "data/raw/wikidata/Q4829429.json"
+}

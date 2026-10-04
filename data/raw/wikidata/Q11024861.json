@@ -1,0 +1,189 @@
+{
+ "id": "Q11024861",
+ "url": "https://www.wikidata.org/wiki/Q11024861",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q11024861",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם משה באב\"ד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Babad"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish-British rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בריטי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Moses Babad"
+    },
+    {
+     "language": "en",
+     "value": "Avraham Mosheh Babad"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11024861$16FEE5A1-D7FE-40F4-A39E-B2A8F0B90E06",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11024861$0E71BBB7-4C1C-452A-9A91-5133E91ED2EB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "22681f47e380695ae11e311de1ca6a2608482fb9",
+      "datavalue": {
+       "value": {
+        "time": "+1909-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11024861$273A748C-EF2F-4172-8141-DEF5C0CFC405",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "eddbe0a3c7818eac1841412de7b3fba553496e38",
+      "datavalue": {
+       "value": {
+        "time": "+1966-03-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11024861$9BBF66E8-B1BF-4B7C-A881-1A610CB25421",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d6f0b5cc85ea6f48c07ad3b2c2e18c4526f650c7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1956628,
+        "id": "Q1956628"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11024861$2F70B4D4-B22C-43C5-9F88-9DF74EFB2B5E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11024861$0E699C0C-32D4-47EB-A886-851F23DD8D66",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם משה באב\"ד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1956628": "מיקולינצה",
+  "Q5": "אדם",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q11024861.json"
+}

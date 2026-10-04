@@ -1,0 +1,134 @@
+{
+ "id": "Q93439168",
+ "url": "https://www.wikidata.org/wiki/Q93439168",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q93439168",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה בונם קרויס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Bunem Krois"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב העיר באדן בשווייץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Swiss rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q93439168$db1e3082-4365-62f4-b00d-80749d2f121d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bcd27490643531d5a8babbe09e42facdb27e35d0",
+      "datavalue": {
+       "value": {
+        "time": "+1876-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q93439168$ab583adc-5859-407b-95fb-1369c7538eb2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c747601bd3f96968b51565a56507eba21f84da12",
+      "datavalue": {
+       "value": {
+        "time": "+1939-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q93439168$b3b2ef52-4705-da3b-8e28-3ea64dd5ccfd",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q93439168$27d0ba00-4bcf-82e3-bc4c-f2543f9493cc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה בונם קרויס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q93439168.json"
+}

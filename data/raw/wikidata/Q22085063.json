@@ -1,0 +1,163 @@
+{
+ "id": "Q22085063",
+ "url": "https://www.wikidata.org/wiki/Q22085063",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q22085063",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה ויינברגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Weinberger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי-אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1852-1940)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה וויינבערגער"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22085063$26ce43f4-4f58-efd7-1bed-0fd23febbd54",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3497a82440a2f04dd592bf57fca2c085fc7fe298",
+      "datavalue": {
+       "value": {
+        "time": "+1852-05-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q22085063$085fbe00-4a64-b75b-d8da-fc1d7e1eaa40",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "01685b4f7572a6b499ed3ec41a1c3bf99b4dfee8",
+      "datavalue": {
+       "value": {
+        "time": "+1940-06-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q22085063$d6fad23d-43f5-0e83-1fb8-f50e28bd72a1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22085063$e8223f6a-47b6-ce90-43d3-0f7e2ecd2e59",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02ad1087978234687e1baa208079325835ac9767",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 148928,
+        "id": "Q148928"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q22085063$4bbea426-4012-2935-3318-8fa62b6297a1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה ויינברגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q148928": "זבורוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q22085063.json"
+}

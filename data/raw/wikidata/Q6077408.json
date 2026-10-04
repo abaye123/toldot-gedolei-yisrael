@@ -1,0 +1,206 @@
+{
+ "id": "Q6077408",
+ "url": "https://www.wikidata.org/wiki/Q6077408",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6077408",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac ben Joseph of Corbeil"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק מקורביל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק בן יוסף מקורביל"
+    },
+    {
+     "language": "he",
+     "value": "רבי יצחק מקורביל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077408$713FA8A2-2082-42FD-A048-4FC52CC3C568",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077408$E4CED49D-D626-4857-8AF1-A1D8AB349290",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077408$D0570F2C-04EC-4D99-B9B3-3BA86DA7A078",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7802021e102d138d3d4184154eebf437f4d66edd",
+      "datavalue": {
+       "value": {
+        "time": "+1280-04-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q6077408$0C2360CE-DBFE-4AD1-BBF1-0299CF2E76D4",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "adb6be5313c8c53c39ce87e0d0e985a35d312cb9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1686108,
+        "id": "Q1686108"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077408$81579ba6-4ff6-5c00-ce63-49ff20e87fd4",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "a47f9c371b755759e002275a037bedced81cbba2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7167928,
+        "id": "Q7167928"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077408$d87f3383-47eb-6a5b-271f-7255ec49aa5b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק מקורביל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1686108": "יחיאל מפריז",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q7167928": "פרץ מקורביל"
+ },
+ "raw": "data/raw/wikidata/Q6077408.json"
+}

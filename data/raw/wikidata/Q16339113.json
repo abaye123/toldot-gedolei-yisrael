@@ -1,0 +1,163 @@
+{
+ "id": "Q16339113",
+ "url": "https://www.wikidata.org/wiki/Q16339113",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16339113",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד בן ברוך"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל במרוקו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moroccan rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16339113$AF4367B7-4580-464A-BED9-83CA8B2CE8B2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16339113$C01EBB1C-7C23-4C4D-A397-860E24ED7DA8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa1f94e0638a7ba236d58095e27b4658997bd10b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 130135,
+        "id": "Q130135"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16339113$3c055223-424b-e38c-ab68-d5e7ecb067ab",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "715fd7ba6cf2e43eb1b8d5f69f1f29e011ea0a55",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 762727,
+        "id": "Q762727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16339113$da03b557-41ad-8f82-ad67-d594782ddea3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16339113$f2632618-4b39-7792-034e-ca6be1c0aba9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8cfea0c75abb0ac4a8e0b63a4d55643ee6eaca48",
+      "datavalue": {
+       "value": {
+        "time": "+1784-12-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16339113$ed5b0c3e-41c6-1a11-32f8-256ad7564710",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד בן ברוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q130135": "הרי האטלס",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q762727": "תרודאנת"
+ },
+ "raw": "data/raw/wikidata/Q16339113.json"
+}

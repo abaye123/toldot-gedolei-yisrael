@@ -1,0 +1,147 @@
+{
+ "id": "Q5360790",
+ "url": "https://www.wikidata.org/wiki/Q5360790",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360790",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Isaac ha-Gadol"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר הגדול בן יצחק"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Eleventh century German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מגדולי חכמי אשכנז בתחילת המאה ה-11"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליעזר הגדול ב\"ר יצחק"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר הגדול"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360790$FCFABA0E-7331-4B00-8347-10F90454EBDA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360790$4D150335-EAD8-4126-BE1E-45CF2C69E145",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "455a89d9be56a66f4dc10e98b6ac1a21f925f3f5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982050,
+        "id": "Q982050"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360790$01408054-4eb9-e419-376e-68540e6f3ff2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a7481143861dd9e2210e2d7afe128deaffd7d128",
+      "datavalue": {
+       "value": {
+        "time": "+1060-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360790$997F0FBC-8B2C-4A8B-96E2-3966B7D1E7AE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר הגדול בן יצחק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q982050": "רבנו גרשום"
+ },
+ "raw": "data/raw/wikidata/Q5360790.json"
+}

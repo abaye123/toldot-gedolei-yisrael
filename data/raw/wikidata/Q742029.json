@@ -1,0 +1,290 @@
+{
+ "id": "Q742029",
+ "url": "https://www.wikidata.org/wiki/Q742029",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q742029",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבן גמליאל השישי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Raban Gamaliel VI"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi and Prince of the Ancient Sanhedrin."
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי ונשיא של הסנהדרין הקדום"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "גמליאל השישי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Gamaliel VI"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$32B26C41-BE9C-4DC7-AB5A-90354EA279DA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "31a011a362215ad8bd1b8f526a9c5e64b73475e8",
+      "datavalue": {
+       "value": {
+        "time": "+0370-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31",
+      "P1480"
+     ],
+     "id": "Q742029$7B3C3813-DF0E-4326-88CB-5736D9DCB523",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fe04bc4df52d1dd9c028912395528415d5c84046",
+      "datavalue": {
+       "value": {
+        "time": "+0425-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q742029$4fbfbf36-4359-4121-dcb4-bd595979a9bc",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$68c0fb5e-4384-4776-f7e7-695874a8c8e2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "028ba6d4f482b44315036f70e70459dbb741456c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1279683,
+        "id": "Q1279683"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$1c778151-4f58-cb19-ce6c-532d4134c9c0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$6B10F3A0-86B1-48C6-970F-A08D57DFAC28",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b42b2fdce3b277c9fc3561104563a288827bdde9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1669578,
+        "id": "Q1669578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$604E6AF3-8AEB-4A14-BF03-DD95ECF7846F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fc4f9060cdc9c82d122b97de0536379d4d564573",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7126539,
+        "id": "Q7126539"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742029$FCA8D42F-275E-446B-9130-922396D67B24",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבן גמליאל השישי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1279683": "נשיא",
+  "Q133485": "רב",
+  "Q1669578": "סוריה פלשתינה",
+  "Q39631": "רופא",
+  "Q5": "אדם",
+  "Q7126539": "פלשתינה סקונדה"
+ },
+ "raw": "data/raw/wikidata/Q742029.json"
+}

@@ -1,0 +1,286 @@
+{
+ "id": "Q380430",
+ "url": "https://www.wikidata.org/wiki/Q380430",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q380430",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום רוקח"
+   },
+   "en": {
+    "language": "en",
+    "value": "Sholom Rokeach"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "First Rebbe of Belz (1783-1855)"
+   },
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר הראשון של בעלזא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "השר שלום"
+    },
+    {
+     "language": "he",
+     "value": "שר שלום רוקח"
+    },
+    {
+     "language": "he",
+     "value": "שלום מבעלז"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Sar Sholom"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5957cd903c1de6ffe39a36d5421c5b1e09d4f756",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q380430$8CA4E216-F685-4144-AA11-A2434801A646",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5529bace89852349590b08be56a92c6dbd994c77",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156565,
+        "id": "Q156565"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q380430$FA403D22-74D1-4389-A3D9-4FA81BB582D7",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q380430$26B2FABA-8656-4016-899B-04D586343A22",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "528f5bece93173a9c18503ba7a568b5556300a7a",
+      "datavalue": {
+       "value": {
+        "time": "+1779-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q380430$CBD30667-CD03-4AFF-B658-C4A9BD14835E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "455e153b41ad3cc1e8fd227e441669d96f4bdaf3",
+      "datavalue": {
+       "value": {
+        "time": "+1783-01-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q380430$0DC4B598-464D-4A20-9EFB-7E89E76D15E1",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5ab4ec488593804bfdb8ecf9cdacc101df26e39f",
+      "datavalue": {
+       "value": {
+        "time": "+1855-09-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q380430$F3BCF56E-3EFB-441C-AC48-C4D696EAF5A5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q380430$D1952295-C4EB-4089-9119-702F668F717D",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "cfd0a87c15d6f117fac7ac7a50c5c4c42a923ad7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6659193,
+        "id": "Q6659193"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q380430$0C22034D-DB6A-4BF0-BB23-01EDBD64BC8F",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7d25b42b2503ce092d02feebce579fb849bcb0d0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156565,
+        "id": "Q156565"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q380430$2A759AFF-76E3-4918-A123-E06B570D9215",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "5cced0c3e284f509187e684dcc5357db7e142072",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2906617,
+        "id": "Q2906617"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q380430$8819076B-F09D-4532-8EBE-EF394578BC43",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום רוקח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156565": "בלז",
+  "Q2906617": "יהושע רוקח",
+  "Q465104": "ברודי",
+  "Q5": "אדם",
+  "Q6659193": "מלכה רוקח"
+ },
+ "raw": "data/raw/wikidata/Q380430.json"
+}

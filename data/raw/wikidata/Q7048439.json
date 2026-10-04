@@ -1,0 +1,231 @@
+{
+ "id": "Q7048439",
+ "url": "https://www.wikidata.org/wiki/Q7048439",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7048439",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמשון בלוך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samson Bloch"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "(1784-1845)"
+   },
+   "he": {
+    "language": "he",
+    "value": "משכיל מגליציה (1784–1845)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמשון בּלאָך"
+    },
+    {
+     "language": "he",
+     "value": "בלאך, שמשון, הלוי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7048439$5CAF4CA4-1038-4C0A-8802-CD400CB463A7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7048439$c5a13417-40c4-ba4d-fb1d-4bbea2cb0e64",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7048439$22E841D4-6916-4DDE-92E5-BEF316234A6C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "49fe55e6d01cd09c4bcbd6cfcba6efeb263e21ca",
+      "datavalue": {
+       "value": {
+        "time": "+1784-06-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7048439$1f9f1cf9-4c21-3601-f81a-022e234dae1b",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cfabfe3850f489631edbbf2b440be175550b7ed5",
+      "datavalue": {
+       "value": {
+        "time": "+1784-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7048439$E09B914F-ED27-4D85-B24C-F7B9C0499676",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6993e71b36a06670291aaa79daec67d24fe87703",
+      "datavalue": {
+       "value": {
+        "time": "+1845-10-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7048439$be01229d-49a2-67ce-d7fe-e5125f6a4910",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d6f030f83d47e840d5422209cf69a140234daa36",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1020037,
+        "id": "Q1020037"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7048439$480cc54c-4037-e842-10cf-539a9e774202",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f0bf8f509cc632680b23936d9cb58faeaed4af5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7048439$5c24ef57-4b34-36a8-0875-30559752271f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמשון בלוך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1020037": "קוליקיב",
+  "Q133485": "רב",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q36036": "לבוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7048439.json"
+}

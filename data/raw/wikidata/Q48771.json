@@ -1,0 +1,225 @@
+{
+ "id": "Q48771",
+ "url": "https://www.wikidata.org/wiki/Q48771",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q48771",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל מוהליבר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Mohilever"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi, pioneer of Zionism (1824-1898)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומנהיג ציבור, מאבות הציונות הדתית"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל מוהילבר"
+    },
+    {
+     "language": "he",
+     "value": "שמואל מוהיליבר"
+    },
+    {
+     "language": "he",
+     "value": "מאהליווער, שמואל,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shmuel Mohilever"
+    },
+    {
+     "language": "en",
+     "value": "Samuel Mohilewer"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "243e0b9f523a6ba7c5f428bd101c7a01f45b8e2a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q48771$70F24950-1278-4C5E-ADDE-F283EC67C20E",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q48771$1BA1E744-05E5-4173-BA06-F63A0920C3C5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d7fa0d1ed0ba29478ecd4e578273912622acaff4",
+      "datavalue": {
+       "value": {
+        "time": "+1824-04-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q48771$23BC2D1F-7DD9-4F0F-8FCC-C8800CB83B0E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5e8530fd596a13c0cc9b53a084d229d0e5faac6b",
+      "datavalue": {
+       "value": {
+        "time": "+1898-06-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q48771$5643195E-05D6-4B90-B95F-F23726497410",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q48771$C9095775-FC09-42ED-8CE9-8BE279F03D31",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "c8955c607a9516ed12b333478ffee0e941e3ac30",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4205457,
+        "id": "Q4205457"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q48771$0709F900-64E9-47F9-AA22-1B28534EE332",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0a9b202cea74216a681a8fce97c170a7f159ce2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 954114,
+        "id": "Q954114"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q48771$16eeeae0-462e-0547-5e0d-f331c6282384",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מוהליבר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4205457": "יצחק מוולוז'ין",
+  "Q5": "אדם",
+  "Q761": "ביאליסטוק",
+  "Q954114": "גלובוקי"
+ },
+ "raw": "data/raw/wikidata/Q48771.json"
+}

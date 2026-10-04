@@ -1,0 +1,130 @@
+{
+ "id": "Q111079998",
+ "url": "https://www.wikidata.org/wiki/Q111079998",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111079998",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי ליב קצנלנבוגן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordekhai Leyb Ḳatsenelenbogen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "עורך ספרות תורנית"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111079998$B087AC7E-CAC0-433A-BC37-B941953CF06D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "181e68d827d2a97048faa7f3d6b8c2c115d57614",
+      "datavalue": {
+       "value": {
+        "time": "+1954-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111079998$30d2e323-4497-6db1-c1e2-bb38545d41cd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9961c0793827180603bd89a6bac90564e188a9d",
+      "datavalue": {
+       "value": {
+        "time": "+2021-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111079998$5ABC90CC-408B-4011-95A8-B45EE94EB40C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111079998$D9DB9A31-C19C-4710-B5A5-6C6EBABC9A1D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי ליב קצנלנבוגן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q111079998.json"
+}

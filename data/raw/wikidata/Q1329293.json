@@ -1,0 +1,123 @@
+{
+ "id": "Q1329293",
+ "url": "https://www.wikidata.org/wiki/Q1329293",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1329293",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Jacob II"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי אליעזר בן יעקב"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329293$15EE9285-21A9-48C6-9EE0-E95A4BBDF814",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "83add5c35cba8923a9db2ce9b54e7d8cd2835a05",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329293$173B71FF-193B-41CC-88B5-9F66BDA5103B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329293$D7121910-BF44-43E9-AAF0-2144EF705F31",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3fac07e1e7311dea7b35d8aa6e149345ffa88744",
+      "datavalue": {
+       "value": {
+        "time": "+0100-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 6,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1329293$e1bf59d1-4ed0-44f9-9256-9d5a1774a298",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אליעזר בן יעקב (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q1329293.json"
+}

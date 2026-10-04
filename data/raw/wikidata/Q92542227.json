@@ -1,0 +1,154 @@
+{
+ "id": "Q92542227",
+ "url": "https://www.wikidata.org/wiki/Q92542227",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q92542227",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ephraim Zalman Shor"
+   },
+   "he": {
+    "language": "he",
+    "value": "אפרים זלמן שור"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "and was born c 1550 in posna , kingdom of Bohemia"
+   },
+   "he": {
+    "language": "he",
+    "value": "מגדולי הרבנים בפולין, מחבר ספר 'תבואת שור'"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q92542227$75cae954-e91a-47f1-8b8f-3f9411b38d0b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e4e6ba6508445de37bbad1c53635d054e0e2f99",
+      "datavalue": {
+       "value": {
+        "time": "+1633-10-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q92542227$aded1ab2-5df7-4deb-a337-02e1380d8ec0",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9562d47b2097867ca92bb64945865964eab20576",
+      "datavalue": {
+       "value": {
+        "time": "+1633-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q92542227$59EFFA6C-7A33-46D3-AACD-2C69B18D077F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q92542227$641DD888-09AE-452D-B8DE-88AD4145745A",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "da1c25f15cb41b5ea814be1bd8803b3f56e8d7cb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6580025,
+        "id": "Q6580025"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q92542227$0b896ed3-41e7-aeb8-ae47-374fc88fd374",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים זלמן שור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6580025": "אברהם חיים שור"
+ },
+ "raw": "data/raw/wikidata/Q92542227.json"
+}

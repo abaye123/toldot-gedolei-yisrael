@@ -1,0 +1,174 @@
+{
+ "id": "Q140405035",
+ "url": "https://www.wikidata.org/wiki/Q140405035",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q140405035",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עמוס גואטה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Amos Gueta"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, מקובל וראש ישיבה ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140405035$c553f507-4dd8-db4d-9696-afbc8d74cb70",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140405035$4b68a7d6-4788-81bb-4a62-84a085cc82f0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1f60ebbb745790b3d39f7e2c953bdafdc5d93630",
+      "datavalue": {
+       "value": {
+        "time": "+1951-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q140405035$c82295fd-40e0-06dc-a610-f99ed3729bc4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "63e6fc93863744717a3555c6dad57803ac3c196d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3579,
+        "id": "Q3579"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140405035$1f454011-44aa-18a0-cfa6-2d8191007b10",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5d36a6fca94702d048a96d22d2b4b4c39d19970f",
+      "datavalue": {
+       "value": {
+        "time": "+2026-07-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q140405035$b6bc6e2f-4e63-9bae-efcb-ae760402951b",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14abe22d2afc7508e720c8b91d413a23f3d6bcd2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 192225,
+        "id": "Q192225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140405035$2d002269-41b7-7f11-c020-46ee168a82e2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עמוס גואטה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q192225": "נתניה",
+  "Q3579": "טריפולי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q140405035.json"
+}

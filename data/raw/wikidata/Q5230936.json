@@ -1,0 +1,156 @@
+{
+ "id": "Q5230936",
+ "url": "https://www.wikidata.org/wiki/Q5230936",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5230936",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד אברהם ספקטור"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Avraham Spector"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5230936$63A5A996-0C42-46FD-BD86-CBB22AA1A3C9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "df429e1eab09b315162dc1d7bf85a6ae6b14ca26",
+      "datavalue": {
+       "value": {
+        "time": "+1955-08-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5230936$EAA41498-DB01-4542-B7A7-7F51E7F311D4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "27a7be7d8e876a409d1333f5846965cf337ea551",
+      "datavalue": {
+       "value": {
+        "time": "+2013-09-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5230936$BC27FC8D-E471-4B35-A645-E4163030D643",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5230936$18202D88-68B9-4AFD-A8B5-4AC3C9138271",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b7857ef8f9a76ed1c43cd43c0027edc2c1a5d44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5230936$210c56df-445e-3bd1-f6bb-c7ff48e24f02",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד אברהם ספקטור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם"
+ },
+ "raw": "data/raw/wikidata/Q5230936.json"
+}

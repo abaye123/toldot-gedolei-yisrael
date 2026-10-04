@@ -1,0 +1,189 @@
+{
+ "id": "Q7017007",
+ "url": "https://www.wikidata.org/wiki/Q7017007",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7017007",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם שלמה לויסון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Salomon Levisson"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7017007$74AD3609-B6B6-45C9-9CBF-6C676F51AEF8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7017007$1EA746B4-28A0-42E5-B638-DE76F4D8E90A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "29b90d04cba32ff3345b35fb58d06a43e07e88a6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7017007$CC3BB834-D56F-4739-8E21-E77B188D3F67",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "52be27dccf864e638437ca2dae3bc420d2682b75",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36600,
+        "id": "Q36600"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7017007$F1974C3C-2B40-449E-9AEE-16E2C6503E99",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b99ce9b84af67d60bd4eb8b82e735951837f61b9",
+      "datavalue": {
+       "value": {
+        "time": "+1945-04-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7017007$A9EF7AFC-E0CC-4E14-848A-F77FEFFFC6EE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5ce91e3b1148c7bc3b3629aac23a2595eeb5ef7c",
+      "datavalue": {
+       "value": {
+        "time": "+1902-06-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7017007$E3D9D25D-B02E-4011-82E1-731BA967B418",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "746fa92d0fae980fb7dad64fb0b3faf8e0de57c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 528883,
+        "id": "Q528883"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7017007$7A72AC3E-A5DA-4CDD-8C61-A721C8971526",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם שלמה לויסון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36600": "האג",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם",
+  "Q528883": "טרביץ"
+ },
+ "raw": "data/raw/wikidata/Q7017007.json"
+}

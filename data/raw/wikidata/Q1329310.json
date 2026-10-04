@@ -1,0 +1,349 @@
+{
+ "id": "Q1329310",
+ "url": "https://www.wikidata.org/wiki/Q1329310",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1329310",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Hurcanus"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי אליעזר בן הורקנוס"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "late 1st/early 2nd century Judean rabbi and tannaim (sage)"
+   },
+   "he": {
+    "language": "he",
+    "value": "מגדולי התנאים בתקופת חורבן בית שני ואחריו"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי אליעזר"
+    },
+    {
+     "language": "he",
+     "value": "ר' אליעזר"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר הגדול"
+    },
+    {
+     "language": "he",
+     "value": "ר' אליעזר בן הורקנוס"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן הורקנוס"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Eliezer ben Hurcanus"
+    },
+    {
+     "language": "en",
+     "value": "Eliezer the Great"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Eliezer the Great"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Eliezer"
+    }
+   ]
+  },
+  "claims": {
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "4f6037fc2313621d04d5064d278baa9a82fe4ad2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16157607,
+        "id": "Q16157607"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$0d9168b7-4721-f3f1-6522-03e6605931cf",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$DAEEEB24-9F0B-4B45-9BBB-88E21ADC5922",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b0b2887ae33b738d849985f52f3bee5484303b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$CBFFD8AF-D55D-41C4-804C-D61DD818C222",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a85a86b9b7538ff519976ecd2daa232bcb12534a",
+      "datavalue": {
+       "value": {
+        "time": "+0100-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1329310$6BD9B505-2F02-4625-878C-4E2B69CAE4EB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7388395e2d336b3acfd9413d3b09fa6ece6bde71",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1329310$46D59194-942D-4415-9BF9-6D0FC2511890",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "5030387512bf79ec4132cd0d3da233c3d5d24efc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 733660,
+        "id": "Q733660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$03072f7a-4d41-660e-c86f-d7833585667c",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e70c3abcd827912cbe34bc76fb183eb360dd9d33",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2902134,
+        "id": "Q2902134"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$5fe1f0ed-41f8-edb5-4d5f-ec46061838f9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$C97EE4FF-5EA7-4865-901D-CD83BCB10018",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "56674884c234d34ac2d6ada882cef46a92c35081",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 310821,
+        "id": "Q310821"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$1dea9ba8-468c-d52d-2062-264eff977570",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9fdaf5a099a7237346dc9b6a5e568d0f37c85297",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 319242,
+        "id": "Q319242"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329310$4F5ABDF6-BA8E-496F-AC60-8370ADFEF96D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אליעזר בן הורקנוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1003997": "פרובינקיה יודיאה",
+  "Q133485": "רב",
+  "Q16157607": "אימא שלום",
+  "Q2902134": "עלמא",
+  "Q310821": "רבי עקיבא בן יוסף",
+  "Q319242": "קיסריה",
+  "Q5": "אדם",
+  "Q733660": "רבן יוחנן בן זכאי"
+ },
+ "raw": "data/raw/wikidata/Q1329310.json"
+}

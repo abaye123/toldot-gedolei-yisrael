@@ -1,0 +1,327 @@
+{
+ "id": "Q1297938",
+ "url": "https://www.wikidata.org/wiki/Q1297938",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1297938",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob ben David Tam ibn Yaḥya"
+   },
+   "he": {
+    "language": "he",
+    "value": "תם אבן יחיא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני יהדות האימפריה העות'מאנית, ומחבר הספר שו\"ת אהלי תם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Portuguese-Turkish rabbi and physician"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Tam ibn Yahya"
+    },
+    {
+     "language": "en",
+     "value": "Jacob ben David ibn Yahya Tam"
+    },
+    {
+     "language": "en",
+     "value": "Jacob Tam ben David ibn Yahya"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב בן דוד אבן יחיא תם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$88259213-C0CB-45DD-ABD0-6937635F56F1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9a8ddc58b9d1233424684969b16b32819b90ca81",
+      "datavalue": {
+       "value": {
+        "time": "+1475-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1297938$FF19FBFC-3001-4333-9A19-9541DB8E3D81",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c723624eaaae830a273952ace7f8b37102ee5271",
+      "datavalue": {
+       "value": {
+        "time": "+1475-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1297938$984F2913-D0CE-458C-8AA4-9E590C2C8DDD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e4884bc5707b3a1a7176a19a73a634d732480fb4",
+      "datavalue": {
+       "value": {
+        "time": "+1542-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1297938$B4F87961-0517-479E-9B43-02819BAEC5EB",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "93a433aad6edd3682eb9289b6a6e2822b8149df6",
+      "datavalue": {
+       "value": {
+        "time": "+1538-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1297938$799FFD58-D1CE-47D0-A2E9-BABDCBC9601F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$F62D5BE7-40E3-4EB6-ADBD-98743647C05D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$AFEE3C18-42E6-48F8-B422-9366E1DAD416",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0f0114e6e8f0d52577096184ca97cc16f8e8e255",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 597,
+        "id": "Q597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$CCDAE69E-0E97-4CB1-949A-C7B034699567",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "efed09951a104d9512b9a9017c3c6647c3909a94",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$00D3E48B-90D2-420C-85D5-53D446EBF5B9",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d9f0735aa64b7c2d7ac02468dfdae6b5934e3068",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16869,
+        "id": "Q16869"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1297938$893275f3-4691-7011-f251-7cf7343973ab",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "תם אבן יחיא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16869": "קונסטנטינופול",
+  "Q39631": "רופא",
+  "Q406": "איסטנבול",
+  "Q5": "אדם",
+  "Q597": "ליסבון"
+ },
+ "raw": "data/raw/wikidata/Q1297938.json"
+}

@@ -1,0 +1,279 @@
+{
+ "id": "Q23902835",
+ "url": "https://www.wikidata.org/wiki/Q23902835",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q23902835",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ábrahám Zwebner"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם שאג-צוובנר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1801–1876/80)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Zwebner"
+    },
+    {
+     "language": "en",
+     "value": "Abraham Shag-Tswebner"
+    },
+    {
+     "language": "en",
+     "value": "Avraham Shag-Tsvebner"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$F3C3732B-38FC-404F-A0B3-C244F20B466A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$DA3AC3C1-B356-42C3-A500-594826BF991A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "bb17c8fa98b24ef1298c066f6e2cca93724d4d55",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 754773,
+        "id": "Q754773"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$1C08E056-487A-428B-9135-FC50344E82E9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2722fc6a33336de0a0b4cd5eda7c62a06fe2b270",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 143140,
+        "id": "Q143140"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$0710A541-DEAA-413C-B4B1-AB11EEDD72EC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e9dfde757c05820b0360b3041ca4d32ead9b2ebb",
+      "datavalue": {
+       "value": {
+        "time": "+1900-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23902835$65868309-DD6D-473C-BD4C-7A6B66DF5D7E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "28aa3c86cf8ef9b7cc5b27bd1ec3880acdc6b8e7",
+      "datavalue": {
+       "value": {
+        "time": "+1876-03-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23902835$0851B0FC-995F-4D2B-A33A-8946338F6399",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$756248d5-c80b-42af-a7cf-f0e74e1b85ca",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "27786dc1f0c98d9e5d9bede4f94497ccc488f705",
+      "datavalue": {
+       "value": {
+        "time": "+1801-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23902835$a3397e27-5912-4995-9b8d-8dd18f5aa0f5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "096e829e56dabbea80c66548a0f65e37f02146f3",
+      "datavalue": {
+       "value": {
+        "time": "+1801-04-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q23902835$48511C4E-FBCE-47EC-BF4C-69508C73CAF5",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q23902835$F24A685C-2CD5-4EEF-BC1C-01D57829209B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם שאג-צוובנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q143140": "פריישטאט",
+  "Q5": "אדם",
+  "Q754773": "Hlohovec"
+ },
+ "raw": "data/raw/wikidata/Q23902835.json"
+}

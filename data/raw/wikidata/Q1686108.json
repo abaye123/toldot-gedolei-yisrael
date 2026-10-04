@@ -1,0 +1,309 @@
+{
+ "id": "Q1686108",
+ "url": "https://www.wikidata.org/wiki/Q1686108",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1686108",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yechiel of Paris"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחיאל מפריז"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יחיאל מפאריז"
+    },
+    {
+     "language": "he",
+     "value": "יחיאל מפריס"
+    },
+    {
+     "language": "he",
+     "value": "יחיאל מפאריס"
+    },
+    {
+     "language": "he",
+     "value": "רבנו יחיאל מפריז"
+    },
+    {
+     "language": "he",
+     "value": "יחיאל מפאריש"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "de0c8192f644a5258d6d311e5026177bfffc01a6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 207620,
+        "id": "Q207620"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1686108$5F8199EC-9935-4B89-8251-32BF85FFC9DF",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$2D9D1AB2-BB66-4D9C-86BF-234ECA1EEEEC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9d2b4ae2e86294a2d98a964c22d564922d89a9b8",
+      "datavalue": {
+       "value": {
+        "time": "+1200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1686108$7E03AB19-AA4D-494E-87B1-68AC3A1D0DB4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "64e2d0ac6bf1b06b839c6a19411411a18e64afe4",
+      "datavalue": {
+       "value": {
+        "time": "+1268-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1686108$2553D438-4D89-442B-9523-7FD59F210484",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "9245d47ca32586c674fc686602f401d04f8023d4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 72163,
+        "id": "Q72163"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$ec5fcea9-443a-67c1-6d8a-e9d76284ad0d",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1512671dc994f2d1b21507186769fccce2298c5a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4198116,
+        "id": "Q4198116"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$75d3770e-41c6-6c05-cff8-4a478db98fed",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d92dea86260a2902ef1cd695a8631a23f6aff405",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126084,
+        "id": "Q126084"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$56cf69d0-4de0-27f1-be9a-c14533a8edc0",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e146aec4265765df65be3d255e2132107a72425d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 90,
+        "id": "Q90"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$38C4B8C3-3F7F-4383-8861-DCDB285E7792",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1686108$B7C5BE22-31FE-4E04-8090-202B0FC0F801",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיאל מפריז",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q126084": "עכו",
+  "Q133485": "רב",
+  "Q207620": "מו",
+  "Q4198116": "יהודה שירליאון",
+  "Q5": "אדם",
+  "Q72163": "מהר\"ם מרוטנבורג",
+  "Q90": "פריז"
+ },
+ "raw": "data/raw/wikidata/Q1686108.json"
+}

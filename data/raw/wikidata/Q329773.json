@@ -1,0 +1,219 @@
+{
+ "id": "Q329773",
+ "url": "https://www.wikidata.org/wiki/Q329773",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q329773",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Bibago"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם ביבג'ו"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish-Jewish philosopher of religion"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham ben Shem Tov Bibago"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "82473174f46250e6d49b0960b1c61b012de51ac4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10305,
+        "id": "Q10305"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q329773$42216447-CE5A-4C95-91AF-FA4F440E1FDD",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "db76784bda4d99ed9cd309ac834085d9278b95e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11967,
+        "id": "Q11967"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q329773$6932f3a7-4cf6-f338-b897-1094207fc5d2",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q329773$07A86078-09E7-4479-A9BF-11AA0FDAD56C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q329773$926E899E-93EC-47D2-AEC8-FDD0AF95F8C0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q329773$91323A8B-F958-4CAE-A4A8-3B6F2CB91B1D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cbb7606116297e9a1eef9d5b66f3240636130d22",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 88114145,
+        "id": "Q88114145"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q329773$8103A0EB-623D-4D68-A608-40CA532ED72A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f40b6f1972b070ca4e6b05ea152159f198188443",
+      "datavalue": {
+       "value": {
+        "time": "+1489-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q329773$F387A7B3-E964-446F-88B7-63C63C91B81E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "543dfa096b397541419fe555f338f6ea0a1279c2",
+      "datavalue": {
+       "value": {
+        "time": "+1420-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q329773$1d875f75-05d4-42c4-b356-1b4fd3622121",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם ביבג'ו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10305": "סרגוסה",
+  "Q11967": "וסקה",
+  "Q133485": "רב",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם",
+  "Q88114145": "philosopher of religion"
+ },
+ "raw": "data/raw/wikidata/Q329773.json"
+}

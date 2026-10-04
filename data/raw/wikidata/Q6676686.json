@@ -1,0 +1,147 @@
+{
+ "id": "Q6676686",
+ "url": "https://www.wikidata.org/wiki/Q6676686",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6676686",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה יחיאל אלימלך רבינוביץ מלברטוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Yeḥiʼel Elimelekh, mi-Lebarṭov"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6676686$D46CE2F1-B3CD-4965-A5AE-7B999FDFA8ED",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6676686$762C9285-0A07-4A6A-82B4-7237170202B4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "29fbb1532fd64b153291fda98ab1346017f6af09",
+      "datavalue": {
+       "value": {
+        "time": "+1895-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6676686$d16a7524-43c6-6756-65e3-18113d217828",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8fc84b6ea64117ee021d9157dc3255f491b9cc63",
+      "datavalue": {
+       "value": {
+        "time": "+1941-06-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6676686$be03541c-4d57-18ec-3624-f76d23e56751",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "faaaa4ce54721c0aae4c98005e484618398cc916",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16131737,
+        "id": "Q16131737"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6676686$E25FB96D-DEE8-46BA-957D-1819F42CA53A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה יחיאל אלימלך רבינוביץ מלברטוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16131737": "נתן דוד רבינוביץ מפארציווא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6676686.json"
+}

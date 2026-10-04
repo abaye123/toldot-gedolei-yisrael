@@ -1,0 +1,127 @@
+{
+ "id": "Q5219160",
+ "url": "https://www.wikidata.org/wiki/Q5219160",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5219160",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Daniel al-Kumisi"
+   },
+   "he": {
+    "language": "he",
+    "value": "דניאל בן משה אלקומיסי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Karaite rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "דניאל אלקומיסי"
+    },
+    {
+     "language": "he",
+     "value": "דניאל בן משה"
+    },
+    {
+     "language": "he",
+     "value": "דניאל אלקומייסי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Daniyyeʾl Ben Moshe Al-Qumisi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5219160$92774587-9E61-4222-8ADF-9D18011BFE64",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4c6e97998b7a0776b7857da7dc46769f669c58e5",
+      "datavalue": {
+       "value": {
+        "time": "+0946-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5219160$55BBCA1C-91C7-494C-8FCD-0EF41A78A9C3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5219160$645EF6A2-4B6D-467B-81F0-1482CC53D50F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דניאל בן משה אלקומיסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5219160.json"
+}

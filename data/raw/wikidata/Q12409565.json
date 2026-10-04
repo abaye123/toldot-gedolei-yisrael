@@ -1,0 +1,178 @@
+{
+ "id": "Q12409565",
+ "url": "https://www.wikidata.org/wiki/Q12409565",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409565",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה ארנסטר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Ernster"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "נשיא קריות \"מאור חיים\" וחתנו של האדמו\"ר הרביעי מויז'ניץ רבי חיים מאיר הגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409565$A9BD779A-FE47-478A-BEA3-544CEAD92445",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "40b366b1ec070882314599bcc07c2dcb742e8359",
+      "datavalue": {
+       "value": {
+        "time": "+1924-10-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409565$e83c3cc5-4466-a693-7c71-82372515c115",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b3d67db4d4dd5b77f23a782cd73d27440fe99fc7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 100188,
+        "id": "Q100188"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409565$324f3119-45e2-fa0e-130f-14e388f7bdc7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "36683da342d9a2f0f190eab844abd3b967530232",
+      "datavalue": {
+       "value": {
+        "time": "+2013-01-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409565$b49b80bc-4fd5-31e4-2ada-c661ca7329e6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409565$af32fbde-440c-c181-acb5-20e0e612ab4d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409565$ada53d0a-4b65-e552-6fec-2ad71bc29bbe",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה ארנסטר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q100188": "קלוז'-נאפוקה",
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12409565.json"
+}

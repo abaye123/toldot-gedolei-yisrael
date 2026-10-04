@@ -1,0 +1,134 @@
+{
+ "id": "Q7052824",
+ "url": "https://www.wikidata.org/wiki/Q7052824",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7052824",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ירוחם פישל יהושע ברנשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yeruḥam Fishel Yehoshuʻa Bernshṭain"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב עדת החסידים בירושלים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7052824$2DAA48F3-FD7B-45C6-82EF-93E8EB76427C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7b8cb1b7b007d1b3204452b949f8c58ee7f5d85a",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7052824$E24F4B57-CFB2-44DB-A0F8-8A8C6B9C0767",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "70f4e3dd6a0bcb320c210ccfc0373439e4186428",
+      "datavalue": {
+       "value": {
+        "time": "+1949-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7052824$2D8340CE-49F4-4655-917F-E924CA62285C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7052824$5624701C-2245-4D1E-B9AE-5BDA2578ABF1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ירוחם פישל יהושע ברנשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7052824.json"
+}

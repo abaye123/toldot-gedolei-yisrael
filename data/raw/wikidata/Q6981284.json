@@ -1,0 +1,232 @@
+{
+ "id": "Q6981284",
+ "url": "https://www.wikidata.org/wiki/Q6981284",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6981284",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Michael Lerner"
+   },
+   "he": {
+    "language": "he",
+    "value": "מיכאל לרנר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Michael Phillip Lerner"
+    },
+    {
+     "language": "en",
+     "value": "Michael P. Lerner"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q6981284$DB7A8F92-71F6-48F6-97D8-3757AE8640D9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f834cb677aedc7e9c098472483ab1b9641e9c81a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25395,
+        "id": "Q25395"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q6981284$AB10A1E1-3976-48BA-88B8-EA89B74D1E3D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6981284$493BAAD0-9329-47D0-A069-231B57133BE0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3236b47edbec130712a0b7637e5023d140e6c8e4",
+      "datavalue": {
+       "value": {
+        "time": "+1943-02-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6981284$bfcc80c0-407d-a7bc-70e0-7cb061cdc24c",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "966e49ba796565f952042447735f78b020874192",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6981284$BF0D3212-9B5C-42B0-AED1-182399B0F7EA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "905a35cb503f52c4207ddf4ff061de1747351f8f",
+      "datavalue": {
+       "value": {
+        "time": "+2024-08-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6981284$f022446a-4cc7-6205-8969-d059522b23a4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "284c89248b37b82f34d3ff65851cf484dc27ba8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 484678,
+        "id": "Q484678"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6981284$D829CB83-0D36-4187-B618-060F971006F0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מייקל לרנר (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q25395": "ניוארק",
+  "Q484678": "ברקלי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6981284.json"
+}

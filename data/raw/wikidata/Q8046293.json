@@ -1,0 +1,300 @@
+{
+ "id": "Q8046293",
+ "url": "https://www.wikidata.org/wiki/Q8046293",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8046293",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yaakov Gesundheit"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב גזונדהייט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "chief rabbi of Warsaw (1815-1878)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב העיר ורשה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב גזונטהייט"
+    },
+    {
+     "language": "he",
+     "value": "יעקב געזונדהייט"
+    },
+    {
+     "language": "he",
+     "value": "יעקב בן יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q8046293$213C801C-666D-459B-B885-E13E0F5426F8",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046293$54B5ADBC-1C2C-4C0A-BA3A-C00E0DCC1AA8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8e5c61f7416064e0bc05a8fb890c542e3cb8c17c",
+      "datavalue": {
+       "value": {
+        "time": "+1815-12-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046293$E99D2205-0F30-4896-B4D6-0F3433774E8A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e746b1bde6b0b7a38d0e8c1ad11b14d219936c30",
+      "datavalue": {
+       "value": {
+        "time": "+1878-09-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q8046293$92CDCB74-76FD-4B3D-96E1-0763018C57BB",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f22595a13f236f2e8f37be30283dc6ff7e1e0774",
+      "datavalue": {
+       "value": {
+        "time": "+1878-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046293$1DF3A381-085A-4746-9EA5-F5F5B80FD7ED",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a04f3b3ab3ce4eb83c73a474f8051b28d58d43ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1716786,
+        "id": "Q1716786"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046293$459abc5b-45c6-ace2-4e20-a64465d75d3e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1e77e31acfc9c8aaeb7d5316c359afd02493bba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046293$c0a6570b-459e-4dfd-8e68-536cb7c526cb",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ccf38627689d407e0b0aef89ed9078987f0b5625",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046293$41b6f151-604d-4a21-b630-ea341b0594f7",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "02981ff9262279a7940332960a7989387ba55151",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 270,
+          "id": "Q270"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q8046293$51cddc0b-1d34-4d34-a1db-ded2e50c3d2c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב גזונדהייט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1716786": "בית הקברות היהודי בוורשה",
+  "Q270": "ורשה",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8046293.json"
+}

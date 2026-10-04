@@ -1,0 +1,152 @@
+{
+ "id": "Q6288219",
+ "url": "https://www.wikidata.org/wiki/Q6288219",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6288219",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph ibn Verga"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף אבן וירגה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "16th-century Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב והיסטוריון טורקי שחי באדירנה בתחילת המאה ה-16"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6288219$D92F5585-F331-4FE7-A179-4EB8032B8AB0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6288219$ddcefa88-4475-a9a1-8193-13b557731d17",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6288219$2a2ba361-43c6-4bb0-e171-e25b40fafe82",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "bc69d1528859b9d95c1857a3a34710aa4d20d279",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1290831,
+        "id": "Q1290831"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6288219$6ce83174-47f6-ae93-fdf3-44789a24d9a8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "68f1936babc04829f243a0a2f2af9f51fd4c167d",
+      "datavalue": {
+       "value": {
+        "time": "+1559-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6288219$C7892CC2-4390-4279-A0FA-46FAE4C85047",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אבן וירגה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1290831": "שלמה אבן וירגה",
+  "Q133485": "רב",
+  "Q201788": "היסטוריון",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6288219.json"
+}

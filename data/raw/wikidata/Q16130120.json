@@ -1,0 +1,170 @@
+{
+ "id": "Q16130120",
+ "url": "https://www.wikidata.org/wiki/Q16130120",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16130120",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה בלזר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "עורך כתב העת \"שערי ציון\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130120$2910DA9D-03E2-4230-9B7F-3A275029EBCD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "14bf4a4577823cb7fb3aa4cf1ac9f1f0b5713db4",
+      "datavalue": {
+       "value": {
+        "time": "+1889-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130120$ed9a0acb-4c84-f083-c952-e353fc0e23be",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4ea9265de510e18ec40fad3b660046e1916d9913",
+      "datavalue": {
+       "value": {
+        "time": "+1960-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130120$c5f35890-4c90-ef25-f879-a59b15cee57b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130120$40e73add-4f7a-98b5-7d8b-9db999cd6896",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "479e53dcbfd6c84689e66cd3c1aeeef07ca1e387",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4115712,
+        "id": "Q4115712"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130120$5e8b7b9d-4e38-d8dc-cfcb-092aa683bac3",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130120$B90C6CE1-E079-4659-9A62-0323778365ED",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה בלזר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q335336": "הר המנוחות",
+  "Q4115712": "קובנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16130120.json"
+}

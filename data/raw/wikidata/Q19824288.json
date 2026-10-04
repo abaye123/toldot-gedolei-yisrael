@@ -1,0 +1,154 @@
+{
+ "id": "Q19824288",
+ "url": "https://www.wikidata.org/wiki/Q19824288",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19824288",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yaakov Hamburger"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב המבורגר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German-born rabbi, presided over Prague (CZ) religious court, 18th C."
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יליד המבורג, אב בית דין בפראג"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19824288$88EED663-031D-4D35-9120-2044164DCDA0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "06962491a2db4f39edbcf32e8d85ee8dc07d2355",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1055,
+        "id": "Q1055"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19824288$f17ad6e2-442a-b5fc-8bf7-f2a8efc611cd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1cae430a66f7bebf5bd99dd30a21ae67861e4444",
+      "datavalue": {
+       "value": {
+        "time": "+1753-12-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19824288$5cfb0e05-4754-b056-a5c0-e2e881f8f3cb",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "13631789d24c1fccf45d1ce3d730515340d14d8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19824288$14e31d8e-4492-b8eb-142a-74c95ef5e1a9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19824288$8f7d4580-49f5-5d59-7f4a-77fd98c73d95",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב המבורגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1055": "המבורג",
+  "Q1085": "פראג",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q19824288.json"
+}

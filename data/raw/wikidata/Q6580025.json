@@ -1,0 +1,172 @@
+{
+ "id": "Q6580025",
+ "url": "https://www.wikidata.org/wiki/Q6580025",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6580025",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם חיים שור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Hayim Shor"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני, בעל ה\"תורת חיים\" ו\"צאן קדשים\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6580025$13C3FC48-CDC9-45FB-89B0-FDD31208C362",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6580025$A1EE86E4-DA57-44FC-805F-F724AE8B2459",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d52acf129f758c32731f9e53185a32d387ddc104",
+      "datavalue": {
+       "value": {
+        "time": "+1632-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6580025$3c5cecb8-2fca-46aa-bcbc-93993ed73b4f",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "5418c95ff51ece7add4461790c517ca386dd9cd8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 92542227,
+        "id": "Q92542227"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6580025$22ffe6d7-41e5-5a53-ef7e-2983c549f0d2",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "32ebf4ae603a192655f6b013ae8273e5e8e201ea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1861540,
+        "id": "Q1861540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6580025$7ed1c284-4d1d-a497-7209-b898319fe773",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5529bace89852349590b08be56a92c6dbd994c77",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156565,
+        "id": "Q156565"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6580025$84A34D4E-DBCD-4EFF-95D0-2FF936990980",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם חיים שור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156565": "בלז",
+  "Q1861540": "שמואל אליעזר הלוי איידלס",
+  "Q5": "אדם",
+  "Q92542227": "אפרים זלמן שור"
+ },
+ "raw": "data/raw/wikidata/Q6580025.json"
+}

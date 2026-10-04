@@ -1,0 +1,159 @@
+{
+ "id": "Q18711069",
+ "url": "https://www.wikidata.org/wiki/Q18711069",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18711069",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם שמעון הלוי אנגל-הורוביץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Shimʻon Horoṿits"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה ומשגיח רוחני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמעון מזליחוב‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18711069$6263dab6-4746-12df-1ff3-8556687eaeeb",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "75744d5def17b076d51fe9dd1ba4e00671fe461a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 393091,
+        "id": "Q393091"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18711069$85bfb94e-4fdd-4a82-9009-272f09f899e5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18711069$7CDCF52F-F074-4795-AEE3-8CEC0D87C0C1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a4c3c11dbf3e31fcc03f6750969f428a3d110130",
+      "datavalue": {
+       "value": {
+        "time": "+1886-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18711069$15F65BC7-FB8D-4392-A725-C4112F48E11A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "50256d211665544acb9f420878aee2da88b54e41",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18711069$FCF0FB13-9A80-47A9-ACC6-EB164FD15C6B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם שמעון הלוי אנגל-הורוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q393091": "ז'לחוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18711069.json"
+}

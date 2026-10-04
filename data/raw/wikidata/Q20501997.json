@@ -1,0 +1,178 @@
+{
+ "id": "Q20501997",
+ "url": "https://www.wikidata.org/wiki/Q20501997",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20501997",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב היילברון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaʻaḳov Hailbron"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian Rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501997$38FC1C0B-E83C-4C34-BD2D-DCD616ABF38F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5394e3c324dc77d4364e7b10ce501a192a5e07e7",
+      "datavalue": {
+       "value": {
+        "time": "+1810-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501997$db30c27f-455b-4566-8e1f-8d624a1c2fe1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5e4dfa0eeb3fc677752deaf04b14f8e42381fa9b",
+      "datavalue": {
+       "value": {
+        "time": "+1809-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501997$7239A523-7AF9-4088-A75A-AB82234AFF00",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4a52f86f3dcbe78c44d405cd884603ee8277a12c",
+      "datavalue": {
+       "value": {
+        "time": "+1849-02-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501997$ac387e76-4b5c-fa21-01c8-f4603cf45fa3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501997$E0826A66-E3EF-404C-A3B4-C868D23BC1FB",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "22cb4bcd5c06def18c5160c59fc9f5c3ab3f72fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 571136,
+        "id": "Q571136"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501997$5F1403DE-10A4-4957-A239-62A1B4E2AFD6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב היילברון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q571136": "סנטה"
+ },
+ "raw": "data/raw/wikidata/Q20501997.json"
+}

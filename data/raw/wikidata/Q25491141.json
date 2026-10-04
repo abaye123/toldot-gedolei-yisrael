@@ -1,0 +1,178 @@
+{
+ "id": "Q25491141",
+ "url": "https://www.wikidata.org/wiki/Q25491141",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25491141",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים גוטמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Efraim Guttman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491141$C89A7F64-6B1A-4B16-ABC9-EEC1669EBC65",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b64abee4153cb6b7c8a4731867756534eddf9895",
+      "datavalue": {
+       "value": {
+        "time": "+1928-04-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25491141$4CFEBA78-1068-4FD7-8CD2-A03923F6B37B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491141$38273807-F908-4647-9D96-DA83765F5FF7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f86630256cf94ab81e10dee82aebae3f62a9019f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19660,
+        "id": "Q19660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491141$7D10F24A-A966-4A4C-BAB8-4FC23D33A2EA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b267be030efa38f897efa6170da75cd6a30d36d6",
+      "datavalue": {
+       "value": {
+        "time": "+2019-03-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25491141$672b03aa-40fc-05e2-1d73-3af65f9fc436",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25491141$ead47ad0-d54c-4107-9ba7-75dd682e0fed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים גוטמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q19660": "בוקרשט",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק"
+ },
+ "raw": "data/raw/wikidata/Q25491141.json"
+}

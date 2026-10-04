@@ -1,0 +1,148 @@
+{
+ "id": "Q16128983",
+ "url": "https://www.wikidata.org/wiki/Q16128983",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16128983",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבנר ישראל הצרפתי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין פוסק מיהודי מרוקו"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16128983$75453761-0ECE-4001-81FB-9D264217257C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16128983$A3403235-AFBE-4FFD-8643-142291578384",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b256b436400fb9a5a833a30a3ca0ac8ccc8344f5",
+      "datavalue": {
+       "value": {
+        "time": "+1827-02-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16128983$3EDD6E1F-A80E-4D6D-B1C8-8B4936C4E8EF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7819097d54390c978907be76fbaa24c3803a1c22",
+      "datavalue": {
+       "value": {
+        "time": "+1883-10-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16128983$68F3F51F-B950-49B7-A374-31B62D0A9098",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b8fc1f05c41514c8db70561617dc585dc0bb5e4e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 114097065,
+        "id": "Q114097065"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16128983$3f7ca4cd-4f13-1b3d-6a52-c812aa59437b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבנר ישראל הצרפתי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q114097065": "בית הקברות היהודי בפאס",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16128983.json"
+}

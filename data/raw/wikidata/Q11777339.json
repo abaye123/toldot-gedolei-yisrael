@@ -1,0 +1,169 @@
+{
+ "id": "Q11777339",
+ "url": "https://www.wikidata.org/wiki/Q11777339",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q11777339",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם קאליש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Menachem Kalisz"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11777339$ED57D26F-9C1A-4504-80A9-27155035DC33",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a04f3b3ab3ce4eb83c73a474f8051b28d58d43ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1716786,
+        "id": "Q1716786"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11777339$C105D58D-DD9D-4159-BA3C-370799C5B789",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11777339$79C641A1-D1E5-4301-A537-60922498C362",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0bbc624699345d430c09423e0a2e955ec6a773d8",
+      "datavalue": {
+       "value": {
+        "time": "+1860-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11777339$71AD0A62-2F1D-4B4E-AEE6-AB2199BC5886",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "44767cbdb3fcec491fb4c2bd48b947a942e51cc9",
+      "datavalue": {
+       "value": {
+        "time": "+1917-12-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11777339$5E9758E4-8265-440C-987E-296BF94E49D0",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "d0c58d8d1517f6863d4a5c563eb6819cd9b1b7f8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11728331,
+        "id": "Q11728331"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11777339$a038815f-4463-40ae-5a2f-c72686d04f81",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם קאליש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11728331": "יוסף קאליש",
+  "Q133485": "רב",
+  "Q1716786": "בית הקברות היהודי בוורשה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q11777339.json"
+}

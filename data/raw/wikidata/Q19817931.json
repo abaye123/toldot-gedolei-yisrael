@@ -1,0 +1,185 @@
+{
+ "id": "Q19817931",
+ "url": "https://www.wikidata.org/wiki/Q19817931",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19817931",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Miksa Pollák"
+   },
+   "he": {
+    "language": "he",
+    "value": "מיקשה פולק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1868–1944)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "Pollák Miksa"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19817931$2831E225-0D34-478F-AB09-7E804493093D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ad6bac559024f176260dd538fd67490d5f80d0c6",
+      "datavalue": {
+       "value": {
+        "time": "+1944-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19817931$079A1527-A335-44D2-B0BA-DF5D9161949B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a503815764a3e4f13a4aa15fc2445259b6cc769b",
+      "datavalue": {
+       "value": {
+        "time": "+1868-03-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19817931$88E3933D-10F8-4BEA-BD85-EB9255523344",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14a1df4c551b57faf2779f7e3bb6c5ed123d07ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7341,
+        "id": "Q7341"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19817931$948E475D-DDD3-4AA6-909C-739349ABEACA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "065ad4ab5014742793b9280af13e493c7bd36c5e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 792243,
+        "id": "Q792243"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19817931$509F62CA-F293-4AD3-B917-C03BD0B12B50",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19817931$32ee706e-2f39-40a4-9f09-c8105e371f54",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מיקשה פולק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7341": "אושוויץ",
+  "Q792243": "בלד"
+ },
+ "raw": "data/raw/wikidata/Q19817931.json"
+}

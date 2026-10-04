@@ -1,0 +1,180 @@
+{
+ "id": "Q6849301",
+ "url": "https://www.wikidata.org/wiki/Q6849301",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6849301",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל תנחום רובינשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Tanḥum Rubinstein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין ישראלי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rubinstein, Samuel Tanḥum"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6849301$0E3B554C-4EB1-4000-AEDB-34F165222732",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6849301$ad2abf7f-946f-4395-8c8c-772e8029a292",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "b878d9c65b27cddeb134cb34bb6947dcdf238101",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 152413,
+          "id": "Q152413"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q6849301$766d8ed8-4615-d65c-27a1-4624931176f7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fee571262ed4d2fc252c876c7e746dda27064e5b",
+      "datavalue": {
+       "value": {
+        "time": "+1998-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6849301$8C5A2A4B-37F9-442D-BABE-AAF390DEECF6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8f4e6beeb350e46b6e9bede7bef2773931342c96",
+      "datavalue": {
+       "value": {
+        "time": "+1916-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6849301$AD06457D-FC3F-4207-99FD-9EF904028DB8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל תנחום רובינשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק"
+ },
+ "raw": "data/raw/wikidata/Q6849301.json"
+}

@@ -1,0 +1,156 @@
+{
+ "id": "Q4829498",
+ "url": "https://www.wikidata.org/wiki/Q4829498",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4829498",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avrohom Chaim Oppenheim"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם חיים אופנהיים"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829498$DE7AEE09-C9EC-4D35-80F3-5318931B539D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5cdd8d420688f8d470c1b7d97211cdfe3522ed94",
+      "datavalue": {
+       "value": {
+        "time": "+1796-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829498$774190B2-8387-44D0-B232-A4B612363658",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bcc15c34f4447a925ca160c5d6ac91fb535eab77",
+      "datavalue": {
+       "value": {
+        "time": "+1824-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829498$BF59FB26-92A9-4460-9214-20FC5805DF58",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829498$1A761B61-B6A4-4BB2-AD0A-A1BBD30B6464",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "563dfb94018507bfe8f241c780f6041afe54a29a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829498$9E51D717-DD6C-43FC-9231-10FB9D301BDD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם חיים אופנהיים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1781": "בודפשט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4829498.json"
+}

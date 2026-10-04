@@ -1,0 +1,214 @@
+{
+ "id": "Q20609087",
+ "url": "https://www.wikidata.org/wiki/Q20609087",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20609087",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה מודרן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehuda Modrin"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה הונגרי-רומני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$0354003D-B0F7-4CDD-A16B-6F4FABB89060",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$7A10A650-11D3-4C16-B826-C2EBCA37D45F",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "8ec95de3aa4b075e22f6c3ac1e88961189865cea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 707498,
+        "id": "Q707498"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$48b6c00e-4f57-4413-ec23-27d5b90c52e2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a9572c57cc68cda8f515af4f0d7db5bc8056b852",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 988524,
+        "id": "Q988524"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$b25e9e64-4415-7db4-bb61-b47a1063a438",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a6ae8b51e0a46b8e7185e1c1ac484cbcbfd463b8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 726783,
+        "id": "Q726783"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$b9d02d4f-4961-4fed-5134-e8a2fa15d2d5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "591187d2242aebe5f7c2c45f4188efc05f8f38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609087$657558bb-4002-2c08-b7bf-1d7b40445144",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9f91300839e105988dbe0f2e6398fafb3b6f33f3",
+      "datavalue": {
+       "value": {
+        "time": "+1819-12-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609087$8ab96f8f-4a61-148e-5bc7-02c985adf4a7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "66418c602a27d43308005084f207f326718c8aec",
+      "datavalue": {
+       "value": {
+        "time": "+1893-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609087$8844930E-3032-4C9C-A9ED-0D6CD5D00799",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה מודרן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1780": "ברטיסלאבה",
+  "Q5": "אדם",
+  "Q707498": "החתם סופר",
+  "Q726783": "משה טייטלבוים (ישמח משה)",
+  "Q988524": "מאיר איזנשטטר"
+ },
+ "raw": "data/raw/wikidata/Q20609087.json"
+}

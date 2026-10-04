@@ -1,0 +1,177 @@
+{
+ "id": "Q109570931",
+ "url": "https://www.wikidata.org/wiki/Q109570931",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q109570931",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses Edrehi"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה אדרעי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Moroccan kabbalist"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה בן יצחק אדרעי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q109570931$f291e2d1-4879-82a3-9ed4-be10997099ac",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q109570931$49d9a4f3-05e1-403e-9a9a-13350ab581d4",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q109570931$23ba4165-43f4-07bb-94cb-b8858c8a9c1f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9fd85d4b3b3cc57d768904b2de35971c361057ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170525,
+        "id": "Q170525"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q109570931$4CBBD4E8-93AB-4E29-80A1-76BC69511B80",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q109570931$2862F106-B51B-4868-858F-2BD637C786B7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "945d8f8411f7a96460f156a2e1bdef9ea7ee5e8d",
+      "datavalue": {
+       "value": {
+        "time": "+1774-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q109570931$29284450-2EBA-40D9-AFF8-5DC4CC5FA212",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה אדרעי (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12350380": "מקובל",
+  "Q170525": "אגאדיר",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q109570931.json"
+}

@@ -1,0 +1,209 @@
+{
+ "id": "Q2299186",
+ "url": "https://www.wikidata.org/wiki/Q2299186",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2299186",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Aviad Sar Shalom Basilea"
+   },
+   "he": {
+    "language": "he",
+    "value": "אביעד שר שלום באזילה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, ראש ישיבה, מקובל, מהנדס ואסטרונום יהודי איטלקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi and writer (c. 1680–1743)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "באזילה, שר שלום בן מנחם שמשון בן שלמה,"
+    },
+    {
+     "language": "he",
+     "value": "באזילה, אביעד שר שלום"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02c4293090969a756e0ad4be463d2b53af260194",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2299186$203339B9-ED39-4632-9107-998EF4842F83",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "083741480739987947d9cc7c1e6a7ec9309d1024",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2299186$6B78E0AA-DAE6-487C-BCEB-EE1944E33D2B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2299186$33A8F3CC-144A-4F51-B976-943EDEAD8279",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "18799a7fc7c7b1bb842bea9ed7ada8522e5f18ad",
+      "datavalue": {
+       "value": {
+        "time": "+1680-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q2299186$25924DCD-D21D-4390-90BD-069522A46BE3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "516565d7c0dddd18f1ba62d2beaee9429d9dcd01",
+      "datavalue": {
+       "value": {
+        "time": "+1749-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2299186$7CA6CAE2-ABCB-4C62-8A02-796EB280135E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2299186$23C2F0F7-36D0-4B26-B2E5-55E8B570F021",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אביעד שר שלום באזילה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6247": "מנטובה"
+ },
+ "raw": "data/raw/wikidata/Q2299186.json"
+}

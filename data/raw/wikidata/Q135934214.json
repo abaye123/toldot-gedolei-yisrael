@@ -1,0 +1,137 @@
+{
+ "id": "Q135934214",
+ "url": "https://www.wikidata.org/wiki/Q135934214",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q135934214",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צאלח אליהו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Salah Eliyahu"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חזן, ופייטן, ממייסדי היישובים אלקוש ושתולה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliyahu Salah"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q135934214$8969ACD5-2C04-46FB-B93A-91AA054F892B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fc7c105843f38b4bc7b558f70b6efd4242c85a2f",
+      "datavalue": {
+       "value": {
+        "time": "+2025-07-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q135934214$d8922651-4b06-bde0-30cb-bc55910f5ac4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bdf0a8149d7fcf57981dadcd30871db1e2faa2f8",
+      "datavalue": {
+       "value": {
+        "time": "+1932-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q135934214$8e571ad5-46cd-605a-11d7-a33454310f26",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q135934214$11603128-4db0-4458-d5a2-52c0020c404f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צאלח אליהו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q135934214.json"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "Q330534",
+ "url": "https://www.wikidata.org/wiki/Q330534",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q330534",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Ris"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם ריס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב שווייצרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Swiss rabbi (1763–1834)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f12401b8ab85b07a3576dfb811920960e9d7791f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 317134,
+        "id": "Q317134"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330534$85B0D587-8C3A-4ECB-BAF5-3347EC1462EA",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9d03c3bc9288bfde17eb5caf997c87f7183a7b28",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 69438,
+        "id": "Q69438"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330534$CEB43958-29DB-488B-B82C-5702EDD337F5",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330534$438DA440-6161-4EC2-B263-2079CAFE733D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2ab0c77b43ea78669a783c251bbdc0488738500c",
+      "datavalue": {
+       "value": {
+        "time": "+1763-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330534$A4E98A79-9FBB-46A3-AD78-DBF5558B522F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7257c20aee28b1a1c63478f0e8d5e8fa0ce08ec0",
+      "datavalue": {
+       "value": {
+        "time": "+1834-04-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330534$891E815C-14DE-41D1-8A5C-6BD7BB8652AD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330534$A8E49524-A5B9-44C9-96F3-FBCDE4DA84E1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם ריס (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q317134": "הגנטל-לה-בה",
+  "Q5": "אדם",
+  "Q69438": "אנדינגן"
+ },
+ "raw": "data/raw/wikidata/Q330534.json"
+}

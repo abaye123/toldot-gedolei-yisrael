@@ -1,0 +1,169 @@
+{
+ "id": "Q20501859",
+ "url": "https://www.wikidata.org/wiki/Q20501859",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20501859",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בנימין דיסקין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Binyamin Disḳin"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501859$2F8FEA54-0A99-484B-8E8B-F84FD9530D93",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501859$DA83B2F9-E364-48B9-BBE3-B9EFA77BDC39",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "dcfa2b7b718674dca3e75ae01d8ec7e1ad03b8db",
+      "datavalue": {
+       "value": {
+        "time": "+1798-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501859$79927224-4040-d2c5-d341-8f77ea22c758",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e34282d7283baa0f701cf9cfc916be6b1b6a1f6c",
+      "datavalue": {
+       "value": {
+        "time": "+1844-03-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501859$d2ef05b3-41ff-bc6f-896a-a7c653830d72",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3108796e3024e4accae27532de4e32b6c3c65915",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2778216,
+        "id": "Q2778216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501859$aa1502a9-4c7b-f1b4-5513-378bba4fd7a4",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "d0d366f850151631534483920493da177980ac9e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 932654,
+        "id": "Q932654"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501859$e869614b-461d-edf7-9cee-b765d0633ba6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בנימין דיסקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2778216": "משה יהושע יהודה לייב דיסקין",
+  "Q5": "אדם",
+  "Q932654": "יצחק אלחנן ספקטור"
+ },
+ "raw": "data/raw/wikidata/Q20501859.json"
+}

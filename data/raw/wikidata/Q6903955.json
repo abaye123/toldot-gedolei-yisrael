@@ -1,0 +1,175 @@
+{
+ "id": "Q6903955",
+ "url": "https://www.wikidata.org/wiki/Q6903955",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6903955",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק גרשטנקורן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitsḥaḳ Gershṭenḳorn"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi and Bnei Brak leader"
+   },
+   "he": {
+    "language": "he",
+    "value": "חלוץ, מייסד בני ברק וראש העירייה הראשון שלה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yitzchak Gerstenkorn"
+    },
+    {
+     "language": "en",
+     "value": "Yitzchak Gershtenkorn"
+    },
+    {
+     "language": "en",
+     "value": "Yitzchok Gershtenkorn"
+    },
+    {
+     "language": "en",
+     "value": "Yitzchok Gerstenkorn"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6903955$E376EFCA-BC10-41CE-98A2-995613BE45FE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "639d71984ee5ce51923f250cf8af3b02eee75d79",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6903955$3FA523CB-6FCC-4802-932D-416C6DDB1420",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ef725ea3b33391b966dc9c043065e3382ace9cc8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36,
+        "id": "Q36"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6903955$A8C44E65-A8F0-4A46-88E0-8E148A3F848D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "241d6a191b054bb25bec0126595e3afa01732305",
+      "datavalue": {
+       "value": {
+        "time": "+1961-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6903955$541A5595-696F-4A34-AD8C-2C2628140AD4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6903955$4D9F1455-AC9E-409E-9178-2E6A3D518B82",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק גרשטנקורן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36": "פולין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6903955.json"
+}

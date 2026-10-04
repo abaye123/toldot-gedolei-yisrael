@@ -1,0 +1,155 @@
+{
+ "id": "Q20502331",
+ "url": "https://www.wikidata.org/wiki/Q20502331",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20502331",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נסים כדורי חזן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nissim Kaduri"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני יהדות בבל, מחבר \"מעשה נסים\""
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חזן, נסים עזרא כדורי‏"
+    },
+    {
+     "language": "he",
+     "value": "כאזאן, נסים עזרא כדורי‏"
+    },
+    {
+     "language": "he",
+     "value": "כצורי, נסים עזרא‏"
+    },
+    {
+     "language": "he",
+     "value": "צ'ורי, ניסים"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Kats'uri, Nisim ʻEzra‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502331$EF316155-1286-4889-86B5-52F80CC4282B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502331$66365F0B-35BD-4698-9495-AC36D8A40A5F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fd1034b2a29db126bf066e4b9514336965eb14c8",
+      "datavalue": {
+       "value": {
+        "time": "+1972-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502331$3F0AA4E6-93A6-4A9F-A9AB-9497FCAF641F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "639d71984ee5ce51923f250cf8af3b02eee75d79",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502331$08FA973F-F31E-42D7-B688-EF210957E608",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נסים כדורי חזן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20502331.json"
+}

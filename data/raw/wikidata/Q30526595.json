@@ -1,0 +1,172 @@
+{
+ "id": "Q30526595",
+ "url": "https://www.wikidata.org/wiki/Q30526595",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526595",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אביגדור בנש\"ק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avigdor Bonchek"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פסיכולוג קליני ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526595$D4FD0FF1-FF6F-4417-BDF0-A54E7D5D519E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5a759d4ef2a136c69f172a101a479a62e37fa04f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 212980,
+        "id": "Q212980"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526595$956810b0-1045-42b0-932c-f3b5851a8f08",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526595$704980B0-B64F-46F0-89B3-06DC8F24FBA9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "42a9a974208d8319a4779f0ee93c322d4aaca50d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37320,
+        "id": "Q37320"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526595$18D6A13D-2C07-46F0-9AA8-B14DE401D1E2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fbc798beb4d6a0b668322fbabc52c86274bb1c9f",
+      "datavalue": {
+       "value": {
+        "time": "+1936-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526595$993E0A6B-B738-4D52-B904-55DDC2105317",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "14e8179132a42b42746bb39cd984771926ea50cf",
+      "datavalue": {
+       "value": {
+        "time": "+2019-12-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526595$2268f612-470d-1893-4f4c-bc383b8e0ef1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אביגדור בנש\"ק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q212980": "פסיכולוג",
+  "Q37320": "קליבלנד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30526595.json"
+}

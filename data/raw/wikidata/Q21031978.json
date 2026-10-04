@@ -1,0 +1,154 @@
+{
+ "id": "Q21031978",
+ "url": "https://www.wikidata.org/wiki/Q21031978",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q21031978",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחזקאל ליבשיץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehezkel Livshitz"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ליבשיץ, יחזקאל בן הלל אריה ליב"
+    },
+    {
+     "language": "he",
+     "value": "סופר מהיר‏"
+    },
+    {
+     "language": "he",
+     "value": "ליוושיץ, יחזקאל בן הלל אריה ליב"
+    },
+    {
+     "language": "he",
+     "value": "ליפשיץ, יחזקאל,‏ מקאליש‏"
+    },
+    {
+     "language": "he",
+     "value": "ליבשיץ, יחזקאל בן הילל אריה ליב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Livshitz, Ezekiel ben Hillel Aryeh Loeb‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21031978$DA7B5A22-C186-4840-BEC5-2360D9AAB8A2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21031978$3E6EEFCE-0097-49AB-848E-4A694D535FAF",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6f2c919f29a61b34b242539fa1fc19b785429bf9",
+      "datavalue": {
+       "value": {
+        "time": "+1862-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q21031978$F65DCF67-2576-4120-9A33-779940F24537",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7bb780ff39fd323a7a9082ce8a0cc651ba8bb414",
+      "datavalue": {
+       "value": {
+        "time": "+1932-03-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q21031978$F65207E3-5ABC-4280-824F-1A09710604BB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחזקאל ליבשיץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q21031978.json"
+}

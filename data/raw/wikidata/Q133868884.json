@@ -1,0 +1,191 @@
+{
+ "id": "Q133868884",
+ "url": "https://www.wikidata.org/wiki/Q133868884",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q133868884",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "לוי גרוסמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, ופעיל ציבורי באוקראינה ותל אביב."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133868884$4218d331-4297-fe93-3052-948afe035a70",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133868884$e9be3798-49e0-1666-1393-381e88598f38",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c2f850bb53a9e21573ebe00fb52d775161a370bd",
+      "datavalue": {
+       "value": {
+        "time": "+1884-10-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "8648e4863a174f65c1751a44ecc677dc3528a76b",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12407620,
+          "id": "Q12407620"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q133868884$20f73120-4ba5-21c6-a316-c3d004c7b6ff",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6c14ca31768a86cc202aaaa7305dec90f11d7e34",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170036,
+        "id": "Q170036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133868884$f2efa7ff-42b2-d96e-e6b9-b1c2a8216422",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f19b869f2fae59627a13ad26c09b6472441c2288",
+      "datavalue": {
+       "value": {
+        "time": "+1963-09-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q133868884$99dc7b30-4f85-ff92-754e-b198213099bd",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d69263279d2aadf183ff5aae706ad5042173f8d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7186324,
+        "id": "Q7186324"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133868884$c2860749-46a5-c615-9f13-594fd902f449",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "לוי גרוסמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q170036": "מחוז קייב",
+  "Q5": "אדם",
+  "Q7186324": "בית הקברות נחלת יצחק"
+ },
+ "raw": "data/raw/wikidata/Q133868884.json"
+}

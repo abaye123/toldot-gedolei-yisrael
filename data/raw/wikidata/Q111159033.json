@@ -1,0 +1,174 @@
+{
+ "id": "Q111159033",
+ "url": "https://www.wikidata.org/wiki/Q111159033",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111159033",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליקים גאטינייו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elyaḳim ben Yitsḥaḳ Gaṭinyo"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב טורקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Turkish rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "2a6245bc96494de3ae4bcb7f791caf31e441354e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20502262,
+        "id": "Q20502262"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111159033$81a645c7-42a4-36b2-c3fa-c4e433b37c3d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3c7abacf09827902c71530cf2d6a4f8a80fb7041",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25495716,
+        "id": "Q25495716"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111159033$17f96088-4545-8834-e556-6b9db7d1d42c",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111159033$06f5b4a1-4d3a-4844-68e8-7733a0741768",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111159033$e11e7e5d-4b9b-f9a2-f94d-eb5992ab189f",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5e2558acc5e5ad91690685367f6c6a6e45335d1f",
+      "datavalue": {
+       "value": {
+        "time": "+1795-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111159033$bc042e66-4983-8992-ad9c-e070b06e4351",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60faaab1b44e35fb34c09b3cdbcf51d607bebc8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111159033$6A56E776-C8C7-4364-96A3-BDE4943ACC20",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליקים גאטינייו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q20502262": "יהודה אשכנזי",
+  "Q25495716": "משה אמריליו",
+  "Q3570351": "דיין",
+  "Q35997": "איזמיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q111159033.json"
+}

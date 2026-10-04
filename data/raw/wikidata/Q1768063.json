@@ -1,0 +1,178 @@
+{
+ "id": "Q1768063",
+ "url": "https://www.wikidata.org/wiki/Q1768063",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1768063",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עמרם אבורביע"
+   },
+   "en": {
+    "language": "en",
+    "value": "Amram Aburbeh"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Chief Rabbi of Petah Tikva (1892-1966)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב העיר פתח תקווה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1768063$64E3EC7C-6695-45FE-981B-2ACFADE57A42",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fe63ee6113d149b4dc37fd36da4e8a0557205219",
+      "datavalue": {
+       "value": {
+        "time": "+1892-03-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1768063$98BC3091-63A1-46C2-8987-C19D7EAEFF31",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "90a659ffe7b914dc697cc8f6f12e3a0f5e4ebdf6",
+      "datavalue": {
+       "value": {
+        "time": "+1966-12-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1768063$2818858D-E921-4D28-B2E7-643D875109DC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1768063$34D49CF7-F892-413D-9B7B-B1569DCD2959",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "41d43a0577f9e31405604581bc8bbdebae83d290",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 190828,
+        "id": "Q190828"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1768063$55FFCED9-FB0B-4969-8714-2D209B9F4856",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9d5a439f4a7d87b6b99434ec6a6da5a37fae51af",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185157,
+        "id": "Q185157"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1768063$5D61E569-9440-4C80-B8F7-B348D8C90376",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עמרם אבורביע",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q185157": "תטואן",
+  "Q190828": "פתח תקווה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1768063.json"
+}

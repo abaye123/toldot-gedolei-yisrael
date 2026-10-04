@@ -1,0 +1,169 @@
+{
+ "id": "Q111291305",
+ "url": "https://www.wikidata.org/wiki/Q111291305",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111291305",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רפאל יוסף חרוש"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111291305$ddef7640-4608-c0d8-57a0-bfed9d12bf0e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111291305$8250d04d-4720-4e38-27a9-300107d84806",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cc624ca54e748007bb0ad613a2717fe81ea21e3d",
+      "datavalue": {
+       "value": {
+        "time": "+1812-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111291305$658a859f-475f-2516-d041-960a2ce0b71a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "55ec09e16e2baaf27036cb60940ea1704514f11e",
+      "datavalue": {
+       "value": {
+        "time": "+1898-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111291305$b7316171-41d2-3da5-c794-6a69c9b7905f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b7e802ac27e747020032ce87ee7fd4dd757cdf78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111291305$4ae337a3-490c-bb71-6613-456d1ccacec7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "39a853cd52a2b46855a56dc22b74fde666a6019c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111291305$1f34e09c-444c-b309-9689-4022709e0de4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רפאל יוסף חרוש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q101625": "מרקש",
+  "Q5": "אדם",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q111291305.json"
+}

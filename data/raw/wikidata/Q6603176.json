@@ -1,0 +1,124 @@
+{
+ "id": "Q6603176",
+ "url": "https://www.wikidata.org/wiki/Q6603176",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6603176",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב יחזקאל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rav Yechezkel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6603176$7B7FD245-A035-44DE-BE18-A3923103F66F",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "e99f8278fbd10692ed3f1a47e4b2c7e32f2c632b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359777,
+        "id": "Q359777"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6603176$ed019409-43c6-0891-1297-4661e61450ad",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3067ef45c320aafd2d03ba775feeec5352b76825",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6587609,
+        "id": "Q6587609"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6603176$39372e89-4ec7-09d8-e2d3-1f475ef1eab7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6603176$71343A5D-8F64-47CB-99A2-B77FCF5C20E0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יחזקאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q359777": "רב יהודה",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q6587609": "רמי בר יחזקאל"
+ },
+ "raw": "data/raw/wikidata/Q6603176.json"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "Q18121711",
+ "url": "https://www.wikidata.org/wiki/Q18121711",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121711",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים חייקל גרינברג"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121711$FC3B8B57-ED05-43DB-80D7-A8853AF16C59",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121711$D8F2D6EE-FA72-4988-A709-430C3D3B0261",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "743a5fd762515d838857403d424aa5ee6493e955",
+      "datavalue": {
+       "value": {
+        "time": "+1909-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121711$897ADFB7-5C8D-45CE-B04B-30559B240830",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "740acb08f6312bfcf0899386b092cfdc44d91cee",
+      "datavalue": {
+       "value": {
+        "time": "+1969-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121711$BFEB2015-C985-474B-BD13-C158F7C8A72D",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7043fd1091405064791d657680da5a86891f3e7f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 607817,
+        "id": "Q607817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121711$BDED44A2-30A3-423F-9422-4D6E88593488",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים חייקל גרינברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q607817": "בית העלמין קריית שאול"
+ },
+ "raw": "data/raw/wikidata/Q18121711.json"
+}

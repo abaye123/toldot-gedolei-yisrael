@@ -1,0 +1,367 @@
+{
+ "id": "Q958361",
+ "url": "https://www.wikidata.org/wiki/Q958361",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q958361",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ר\"י מיגאש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph ibn Migash"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ר\"י מגאש"
+    },
+    {
+     "language": "he",
+     "value": "הר\"י מיגש"
+    },
+    {
+     "language": "he",
+     "value": "יוסף אבן מיגאש"
+    },
+    {
+     "language": "he",
+     "value": "ר\"י מיגש"
+    },
+    {
+     "language": "he",
+     "value": "ר\"י מגש"
+    },
+    {
+     "language": "he",
+     "value": "יוסף הלוי אבן מיגאש"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוסף אבן מיגאש"
+    },
+    {
+     "language": "he",
+     "value": "מיגאש, י."
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Joseph ibn Megash"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b25ce57f9dd3d83c6ad0156e02017b39ee80a501",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 504598,
+        "id": "Q504598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q958361$3DF616F7-498F-4B6E-98C8-773459DF0C92",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$BD41F8FA-2F46-4D7C-ABF7-E7C7F647BF1E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "55111b15518702519f94ccf6a33f636b8c51cfd0",
+      "datavalue": {
+       "value": {
+        "time": "+1077-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q958361$C60C8DA5-524E-4FE5-9FFA-97C645B6B1DA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "381b3f24f398938dea5f8268ba2916885f283e42",
+      "datavalue": {
+       "value": {
+        "time": "+1141-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q958361$85D72515-62E2-4E87-A634-C502E2E04B53",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$196688DD-96FA-44D9-9F8D-486A905DAEE0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$1CBAB2F0-9888-4743-A89A-5B37DA2E5378",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$47470B4C-8281-41EB-8ADF-61A653C95C65",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "4aca1617a71c1266e7d23b490b08efc920c3011e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3303401,
+        "id": "Q3303401"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$2a63debd-4b22-5615-232f-3bcb22bdd4fb",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "93f1af0d12eaeddd1a27d68acb39b4812384498d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 523491,
+        "id": "Q523491"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$6b07fcb1-42c7-df22-1e76-bc7dfe91ca9d",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$185876f3-eb61-42c2-8e43-63f4fc0f5132",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4d480aa5933b10e7a91138c468e7965ab20a1fdc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 8717,
+        "id": "Q8717"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q958361$3B89C943-8AA5-4152-A78E-FB27502AA770",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ר\"י מיגאש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21584816": "תלמודאי",
+  "Q2308372": "ראש ישיבה",
+  "Q3303401": "מיימון הדיין",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q504598": "לוסנה",
+  "Q523491": "רי\"ף",
+  "Q8717": "סביליה"
+ },
+ "raw": "data/raw/wikidata/Q958361.json"
+}

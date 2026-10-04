@@ -1,0 +1,178 @@
+{
+ "id": "Q100580192",
+ "url": "https://www.wikidata.org/wiki/Q100580192",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100580192",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אשר יעקב וסטהיים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi Osher Yaakov Westheim"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "British rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בריטי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100580192$04cc0131-4f5b-256b-a47e-e32ba7f1e717",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100580192$3312c002-43d1-f16b-d12e-714b0cb69568",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c7a1c8ab9e3acecf622fc4fa36057e88d9c59345",
+      "datavalue": {
+       "value": {
+        "time": "+2020-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q100580192$60608147-4612-244d-d4a7-0f57f809a03d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52083903e3bff739834e389eb94fb530044cb2d9",
+      "datavalue": {
+       "value": {
+        "time": "+1948-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q100580192$A8EF5192-D591-4B4F-A8B7-2B1AF77457AC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "076fbd9d43afd4f0186eb7ce38feafe0a33ae02a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18125,
+        "id": "Q18125"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100580192$86B2DCCC-C949-400B-B5D1-4E7006714DE7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8f822a3fc4e55b028fe4b4f2d40bdcf5fcb29770",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216372,
+        "id": "Q216372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100580192$80B21443-09BE-46DB-9B5B-D38D90445A3F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אשר יעקב וסטהיים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18125": "מנצ'סטר",
+  "Q216372": "גייטסהד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q100580192.json"
+}

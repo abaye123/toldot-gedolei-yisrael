@@ -1,0 +1,230 @@
+{
+ "id": "Q1409562",
+ "url": "https://www.wikidata.org/wiki/Q1409562",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1409562",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי אליאשברג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordecai Eliasberg"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב רוסי, מראשי חובבי ציון"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Mordekhai Eliasberg"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "מבי\"ע"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c71b86ba469f4348f55c07aa58b4c7301cc6998c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 58880,
+        "id": "Q58880"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1409562$DE6C2477-1A02-48EA-BB23-B4F47B508824",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "89c4263c50681cb4ba992308a072b43997bd03c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 498256,
+        "id": "Q498256"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1409562$1F33C7F9-550A-4721-BE7B-A1E7522E11FA",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1409562$D676AC8E-0886-4942-9460-940754B4FFC1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c267c9642d8fb0331ae4c4fbf3c984e940395b04",
+      "datavalue": {
+       "value": {
+        "time": "+1817-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1409562$B703024C-2DE1-43CB-B47C-299A6CD1ADBF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e9b944d2fb407514ced154fa58c27c59cf8835b",
+      "datavalue": {
+       "value": {
+        "time": "+1889-12-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1409562$86E1F663-741A-4A12-A077-493C52E09544",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1409562$5736D92D-B8D6-4C32-AC09-E6C46D8675E1",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "c0979bd2376a3577e663d2a409f1e870033b2d1d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55439829,
+        "id": "Q55439829"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1409562$47ca1e4a-4b8a-0b9e-b8e5-4c72641b6548",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "cb93a61df659a37ead8ad9ff05a7f7dfc7086150",
+      "datavalue": {
+       "value": "מבי\"ע",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q1409562$adeb6075-4a48-4c9c-0f84-95fd1f26c314",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי אליאשברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q498256": "באוסקה",
+  "Q5": "אדם",
+  "Q55439829": "יהונתן אליאשברג",
+  "Q58880": "איישישוק"
+ },
+ "raw": "data/raw/wikidata/Q1409562.json"
+}

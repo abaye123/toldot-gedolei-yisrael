@@ -1,0 +1,183 @@
+{
+ "id": "Q7192424",
+ "url": "https://www.wikidata.org/wiki/Q7192424",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7192424",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד בידרמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Biderman"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish Rabbi (1746-1814)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב חסידי, מייסד חסידות לעלוב"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Dovid of Lelow"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192424$B1C82256-69C4-4985-9316-8061C64E229E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192424$4A5DCDE7-7F61-4524-8BE4-208F4F28CB0D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d033cada0687b01595817fb6e96c803e42050dee",
+      "datavalue": {
+       "value": {
+        "time": "+1814-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192424$3B9A88A0-5448-4219-A30F-5208A5761921",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "edd897d32eb9abeef563fa7df7ebbf6f8f348405",
+      "datavalue": {
+       "value": {
+        "time": "+1746-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192424$AA6DB9E5-6952-4163-B8EE-31A98B7FD9D7",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b4985fca2bbe3289c7d5896d2fa2f8a464b8971f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2136259,
+        "id": "Q2136259"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192424$0D9A4EB6-2652-454B-9A07-C004EA2D4A13",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3faa07c2ad5b8ebd5a2a5c9b382090451f5a2f2c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11796899,
+        "id": "Q11796899"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192424$58b31552-4d0e-0dd8-6c12-11dbdebac2e4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד בידרמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11796899": null,
+  "Q133485": "רב",
+  "Q2136259": "ללוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7192424.json"
+}

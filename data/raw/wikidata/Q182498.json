@@ -1,0 +1,280 @@
+{
+ "id": "Q182498",
+ "url": "https://www.wikidata.org/wiki/Q182498",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q182498",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hasdai ibn Shaprut"
+   },
+   "he": {
+    "language": "he",
+    "value": "חסדאי אבן שפרוט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "9th century Andalusian Jewish scholar, physician and official"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ורופא ספרדי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5f54502ba9acfb7f67fcef7d1cf93459e2313c00",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15681,
+        "id": "Q15681"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q182498$F22B3637-A5BE-4D0B-B03C-005F24136D17",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b35facb8282460f9ded2990eecfaf56fd08ff036",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5818,
+        "id": "Q5818"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q182498$B9E558C5-496B-4B39-8A65-7AC43883AB27",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q182498$BE541115-99B4-424B-ABA8-C1D1E1FE525C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "932d053bebfbc4466a11d10896a67774f4de367f",
+      "datavalue": {
+       "value": {
+        "time": "+0915-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q182498$6B6D3F20-F8C1-4E4A-8DB9-BE919A33CBA4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "342597b113787cb6049efa1c174f10dfa3d1bd3c",
+      "datavalue": {
+       "value": {
+        "time": "+0975-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q182498$1EEE75CD-B55E-4468-A6A7-523BFD3E596C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q182498$380A7538-F667-43EA-BDC0-72C65F0AE127",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e7ea5ccd569016f7f6767a58519e933b8a01634e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 193391,
+        "id": "Q193391"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q182498$5CE6A6CC-E89B-4303-A6F5-4E36EA8CE435",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q182498$fcfe60e7-9536-459c-bb84-442ab52cfc98",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q182498$9053D33A-8F19-453E-8BC2-8F391774563E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חסדאי אבן שפרוט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15681": "חאאן",
+  "Q193391": "דיפלומט",
+  "Q333634": "מתרגם",
+  "Q39631": "רופא",
+  "Q5": "אדם",
+  "Q5818": "קורדובה"
+ },
+ "raw": "data/raw/wikidata/Q182498.json"
+}

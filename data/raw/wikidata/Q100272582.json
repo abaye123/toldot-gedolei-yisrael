@@ -1,0 +1,127 @@
+{
+ "id": "Q100272582",
+ "url": "https://www.wikidata.org/wiki/Q100272582",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100272582",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב שמעיה בר זעירא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בדור החמישי, מתלמידי אביי ורבא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב שמעיה בר זירא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272582$24d5e0d1-4de1-4c70-ff23-eb6d7427e012",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "25bde0a2e3d79a14fe48f52e0d597db19dd618ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 304924,
+        "id": "Q304924"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272582$b97e5b80-4a7a-9bfe-45f3-51336154c51a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "bfbebb3f0221368af60e381c14f4ab330fba2833",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1304973,
+        "id": "Q1304973"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272582$92118d5a-4f55-269b-f216-2d3564da4d0d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100272582$586610E7-92AB-484A-888B-FAB6019AC4D6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב שמעיה בר זעירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1304973": "רבא",
+  "Q304924": "אביי",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q100272582.json"
+}

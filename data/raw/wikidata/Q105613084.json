@@ -1,0 +1,185 @@
+{
+ "id": "Q105613084",
+ "url": "https://www.wikidata.org/wiki/Q105613084",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q105613084",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Shmuel Brudny"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל ברודני"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשי ישיבת מיר בברוקלין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Shmuel Brudny"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105613084$9ab37045-5373-490f-8797-6cb335de12df",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105613084$38c48e76-e24b-4ec6-bd43-cd0bc145c2f8",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "16cc9517a0b72f292fc365798f6cffeb497c2320",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 106100571,
+        "id": "Q106100571"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105613084$84e323d4-4aea-8f8d-e2bf-477e2a1250df",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "430b4efc3e047393eaf5a3f454d241590a166db5",
+      "datavalue": {
+       "value": {
+        "time": "+1981-02-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105613084$d8227b41-4b4c-7c9c-f481-d2436ac63ebd",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a4864c058fbc65159d2b5348c3f5e8618b68e8f7",
+      "datavalue": {
+       "value": {
+        "time": "+1915-08-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105613084$d860ff1d-4754-aa36-26fd-c3ad3c488e96",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "62761fd2d2c19ec57daceaf7122d0723193d06f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6977805,
+        "id": "Q6977805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105613084$87e347e2-4298-e2b8-1e4c-5ce127025c97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל ברודני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q106100571": "אליה ברודני",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם",
+  "Q6977805": "שלמה ליב ברעוודה"
+ },
+ "raw": "data/raw/wikidata/Q105613084.json"
+}

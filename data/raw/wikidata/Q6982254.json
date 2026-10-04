@@ -1,0 +1,310 @@
+{
+ "id": "Q6982254",
+ "url": "https://www.wikidata.org/wiki/Q6982254",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6982254",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו ברוך קמאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elijahu Baruch Kamai"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בקהילות קארליץ, ווקשנה, צ'כנובצה, מיר (1840-1917)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliyahu Barukh Kamai"
+    },
+    {
+     "language": "en",
+     "value": "Ḳamai, Eliyahu Barukh"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "קומי, אליהו ברוך"
+    },
+    {
+     "language": "he",
+     "value": "קמי, אליהו ברוך"
+    },
+    {
+     "language": "he",
+     "value": "קאמאי, אליהו ברוך"
+    },
+    {
+     "language": "he",
+     "value": "קאמאי, אליהו ברוך בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "קומיי, אליהו ברוך בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "קמאי, אליהו ברוך"
+    },
+    {
+     "language": "he",
+     "value": "קמאיי, אליהו ברוך"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982254$D6C72029-1212-4C5E-AEB9-58F4FA95B14E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982254$184AE68F-F1D0-40E4-8A87-9D585450C29C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "544cd26eaeb2b99e097e1d3344ea025ebf1608d5",
+      "datavalue": {
+       "value": {
+        "time": "+1840-09-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "6993779cf5e1b139517aa911c0281b4d1ff024b3",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817508,
+          "id": "Q2817508"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q6982254$5ea17e14-476f-a2a0-b40e-8cb05dd1c4ac",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dd9a04d85cdc79ad1040bf147825ea88d68a95a3",
+      "datavalue": {
+       "value": {
+        "time": "+1917-07-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "d17dbf35c854342e47eb10ebc5753ea4235aa7e4",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2908265,
+          "id": "Q2908265"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "1c4503de134cfb1e8b7a4eb05ce193eac2d02340",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817587,
+          "id": "Q2817587"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452",
+      "P4241"
+     ],
+     "id": "Q6982254$17f66fba-47c9-a2d9-dad5-dd31ecb97ba6",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "127015a7d6ebc7cf2cb32a8f7a774def53e965e5",
+      "datavalue": {
+       "value": {
+        "time": "+1917-07-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6982254$BB748CDE-FE85-4389-9EEA-6423158C06BD",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa8b45301178ccdd42e9e11b416be0ae5ea84086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2222616,
+        "id": "Q2222616"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982254$72c3dffd-4c9c-4c87-9f76-0539198dc958",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1c93f36ad9b30f9fe3067610321d0a7542784c44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2280,
+        "id": "Q2280"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q6982254$ee9c02b1-4e72-b1c8-e8fa-8c4675cb053e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו ברוך קמאי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2222616": "טלז",
+  "Q2280": "מינסק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6982254.json"
+}

@@ -1,0 +1,205 @@
+{
+ "id": "Q116042310",
+ "url": "https://www.wikidata.org/wiki/Q116042310",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q116042310",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אריה הורביץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aryeh Leyb Hurvits"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין ישראלי, כיהן כדיין בבית הדין הרבני הגדול בין השנים 1990 ו-1997, ולפני כן כאב בית דין תל אביב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Hurvits, Aryeh Leyb ben Yiśraʼel Menaḥem"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116042310$10A97AFB-93A4-45C1-9A56-BD41922633E5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116042310$9506c55d-413f-ecb6-dadf-88495463d72d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116042310$d5c1a897-49c8-e408-b606-8be1599bfdef",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "458328e06e9949b4967627713f5c65fa6ea5d980",
+      "datavalue": {
+       "value": {
+        "time": "+1927-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q116042310$31df1a42-4a34-523f-2803-77915f707d63",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3edefc07bf8bbb6971076af8bd59acd27d29e4a1",
+      "datavalue": {
+       "value": {
+        "time": "+2008-01-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q116042310$be430bce-4d85-da7c-6be4-2057f2b1d829",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "05181284d1d1e7560e933e00e23046b2918ca6dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6608024,
+        "id": "Q6608024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116042310$5C3E39E7-3605-486C-8F9D-4A7C1C37A6E8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6d4fbb49b1d4646ba9faca24d9820bb1b54cfcdb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41304,
+        "id": "Q41304"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116042310$AE66BFD1-D4A2-41CF-A2A4-1CE361FE5AAB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה הורביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3570351": "דיין",
+  "Q41304": "רפובליקת ויימאר",
+  "Q5": "אדם",
+  "Q6608024": "בית הקברות של נציבי ישיבת פוניבז'"
+ },
+ "raw": "data/raw/wikidata/Q116042310.json"
+}

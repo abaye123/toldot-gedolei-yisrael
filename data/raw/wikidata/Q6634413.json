@@ -1,0 +1,191 @@
+{
+ "id": "Q6634413",
+ "url": "https://www.wikidata.org/wiki/Q6634413",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6634413",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי יהודה רבינוביץ' תאומים"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בליגום וברוגולי שבליטא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6634413$3BAEE4FC-C0C8-463A-8D3F-768D50D24F7A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6634413$7F95B9F9-222A-4157-965A-38B1A3DB6E27",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "616b6b562192a650f657734670eb3450b4077f23",
+      "datavalue": {
+       "value": {
+        "time": "+1843-06-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6634413$b832f849-40fb-b906-50b2-37f4f7b23e77",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "969a765b1868f1da398d4d142834b6091a23574a",
+      "datavalue": {
+       "value": {
+        "time": "+1887-12-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6634413$952fef98-41d5-d938-14d8-3970bf584355",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "05c0282a1521543afcd8f5522ade9016865fc14f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5362056,
+        "id": "Q5362056"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1039": [
+       {
+        "snaktype": "value",
+        "property": "P1039",
+        "hash": "318c84be7316819de0c29add11ec8986b679fe9a",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 108714555,
+          "id": "Q108714555"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1039"
+     ],
+     "id": "Q6634413$ab22a779-4884-d742-e1d5-bde72e8db59e",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "0c301b8e61494ccb80678b999fc6470c74f90fab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6651643,
+        "id": "Q6651643"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6634413$98776a37-4d8d-2dff-b69a-1837da2f2f9f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי יהודה רבינוביץ' תאומים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5362056": "אליהו דוד רבינוביץ' תאומים",
+  "Q6651643": "בנימין רבינוביץ'"
+ },
+ "raw": "data/raw/wikidata/Q6634413.json"
+}

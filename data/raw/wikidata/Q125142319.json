@@ -1,0 +1,181 @@
+{
+ "id": "Q125142319",
+ "url": "https://www.wikidata.org/wiki/Q125142319",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q125142319",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה הכהן (צילץ)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo HaCohen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני (1769–1824)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה צילצער"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125142319$4210d097-4986-7888-1bbc-935554a2e024",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125142319$049518fc-4a63-d0fd-9ab4-a2febc1a3326",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "242eed9dab4ee2273dd570bcedb8a8b900f1b74f",
+      "datavalue": {
+       "value": {
+        "time": "+1769-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q125142319$6c1276df-4892-422c-b89f-aff76932f942",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "43198458843423f4318a39f18c98350ab13de8e7",
+      "datavalue": {
+       "value": {
+        "time": "+1824-04-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q125142319$c9a9a297-4b07-669d-d047-953d5e723c60",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "ae731f41c00f85e65d51d88f7afe23f89964ed6c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2215007,
+        "id": "Q2215007"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125142319$33790c68-49ee-1ef7-42e5-23f46c82b5ef",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ff715a1c09d5fffa4a90c4c72b74fd9409c44f6d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 9242838,
+        "id": "Q9242838"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125142319$809008c2-469e-ffab-f38a-1e0cb3a83db0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה הכהן (צילץ)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2215007": "משולם זלמן הכהן",
+  "Q5": "אדם",
+  "Q9242838": "משולם זלמן הכהן"
+ },
+ "raw": "data/raw/wikidata/Q125142319.json"
+}

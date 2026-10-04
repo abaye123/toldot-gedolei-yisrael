@@ -1,0 +1,304 @@
+{
+ "id": "Q1329306",
+ "url": "https://www.wikidata.org/wiki/Q1329306",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1329306",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Samuel"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר ממיץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליעזר בן שמואל"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר ממץ"
+    },
+    {
+     "language": "he",
+     "value": "יראים"
+    },
+    {
+     "language": "he",
+     "value": "ספר יראים"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "35032195346714aa5d30b0899c209f6191e3ced4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1720,
+        "id": "Q1720"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1329306$631F57A2-7111-4C06-8E6E-2A8B660AABB4",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329306$25F9D059-9E56-42F6-9215-AF528224D799",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4744ea59079b14473c9c1e9683a19e7d1209427b",
+      "datavalue": {
+       "value": {
+        "time": "+1175-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1329306$A68A350A-F611-47EA-9010-8936853F6058",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3331d10ca1bc27f75b5609febe5a489101d8baa1",
+      "datavalue": {
+       "value": {
+        "time": "+1190-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1329306$ca39e6fa-4cb2-be27-e521-4b0be2c31616",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329306$FBE1E2D1-BED0-480C-AD19-DF884A68B693",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b11bf75b40b5a908116e41b3538b4fbb80ee7a82",
+      "datavalue": {
+       "value": {
+        "time": "+1115-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1329306$15F49BB6-38A6-402C-9B17-B0DB9CBF289C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "947c9e29a7af168e649b52c7c26f2fea40298042",
+      "datavalue": {
+       "value": {
+        "time": "+1100-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1329306$45b8a569-47e5-da29-d055-a7167ed0a054",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6ea69e95a2289c2ac82874e95ad6d4602199efbd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22690,
+        "id": "Q22690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329306$a2f0373c-4f8e-ef86-3d20-f41c8d461d0d",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "313ad3722fcf1115dbe61ee6f99da64bea4e7b51",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22690,
+        "id": "Q22690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1329306$C30103A8-4CAE-4BA7-9E6E-B022F5FE7323",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר ממיץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1720": "מיינץ",
+  "Q22690": "מץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1329306.json"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "Q131314303",
+ "url": "https://www.wikidata.org/wiki/Q131314303",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q131314303",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רצח צבי קוגן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zvi Kogan"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli-Moldovan rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131314303$87914598-4642-a935-a906-74de7c07e95c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "407e6bb405211650044482ff91165ca377e0de7e",
+      "datavalue": {
+       "value": {
+        "time": "+2024-11-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131314303$10ea5fcf-491f-eb23-35e1-da914d34049c",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131314303$ca2d4cbc-4575-32bc-62fb-42025bdaf873",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5dbf74a59f91d5c7c72d728e6659567251326e61",
+      "datavalue": {
+       "value": {
+        "time": "+1996-08-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131314303$3d318e95-4280-73e3-7ffb-bede92afce80",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "10e5fd5493391a4ba0d893e1ad541ddcffb1269f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 951590,
+        "id": "Q951590"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131314303$b1da6ca0-454b-f84d-4a1f-c0e1402f599f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "dc75dc3853b99a4d2c411a78cb2a0c161f9e9083",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 234600,
+        "id": "Q234600"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131314303$626a5424-455a-0b28-c22c-2b11b7861370",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רצח צבי קוגן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q234600": "אל-עין",
+  "Q5": "אדם",
+  "Q951590": "רמת שלמה"
+ },
+ "raw": "data/raw/wikidata/Q131314303.json"
+}

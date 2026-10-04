@@ -1,0 +1,169 @@
+{
+ "id": "Q18121768",
+ "url": "https://www.wikidata.org/wiki/Q18121768",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121768",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל יצחק מודיליאנו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק, דרשן. מחכמי ורבני סלוניקי."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121768$0B144623-2B6C-436D-AB18-6719A513912C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121768$15CAF0BE-8AF1-4CDB-B141-53D3921B86CE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1b37f7f189f4c988df3d8361a68b2aa34ef5f0e9",
+      "datavalue": {
+       "value": {
+        "time": "+1656-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121768$cae7d785-49f8-d076-bc3c-200b5c032af9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e91cd9d5119e2b7a86daf191e119f3ebb2b19faf",
+      "datavalue": {
+       "value": {
+        "time": "+1703-10-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121768$815617a6-4e6c-ed12-c31e-e9fb6a55eb7a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121768$19d7b775-443f-0c27-b340-04524542e8b6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "68b9cb6560a64a33695778b7f595f193d34097a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121768$4b30f1dd-4c54-8e3e-7bff-cd80815424ba",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל יצחק מודיליאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18121768.json"
+}

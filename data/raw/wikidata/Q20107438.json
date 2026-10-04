@@ -1,0 +1,178 @@
+{
+ "id": "Q20107438",
+ "url": "https://www.wikidata.org/wiki/Q20107438",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20107438",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הלל ויטקינד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hillel Vitkind"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ממייסדי סניפי ישיבת בית יוסף-נובהרדוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20107438$E8DA9106-46DA-498B-A6CE-02EAA6ED03CA",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20107438$9e5f18a8-4b3c-5024-78ec-9374351ca299",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20107438$358ad6df-4107-5387-ef29-4fe4d4f99102",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ad8200c92e7a3cdee32162b5b41b9363841aab5b",
+      "datavalue": {
+       "value": {
+        "time": "+1899-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20107438$c0f233fd-47e4-0236-97db-e2c617da55fa",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e796aec4b83d5f44d04609d3c2f19f56dccca744",
+      "datavalue": {
+       "value": {
+        "time": "+1974-09-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20107438$30765ee3-4552-6162-c982-1a0a66850f43",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "007d9014543f122d697d82fb1d0d314f9b5d9c9c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920508,
+        "id": "Q2920508"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20107438$76a3cca9-4f3c-7150-4e32-d5741ae2d306",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל ויטקינד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q2920508": "אינדורה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20107438.json"
+}

@@ -1,0 +1,195 @@
+{
+ "id": "Q12403389",
+ "url": "https://www.wikidata.org/wiki/Q12403389",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12403389",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם לנדא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Landau"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בפולין במאה ה-19"
+   },
+   "en": {
+    "language": "en",
+    "value": "19th C. rabbi in Ciechanow"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חסידות טשכנוב"
+    },
+    {
+     "language": "he",
+     "value": "הטשכנובר רב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Chiechanower Reb"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403389$9C05AD4B-FA54-4410-881C-10C61501E354",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403389$1FE14E8B-721D-49AD-96F7-30EBF7D567CE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fb37caab58e0798aa0d2c2e75e9e836829a430ce",
+      "datavalue": {
+       "value": {
+        "time": "+1784-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403389$03FDFD1F-B805-427B-ACF6-AC3E3A98AF41",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "754ba97f201f9b5625a2ae6c0ab39f36bc3f89ed",
+      "datavalue": {
+       "value": {
+        "time": "+1789-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403389$A7DA397C-8203-45A4-8811-C097FE81A4D8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b438ad1a0235bf848a26100f5376a4e0f164b861",
+      "datavalue": {
+       "value": {
+        "time": "+1875-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403389$5300AABC-7C0E-41C3-BADE-B508775D26CC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "975b2686bb1645cb50e61bde179d3a82f17e836c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 745051,
+        "id": "Q745051"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403389$DDEABC83-480C-4197-A7B1-239E408BE476",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם לנדא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q745051": "צ'חאנוב"
+ },
+ "raw": "data/raw/wikidata/Q12403389.json"
+}

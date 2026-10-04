@@ -1,0 +1,262 @@
+{
+ "id": "Q12409598",
+ "url": "https://www.wikidata.org/wiki/Q12409598",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409598",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה מינץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mose Mintz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Muenz, Moses ben Isaac, ha-Levi"
+    },
+    {
+     "language": "en",
+     "value": "Muenz, Moses ben Isaac"
+    },
+    {
+     "language": "en",
+     "value": "Moses Muenz"
+    },
+    {
+     "language": "en",
+     "value": "Müncz Mózes"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$E6D65D86-6F5E-4E92-A9C3-895A02D1B2D1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$7A69AE0A-F948-421F-BAA2-BE3D882D606D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28352a9984c8ef2b3ca3ec4487a30ce71353fb32",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q12409598$5770D441-FEB2-49A4-AE54-4B8609D5EE84",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e23d7548b33bb88f8d0eb32b4277312d2d878ac2",
+      "datavalue": {
+       "value": {
+        "time": "+1831-08-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409598$C9893A23-3BBA-4277-A4E5-AF01A23EBAF4",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c329f516c8b8cb1380f1a5792e7d25aec98bb615",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26256322,
+        "id": "Q26256322"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$6c54e180-4679-9114-5c36-9cfe6ba15881",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "66898d1bd99a55a5f8c67a41f0624f657a48ab4e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 191607,
+        "id": "Q191607"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$9B706EAE-E419-4BC3-BB2A-B8A280CE7D25",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8d473e94f4e22b11ec2217c5ebec5c026699e2fb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25394915,
+        "id": "Q25394915"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$5FCE4B81-7F31-40C6-A98B-FB5EB6E68CE8",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "3a3a0b4e85d2f912ec3131f81ef44ad7e7ba18b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 789995,
+        "id": "Q789995"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409598$e53d15ef-41ea-3409-1f86-c96675d11391",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מינץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q191607": "פודוליה",
+  "Q25394915": "Óbuda",
+  "Q26256322": "בית הקברות היהודי של אובודה",
+  "Q5": "אדם",
+  "Q789995": "יחזקאל בנט"
+ },
+ "raw": "data/raw/wikidata/Q12409598.json"
+}

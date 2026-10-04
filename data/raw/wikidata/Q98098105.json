@@ -1,0 +1,178 @@
+{
+ "id": "Q98098105",
+ "url": "https://www.wikidata.org/wiki/Q98098105",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q98098105",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלישע מפאנו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Alessandro da Fano"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi (1847-1935)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98098105$1aadd13b-4ae9-9a71-ced3-25606a31ffc1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "54935b045df2b615cd403c82baeaaf436a253df0",
+      "datavalue": {
+       "value": {
+        "time": "+1935-04-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q98098105$B3920F3B-619D-4791-88BC-2FD700DB6A7D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5bdc8ddf55e9d2f5086cb2486e4b4b246c12d7d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2044,
+        "id": "Q2044"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98098105$8699C732-F601-4181-8F95-E91DABFE41F0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fd51b39ff32be7c9f7c00106feaa774823c8760f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 490,
+        "id": "Q490"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q98098105$27C27A64-B5D2-4A78-B80C-1563E285EA8F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2470dfff13f7781f555ccedec0acf2f2e67139cf",
+      "datavalue": {
+       "value": {
+        "time": "+1847-02-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q98098105$91536c0a-4589-3368-9b5f-1d75d9af048f",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q98098105$37c94317-4447-49dd-14b1-a54c3c0aab73",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלישע מפאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2044": "פירנצה",
+  "Q490": "מילאנו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q98098105.json"
+}

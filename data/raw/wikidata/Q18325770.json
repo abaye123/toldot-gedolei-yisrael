@@ -1,0 +1,167 @@
+{
+ "id": "Q18325770",
+ "url": "https://www.wikidata.org/wiki/Q18325770",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18325770",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום רוזנפלד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom Rozenfeld ha-Levvi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1800–1851)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shalom Rozenfeld ha-Leṿi"
+    },
+    {
+     "language": "en",
+     "value": "Shalom haLevi Rozenfeld"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18325770$39C766C6-7129-44E1-A2C1-3D0D56FD88B6",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9a1e0a9b9f260a43d36c3aee4d202b9d7b82892a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28819528,
+        "id": "Q28819528"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18325770$D143B63D-D111-489E-BC6C-C996D0F5743F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18325770$d8d974c8-4223-7337-08cb-132bb10fafbb",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbb685208d77a19da801928d514c6fa7c6672203",
+      "datavalue": {
+       "value": {
+        "time": "+1800-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18325770$a20e0f44-aa06-49d7-a5f3-32bf485a9291",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "73e322995d50f7e1392d06042c8b464cd1fcc5cd",
+      "datavalue": {
+       "value": {
+        "time": "+1851-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18325770$f6998c11-9075-4752-a37d-e30ed061638f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום רוזנפלד (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q28819528": "צבי הירש הלר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18325770.json"
+}

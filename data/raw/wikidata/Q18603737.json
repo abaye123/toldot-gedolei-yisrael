@@ -1,0 +1,152 @@
+{
+ "id": "Q18603737",
+ "url": "https://www.wikidata.org/wiki/Q18603737",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18603737",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הלל ברוקנטל"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ממייסדי הקיבוץ חפץ חיים ורבו הראשון של הקיבוץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603737$D4B17BF4-8CE1-4C6B-8E66-8F9D30F3178E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "22681f47e380695ae11e311de1ca6a2608482fb9",
+      "datavalue": {
+       "value": {
+        "time": "+1909-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18603737$764B3BE3-0F43-46AB-A489-A0FE9F6F9A90",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603737$98A04E08-BB71-49CB-9DA8-D4167939505D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "928283c2034f3e6c0418e03aeb06bcaa78132814",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1906346,
+        "id": "Q1906346"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603737$3E1B54A9-0C69-481E-ADA5-F51E3918E808",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "54dc4837474b4869be2eb9ff459ee9cc41b6b3cf",
+      "datavalue": {
+       "value": {
+        "time": "+1980-10-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18603737$12D6A4D0-BAD2-4910-800C-2832FEB1A75B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל ברוקנטל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1906346": "אוסצ'יקי דולנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18603737.json"
+}

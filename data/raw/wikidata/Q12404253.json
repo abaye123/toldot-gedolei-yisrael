@@ -1,0 +1,241 @@
+{
+ "id": "Q12404253",
+ "url": "https://www.wikidata.org/wiki/Q12404253",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12404253",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Leib Sarah's"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה ליב שרה'ס"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מתלמידי הבעל שם טוב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "לייב שרה'ס"
+    },
+    {
+     "language": "he",
+     "value": "ליב שרה'ס"
+    },
+    {
+     "language": "he",
+     "value": "אריה ליב שרה'ס"
+    },
+    {
+     "language": "he",
+     "value": "אריה לייב שרה'ס"
+    },
+    {
+     "language": "he",
+     "value": "יהודה לייב שרה'ס"
+    },
+    {
+     "language": "he",
+     "value": "לייב בן שרה, 1730-1791"
+    },
+    {
+     "language": "he",
+     "value": "ליב בן שרה, 1730-1791"
+    },
+    {
+     "language": "he",
+     "value": "אריה בן שרה"
+    },
+    {
+     "language": "he",
+     "value": "אריה ליב בן יוסף שרהס"
+    },
+    {
+     "language": "he",
+     "value": "יהודה ליב בן שרה"
+    },
+    {
+     "language": "he",
+     "value": "אריה ליב בן שרה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Aryeh Leib Sarahs, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Leib ben Sarah"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Leib, Sarahs, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Leyb Śarah's, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Ben-Śarah, Leyb, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Leyb Ben-Sara, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Leyb Ben-Śarah, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Leyb Śarahs, 1730-1791"
+    },
+    {
+     "language": "en",
+     "value": "Sarahs, Aryeh Leib, 1730-1791"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404253$6690672A-CB63-4CD3-80D8-02487C88B048",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404253$3FD83EB5-0268-4BC8-9DC5-538BE493F30D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c0422d39258d2bf960ba64127e06523c3926655",
+      "datavalue": {
+       "value": {
+        "time": "+1730-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12404253$2B0ED413-FCDF-4D24-BAB6-FA3E6F79E8B7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9a9f262915e2d23a484746eb10004c2d2351c0e",
+      "datavalue": {
+       "value": {
+        "time": "+1791-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12404253$08835074-86C3-45F1-A6B2-DB40FF25B5D0",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9e1557d02682c9ef66529ba471e9dda79d78e369",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 319062,
+        "id": "Q319062"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404253$2ef4dea2-4a1d-f089-fd9b-e5af0a64eedf",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "לייב שרה'ס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q319062": "הבעל שם טוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12404253.json"
+}

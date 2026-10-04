@@ -1,0 +1,252 @@
+{
+ "id": "Q4662595",
+ "url": "https://www.wikidata.org/wiki/Q4662595",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4662595",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron ben Samuel"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרון בן שמואל מפרנקפורט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני יהודי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אהרן בן שמואל, 1620-1690"
+    },
+    {
+     "language": "he",
+     "value": "אהרן בן שמואל, בערך 1620-1701"
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662595$803E8B8F-E663-407F-99DD-87B3685A019E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662595$785eadb0-4b38-b6d4-e229-a45074c805c1",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662595$DB30E2D8-ADF0-418B-8F71-CA9A4CC3D79B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5eb1934954d9f52cce6ba0c019e64221625da01",
+      "datavalue": {
+       "value": {
+        "time": "+1620-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q4662595$9ef1e637-463c-3b77-c44a-fa2c32e4af58",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5eb1934954d9f52cce6ba0c019e64221625da01",
+      "datavalue": {
+       "value": {
+        "time": "+1620-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662595$8F38D33A-8DBD-4DAA-8493-BF72A6589DB6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "05bcd403388858ec16ffd5b5c5bb47ed5cd03626",
+      "datavalue": {
+       "value": {
+        "time": "+1701-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662595$96979f55-434a-1468-1446-8826f75f8b04",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e68089c6206457c29286a0b5e671ea4b0b340d70",
+      "datavalue": {
+       "value": {
+        "time": "+1690-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662595$83316DD7-8EC8-4F66-85A8-A9EC37D675CB",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1c3364f7fe6bbbc3ce276114281ec0b42c1cd2bd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4024,
+        "id": "Q4024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662595$380de014-4692-561c-8c0a-9028f213d4f3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרון בן שמואל מפרנקפורט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q333634": "מתרגם",
+  "Q4024": "פרנקפורט על האודר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4662595.json"
+}

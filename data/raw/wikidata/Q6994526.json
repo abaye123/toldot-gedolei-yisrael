@@ -1,0 +1,344 @@
+{
+ "id": "Q6994526",
+ "url": "https://www.wikidata.org/wiki/Q6994526",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6994526",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו מני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliyahu Saliman Mani"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi of Hebron"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה הראשי של חברון, מגדולי רבני עיראק"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליהו סלימאן מני"
+    },
+    {
+     "language": "he",
+     "value": "אליהו סלימן מני"
+    },
+    {
+     "language": "he",
+     "value": "מאני, אליהו בן סלימאן מנחם"
+    },
+    {
+     "language": "he",
+     "value": "רא\"ם, מחברון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$D4BD9F2F-1EAA-4F8C-BCA8-7D3565983713",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$007BBCCE-2678-4C68-B328-99EACAED3A1F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "93cc6e08fbf3f87b8998d6999a70c158d342d7b0",
+      "datavalue": {
+       "value": {
+        "time": "+1818-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6994526$6395a1fe-4d87-8626-972f-7b55c87f0eed",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "99d54f2a1b8384e0577c589c350e5eb5835a5825",
+      "datavalue": {
+       "value": {
+        "time": "+1899-06-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6994526$076b9f34-43ea-7383-83f9-d4c710c19736",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "96b2b8a3bf2bf0065ad2ba213c93a2967631f0cf",
+      "datavalue": {
+       "value": {
+        "time": "+1899-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6994526$7A78B2D5-232F-4FE9-9263-37022D676B42",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a5a816baa8ef17feb1067ec4ff78fca6c8f25cfe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1530,
+        "id": "Q1530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$e7fa22af-44b3-a66a-eb2c-4a7cf8fb6336",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "934123dc6dc063bf8ce1caf29dc7b4178f168ae5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168225,
+        "id": "Q168225"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$212516a7-4daf-8018-2b68-f0f885268dee",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b51ea30c1269d2ec6af724139e668d7c0632333f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6264374,
+        "id": "Q6264374"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$0ac7da6e-43e2-946a-9397-98cec413a412",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "557556ed231907d3cfdb8a5b6993fc2b310c5188",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113507996,
+        "id": "Q113507996"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$95025261-4a97-3782-f4e1-e31762f5614d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "02494b9d4b1187cfa38f93aba1e883a9dea73d63",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649946,
+        "id": "Q55649946"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$b6e5b19a-428d-013e-0120-dd490205b6fe",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "c5aa6b9796ab2fa917fcbca2109c27c7137fe863",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7017394,
+        "id": "Q7017394"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$5a6ccc5e-4386-37c7-1162-c10999994e5b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "a236eca5b1e21de4f227b8f4a9be1e02412c813e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55650848,
+        "id": "Q55650848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6994526$94610720-4869-7adb-42d8-28b8af2a958b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו מני (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113507996": "אברהם ברוך מני",
+  "Q133485": "רב",
+  "Q1530": "בגדאד",
+  "Q168225": "חברון",
+  "Q5": "אדם",
+  "Q55649946": "סלימאן מנחם מני",
+  "Q55650848": "יחזקאל שלום מני",
+  "Q6264374": "בית העלמין היהודי העתיק בחברון",
+  "Q7017394": "מלכיאל מני"
+ },
+ "raw": "data/raw/wikidata/Q6994526.json"
+}

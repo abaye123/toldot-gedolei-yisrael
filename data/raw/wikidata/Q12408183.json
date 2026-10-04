@@ -1,0 +1,188 @@
+{
+ "id": "Q12408183",
+ "url": "https://www.wikidata.org/wiki/Q12408183",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408183",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב כ\"ץ (רב)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בליטא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$897E673E-737E-4863-9793-9B4675456800",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$D12DDD1E-5DC1-4779-A028-A666F899C96C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f6114c6faf6ab3d04c5b1c116ede488a5f767788",
+      "datavalue": {
+       "value": {
+        "time": "+1862-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408183$c0705be2-4bbf-548b-0f8a-284e836c9f6d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "74b5193c68c6e56695e78e1892ecb2ae5cc5d982",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1015264,
+        "id": "Q1015264"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$528bceae-499c-b1e7-a392-4cbc62024822",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "408abba7fe120dfc7ca1975b2a7de7b5065478d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2091430,
+        "id": "Q2091430"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$7a18ded7-4122-a666-47e0-07df09a10b38",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "caf1492bdf85a1408eca2b39d50f494e72480778",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 8053892,
+        "id": "Q8053892"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$c69a38ff-421a-95e7-898e-5229d4481914",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0f62028a0258ac4209ba2aebc50a8144b534305b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16129552,
+        "id": "Q16129552"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408183$4a05866a-4f55-36e1-7781-d89f6387d988",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב כ\"ץ (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1015264": "רומשישוק",
+  "Q133485": "רב",
+  "Q16129552": "דב כ\"ץ",
+  "Q2091430": "נתן צבי פינקל",
+  "Q5": "אדם",
+  "Q8053892": "יצחק בלאזר"
+ },
+ "raw": "data/raw/wikidata/Q12408183.json"
+}

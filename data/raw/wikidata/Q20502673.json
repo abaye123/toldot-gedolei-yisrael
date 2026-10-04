@@ -1,0 +1,187 @@
+{
+ "id": "Q20502673",
+ "url": "https://www.wikidata.org/wiki/Q20502673",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20502673",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בן ציון פלמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Felman, Shalo. Ben Tsiyon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה חרדי-ליטאי. רב קהילת \"נחלת משה\" בבני ברק ומחבר סדרת ספרי ההלכה \"שלמי תודה\""
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shalom Ben Tsiyon Felman"
+    },
+    {
+     "language": "en",
+     "value": "Ben Tsiyon Pelman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502673$3A1EBB9F-88AC-4005-A3A7-7E20E18C25FD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502673$4a0d7500-5c59-4bf4-bb69-bc8ea2fd8135",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502673$abe06f9d-4e73-e1d5-629f-9c3a8105997a",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a9a6d00fb2443a0e660a64e55f37371d65169c02",
+      "datavalue": {
+       "value": {
+        "time": "+1934-06-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502673$62d5db01-440b-8d73-9b73-ae67484926d4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cfd0b4ba2561b3ea26716f0d43c0e3cf69d07b9a",
+      "datavalue": {
+       "value": {
+        "time": "+2015-02-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502673$de438ccd-4571-f321-0d17-b584ab42080a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f15f384059db6ef21485ec1d881abafe6d142a5f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502673$155fe2ca-4da3-f662-e596-2c828e0c6923",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בן ציון פלמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q33935": "תל אביב-יפו",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20502673.json"
+}

@@ -1,0 +1,185 @@
+{
+ "id": "Q25492935",
+ "url": "https://www.wikidata.org/wiki/Q25492935",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25492935",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר ברבי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir Barby"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meir ben Saul Barby"
+    },
+    {
+     "language": "en",
+     "value": "Meir Barbi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492935$E5864A8D-A9C1-4083-BA91-BFF494115093",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "6a4e35f570081cce8d46de7f8d897a26b4dbbbc0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492935$EAFE98C4-F1E9-4007-A592-48600E8CA5EA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "38b5a2e6564a4ddd6c3b5e47ed47a3a963640eca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7072,
+        "id": "Q7072"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492935$4376E042-F674-42A7-9006-DCAF11BBAF4D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2ab2c845592be7724c98a4bd00cc49bac56bc85c",
+      "datavalue": {
+       "value": {
+        "time": "+1789-07-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25492935$EB0AE4DA-ED03-4401-9FBE-15570DC1C2B9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25492935$1C11D080-B424-48E4-8E33-8B3B4D02E898",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bb540de6f3c8ca2d738d15c4eb176857554bd1ae",
+      "datavalue": {
+       "value": {
+        "time": "+1725-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25492935$FE92F46D-4434-4431-9D0C-B72F0D43D12E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר ברבי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1780": "ברטיסלאבה",
+  "Q5": "אדם",
+  "Q7072": "הלברשטאדט"
+ },
+ "raw": "data/raw/wikidata/Q25492935.json"
+}

@@ -1,0 +1,124 @@
+{
+ "id": "Q110092718",
+ "url": "https://www.wikidata.org/wiki/Q110092718",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q110092718",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד מג'אר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מקובל ארץ ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110092718$3e9be66b-44f9-d7d4-55eb-ab54c8029350",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "03f07dc29d90ef6215c8d20a1dd1df2811c472a7",
+      "datavalue": {
+       "value": {
+        "time": "+1800-03-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110092718$d992b1cf-4d95-0d3e-fd31-6d4679f51835",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110092718$6744E2B7-D429-4A0D-ABC9-B056367668EC",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110092718$0c1be613-49f3-3558-b8e6-06b8411ff25a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד מג'אר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q110092718.json"
+}

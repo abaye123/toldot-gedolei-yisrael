@@ -1,0 +1,124 @@
+{
+ "id": "Q25498181",
+ "url": "https://www.wikidata.org/wiki/Q25498181",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25498181",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבא בר אחא בר סלא מכפרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abba bar Acha bar Sallah of Kafri"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אבי משפחת ר' חייא, רב שילא, ורב (ר' אבא)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25498181$2728582B-5E98-459C-AD63-F7EEBECBACED",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ec46b49f6c2b4f264572a4732366216e86dc6496",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2904193,
+        "id": "Q2904193"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25498181$28ab3c7d-495d-9f91-a116-dec550e6c167",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0f96b62d2071bafdefc1589ad115409038329219",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 47037201,
+        "id": "Q47037201"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25498181$f7a8cb59-49c3-cf65-13e5-a3441a5567f2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25498181$AA21D47E-B219-45E8-845D-A9542E664239",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבא בר אחא בר סלא מכפרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2904193": "רבי חייא",
+  "Q47037201": "אייבו",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q25498181.json"
+}

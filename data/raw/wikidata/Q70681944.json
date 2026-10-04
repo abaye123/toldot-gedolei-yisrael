@@ -1,0 +1,179 @@
+{
+ "id": "Q70681944",
+ "url": "https://www.wikidata.org/wiki/Q70681944",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q70681944",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים לניאדו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Efraim Laniado"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "לאניאדו, עזרא אפרים בן רפאל שלמה"
+    },
+    {
+     "language": "he",
+     "value": "לניאדו, אפרים בן רפאל שלמה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681944$4AAC295E-D355-4B5E-AA74-5148A0EA0CE4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "90d27227ac5bd229ec0cd87f60e5f296b62af999",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q70681944$e86c43c7-a9ee-453e-a406-fec528112f5b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "779e45303c157ac61d10620b41db5b02d47982ee",
+      "datavalue": {
+       "value": {
+        "time": "+1805-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q70681944$e62bad69-46a3-cd6a-be2f-cf735174dbfe",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cce3fc04b92e1134de79d23ec228fa7aface6632",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681944$14825a51-47ad-e6ff-989d-7165dcb7c10c",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681944$9905438c-4da1-e58c-ff3b-e118e2ee71ae",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "4da7bea41df329e7b8afeb85961c4244610070b1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681944$6ef229f9-43cd-e530-7010-1ac57b0b4050",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים לניאדו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q41183": "חלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q70681944.json"
+}

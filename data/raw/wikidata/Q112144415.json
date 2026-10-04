@@ -1,0 +1,178 @@
+{
+ "id": "Q112144415",
+ "url": "https://www.wikidata.org/wiki/Q112144415",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112144415",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רחמים נסים יהודה די שיגורה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Raḥamim Nisim Yehudah de Śegurah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין באזמיר ומחבר ספר עקב ענוה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רחמים נסים יהודה"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07314facf24e058d64179c91dd139592bb6ef5a8",
+      "datavalue": {
+       "value": {
+        "time": "+1881-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112144415$C4B85C31-12E3-4116-9063-7A7E706A3D75",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144415$AC75F8E5-B777-4717-8E9A-7C76C82C9939",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144415$74D2EFA3-95CA-40D3-A960-1C36CCF080D5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "50070f4f68aa91a06428f0f6670e2f7c6f540a5e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144415$E3165769-9E84-402E-BAB8-CF6C6493ED5C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60faaab1b44e35fb34c09b3cdbcf51d607bebc8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 35997,
+        "id": "Q35997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144415$B27B7FAF-406E-40B5-926A-0B0F2521F559",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "63e9814ef9db794969d36656efff4aa115b2c04b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 111465850,
+        "id": "Q111465850"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112144415$7c4f33e1-42bd-6b0e-696e-21035954166b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רחמים נסים יהודה די שיגורה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q111465850": "פנחס רפאל יהושע די שיגורה",
+  "Q133485": "רב",
+  "Q35997": "איזמיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112144415.json"
+}

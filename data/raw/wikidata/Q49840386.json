@@ -1,0 +1,156 @@
+{
+ "id": "Q49840386",
+ "url": "https://www.wikidata.org/wiki/Q49840386",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q49840386",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "גדעון לנגמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Gideon Langman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, איש חינוך ואיש ציבור ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q49840386$1F8AEE56-487D-4653-AC79-9238C2BD9665",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "93de2e98a79430027ac0b12fead3be42447d3410",
+      "datavalue": {
+       "value": {
+        "time": "+1941-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q49840386$758F2377-180D-4087-BC73-0095AFBFE879",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "db8c9734917627820debab14e5481fd63021f708",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152467,
+        "id": "Q152467"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q49840386$3845666F-27E8-4274-BCB0-91CD400A78E4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q49840386$33dcb58d-4a74-39d9-9f38-73fd8975755d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "85dbf4341dc27f0e01230a382863770ae1947ba2",
+      "datavalue": {
+       "value": {
+        "time": "+2026-08-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q49840386$6194ff19-48a6-43c9-b8f9-7a3bbbe40442",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "גדעון לנגמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152467": "בני ברק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q49840386.json"
+}

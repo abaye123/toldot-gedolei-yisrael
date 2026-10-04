@@ -1,0 +1,178 @@
+{
+ "id": "Q67185694",
+ "url": "https://www.wikidata.org/wiki/Q67185694",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q67185694",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jakab Steinherz"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב שטיינהרץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1856–1921)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q67185694$84d3afa5-4448-b77e-25a8-df4ca34bfc06",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q67185694$0fb2174a-41b9-b055-abe2-2e80892a91db",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "212ceed3e95c55a556b38b82f99ae7642d05d69a",
+      "datavalue": {
+       "value": {
+        "time": "+1856-11-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q67185694$E11D39BF-9BA2-4C0B-ACFD-92C2947676F9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "15e446cd5d8edf56accad7d8e53bf4eab469dc4d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1184622,
+        "id": "Q1184622"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q67185694$ab1977a9-451c-c4a1-f37a-78b3cefe4a19",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "874afb83ac13020634bc468ec1cebe57d4a7d30c",
+      "datavalue": {
+       "value": {
+        "time": "+1921-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q67185694$605A0618-A164-41B2-8EB9-D11FE5A6959B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "73a824652315774b0f86db57e57f6a5ad5b320a9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 130212,
+        "id": "Q130212"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q67185694$ae07e7ed-4dd9-010e-9844-4131cc8ec445",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב שטיינהרץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1184622": "Veľká Paka",
+  "Q130212": "סקשפהרוואר",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q67185694.json"
+}

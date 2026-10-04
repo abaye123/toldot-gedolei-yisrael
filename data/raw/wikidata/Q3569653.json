@@ -1,0 +1,236 @@
+{
+ "id": "Q3569653",
+ "url": "https://www.wikidata.org/wiki/Q3569653",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3569653",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם יעקב פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avrohom Yaakov Friedman"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Third Sadigura Rebbe (1884-1961)"
+   },
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר השלישי מסאדיגורה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם יעקב פרידמן מסדיגורה"
+    },
+    {
+     "language": "he",
+     "value": "האביר יעקב"
+    },
+    {
+     "language": "he",
+     "value": "אברהם יעקב מסדיגורה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$890385E4-C548-4292-A7A9-167045F40B9C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7c1fd60055306d9fbb7d388958b61d3206d09522",
+      "datavalue": {
+       "value": {
+        "time": "+1961-12-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3569653$A7DE8116-F127-478D-8319-BEE9AC36FE40",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "15cda86e0e027c76f0fda509cc3cec1cb74ee4d5",
+      "datavalue": {
+       "value": {
+        "time": "+1884-07-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3569653$80B484AD-AC79-41C7-A5A5-1136855431C4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$A36CAAF0-CD80-40A8-9DD5-D7E19554FD9E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f2be19a39baee046832c7b85fe1794273c1e676b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$E7542975-A2F3-40E3-B041-95004A0C3645",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3195a27adae387eaef4ccd7c999afadd1f68f425",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2005381,
+        "id": "Q2005381"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$B39AF61A-A5B9-40A6-BC0E-77C54F2FDA15",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "ed8ad9cf6c828dc4943f4f955a2f5651e02b04a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$2B779402-1A67-4333-A25B-0CA265A13F5D",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "5c8ab41f71d3af5eb854f073d192c891a76fa758",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12252398,
+        "id": "Q12252398"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3569653$36D8A542-0194-489D-A986-4758AEDB3A08",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם יעקב פרידמן (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12252398": "ישראל פרידמן מסדיגורה",
+  "Q133485": "רב",
+  "Q2005381": "סדיגורה",
+  "Q33935": "תל אביב-יפו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3569653.json"
+}

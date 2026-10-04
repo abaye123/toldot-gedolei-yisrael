@@ -1,0 +1,156 @@
+{
+ "id": "Q131027623",
+ "url": "https://www.wikidata.org/wiki/Q131027623",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q131027623",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה חליווה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo Haliva"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת רבנו חיים ברלין (1959–2024)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Head of the Rabbi Chaim Berlin yeshiva (1959–2024)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131027623$5e19bcc0-4fda-ecc9-1932-f923b3a7f70c",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4e6ae79ce7e5c65010f395b051cfd5ed2389d1e9",
+      "datavalue": {
+       "value": {
+        "time": "+1959-10-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131027623$16AF43D9-76BB-4605-BEF4-D7F537D9A34B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8388c823bf1ec62e56ef77758a360529f82abf90",
+      "datavalue": {
+       "value": {
+        "time": "+2024-10-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131027623$D497845A-D39C-4CDF-9BE8-934D50C86FDB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1b36837ec0a677efe0cd9da6f9376469cff530d2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131027623$3BDE9FB6-20FB-4BAC-9A60-D33747491DA5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131027623$e37f0310-40a1-39c6-9765-5703a78927a3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה חליווה (ראש ישיבה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q18419": "ברוקלין",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q131027623.json"
+}

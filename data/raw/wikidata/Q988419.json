@@ -1,0 +1,233 @@
+{
+ "id": "Q988419",
+ "url": "https://www.wikidata.org/wiki/Q988419",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q988419",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל ארנפלד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Sámuel Ehrenfeld"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "(1835–1883) Slovakian-German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samuel Ehrenfeld"
+    },
+    {
+     "language": "en",
+     "value": "Shmuel Ehrenfeld"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q988419$125B0ADE-0940-4FDB-825B-58F384DA4E3C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q988419$6B52267D-85D4-47EA-A590-F96B2B446181",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1e7e631a5cbf764e896b19d849d8c7ceb4b5c27d",
+      "datavalue": {
+       "value": {
+        "time": "+1835-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q988419$A43D5601-5486-42E4-A1A7-FB5CFDD699A8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9c4dfeeab003396fd5effdb40f533e6d8b6cf6ad",
+      "datavalue": {
+       "value": {
+        "time": "+1883-08-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q988419$99376CB7-2EF7-488E-8EC4-4A24FCFA9223",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "73c395ad737e8d5cb9ad87928204431068bac4a2",
+      "datavalue": {
+       "value": {
+        "time": "+1883-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q988419$CB43FC28-A8C0-4122-8454-679CACA30F40",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "591187d2242aebe5f7c2c45f4188efc05f8f38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q988419$f3cf0bf4-4033-0c31-c97a-a33730efd123",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "199cc63fe3db891138134bf6218658accedde22f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 250832,
+        "id": "Q250832"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q988419$d3a3c0f7-43dd-b616-6a62-27bdace2bed4",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4b8a2015d76feff53620f18515498cfe2059e67b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118924561,
+        "id": "Q118924561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q988419$a32da59a-4819-9751-3264-d7e10db60d18",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל ארנפלד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q118924561": "שמחה בונים ארנפלד",
+  "Q133485": "רב",
+  "Q1780": "ברטיסלאבה",
+  "Q250832": "מטרסבורג",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q988419.json"
+}

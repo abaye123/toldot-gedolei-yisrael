@@ -1,0 +1,99 @@
+{
+ "id": "Q12411197",
+ "url": "https://www.wikidata.org/wiki/Q12411197",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12411197",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב אחא בר יוסף"
+   },
+   "en": {
+    "language": "en",
+    "value": "Acha bar Yosef"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Fourth-generation Babylonian scholar of the Talmud"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אחא בר יוסף"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Aha b. Joseph"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411197$C24A1853-4FA2-4FE7-8F0E-2132FCCECF83",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411197$AF4326E3-29C7-41FA-9221-5950D5012D61",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב אחא בר יוסף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q12411197.json"
+}

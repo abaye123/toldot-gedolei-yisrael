@@ -1,0 +1,271 @@
+{
+ "id": "Q12409633",
+ "url": "https://www.wikidata.org/wiki/Q12409633",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409633",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moshe Shmuel Glasner"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה שמואל גלזנר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi and Talmudist (1856-1924)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב העיר קלאוזנבורג (קלוז') בטרנסילבניה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Mosheh Shemu’el Glasner"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409633$583263C6-0B6E-44E9-84DB-04B36A379221",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409633$3CA1D0CE-E7A6-4FE9-90A9-9E50FE72359F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8271122f55e409bf4f7433152b358ef7ccdde4cf",
+      "datavalue": {
+       "value": {
+        "time": "+1856-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409633$5AE3793F-0481-41F8-8702-115816191432",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ab1a8344840a1d63920a4461497be12a7a1fd090",
+      "datavalue": {
+       "value": {
+        "time": "+1924-10-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409633$73258BD2-784B-46B1-AF66-E3776DF67E5D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409633$3D83AE65-7275-4ADB-9592-AD864E899527",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "591187d2242aebe5f7c2c45f4188efc05f8f38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q12409633$a17e7de7-49ca-28aa-babd-bc9404efa3db",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "7034f926af883bef4ff4afe9f6a94503adf8eca0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 193714,
+          "id": "Q193714"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131"
+     ],
+     "id": "Q12409633$5ae92aac-4114-a59b-de97-32a3dd0e36ff",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3a39035060ef4eddcee33b0c99f6db2c59c2137c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118399320,
+        "id": "Q118399320"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409633$706d5e03-44f9-d99e-35e5-a73e36c28126",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה שמואל גלזנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q118399320": "עקיבא גלזנר",
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q1780": "ברטיסלאבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12409633.json"
+}

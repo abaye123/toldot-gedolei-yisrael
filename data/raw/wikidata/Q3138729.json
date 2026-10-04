@@ -1,0 +1,181 @@
+{
+ "id": "Q3138729",
+ "url": "https://www.wikidata.org/wiki/Q3138729",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3138729",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hezekiah Gaon"
+   },
+   "he": {
+    "language": "he",
+    "value": "חזקיה בן דוד"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשי יהדות בבל"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3138729$ACA0A327-B57D-4CD2-A77E-7E6F46112645",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3138729$9086BBDC-F456-4715-AF51-0D2127DE1E37",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9fbb790fbe7569b4de8fde03dbbf726e2f5c9a6",
+      "datavalue": {
+       "value": {
+        "time": "+1040-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3138729$d42fe78c-4daa-e7a3-784b-2910f05e55cb",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3138729$13460baa-458b-d888-22ec-0974c67b49bf",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3b228b8e1ec2844898d0899239ce2add8ea0c89b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30527367,
+        "id": "Q30527367"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3138729$fa62edae-4a98-1aad-176a-2518013d6ffa",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3490078c9e42345976a4882fe4f050b5b65c4191",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30527345,
+        "id": "Q30527345"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3138729$1d479348-401a-526c-f5bb-464a9a9ceb41",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0456a3287938ca64eb87807a8505412d4b464f68",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141455323,
+        "id": "Q141455323"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3138729$056de098-4c27-fe6d-50b2-58dd6399feb2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חזקיה בן דוד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q141455323": "Yosef ben Hezekiah",
+  "Q30527345": "דוד בן חזקיה",
+  "Q30527367": "שאלתיאל בן חזקיה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3138729.json"
+}

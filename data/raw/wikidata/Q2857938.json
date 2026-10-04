@@ -1,0 +1,151 @@
+{
+ "id": "Q2857938",
+ "url": "https://www.wikidata.org/wiki/Q2857938",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2857938",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אהרן מקרלין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aharon of Karlin"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi (June 6, 1802 – June 23, 1872)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אהרון מקרלין"
+    },
+    {
+     "language": "he",
+     "value": "הבית אהרן"
+    },
+    {
+     "language": "he",
+     "value": "אהרן פרלוב מקרלין-סטולין"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Aaron Ben Asher of Karlin"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2857938$5064E01E-E827-4E11-B2DE-E40B2B25E293",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "abc8a3b81528037eff588356e914ce848817c7e5",
+      "datavalue": {
+       "value": {
+        "time": "+1802-06-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2857938$B9F21FBA-021D-4A2F-85EA-E13B43DC7983",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5a6fa3f5f573b009b785d07160310800f50781e9",
+      "datavalue": {
+       "value": {
+        "time": "+1872-06-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2857938$3456C5F1-6CFD-4107-A406-A6A69431FA8B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2857938$7DC8FF8F-CA24-4624-9AFA-A0F21C012932",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן מקרלין (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2857938.json"
+}

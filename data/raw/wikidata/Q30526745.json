@@ -1,0 +1,223 @@
+{
+ "id": "Q30526745",
+ "url": "https://www.wikidata.org/wiki/Q30526745",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526745",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי רבינר"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526745$38E034D3-A2B1-4DF8-AF6A-1F024A6752C3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07f7c2a6e9ebdd17b92914407f2560439237d9a8",
+      "datavalue": {
+       "value": {
+        "time": "+1829-12-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526745$9abe41c5-466f-4097-ab55-204f9bb921c6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526745$2d245647-4354-a3e0-a4d5-a60de6910322",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "08f9b543a493490cecf0e8d82f2ded87ed96f2f0",
+      "datavalue": {
+       "value": {
+        "time": "+1758-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526745$6fe77596-45ae-1564-e401-92538248c762",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5a7bd7c69682773bfbac9d96ccae9e150096bc6f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 498256,
+        "id": "Q498256"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "33a37677569b96fa6a2c762ec0b0720e2605e249",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 156038,
+          "id": "Q156038"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f39df4b2bbad0064058bd5c925204df0288dd747",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 172107,
+          "id": "Q172107"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q30526745$9e53e16a-48a1-11e3-0ee8-708ca9a8800e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "89c4263c50681cb4ba992308a072b43997bd03c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 498256,
+        "id": "Q498256"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q30526745$43baacc8-499c-49ab-8c13-08a821454486",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי רבינר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q498256": "באוסקה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30526745.json"
+}

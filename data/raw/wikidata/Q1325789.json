@@ -1,0 +1,220 @@
+{
+ "id": "Q1325789",
+ "url": "https://www.wikidata.org/wiki/Q1325789",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1325789",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eleazar ben Arach"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי אלעזר בן ערך"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish scholar"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא מהדור השני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אלעזר בן ערך"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Eleazer ben Arakh"
+    },
+    {
+     "language": "en",
+     "value": "Elazar ben Arakh"
+    },
+    {
+     "language": "en",
+     "value": "Elazar ben Arach"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1325789$3F0D1E34-DE01-433B-B47C-DCD0922D21E8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b0b2887ae33b738d849985f52f3bee5484303b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1325789$5C96FFF0-AF5C-4747-9EC9-9C773FF1ADC8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a85a86b9b7538ff519976ecd2daa232bcb12534a",
+      "datavalue": {
+       "value": {
+        "time": "+0100-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1325789$1F3E4AB0-6DA2-4B8F-8651-40563DDAA21D",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "5030387512bf79ec4132cd0d3da233c3d5d24efc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 733660,
+        "id": "Q733660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1325789$9777b384-4646-65ed-b574-cbe29907e319",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1325789$fbeecfc9-5609-4850-88d3-957cc0711ad8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e0c605e5cc8f3a3b3ab9d88855f5c65410fe7f42",
+      "datavalue": {
+       "value": {
+        "time": "+0200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1325789$7b271244-4a09-8871-c597-c59af491fc98",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a2f1b115eb183f9cc037a8c0359f2bd3851db2b0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1325789$5C9C7FF5-5D28-42E1-A259-8D600F97211E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אלעזר בן ערך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1003997": "פרובינקיה יודיאה",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q733660": "רבן יוחנן בן זכאי"
+ },
+ "raw": "data/raw/wikidata/Q1325789.json"
+}

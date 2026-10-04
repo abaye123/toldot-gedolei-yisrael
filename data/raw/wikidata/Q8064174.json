@@ -1,0 +1,219 @@
+{
+ "id": "Q8064174",
+ "url": "https://www.wikidata.org/wiki/Q8064174",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8064174",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Zadok HaKohen"
+   },
+   "he": {
+    "language": "he",
+    "value": "צדוק הכהן מלובלין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish orthodox rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "הוגה דעות חסידי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הכהן, צדוק,"
+    },
+    {
+     "language": "he",
+     "value": "פרי צדיק."
+    },
+    {
+     "language": "he",
+     "value": "צדוק בן יעקב כהן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Zadok Ha-Kohen of Lublin"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8064174$5DACBF84-41CB-4061-A468-E07319162745",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2881f365c4f53a926c8e494575d6f52e93ec8d5b",
+      "datavalue": {
+       "value": {
+        "time": "+1823-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8064174$378DF34C-40DC-4EC4-8519-08DDBBF8C4C5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b540bd5f4a484c9dd963cf8e0206c6e4cad1ec2e",
+      "datavalue": {
+       "value": {
+        "time": "+1900-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8064174$105BADA1-23B2-4916-A3A8-D68764BB046D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8064174$C42B518F-353A-4E86-B056-251378520943",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1be813f8208eb41a50d551d5a75f374c1d5b6cec",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15995642,
+        "id": "Q15995642"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8064174$B240DCE5-4CA7-4E7E-9F69-EC5BC87F8564",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3fef4c92f54fe5d7a32daf374086cf7e5a3a3c32",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 745661,
+        "id": "Q745661"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8064174$48BB67A0-D169-4903-97DA-CD6D68AD0CAB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e8d95ab5d786ff758530ef31972d5ed3c400f73a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37333,
+        "id": "Q37333"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8064174$AE19ECA8-2B6E-4858-B85F-DC62159F34D2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צדוק הכהן מלובלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15995642": "מנהיג דתי",
+  "Q37333": "לובלין",
+  "Q5": "אדם",
+  "Q745661": "קרוסטפילס"
+ },
+ "raw": "data/raw/wikidata/Q8064174.json"
+}

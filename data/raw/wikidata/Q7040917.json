@@ -1,0 +1,229 @@
+{
+ "id": "Q7040917",
+ "url": "https://www.wikidata.org/wiki/Q7040917",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7040917",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק סמואל (רב)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Julius Samuel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה הראשי של נורווגיה, נספה במחנה אושוויץ."
+   },
+   "en": {
+    "language": "en",
+    "value": "Chief Rabbi of Norway, killed in Auschwitz"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Isaak Julius Samuel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7040917$E20E0B2E-CE5D-49B7-BEA2-F747E783D2C2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7040917$135921B8-4346-4544-9899-095E84EFA3D7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "14a1df4c551b57faf2779f7e3bb6c5ed123d07ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7341,
+        "id": "Q7341"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7040917$8BD410DF-9D65-4B07-9CCA-CA000AF586F4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f08fe34d6ec75cb0ef97eb04f02d62e72f6dbc94",
+      "datavalue": {
+       "value": {
+        "time": "+1902-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7040917$6f915774-d287-42a9-b032-ee89b273edc2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b8cc7934fa9c2b42997fa2c50bacb45ff0c1edd5",
+      "datavalue": {
+       "value": {
+        "time": "+1902-12-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7040917$AA01E4A2-E329-4A93-A2F4-5E9EEA11D54D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8cfa5bdd9ec603faca52bf09d31428cdfc5893a8",
+      "datavalue": {
+       "value": {
+        "time": "+1942-12-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7040917$7b0f194d-4196-c6c4-b4fe-844df8914ce7",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ff7993aad9129cac3480a8b57a156306a64e67fb",
+      "datavalue": {
+       "value": {
+        "time": "+1942-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7040917$EF616B83-3DC1-4152-BF89-4A4BF4AD5083",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "73340652b347d651959a3a008e0d9724d10919d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 569706,
+        "id": "Q569706"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7040917$B3AA6BAA-4B3F-48D1-94B5-59D3F5DE286B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק סמואל (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q569706": "פרוידנבורג",
+  "Q7341": "אושוויץ"
+ },
+ "raw": "data/raw/wikidata/Q7040917.json"
+}

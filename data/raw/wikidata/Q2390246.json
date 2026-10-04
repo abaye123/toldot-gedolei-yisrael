@@ -1,0 +1,238 @@
+{
+ "id": "Q2390246",
+ "url": "https://www.wikidata.org/wiki/Q2390246",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2390246",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם בן אברהם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham ben Abraham"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish nobleman"
+   },
+   "he": {
+    "language": "he",
+    "value": "גר יהודי במזרח אירופה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הגרף פוטוצקי"
+    },
+    {
+     "language": "he",
+     "value": "אברהם בן אברהם, הגרף פוטוצקי"
+    },
+    {
+     "language": "he",
+     "value": "גרף פוטוצקי"
+    },
+    {
+     "language": "he",
+     "value": "ולנטין פוטוצקי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "53241971c9837a798bb6c42eef425c4b31ec19ed",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21070568,
+        "id": "Q21070568"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2390246$9679BBA0-23AE-4EFA-BCF5-B33C463C536C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2390246$7C3E2FDA-098A-41EF-9664-C10BE7625E7A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "257fa1fc33fc99d7dbf5819a4d598e5385bc69f4",
+      "datavalue": {
+       "value": {
+        "time": "+1749-05-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2390246$9C4C9448-D2AB-42DE-884D-FD94837C544E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "516565d7c0dddd18f1ba62d2beaee9429d9dcd01",
+      "datavalue": {
+       "value": {
+        "time": "+1749-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2390246$5420FFFB-42B0-4AC7-914F-E2FF3704B8CA",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bcbe5e2fd28e7ff6bc9e60c4657f64a6699b6ed0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2390246$E3444743-FD94-4290-90DC-7F526B4B23F0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "deda315c1f9c52bdda917e89503d6bd13fbf9cff",
+      "datavalue": {
+       "value": {
+        "time": "+1720-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q2390246$289BD00D-DD0A-4F59-B31A-D0AC3461B864",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2390246$289DE19D-B329-47D0-9778-0638E9887B43",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם בן אברהם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21070568": "איש שייתכן שהוא בדיוני",
+  "Q216": "וילנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2390246.json"
+}

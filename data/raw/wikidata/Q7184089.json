@@ -1,0 +1,178 @@
+{
+ "id": "Q7184089",
+ "url": "https://www.wikidata.org/wiki/Q7184089",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7184089",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלחנן הלפרין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elchanan Heilprin"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Czechoslovakian-born English rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בגולדרס גרין בלונדון ונשיא \"התאחדות קהילות החרדים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7184089$6E2D5F7E-D4E2-43E5-94CD-77EB739250B1",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7184089$890f0c1b-4bb4-1946-339c-dbfc7c7a14f1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7184089$75016850-A54D-4636-AEAD-2BBDD9C4740A",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "00a09e4709a40bce079ca0f44dc76977af3a507e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6854927,
+        "id": "Q6854927"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7184089$15A71F43-6BD6-4826-8FF7-5C5CC2D99B0D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8efb0c559cbbd8f85696219c038f1a4b2400a465",
+      "datavalue": {
+       "value": {
+        "time": "+1921-12-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7184089$788b3760-0ab6-4d41-b515-09333b08ea58",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "54109acdbeddee6d22b4d12b4f6a8757c3cc39ad",
+      "datavalue": {
+       "value": {
+        "time": "+2015-02-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7184089$1ecf25fb-c371-4943-a297-93086e860fb4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלחנן היילפרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6854927": "שמואל אנגל"
+ },
+ "raw": "data/raw/wikidata/Q7184089.json"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "Q18611321",
+ "url": "https://www.wikidata.org/wiki/Q18611321",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18611321",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ששון בכר משה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Śaśon ibn Mosheh"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מקובל, מחבר הספר \"שמן ששון\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18611321$e79c0786-4445-de33-6961-12b566f789ce",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18611321$F9B09735-E7B1-415A-BA22-93D0ED8AA4A3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f63f38dfb01f8d878c7c8dc633d9202f65a48f88",
+      "datavalue": {
+       "value": {
+        "time": "+1825-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18611321$96EF1E1C-6B23-42F0-8089-35E1B61089BD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d68eaf98e6a72daa7bd68d859b893e4dca983dcd",
+      "datavalue": {
+       "value": {
+        "time": "+1903-04-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18611321$3D6FDDE3-C38C-47F6-8A09-826A42D616B1",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1c9461fde0f151b8222252350d6ab25930adc487",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 110218642,
+        "id": "Q110218642"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18611321$cd3f3879-4c08-e91d-703e-0198ff1b7ba7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18611321$47EB4ED6-9EAC-488F-8124-07FD7131A328",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ששון בכר משה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q110218642": "וידאל קואינקה",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18611321.json"
+}

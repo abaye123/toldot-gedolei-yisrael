@@ -1,0 +1,218 @@
+{
+ "id": "Q1391489",
+ "url": "https://www.wikidata.org/wiki/Q1391489",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1391489",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ריש לקיש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shimon ben Lakish"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish rabbi and amora (c. 200 — c. 275)"
+   },
+   "he": {
+    "language": "he",
+    "value": "מגדולי אמוראי ארץ ישראל מהדור השני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רשב\"ל"
+    },
+    {
+     "language": "he",
+     "value": "שמעון בן לקיש"
+    },
+    {
+     "language": "he",
+     "value": "ריש-לקיש"
+    },
+    {
+     "language": "he",
+     "value": "רבי שמעון בן לקיש"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391489$6AECE30C-ADAF-46E1-859B-33BA9554BFC1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f23a5b38a12d26f2a30be319bd5c8abb892e830d",
+      "datavalue": {
+       "value": {
+        "time": "+0275-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1391489$0A202871-DAE3-4E87-8DA1-1C2CE2196454",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391489$5031484D-937F-4B7E-9EED-7F0E7B718A1C",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0f4d29f86ab03792dc2aff4795ff59ab65c88cd4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1397565,
+        "id": "Q1397565"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391489$411418c2-49a8-e6e0-d1ae-3b8b7d66105f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5db4c4c9bc99d7594c49cf583e43e583415e317d",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391489$9514ea9e-a16e-471d-80d3-58ffad1ebdf3",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cc483c27559c9e7c421bece7dad6ce3f056c10c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30526687,
+        "id": "Q30526687"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391489$A0C59B82-25CF-46ED-9323-1AA8EDB13249",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ריש לקיש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1397565": "רבי יוחנן",
+  "Q30526687": "חורבת קציון",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1391489.json"
+}

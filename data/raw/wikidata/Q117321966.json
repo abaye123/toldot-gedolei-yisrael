@@ -1,0 +1,175 @@
+{
+ "id": "Q117321966",
+ "url": "https://www.wikidata.org/wiki/Q117321966",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q117321966",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ששון מזרחי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ששון עבדול מזרחי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117321966$cb68a917-4494-80f1-103f-096fc59db488",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117321966$e0665885-47b7-ecb7-817b-6428c536ea75",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117321966$00fc347d-4772-333d-37ca-16e64eac6b30",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a5a816baa8ef17feb1067ec4ff78fca6c8f25cfe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1530,
+        "id": "Q1530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117321966$41d7bd11-491e-6297-8b26-fd164d842aa3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "eb7ce2558ac1f44d99d9fe62117b68a2f63bae5d",
+      "datavalue": {
+       "value": {
+        "time": "+1913-10-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117321966$9fe3df89-4ecf-42c0-2c78-42bcfe25f71e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8342029f2bc062eea4068b8b9b4041a6b06e2a08",
+      "datavalue": {
+       "value": {
+        "time": "+1998-04-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117321966$8b2d0868-4ba2-97f5-c634-c7be4cf92815",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ששון מזרחי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q1530": "בגדאד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q117321966.json"
+}

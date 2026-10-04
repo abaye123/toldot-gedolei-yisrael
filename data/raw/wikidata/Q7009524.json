@@ -1,0 +1,157 @@
+{
+ "id": "Q7009524",
+ "url": "https://www.wikidata.org/wiki/Q7009524",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7009524",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד פרידמן (פינסק-קרלין)"
+   },
+   "en": {
+    "language": "en",
+    "value": "D. Fridman"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi and author (1828–1915)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "דוד קרלינר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009524$AEE938F1-59E8-4C35-BCC5-AF9FE7D0F9EF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009524$5C43077A-810D-4730-BE7A-373F897594E0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "401d685ba46bc14173f59c70efe1c63e726a6adf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 209932,
+        "id": "Q209932"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009524$81cc9282-4e6d-f28f-486f-0e8c69cb4e64",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c566cdb55b64c5c621c31ab835491fd72c9bc80a",
+      "datavalue": {
+       "value": {
+        "time": "+1915-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7009524$2F83D262-EF85-4573-995B-2B54C25A8F4B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "782d4f46e4fdf5f26d060de2dce3566029d04323",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 204150,
+        "id": "Q204150"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009524$aa572978-4d35-2490-ed11-996557f5f6e1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד פרידמן (פינסק-קרלין)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q204150": "פינסק",
+  "Q209932": "ביאלה פודלסקה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7009524.json"
+}

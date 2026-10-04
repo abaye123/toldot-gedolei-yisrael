@@ -1,0 +1,231 @@
+{
+ "id": "Q330771",
+ "url": "https://www.wikidata.org/wiki/Q330771",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q330771",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם בן אליעזר הלוי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham ben Eliezer Halevi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi and kabbalist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יהודי בתקופת גירוש ספרד"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham ben Eliezer ha-Levi"
+    },
+    {
+     "language": "en",
+     "value": "Avraham Ben Eliʿezer Ha-Levi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330771$CB1D197E-5085-49B2-ADEA-442CDDF3B451",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7060a72c43ed75849e358e115072d902c110217f",
+      "datavalue": {
+       "value": {
+        "time": "+1460-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q330771$98EB3507-9B56-4FB8-983D-3FE813AD4ADA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6f305629a971b9f7b0ce8367eab78f0a1fe60c59",
+      "datavalue": {
+       "value": {
+        "time": "+1529-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q330771$7F006E4E-C02A-4EB4-8238-AE00F4F8CE57",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330771$06023838-614C-4E5D-BBBE-144E06BB8FD8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71a8f7c83212c85746fac016f4864ff51a545f93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29,
+        "id": "Q29"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330771$8BE09CAD-51F9-4990-B4DC-5A5210CA6A66",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "490d73b4fdb10b0aedd528624db40a38a0bd1661",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330771$C5C6BFC0-218C-45C0-830A-95466CE445C5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם בן אליעזר הלוי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q23792": "ארץ ישראל",
+  "Q29": "ספרד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q330771.json"
+}

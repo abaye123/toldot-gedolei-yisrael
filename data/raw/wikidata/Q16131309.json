@@ -1,0 +1,135 @@
+{
+ "id": "Q16131309",
+ "url": "https://www.wikidata.org/wiki/Q16131309",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131309",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זאב וולף מז'יטומיר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ze'ev Wolf of Zhitomir"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ukrainian rabbi from Zhitomyr"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Zev Wolf of Zhitomyr"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131309$03004153-2867-4A0A-B518-66EA959F81DD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131309$04B781FB-45F7-4287-9D0B-AA63EFD16EF8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1fa69a06aa0e07893cd855adaba6d0ed56ca9345",
+      "datavalue": {
+       "value": {
+        "time": "+1800-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131309$48feb4ef-119a-4228-8a06-d8098d2ecd74",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "2aea14140bcb8754624fe3e8ecb6c621457d52e8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1253011,
+        "id": "Q1253011"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131309$f838058d-4c38-c327-8b40-e13b464f7366",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זאב וולף מז'יטומיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1253011": "דב בער ממזריטש",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16131309.json"
+}

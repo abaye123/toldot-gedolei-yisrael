@@ -1,0 +1,205 @@
+{
+ "id": "Q118912938",
+ "url": "https://www.wikidata.org/wiki/Q118912938",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118912938",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ḳalman Eliezer Frankel"
+   },
+   "he": {
+    "language": "he",
+    "value": "פרנקל, קלמן אליעזר, 1895-1982"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פובליציסט, רב, מחבר ספרים ומוציא לאור, פעיל פוליטי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Frenḳel, Ḳalman Eliʻezer, 1895-"
+    },
+    {
+     "language": "en",
+     "value": "Frenkel, K. L., b. 1895"
+    },
+    {
+     "language": "en",
+     "value": "Frenḳel, Ḳ. E. (Ḳalman Eliʻezer), 1895-"
+    },
+    {
+     "language": "en",
+     "value": "Franḳel, Ḳalman Eliʻezer, 1895-"
+    },
+    {
+     "language": "en",
+     "value": "K. L. Frenkel"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "פרנקל, קלמן אליעזר בן אברהם אבא"
+    },
+    {
+     "language": "he",
+     "value": "קלמן אליעזר פרנקל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118912938$115A477D-284A-45B0-A466-651EB2173BE3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a29c5c2dd73207ebe591db315f087c006e80915d",
+      "datavalue": {
+       "value": {
+        "time": "+1895-09-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118912938$FA15CBC3-60C1-45DB-984C-326BC96ADEBF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "84d7f3d09fbebb5f072d92c9cca930eeeaf1d914",
+      "datavalue": {
+       "value": {
+        "time": "+1982-08-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118912938$559BE6C8-F0AB-4019-993E-BDF707110701",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8c8233c6ca62ae86e60eb7a16f6c6acfe618073d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156035,
+        "id": "Q156035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118912938$7CFD5BD6-DBD4-4758-BDC2-2AFD023AA7D2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118912938$817b113c-4f34-e488-4a57-0cc9219c5034",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ef725ea3b33391b966dc9c043065e3382ace9cc8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36,
+        "id": "Q36"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118912938$6067A48C-242C-4F16-8C50-2253849CC54E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "קלמן אליעזר פרנקל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156035": "פובליציסטיקה",
+  "Q36": "פולין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118912938.json"
+}

@@ -1,0 +1,185 @@
+{
+ "id": "Q16340277",
+ "url": "https://www.wikidata.org/wiki/Q16340277",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16340277",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "כמוס נחאיסי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין, מראשי קהילת יהדות לוב בטריפולי ולאחר מכן במדינת ישראל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הרב נחאיסי"
+    },
+    {
+     "language": "he",
+     "value": "הרב עמוס נחאיסי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16340277$1A4EF644-DAB1-4807-8C0E-B74E3FC248BB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16340277$8A3D038A-46D0-496E-8F50-23D7F499255C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4691cbb480ab0f20de36b7aa4e000c3ad6873e88",
+      "datavalue": {
+       "value": {
+        "time": "+1896-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16340277$FC864CB1-1FA7-4139-B368-2F0899465837",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aaad8fc1c7268054475823467772c9351eb158a7",
+      "datavalue": {
+       "value": {
+        "time": "+1965-02-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16340277$927E66DB-BE30-4F6F-9899-6830D835B58D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "63e6fc93863744717a3555c6dad57803ac3c196d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3579,
+        "id": "Q3579"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16340277$b5a4cade-45c0-ddd8-7c1e-67cad0c568ca",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7043fd1091405064791d657680da5a86891f3e7f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 607817,
+        "id": "Q607817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16340277$38F44624-1BEA-45CA-9C99-4900778F5A83",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "כמוס נחאיסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3579": "טריפולי",
+  "Q5": "אדם",
+  "Q607817": "בית העלמין קריית שאול"
+ },
+ "raw": "data/raw/wikidata/Q16340277.json"
+}

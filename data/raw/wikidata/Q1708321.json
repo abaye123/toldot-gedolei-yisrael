@@ -1,0 +1,384 @@
+{
+ "id": "Q1708321",
+ "url": "https://www.wikidata.org/wiki/Q1708321",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1708321",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph ha-Kohen"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף הכהן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "16th century physician and historian"
+   },
+   "he": {
+    "language": "he",
+    "value": "היסטוריון יהודי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף בן יהושע, הכהן, 1496־1578"
+    },
+    {
+     "language": "he",
+     "value": "יוסף הכהן הרופא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Joseph Ben Joshua Ben Meir Ha-Kohen"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9f24593c27f0d2ce48e92196074e6fb0ecca9b5c",
+      "datavalue": {
+       "value": {
+        "time": "+1575-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "2af6cab8efc6479cf90f7e841eb66342e4cc0d5b",
+        "datavalue": {
+         "value": {
+          "time": "+1575-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319"
+     ],
+     "id": "Q1708321$D5EE41BC-8040-4A13-9F03-C921D9C74446",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9f3d7d4dabd0ad590ae449ed4908cad5dd131878",
+      "datavalue": {
+       "value": {
+        "time": "+1577-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "2a4f806681cdc801d03015abdc58d1c395d17a4d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 110290991,
+          "id": "Q110290991"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q1708321$5f3db375-48cb-e79f-a779-d54591ac5237",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9718cc08a8e6c592aab4280bf2c1337a1b3e1f1c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6397,
+        "id": "Q6397"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1708321$4755483C-EDCA-44C1-B3D5-FAA47322E6C5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "81b8f78cd0b708bc3ad9c7fae8cf23b8e4974031",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1449,
+        "id": "Q1449"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1708321$A9F7E0C3-0D61-4BA7-816E-06C567F7F8CC",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "51c7430d7587b4a1974a56e54bbd2c1672cbe092",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17330,
+        "id": "Q17330"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "9818a0fd3fce9ef046b3fee90c6845026501322d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 18122778,
+          "id": "Q18122778"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q1708321$3d3ee719-4c8f-6ac4-ad23-1e35982fb7c8",
+     "rank": "preferred"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708321$9B49199F-8267-42DF-A6EC-4887B8A0F762",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "011a88bbddd1e9e7f91fe9cd240dd3467fff7fd0",
+      "datavalue": {
+       "value": {
+        "time": "+1496-12-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1708321$5B25D9C6-2729-4F30-97FA-CA6FC0B93E0E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708321$F79C0DE8-C7FA-4FAF-9A58-87FC6565A1C4",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708321$91FE7F45-34D6-45BF-8F58-7B419FFE34E6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "90a5c8214deabb50588e4e972f1f0a110b74a753",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13418253,
+        "id": "Q13418253"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708321$C46B5FFA-B1F0-4CAC-B9E6-38E727C4F9E7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708321$7396EB05-F407-4732-B958-6FFDB488BE14",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף הכהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13418253": "פילולוג",
+  "Q1449": "ג'נובה",
+  "Q17330": "Castelletto Monferrato",
+  "Q201788": "היסטוריון",
+  "Q39631": "רופא",
+  "Q5": "אדם",
+  "Q6397": "אביניון"
+ },
+ "raw": "data/raw/wikidata/Q1708321.json"
+}

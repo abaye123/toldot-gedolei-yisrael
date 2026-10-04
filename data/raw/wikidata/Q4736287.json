@@ -1,0 +1,181 @@
+{
+ "id": "Q4736287",
+ "url": "https://www.wikidata.org/wiki/Q4736287",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4736287",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Alter Tepliker"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלתר טפליקר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ukrainian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אוקראיני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה יהושע בזשיליאנסקי"
+    },
+    {
+     "language": "he",
+     "value": "השתפכות הנפש"
+    },
+    {
+     "language": "he",
+     "value": "אלתר מטעפליק"
+    },
+    {
+     "language": "he",
+     "value": "אלטר טפליקר"
+    },
+    {
+     "language": "he",
+     "value": "משה יהושע (אלתר) בוז'ילנסקי"
+    },
+    {
+     "language": "he",
+     "value": "משה יהושע בוז'ילנסקי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4736287$26BB9A63-B667-435F-AC47-F0D104FDA80F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2cc4285288f7b8de7fa4bb317c5db9e9d935fd19",
+      "datavalue": {
+       "value": {
+        "time": "+1919-03-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4736287$AF355C7A-B9C9-4C97-BAA1-3D77BB09408A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4736287$31BC7753-A7FE-4147-8766-EBDEC045F0E5",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "64e7e9a88224e34cad1b1800e3e6222fe47d0788",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 115611750,
+        "id": "Q115611750"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4736287$7cf68563-4994-8754-c7af-0457badffae9",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6f531d95e393bdfd870ef07c78ce9d3d87bfafd7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6957180,
+        "id": "Q6957180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4736287$d10c1c2b-47c4-a28c-bdbc-bdd078c5b51f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלתר טפליקר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q115611750": "משיבת נפש",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6957180": "נחמן גולדשטיין"
+ },
+ "raw": "data/raw/wikidata/Q4736287.json"
+}

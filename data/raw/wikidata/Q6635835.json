@@ -1,0 +1,153 @@
+{
+ "id": "Q6635835",
+ "url": "https://www.wikidata.org/wiki/Q6635835",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6635835",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעיש גיאת"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaish Giat"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, חכם ומקובל תימני (1840–1929)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yemenite Rabbi, Mekubbal and Hakham (1840–1929)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6635835$9C004DE8-DAF2-4D25-92AC-8F0D10E91B71",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6635835$F3281D28-5078-465A-9F2F-793190E2369C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6635835$36029F2E-46A1-406A-B2F1-BBCB1C6592BE",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "60eafa5315179a34dd7e400a383b0302433ce1a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6635835$9C0027E2-B338-4E6E-8323-7F353953985D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0d56bd38e265d951b9ac1654dd23f4b76cd4dd25",
+      "datavalue": {
+       "value": {
+        "time": "+1929-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6635835$98A7FBDE-597F-40C8-95FD-F11776BE135A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעיש גיאת",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2471": "צנעא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6635835.json"
+}

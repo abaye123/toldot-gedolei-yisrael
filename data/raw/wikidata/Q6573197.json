@@ -1,0 +1,123 @@
+{
+ "id": "Q6573197",
+ "url": "https://www.wikidata.org/wiki/Q6573197",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6573197",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב בר יוסף הרופא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jacob ben Joseph Harofe"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6573197$98F23F7E-B880-4143-ADCC-A17588437C7F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6573197$6CD63489-01BA-4EC5-AB1D-0F5053359B15",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e1f31e64fcdd4656c8e2caf6af080c8159feef1b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1530,
+        "id": "Q1530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6573197$67708c0a-a20f-4efa-a123-9ce8ba0aa964",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aa021716310bdb0490ce2b8094d62e4ef06edd7f",
+      "datavalue": {
+       "value": {
+        "time": "+1851-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6573197$DE348EFF-70FB-4A17-886E-E9BE27603952",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב בר יוסף הרופא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1530": "בגדאד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6573197.json"
+}

@@ -1,0 +1,167 @@
+{
+ "id": "Q5241453",
+ "url": "https://www.wikidata.org/wiki/Q5241453",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5241453",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "David ben Judah Messer Leon"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוד בן יהודה מסר לאון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "דוד בן יהודה מסיר לאון"
+    },
+    {
+     "language": "he",
+     "value": "דוד בן יהודה מסיר ליאון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5241453$51911D96-B01F-4A0F-9BD8-7D194AA29590",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6828b93a6d4435fbd05787505a315ba24cf8e7e8",
+      "datavalue": {
+       "value": {
+        "time": "+1526-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5241453$17AF9043-2D61-4585-A976-63932F46E49C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5241453$F773DCFC-B488-4AF2-B9B5-1025DC073FEC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "609218c58b5c050bb6f91398fca89e2a3639a895",
+      "datavalue": {
+       "value": {
+        "time": "+1470-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5241453$83C743B0-4956-4642-AC3B-980E1BC2E95C",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "9c45c4f4c60ce0ae702f2bcd7c1cad4ff7900995",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 669640,
+        "id": "Q669640"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5241453$a92472d0-4888-ea04-1397-5a6e7ed38fe1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד בן יהודה מסר לאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q669640": "יהודה מסר לאון"
+ },
+ "raw": "data/raw/wikidata/Q5241453.json"
+}

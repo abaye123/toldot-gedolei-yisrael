@@ -1,0 +1,214 @@
+{
+ "id": "Q96102068",
+ "url": "https://www.wikidata.org/wiki/Q96102068",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96102068",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים גאגין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haim Gaguine"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב קהילת התושבים בפאס שבמרוקו במאה ה-16"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moroccan rabbi and poet"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96102068$ee7787c1-442b-ae92-3b0b-6f6ee730c1f8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96102068$21d2b76e-4496-baf1-9a96-cf2aba657d11",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96102068$A87374F1-BC7D-475E-9280-7830B1A952F9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7060a72c43ed75849e358e115072d902c110217f",
+      "datavalue": {
+       "value": {
+        "time": "+1460-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96102068$bb607335-4536-41da-0682-b4c6f12239db",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f266894030b5979aa7d65219dd023c8caff2ad5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96102068$3CCC303E-1802-4C03-8CDE-31C7B0D33180",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "9ed7bb3af88697550ed17cbcb340333ad6ccba4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "cc9118db96f388d5f12407ad362c617252bfe748",
+        "datavalue": {
+         "value": {
+          "time": "+1492-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P6001": [
+       {
+        "snaktype": "value",
+        "property": "P6001",
+        "hash": "c33e1383ffa64bd870e3bc6e1fe62826f7467079",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 3530203,
+          "id": "Q3530203"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P6001"
+     ],
+     "id": "Q96102068$f7792526-4e6f-3ffb-4ac8-3e2594dea4ae",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים גאגין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q80985": "פאס"
+ },
+ "raw": "data/raw/wikidata/Q96102068.json"
+}

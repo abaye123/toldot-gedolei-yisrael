@@ -1,0 +1,301 @@
+{
+ "id": "Q1599569",
+ "url": "https://www.wikidata.org/wiki/Q1599569",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1599569",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mordecai Comtino"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרדכי כומטיאנו"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Turkish astronomer"
+   },
+   "he": {
+    "language": "he",
+    "value": "אסטרונום טורקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e7a97bdf891e24444058131ce74071d6f5dc5753",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16869,
+        "id": "Q16869"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1599569$91817E76-5496-4E82-A850-1CD0487238F2",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1599569$F94A12FE-1387-43B2-9CF5-F0A2EDF4FD50",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fb9b75363b9e5fa525e3c16c779475f32c313630",
+      "datavalue": {
+       "value": {
+        "time": "+1500-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1599569$84EA603A-6259-4078-9D15-784C0B5E0C35",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "543dfa096b397541419fe555f338f6ea0a1279c2",
+      "datavalue": {
+       "value": {
+        "time": "+1420-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1599569$C832066A-9785-4566-A073-F9245C840C1B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "fefe49ac70bb3c1d4d676fe184551e9f278b9da4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11063,
+        "id": "Q11063"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1599569$6C1D6699-ACA0-4C28-A547-BE88CC285437",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "7231b4bea8ab93feaba306add0f2d09e25415984",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 155647,
+        "id": "Q155647"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1599569$231A4097-0DE9-499A-BCBB-3EA7ED3F13D7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1599569$e3636926-db81-4793-80c1-eb8df9c4b8c0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d4e326526308355e0b0ca12c3222338d6ba65416",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170790,
+        "id": "Q170790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1599569$52D30C10-E551-468B-9669-8BCB60CE4614",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "090d7ce069ba52071b9f54df62fe8f30f0cbe076",
+      "datavalue": {
+       "value": {
+        "time": "+1487-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1599569$2B173886-1BB3-4005-B8A4-ECB5427A6B6F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי כומטיאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11063": "אסטרונום",
+  "Q133485": "רב",
+  "Q155647": "אסטרולוג",
+  "Q16869": "קונסטנטינופול",
+  "Q170790": "מתמטיקאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1599569.json"
+}

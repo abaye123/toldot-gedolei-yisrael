@@ -1,0 +1,129 @@
+{
+ "id": "Q18422161",
+ "url": "https://www.wikidata.org/wiki/Q18422161",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18422161",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דניאל מהורדנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Daniyel ben Yaʻaḳov"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק הלכה ליטאי, נפטר ב-1807"
+   },
+   "en": {
+    "language": "en",
+    "value": "-1807"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "דניאל בן יעקב"
+    },
+    {
+     "language": "he",
+     "value": "דניאל, אבד הורדנה"
+    },
+    {
+     "language": "he",
+     "value": "דניאל בן יעקב, מהורודנה"
+    },
+    {
+     "language": "he",
+     "value": "דניאל בן יעקב, מגרודנה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422161$E2D4CD46-77C8-4B10-AD02-8EEEA2F39B51",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422161$5C8776C1-AC37-44CF-9022-D8CE16108919",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2174a1702391f326772ced59484b241513c6af27",
+      "datavalue": {
+       "value": {
+        "time": "+1807-04-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18422161$DD96B412-E42C-4D63-8199-B7DAD938D340",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דניאל מהורדנה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18422161.json"
+}

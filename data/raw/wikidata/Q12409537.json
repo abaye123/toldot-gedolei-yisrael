@@ -1,0 +1,148 @@
+{
+ "id": "Q12409537",
+ "url": "https://www.wikidata.org/wiki/Q12409537",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409537",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרימר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Maremar"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Babylonian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409537$9E0F3899-F66A-49C7-B7A3-E0D456E021ED",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409537$9CE293F3-30CF-4DA8-B64F-648AAC85F7F3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409537$1f5e8104-49d2-bb11-3755-253a7f035ad3",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "97831c5ce86c95888c368b3cb2692ca67e7f9274",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11041243,
+        "id": "Q11041243"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409537$2a5b5dbc-46a1-896c-3cfb-c0a57fdee3a1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a07d676f3e7af8bfce3afa7f88e9639491cd0a57",
+      "datavalue": {
+       "value": {
+        "time": "+0432-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409537$692dd380-4b8d-58e6-1d55-d7c3060a2ae7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרימר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11041243": "יהודה בר מרימר",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q12409537.json"
+}

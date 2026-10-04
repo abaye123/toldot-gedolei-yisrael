@@ -1,0 +1,152 @@
+{
+ "id": "Q9252758",
+ "url": "https://www.wikidata.org/wiki/Q9252758",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q9252758",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלימלך מנחם מנדל לנדא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elimelech Menachem Mendel Landau"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר הראשון מסטריקוב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q9252758$8C37AF3D-3389-416A-9C85-37970B7B4C28",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a04f3b3ab3ce4eb83c73a474f8051b28d58d43ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1716786,
+        "id": "Q1716786"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q9252758$ACE4CEC6-9CBD-4317-8953-E897F2ECD812",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q9252758$373ED60A-A38D-49E9-84A8-6568E4E97C44",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d3fe4c4eb9ec8b7d416189188a96eace5351f12f",
+      "datavalue": {
+       "value": {
+        "time": "+1936-02-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q9252758$32654756-95CA-4092-A0B0-E1FA08E4BEBA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "77b20b4e92bb0d0f40277044c18919eed5b0a7ee",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q9252758$10ec74b1-4a5f-2dd1-f331-454b5ea74c26",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלימלך מנחם מנדל לנדא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1716786": "בית הקברות היהודי בוורשה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q9252758.json"
+}

@@ -1,0 +1,385 @@
+{
+ "id": "Q19810744",
+ "url": "https://www.wikidata.org/wiki/Q19810744",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19810744",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף אברהם וולף"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef Avraham Volf"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "born 1911; died 1979"
+   },
+   "he": {
+    "language": "he",
+    "value": "איש חינוך מייסד סמינר וולף בבני ברק"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ṿolf, Yosef Avraham"
+    },
+    {
+     "language": "en",
+     "value": "Ṿolf, A."
+    },
+    {
+     "language": "en",
+     "value": "Ṿolf, A. Y."
+    },
+    {
+     "language": "en",
+     "value": "Ṿolf, Avraham"
+    },
+    {
+     "language": "en",
+     "value": "Wolf, Joseph Abraham"
+    },
+    {
+     "language": "en",
+     "value": "WOLFF, JOSEPH ABRAHAM B. PINCHAS"
+    },
+    {
+     "language": "en",
+     "value": "Yosef Avraham Ṿolf"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "וואלף, יוסף אברהם"
+    },
+    {
+     "language": "he",
+     "value": "ווולף, יוסף אברהם"
+    },
+    {
+     "language": "he",
+     "value": "וולף, אברהם בן פינחס"
+    },
+    {
+     "language": "he",
+     "value": "וולף, אברהם י"
+    },
+    {
+     "language": "he",
+     "value": "וולף, יוסף אברהם בן פינחס"
+    },
+    {
+     "language": "he",
+     "value": "וולף, י.א"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$ce5e61b7-43f6-c992-9a2d-c4caf5365757",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "768dd61145c482325f04b558afb1b2e37a9e64a5",
+      "datavalue": {
+       "value": {
+        "time": "+1911-02-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19810744$834ef278-423a-71e7-2513-3f805333c362",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c8c65824e332f5bdca3c3a3a8739e183cecd347c",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19810744$D81E285F-0CEE-4858-9657-1A44F835CD06",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7a45e149874346dbb1c492eb61eaa3a2db2c7418",
+      "datavalue": {
+       "value": {
+        "time": "+1979-05-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19810744$fd907701-4ae3-195d-83e2-7e1655bc6178",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c165aa580481b099cf78aa4ce77b750d903cc1bf",
+      "datavalue": {
+       "value": {
+        "time": "+1979-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19810744$28F04CA6-DCD1-4C2A-A393-C24073E8107B",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4e623957eceff990a62b8e0a53a4a121da56ba48",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19798462,
+        "id": "Q19798462"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$F59CE100-D4FA-4AF2-883F-F2236D26E087",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "330821417269b3e834fcd97ab9040b5cb84dd2d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1231865,
+        "id": "Q1231865"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$2fc1d7d2-4065-516a-4c9f-344d29928d46",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "858bbfda2dd39c51db3f827859d121544f770578",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6051619,
+        "id": "Q6051619"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$AFD418DA-56F8-422B-8CC2-5F236B787675",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$FE6C6A6A-53E6-4285-910F-26F5063A2648",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c65369c3c1c3b3c6381dc21ddb96ce24e9465825",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 365,
+        "id": "Q365"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$f26040d9-43df-f793-5ddc-64554377df02",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0a2fd26ceb7c7b6866701f29bb64e8b45bb256a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152467,
+        "id": "Q152467"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$23b64574-496e-8e10-175c-55a44d2f2688",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a2abed3e875a1cce920bbc31f5c48d44eb7a77f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6983913,
+        "id": "Q6983913"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$f6ddb968-47e5-7754-29db-4ecd75addb8b",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "347cdff263b7123cfcde197e00084c03ffecdf7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28605855,
+        "id": "Q28605855"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19810744$1171750a-48c2-05e0-be27-65fa07b990fc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אברהם וולף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1231865": "איש חינוך",
+  "Q133485": "רב",
+  "Q152467": "בני ברק",
+  "Q19798462": "זאב אלעזר וולף",
+  "Q28605855": "פינחס וולף",
+  "Q365": "קלן",
+  "Q5": "אדם",
+  "Q6051619": "פובליציסט",
+  "Q6983913": "בית הקברות שומרי שבת"
+ },
+ "raw": "data/raw/wikidata/Q19810744.json"
+}

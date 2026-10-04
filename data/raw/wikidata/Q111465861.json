@@ -1,0 +1,173 @@
+{
+ "id": "Q111465861",
+ "url": "https://www.wikidata.org/wiki/Q111465861",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111465861",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים בלייח"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ḥayim Beliyaḥ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אלג׳יראי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465861$259D10E2-C2C7-4BD9-AD43-9BC37C765E33",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f7aba8687c666bf38018f653171809ae11d49c31",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185134,
+        "id": "Q185134"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465861$6B0EFE57-A81A-4726-8761-56332FEB7D22",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a1e18b998bcc98549b66c2743d03d18a84fdb4b7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185134,
+        "id": "Q185134"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465861$8044EC55-9ADC-4D83-B6A6-2CE2A5812E22",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111465861$D6466EB8-D57E-40CB-B997-3E3FC0F34A5B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7191cbc21dd31d77b52d370c871201b42e5e4147",
+      "datavalue": {
+       "value": {
+        "time": "+1929-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111465861$0937D828-615A-448C-B172-9CF04851CBD2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a09337f0e575600435bff0b3aa9268bc26b24593",
+      "datavalue": {
+       "value": {
+        "time": "+1834-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111465861$BE0592C4-D822-4F78-A9AA-787D0E8046DD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים בלייח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q185134": "תלמסאן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q111465861.json"
+}

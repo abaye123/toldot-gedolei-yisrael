@@ -1,0 +1,167 @@
+{
+ "id": "Q4668813",
+ "url": "https://www.wikidata.org/wiki/Q4668813",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4668813",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Cohen of Zante"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם כהן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "physician"
+   },
+   "he": {
+    "language": "he",
+    "value": "רופא, רב, פילוסוף דתי ומשורר יהודי מזנטה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Cohen"
+    },
+    {
+     "language": "en",
+     "value": "Abraham b. Šabbatai Kohen"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668813$B43146F5-7D63-4D68-8118-53173B3BEBFA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668813$AD57B177-A4E2-4B59-B44D-9D6CC01495EF",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2ee79cb88b16dafa94d2bea9d7e755303aa11e1f",
+      "datavalue": {
+       "value": {
+        "time": "+1670-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668813$4FDDB2ED-3942-43EB-9309-96BD2B7A8418",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ca778f5a383800c321dd2ce13d50a643d1da240c",
+      "datavalue": {
+       "value": {
+        "time": "+1729-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668813$604217B7-7C47-44A0-A1A9-2DA57A1E3C80",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "dda8b28731e78fec7f2ad25792d0635956fa7153",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2599571,
+        "id": "Q2599571"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668813$15EA8692-5101-4DA4-81BB-E5048646310C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם כהן (זנטה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2599571": "Crete eyalet",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4668813.json"
+}

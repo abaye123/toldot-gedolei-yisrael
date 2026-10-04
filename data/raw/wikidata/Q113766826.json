@@ -1,0 +1,181 @@
+{
+ "id": "Q113766826",
+ "url": "https://www.wikidata.org/wiki/Q113766826",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113766826",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mosheh ben Menaḥem Graf"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה מפראג"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi from Prague (17th and 18th centuries)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Moses ben Menahem"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113766826$CE250C8F-F109-4B93-B173-9D7AA497E685",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613dd28988140007c2caeec82e8843a9fa7a605b",
+      "datavalue": {
+       "value": {
+        "time": "+1650-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113766826$2B635DCE-8A5C-46A0-8494-17BB5C3B20DE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "25c2144225fe4371135d8f9596e6c1ff14b2598b",
+      "datavalue": {
+       "value": {
+        "time": "+1705-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113766826$103D5DF7-0F4C-4701-ABC8-5BB4971C4A91",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a37917e77a2eab6e3127f9bd9cbc670eb7d78290",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113766826$132AAA7E-C341-4739-81A9-1E9E38790D52",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "cfa9b1e5865a924075afc20f9e07633bbff6231d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 682544,
+        "id": "Q682544"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113766826$1D651B3E-A82B-4B6A-9F07-7C40650D6E5F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q113766826$e318a050-47ff-b53c-d7cb-06ff30861fa7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מפראג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1085": "פראג",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q682544": "מיקולוב"
+ },
+ "raw": "data/raw/wikidata/Q113766826.json"
+}

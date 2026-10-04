@@ -1,0 +1,148 @@
+{
+ "id": "Q19799648",
+ "url": "https://www.wikidata.org/wiki/Q19799648",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19799648",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה טרגר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19799648$1340A05A-3D3D-4957-96D8-2F51284C827A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19799648$4C5D53D7-BA10-4F04-A660-DFA09D84372A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0c7d56d59665f039d46ac9ecc384b2258750edd5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 384433,
+        "id": "Q384433"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19799648$91406B6F-9A9C-4553-B155-E3B22A4EDFD0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a113c1c70b630fc3833fd2f767e700307a7290c0",
+      "datavalue": {
+       "value": {
+        "time": "+1933-11-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19799648$19B101F5-25EE-424B-831C-81D87D2C65E7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "289b4c691f35063dbf6f5a75ab3c7d9aed84c1f5",
+      "datavalue": {
+       "value": {
+        "time": "+2015-04-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19799648$FB21EDA0-16E9-4048-AEE6-B96108D7A93B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה טרגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q384433": "לנצ'נה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q19799648.json"
+}

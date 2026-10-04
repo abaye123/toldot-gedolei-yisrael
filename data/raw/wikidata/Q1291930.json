@@ -1,0 +1,311 @@
+{
+ "id": "Q1291930",
+ "url": "https://www.wikidata.org/wiki/Q1291930",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1291930",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Sirillo"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה סיריליו"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish-born rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב מהמאה ה-16, מפרשני התלמוד הירושלמי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה סיריליאו"
+    },
+    {
+     "language": "he",
+     "value": "רש\"ס"
+    },
+    {
+     "language": "he",
+     "value": "שלמה סירילאו"
+    },
+    {
+     "language": "he",
+     "value": "ר\"ש סירליאו"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Solomon ben Joseph Sirillo"
+    },
+    {
+     "language": "en",
+     "value": "Solomon Sirilio"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1291930$20C3F6F7-09B8-4CB8-8C56-5D4776943DB8",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$DE036E1C-F766-48E4-AB54-028ACA38B87B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a17e14b9f3f12a5b33e5f4774543041fd914d650",
+      "datavalue": {
+       "value": {
+        "time": "+1485-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1291930$18190A19-A734-4430-958E-0C83E60BFABC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "21e136bc61e4140e5bbbbff53f62588bc9212081",
+      "datavalue": {
+       "value": {
+        "time": "+1554-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1291930$AFC888FC-BBEC-46C0-8F7C-6F8A65F95277",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$E82500DA-B2C3-4012-A982-0A7D7AE2D7BC",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71a8f7c83212c85746fac016f4864ff51a545f93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29,
+        "id": "Q29"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$2E4174C0-8022-453E-B050-EAE999994CDC",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "60e58a051ea20c8a9a09ce41aa0203f54b078f11",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113355486,
+        "id": "Q113355486"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$165576f2-423b-a072-94b7-9aa5aebb1ad5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "731a66650a58aced95acde53c489d2f3fa036794",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1679441,
+        "id": "Q1679441"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$88472fc8-4ee3-28f5-f444-0adba34d2998",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1af2ebd96c51b89326d33595d115673e87b0a2c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6535573,
+        "id": "Q6535573"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1291930$2ad0345a-4305-513b-0e8c-ec31debbcce8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה סיריליו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113355486": "אליהו הלוי",
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q1679441": "יעקב בן חביב",
+  "Q29": "ספרד",
+  "Q5": "אדם",
+  "Q6535573": "אבן-חביב, לוי בן יעקב,"
+ },
+ "raw": "data/raw/wikidata/Q1291930.json"
+}

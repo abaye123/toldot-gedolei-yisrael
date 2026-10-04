@@ -1,0 +1,170 @@
+{
+ "id": "Q6685327",
+ "url": "https://www.wikidata.org/wiki/Q6685327",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6685327",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון משה דיסקין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6685327$B300E36E-B263-41C7-851B-F08388D80EA0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6685327$260A5E22-76A0-4C8A-9149-7F367AF9510A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "607b7faa77ffb5df3503b93f142b0523705ee28a",
+      "datavalue": {
+       "value": {
+        "time": "+1932-01-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6685327$6d92fd18-462d-4d1a-098d-b23c09794a15",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6babec102dec609be9664bccf80af5c847936a45",
+      "datavalue": {
+       "value": {
+        "time": "+1999-06-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6685327$be7ee480-42ff-0563-21e1-24a20945381a",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "0104f65f0d4e0f99ed829e47da20b939a6a5bbb0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6968088,
+        "id": "Q6968088"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6685327$2a568aed-49da-51a4-f7f8-09eaf1ba927e",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6685327$2B1BDDCF-48D3-4C81-90F7-AF68FD559BEC",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון משה דיסקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם",
+  "Q6968088": "יהושע זליג דיסקין"
+ },
+ "raw": "data/raw/wikidata/Q6685327.json"
+}

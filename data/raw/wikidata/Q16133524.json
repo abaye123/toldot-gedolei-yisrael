@@ -1,0 +1,135 @@
+{
+ "id": "Q16133524",
+ "url": "https://www.wikidata.org/wiki/Q16133524",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16133524",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבנו פטר"
+   },
+   "en": {
+    "language": "en",
+    "value": "רבינו פטר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מבעלי התוספות בצרפת"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבינו פטר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133524$D93E471F-BCB3-4385-94A1-D62D565908BA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133524$4CE0CE70-4006-4BD5-96F3-3B1F264BE739",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a18f183ecf0a9bfe9d186d5231846f124c7b0d7f",
+      "datavalue": {
+       "value": {
+        "time": "+1146-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16133524$054549FD-AD0E-460B-8847-35D564C18F12",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "91a5038db9dc000ebd8486d6cdb5246fc72c57ca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 944289,
+        "id": "Q944289"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133524$362e49c6-4cac-be0c-93cc-a1bae79f3355",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבנו פטר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q944289": "רבנו תם"
+ },
+ "raw": "data/raw/wikidata/Q16133524.json"
+}

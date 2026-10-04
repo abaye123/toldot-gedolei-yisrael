@@ -1,0 +1,254 @@
+{
+ "id": "Q5992865",
+ "url": "https://www.wikidata.org/wiki/Q5992865",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5992865",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ignaz Ziegler"
+   },
+   "he": {
+    "language": "he",
+    "value": "איגנץ ציגלר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austro-Hungarian rabbi (1861–1948)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה של קרלסבד וחוקר במדעי היהדות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "איגנץ זיגלר"
+    },
+    {
+     "language": "he",
+     "value": "איגנאץ ציגלר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5992865$212A5CC6-55FE-481C-B7BB-559426903BA9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e5569c9521da8dc5b32417202b453f372dcebe85",
+      "datavalue": {
+       "value": {
+        "time": "+1861-09-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5992865$10DE5193-19D1-46EC-A3A2-BBA3AACE905E",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "af569572689fddc2051cc21ee2f3d3e7806ec09e",
+      "datavalue": {
+       "value": {
+        "time": "+1861-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5992865$E8221364-326B-4F0A-B2D4-BF78D4C85EBF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "edfa75111533c4cf44a694149fef615e258d77db",
+      "datavalue": {
+       "value": {
+        "time": "+1948-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5992865$59C78A5A-7681-41F7-9B92-B80935CABCEE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d96d98622040cb3888ccbbb3786414405150b0de",
+      "datavalue": {
+       "value": {
+        "time": "+1948-07-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5992865$1850f37d-43a3-37c3-aa11-a35295745684",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5992865$34CC4911-A12C-4C83-80DA-4BE0DA4858FB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "59a0674264f02b49ccb8fc76dccc5b6aa9cd0cb2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5992865$a5ff1037-2ef5-41fd-b08e-1ad3dfe2e63f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5992865$7ae590b2-4095-435c-af77-437af24163d4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "27cbcdcf57884ffbd18ac5e98c9383895937f4dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 589309,
+        "id": "Q589309"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5992865$d2595f30-8f7f-4976-bdaf-61b8bbe1b49b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "איגנץ ציגלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q589309": "דולני קובין"
+ },
+ "raw": "data/raw/wikidata/Q5992865.json"
+}

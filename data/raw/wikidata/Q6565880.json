@@ -1,0 +1,209 @@
+{
+ "id": "Q6565880",
+ "url": "https://www.wikidata.org/wiki/Q6565880",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6565880",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים (אליעזר) בן יצחק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ḥayyim ben Isaac Or Zaruʻa"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tosafist"
+   },
+   "he": {
+    "language": "he",
+    "value": "מבעלי התוספות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהר\"ח אור זרוע"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Chaim Eliezer ben Isaac of Vienna"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6565880$8569A398-3B3F-4F8C-816B-51DC164778E5",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "fce1be94ae38de46f9b63178d02f5ab10ad007ca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 647348,
+        "id": "Q647348"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6565880$76c93bf0-4ea3-e5f2-09e0-88cb1eaf5cc9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6565880$C7FBDEEB-C3A8-4E36-A12F-A221CA29AD1F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6565880$FF0ED867-87E2-4DB7-B515-4BB70185D24C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f51297f56b0d1f843966c60a169e3150ce6a6619",
+      "datavalue": {
+       "value": {
+        "time": "+1240-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6565880$112CD12A-91BD-480C-9388-B4DEE325222A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "132650a223e851cb48a41de198916108ead16b17",
+      "datavalue": {
+       "value": {
+        "time": "+1310-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6565880$7F20738B-A2EB-4D96-BA1A-9CD511A31502",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "adf396ebc7ecc809b684e16fae19528ddc68748f",
+      "datavalue": {
+       "value": {
+        "text": "ר' חיים בן יצחק מוינה; חיים בן הרב ר' יצחק; ר\"ח אור זרוע; מהר\"ח אור זרוע; מהר\"ח א\"ז; מהרח אור זרוע; למהר״ח",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6565880$E93FD4B1-26ED-4800-9CAA-8D9F2C15E136",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים אליעזר בן יצחק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q647348": "יצחק מווינה"
+ },
+ "raw": "data/raw/wikidata/Q6565880.json"
+}

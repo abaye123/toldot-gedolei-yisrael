@@ -1,0 +1,187 @@
+{
+ "id": "Q133229066",
+ "url": "https://www.wikidata.org/wiki/Q133229066",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q133229066",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה עטיה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם פרשן ומקובל מהמאה ה-16"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133229066$8b26c6a0-4fae-86b7-ca08-97a8c2d60867",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133229066$bc813a33-4afe-8b40-d4a9-9a9b4c2c12a2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133229066$DBDB2329-4B29-47E3-B57F-968D9A6922DD",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133229066$8F99E28B-CF55-4D28-B6EE-A901E6C23293",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "490d73b4fdb10b0aedd528624db40a38a0bd1661",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "3b79e889bd8cc182dbdebb0b733e7907b7bee100",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12560,
+          "id": "Q12560"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q133229066$99e65d86-464d-5489-1c77-5fbe4351c9b9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "96a36caefefcaa4f007e180b900365c5d4daf808",
+      "datavalue": {
+       "value": {
+        "time": "+1560-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q133229066$8293b92b-473f-9731-2edc-f8c74eeaadcb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה עטיה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q23792": "ארץ ישראל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q133229066.json"
+}

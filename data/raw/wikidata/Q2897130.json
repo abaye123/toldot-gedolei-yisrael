@@ -1,0 +1,253 @@
+{
+ "id": "Q2897130",
+ "url": "https://www.wikidata.org/wiki/Q2897130",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2897130",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isidore Loeb"
+   },
+   "he": {
+    "language": "he",
+    "value": "איזידור לב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi (1839-1892)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "איסידור לב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Isidor Loeb"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$4C89B1CD-C4A5-4A0E-91A5-A5FD897F080A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$2603E651-E504-4CBF-9BB5-0D05A285812F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a10534963529635b239839e93f896122c96c08ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1622272,
+        "id": "Q1622272"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$afa7df5d-e1f2-4322-9179-6234a4c38dcc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$A1D25356-B9CE-4C4E-8528-983590A75DBF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e00e916f3bd410e849172bc6a3bd65c6e90be66f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 263758,
+        "id": "Q263758"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$E5381D6A-443C-4498-BE41-6A099788B1DE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f2b6840e820ff0342bb23cf79fd8caccefc35d38",
+      "datavalue": {
+       "value": {
+        "time": "+1839-11-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2897130$A4C5F060-2136-43EE-9742-9ADA7450E894",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e72e525e5b1b6e40339e7bae6769310f04d8b26e",
+      "datavalue": {
+       "value": {
+        "time": "+1892-06-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2897130$B5617121-E8B9-47A7-9BFA-488DBB99B3A2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c28e84f066bb3fd7fffde2300bb7dbb33bdcd896",
+      "datavalue": {
+       "value": {
+        "time": "+1892-06-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2897130$51196d85-451a-f58c-8ef7-230f6d8bee7a",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "58aa3199b3d1286e0290bb368eb6947694b92c13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 163948,
+        "id": "Q163948"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897130$3c7d6656-4e6e-fa2f-403c-6c4cd89c92f1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "איזידור לב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1622272": "מרצה באוניברסיטה",
+  "Q163948": "הרובע העשירי של פריז",
+  "Q201788": "היסטוריון",
+  "Q263758": "Soultzmatt",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2897130.json"
+}

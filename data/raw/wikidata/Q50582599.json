@@ -1,0 +1,154 @@
+{
+ "id": "Q50582599",
+ "url": "https://www.wikidata.org/wiki/Q50582599",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q50582599",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם גרינבורג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Grinburg"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "גרינבורג, אברהם בן צבי זאב‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50582599$38c3dd2a-46e2-96d8-112d-a0a906b63962",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50582599$1a96623b-4903-75c3-3a33-edfe1ddcc4bc",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "27f4dc85036f69df36892dbf78937b67b404799e",
+      "datavalue": {
+       "value": {
+        "time": "+1839-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q50582599$c6b782c7-47b7-6492-e6ec-8de1eaf8821d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "87269023d977bb159d70f1bafe61c350c072d36c",
+      "datavalue": {
+       "value": {
+        "time": "+1918-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q50582599$2c5f5f22-4ccc-f6d2-6ef2-5c900b5e280e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "25842af585ac7b87b26557f483797e3fea509c4e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 327977,
+        "id": "Q327977"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50582599$5c5016c3-4bc5-0e44-4c74-1638f1d6fd03",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם גרינבורג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q327977": "קז'מארוק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q50582599.json"
+}

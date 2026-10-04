@@ -1,0 +1,299 @@
+{
+ "id": "Q118925118",
+ "url": "https://www.wikidata.org/wiki/Q118925118",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118925118",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avraham ibn Nahman ha-Kohen"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם הכהן מסלוניקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "נפטר 1885"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם בן נחמן, הכהן"
+    },
+    {
+     "language": "he",
+     "value": "חכם אברהם בן נחמן הכהן"
+    },
+    {
+     "language": "he",
+     "value": "אברהם בן נחמן הכהן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925118$6F40B4B7-6617-4ED7-B4B5-33D8DF34E636",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925118$964B6D8B-0A10-4A6F-AACA-E96395363571",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925118$ED75A270-6466-4012-9603-04B949A9AB97",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "66ecdf6e6d959cbabc0956dce848d8090b3367cd",
+      "datavalue": {
+       "value": {
+        "time": "+1780-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "5db0a5102b22decc22af432b9276b140e72d47e9",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406259,
+          "id": "Q12406259"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q118925118$D5987BA1-9DCB-4474-9DC4-EDD7A8F78BC9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118925118$72FCC5E7-5F44-416B-992E-CEC61A2DC94F",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "eb4ae302e957d16faa1223a5e7f25caf496b4ae4",
+      "datavalue": {
+       "value": "אבנ\"ה",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q118925118$C22B4E0A-40BC-4811-9794-FC6C91EF33BD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "057794583a2320c74329094a5d7326b2f6e56725",
+      "datavalue": {
+       "value": {
+        "time": "+1885-11-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "25194940d264858e90c3ea0e88f17a3dcf984586",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12404346,
+          "id": "Q12404346"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "3a49cdc6f0bdf84b947f2b492307787ba9c247ab",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817557,
+          "id": "Q2817557"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241",
+      "P7452"
+     ],
+     "id": "Q118925118$AB0FCD6F-56F8-453D-98BF-4BB608B01736",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0bd91556d612307faec2c695d516a7188f466213",
+      "datavalue": {
+       "value": {
+        "time": "+1885-11-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118925118$CE18F33E-1797-416B-9ABE-A442C3BC918A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם הכהן מסלוניקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118925118.json"
+}

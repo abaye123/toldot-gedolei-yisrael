@@ -1,0 +1,254 @@
+{
+ "id": "Q6979408",
+ "url": "https://www.wikidata.org/wiki/Q6979408",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6979408",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף קורקוס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Kurkos"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ממפרשי הרמב\"ם"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6979408$34EA879E-AFC8-4152-9BC2-A89DBAE78592",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71a8f7c83212c85746fac016f4864ff51a545f93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29,
+        "id": "Q29"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6979408$7e0431dc-4c50-cc23-7bd6-897df56ccde9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6979408$30cf4cdc-4e97-afe7-eb6c-1bde76d88181",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1212fc636d8f6f5aa3f5a641e88d1943d3e7f27b",
+      "datavalue": {
+       "value": {
+        "time": "+1540-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6979408$3f3ce388-499e-3f04-883a-0a903d362421",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "24c9b58ef738d77c99a0001b4acdef76c98ec918",
+      "datavalue": {
+       "value": {
+        "time": "+1565-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6979408$61A437E4-77E3-4845-A874-4BC4C9B6A908",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a8bea18fcfc4da8e65ac1e26163e0d2c4e536c20",
+      "datavalue": {
+       "value": {
+        "time": "+1490-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6979408$139907F3-4CB1-4EED-9121-9B15A56585E3",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "320c288873c63174f7f96e12f40061dd3f2a7755",
+      "datavalue": {
+       "value": {
+        "text": "מהר\"י קורקוס",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6979408$3209BC36-9C4D-4A82-81FF-22DB8C4CD2CE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "83168d7f11296c29f02f45ad6b17c70a06ef616e",
+      "datavalue": {
+       "value": {
+        "text": "ר\"י קורקוס",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6979408$DAEBE512-1989-4A90-A446-B722B5830F61",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6979408$08CE6072-C283-4634-A8CB-9311A049B02A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6979408$8E0AF8B1-88B5-4A73-BEC5-0323D5CBBFA5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף קורקוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q29": "ספרד",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6979408.json"
+}

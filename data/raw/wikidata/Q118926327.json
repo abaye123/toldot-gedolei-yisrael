@@ -1,0 +1,223 @@
+{
+ "id": "Q118926327",
+ "url": "https://www.wikidata.org/wiki/Q118926327",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118926327",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avraham Segal Itinga"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם איטינגא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומחבר ספרים בגליציה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אטינגר, אברהם בן יונה"
+    },
+    {
+     "language": "he",
+     "value": "אטינגר, אברהם"
+    },
+    {
+     "language": "he",
+     "value": "עטטינגער, אברהם"
+    },
+    {
+     "language": "he",
+     "value": "אטינגר, אברהם בן יונה, הלוי"
+    },
+    {
+     "language": "he",
+     "value": "אייטינגא, אברהם סגל"
+    },
+    {
+     "language": "he",
+     "value": "איטינגא, אברהם בן יונה, הלוי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118926327$B029C86C-5B3C-497E-BC9F-7CEA5CA99450",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9d94e260c861fa33f59cd6992dbafb578d0684a0",
+      "datavalue": {
+       "value": {
+        "time": "+1874-09-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118926327$021AFE92-6CAC-4556-8EA8-917A1E3B1EDA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118926327$eb0c2643-49af-e6e3-4102-39da97de9e3d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "06232d8966c2f1f6942d47db2df16c6fb40232aa",
+      "datavalue": {
+       "value": {
+        "time": "+1924-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "18580848e7ff40af7bd7a22646d4bd5311d9541c",
+        "datavalue": {
+         "value": {
+          "time": "+1923-09-11T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "c22683e1581b6b0f4076ee06fef231673039d7e4",
+        "datavalue": {
+         "value": {
+          "time": "+1924-09-28T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319",
+      "P1326"
+     ],
+     "id": "Q118926327$038e4b1d-41e8-b9c5-03cb-0925dd4c9728",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5957cd903c1de6ffe39a36d5421c5b1e09d4f756",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118926327$d07f8142-47aa-39e0-8cab-d81f7f671d19",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם איטינגא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q465104": "ברודי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118926327.json"
+}

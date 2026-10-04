@@ -1,0 +1,110 @@
+{
+ "id": "Q6283071",
+ "url": "https://www.wikidata.org/wiki/Q6283071",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6283071",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Fiametta"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף בן שלמה פיאמיטה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6283071$D40E4BCC-1365-4660-9AA2-2D50037AF0A5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2d11ca0a595e67b203f5f1de88019d7fb4895e20",
+      "datavalue": {
+       "value": {
+        "time": "+1721-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6283071$8A79D544-FE69-4638-936F-F459C7B90122",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6283071$C742F868-FF4E-45B7-A186-E81BFBF2479D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף פיאמיטה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6283071.json"
+}

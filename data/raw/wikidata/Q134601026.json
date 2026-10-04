@@ -1,0 +1,181 @@
+{
+ "id": "Q134601026",
+ "url": "https://www.wikidata.org/wiki/Q134601026",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q134601026",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Uri Dovid Apirion"
+   },
+   "he": {
+    "language": "he",
+    "value": "אורי דוד אפריון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi in in lithuania"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "I︠U︡riĭ David Apireĭnskiĭ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134601026$2ff50de2-4efd-77b1-1e39-a6e259cee833",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134601026$5d0f1bca-46dd-3863-16ad-cfd3a0627108",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e938310765d6c69807c3a9632b8854a3e8603163",
+      "datavalue": {
+       "value": {
+        "time": "+1809-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q134601026$e973c444-41cc-b36d-8975-31134d07b5bf",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "87370e44726b91cbfba8807b65367295e65f0eaf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 393332,
+        "id": "Q393332"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134601026$5d5d4782-47cd-5fd9-8ff3-c0c2361785ed",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "14264d9df4f6936ffbd1da35a5b90c2c3a589234",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1025869,
+        "id": "Q1025869"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134601026$3a79abba-4e1e-c9c7-3873-111e1cdc0bc6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a4a0c8d2f36d4f35834634155c440fe694f21aea",
+      "datavalue": {
+       "value": {
+        "time": "+1894-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q134601026$0eb57300-4339-5cfb-4d22-f5250029a50e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אורי דוד אפריון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1025869": "קרליץ",
+  "Q133485": "רב",
+  "Q393332": "זאגר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q134601026.json"
+}

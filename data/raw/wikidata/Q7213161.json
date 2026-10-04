@@ -1,0 +1,199 @@
+{
+ "id": "Q7213161",
+ "url": "https://www.wikidata.org/wiki/Q7213161",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7213161",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק אייזיק שר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitshak Ayzik Sher"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת סלבודקא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שער, י. א.‏"
+    },
+    {
+     "language": "he",
+     "value": "שר, אייזיק‏"
+    },
+    {
+     "language": "he",
+     "value": "שר, יצחק אייזיק‏"
+    },
+    {
+     "language": "he",
+     "value": "שר, יצחק איזיק"
+    },
+    {
+     "language": "he",
+     "value": "שעהר, חיים יצחק איזיק"
+    },
+    {
+     "language": "he",
+     "value": "שארר, חיים יצחק איזיק"
+    },
+    {
+     "language": "he",
+     "value": "שר, אייזיק"
+    },
+    {
+     "language": "he",
+     "value": "שר, יצחק אייזיק"
+    },
+    {
+     "language": "he",
+     "value": "שער, יצחק אייזיק"
+    },
+    {
+     "language": "he",
+     "value": "שר, חיים יצחק אייזיק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Sher, Yitsḥaḳ Ayziḳ"
+    },
+    {
+     "language": "en",
+     "value": "Sher, Isaac‏"
+    },
+    {
+     "language": "en",
+     "value": "Sher, Y. A."
+    },
+    {
+     "language": "en",
+     "value": "Šeras, A."
+    },
+    {
+     "language": "en",
+     "value": "Sher, Isaac"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213161$4242EF68-1F7E-4270-8B2F-2235A8AF1407",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7b8cb1b7b007d1b3204452b949f8c58ee7f5d85a",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7213161$3EE5B4AC-F12F-4F8F-BFE8-464F65847DF2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7e246817a8ec12a324cf4cac13c9d3bd77cdfaaa",
+      "datavalue": {
+       "value": {
+        "time": "+1952-02-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7213161$C71BD137-5E6D-4E0C-A71D-4BBE8DA8B550",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213161$d21f247f-a361-4ff5-a7c4-c3ff62f56d97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק אייזיק שר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7213161.json"
+}

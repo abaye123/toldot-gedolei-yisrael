@@ -1,0 +1,261 @@
+{
+ "id": "Q1706405",
+ "url": "https://www.wikidata.org/wiki/Q1706405",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1706405",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Abraham Friedländer"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף פרידלנדר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1753–1852)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני (1753–1852)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף פרידלאנדער"
+    },
+    {
+     "language": "he",
+     "value": "יוסף פריעדלנדער"
+    },
+    {
+     "language": "he",
+     "value": "יוסף אברהם פרידלנדר"
+    },
+    {
+     "language": "he",
+     "value": "פרידלנדר, יוסף בן אברהם"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0e491eaab2e702f222c53d74125d611226cc4937",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5642,
+        "id": "Q5642"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1706405$3B64237A-4D09-43AB-9EDC-FE18DDB42976",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$E3FBF849-F845-4004-BE44-E99E4720058D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3e9d8823bbadfc704c46105bd807ccebc9e3caa9",
+      "datavalue": {
+       "value": {
+        "time": "+1753-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1706405$86D17176-398C-4473-997F-E3FA5E33E3E1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7a3ed8227e31b386fa510b32e4dd7f972dc5b1ea",
+      "datavalue": {
+       "value": {
+        "time": "+1852-11-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1706405$608FA5FC-A83F-4EE5-9A38-206E1DB555D1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$885BBCE3-FA30-4C9F-AFFB-04C4D4CC4F8D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cbe652155c23d4823e70fffb8dfef9ba3ef0a125",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37226,
+        "id": "Q37226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$CFB6751D-551E-4C19-ABAB-9B6B63018A6F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "97d9336561f06eb8d17824e729f6b088e0387911",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 470369,
+        "id": "Q470369"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$4731D874-3706-4D01-B75D-F41AC0821D45",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "eef9c76338bab029fa860bcdaab5af7846a58fe9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 88561738,
+        "id": "Q88561738"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$ab3dcee8-4365-54e0-d2c4-e5428861a2b7",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b91c268ada8c35b160ca515d37958bae1a08fd91",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1385975,
+        "id": "Q1385975"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1706405$5ccbdda6-4f84-83e6-ebde-d5170db656f4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף פרידלנדר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1385975": "יחזקאל לנדא",
+  "Q37226": "מורה",
+  "Q470369": "קולין",
+  "Q5": "אדם",
+  "Q5642": "ברילון",
+  "Q88561738": "Abraham Friedländer"
+ },
+ "raw": "data/raw/wikidata/Q1706405.json"
+}

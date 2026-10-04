@@ -1,0 +1,169 @@
+{
+ "id": "Q16131187",
+ "url": "https://www.wikidata.org/wiki/Q16131187",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131187",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחיא בדיחי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה בתימן מן המאה ה-19"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131187$F22AF188-C45E-4845-B89E-540A28BBA68F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131187$E1A504EE-C195-4822-B25D-3C0D9835F0A2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "268f2ae5b9f89682be8416ad8ffe07f990c0a463",
+      "datavalue": {
+       "value": {
+        "time": "+1803-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131187$0E1BDC63-BD4F-4A4B-A16B-BB7D6A32B089",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "80f541c12b41b51adf76f58b6d4e98002e7543b6",
+      "datavalue": {
+       "value": {
+        "time": "+1887-10-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131187$A8D8C6BD-E00C-4C92-A505-415438FB7E3C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131187$F3B14831-4E68-4090-9CBA-92F492D5D9AF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "60eafa5315179a34dd7e400a383b0302433ce1a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131187$6F67C5F4-564A-404D-A253-3FA286F6E64C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיא בדיחי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2471": "צנעא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16131187.json"
+}

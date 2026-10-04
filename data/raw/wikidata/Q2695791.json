@@ -1,0 +1,173 @@
+{
+ "id": "Q2695791",
+ "url": "https://www.wikidata.org/wiki/Q2695791",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2695791",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abtolemus"
+   },
+   "he": {
+    "language": "he",
+    "value": "אבטולמוס"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish rabbinic sage"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא מן הדור השלישי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6fe3da0640635f157544bbff2ce3974ffb4c5a8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1234713,
+        "id": "Q1234713"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2695791$EEF99E74-0209-443A-BFD0-3DF1DFF0B767",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2695791$abf2a2e3-3722-4880-b8d2-f919b6ae2588",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7d8724e1782496319d41246cb3708b150ebf2312",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1132798,
+        "id": "Q1132798"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2695791$8A779904-99A0-40FD-87D1-75DB01D6D601",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2695791$BF84EBD1-5762-441A-89B8-D27DE9C87630",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2695791$38BA7D2C-11F6-4D82-BF6D-5B523B89A089",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבטולמוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1132798": "ציפורי",
+  "Q1234713": "תאולוג",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2695791.json"
+}

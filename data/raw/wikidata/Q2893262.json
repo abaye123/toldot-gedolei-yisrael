@@ -1,0 +1,163 @@
+{
+ "id": "Q2893262",
+ "url": "https://www.wikidata.org/wiki/Q2893262",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2893262",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יונתן שטייף"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yonasan Steif"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1877–1958)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Jonathan Steif"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2893262$A59B1FD8-1F50-48D6-838F-A73D1D980DA7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5dfe001efcf1775811b7509b1950c5910f60006e",
+      "datavalue": {
+       "value": {
+        "time": "+1877-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2893262$376CE37B-6AEE-49FB-93D4-814303497AA6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9b834880af277fc8d2bbc4ce8bf3abe50c5e54c5",
+      "datavalue": {
+       "value": {
+        "time": "+1958-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2893262$C4FA003A-EAE8-42AF-BCEC-4B512C00DFCE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2893262$900CD587-54E7-4DDC-ADF7-345F2A8EC9DC",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2893262$7597d0b8-0439-443c-b347-53583d07e023",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יונתן שטייף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2893262.json"
+}

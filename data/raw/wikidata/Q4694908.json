@@ -1,0 +1,163 @@
+{
+ "id": "Q4694908",
+ "url": "https://www.wikidata.org/wiki/Q4694908",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4694908",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ahai"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אחאי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשוני הסבוראים"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi in the beginning of the [[sevuraim]] era"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אחא מבי חתים"
+    },
+    {
+     "language": "he",
+     "value": "אחאי מבי חתים"
+    },
+    {
+     "language": "he",
+     "value": "אחאי מבי חוזאה"
+    },
+    {
+     "language": "he",
+     "value": "אחא בר רב"
+    },
+    {
+     "language": "he",
+     "value": "אחאי בר הונא"
+    },
+    {
+     "language": "he",
+     "value": "אחאי בריה דרבה בר אבוה"
+    },
+    {
+     "language": "he",
+     "value": "אחאי"
+    },
+    {
+     "language": "he",
+     "value": "רב אחא בר רב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694908$70BC4EC2-F201-4789-9E26-089C0C768D5E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694908$331FC73C-13F8-4C19-9755-62E698CA00D7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694908$D19DADE9-EE1C-4DC1-94ED-A7853C1EC24B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694908$878A778A-CEE9-4331-9ACE-BCE3997DD44B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב אחאי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל"
+ },
+ "raw": "data/raw/wikidata/Q4694908.json"
+}

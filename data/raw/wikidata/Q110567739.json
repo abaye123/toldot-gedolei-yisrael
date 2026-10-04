@@ -1,0 +1,236 @@
+{
+ "id": "Q110567739",
+ "url": "https://www.wikidata.org/wiki/Q110567739",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q110567739",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זרח איידליץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses Zerah Eidlitz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Bohemian kabbalist"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aidlits, Avraham Mosheh"
+    },
+    {
+     "language": "en",
+     "value": "Abraham-Moses-Serach Eidlitz"
+    },
+    {
+     "language": "en",
+     "value": "Zerah ben Meir Eidlitz"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "איידליץ, אברהם משה זרח בן משה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110567739$3D83D6AE-F454-4D84-8423-51A84A023593",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "13631789d24c1fccf45d1ce3d730515340d14d8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110567739$F78B0F4D-E71D-433B-9D6F-A033A50AF202",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a37917e77a2eab6e3127f9bd9cbc670eb7d78290",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110567739$4A1AF178-1110-49D2-81B3-4903E22D9961",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e28e006e676eee47bb7764af6acc780eee8282ab",
+      "datavalue": {
+       "value": {
+        "time": "+1786-05-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110567739$D5F37214-19DC-4BA7-9B41-489ACFFF4BAD",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a2fdc0bbee87b49d4fdbdb51a209c5d506cf0e7d",
+      "datavalue": {
+       "value": {
+        "time": "+1786-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110567739$FA3E0924-BCAD-456B-BC53-3766AFD82892",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bb540de6f3c8ca2d738d15c4eb176857554bd1ae",
+      "datavalue": {
+       "value": {
+        "time": "+1725-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110567739$B02291F3-E324-4C80-BA5B-82C389F29923",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110567739$a8310fd7-4602-cbb4-cd89-19cdfa03a91a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q110567739$af03f1d1-44d3-7a80-992d-c4fb3153a36d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זרח איידליץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1085": "פראג",
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q110567739.json"
+}

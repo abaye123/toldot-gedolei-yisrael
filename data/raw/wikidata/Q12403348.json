@@ -1,0 +1,224 @@
+{
+ "id": "Q12403348",
+ "url": "https://www.wikidata.org/wiki/Q12403348",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12403348",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אחי הגר\"א"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Ragoler"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מקובל ודרשן, מחבר ספר המוסר מעלות התורה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Kabbalist and author"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם רגולר"
+    },
+    {
+     "language": "he",
+     "value": "אברהם ראגולער"
+    },
+    {
+     "language": "he",
+     "value": "בעל מעלות התורה"
+    },
+    {
+     "language": "he",
+     "value": "אברהם בן שלמה זלמן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham ben Solomon Ragoler"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403348$09E469B4-9066-479F-BAD5-B1CBD33C2D51",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403348$15E42BEE-45D7-40A6-812B-B2A3EACC4582",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "6393c3fd61ead9c204985c97c813b2496954dcf2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 279359,
+        "id": "Q279359"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403348$fee57f92-434c-51ad-d827-168800def66f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4ae62b5e2326895129630f9146322de2ca67c892",
+      "datavalue": {
+       "value": {
+        "time": "+1722-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q12403348$3cf7d696-4c3e-0c94-151a-e7a9479dbfcc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "654cfa9476443efd00f0321dca9c5e8f452f60b2",
+      "datavalue": {
+       "value": {
+        "time": "+1726-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403348$A70A2F36-3411-461C-8D7E-75A902F595D8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5e1b94a6c7014bdc8214857b890fde1e445926aa",
+      "datavalue": {
+       "value": {
+        "time": "+1804-03-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403348$8e0233e9-4244-825e-9df0-036a26ef46d4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אחי הגר\"א",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q279359": "הגאון מווילנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12403348.json"
+}

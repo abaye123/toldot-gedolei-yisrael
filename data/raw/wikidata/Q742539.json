@@ -1,0 +1,336 @@
+{
+ "id": "Q742539",
+ "url": "https://www.wikidata.org/wiki/Q742539",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q742539",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה לייב ליליינבלום"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Leib Lilienblum"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "משכיל וסופר עברי, יידי ורוסי, מראשי חובבי ציון ברוסיה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi (1843–1910)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מ. ל. ליליינבלום"
+    },
+    {
+     "language": "he",
+     "value": "ליליינבלום"
+    },
+    {
+     "language": "he",
+     "value": "משה ליליינבלום"
+    },
+    {
+     "language": "he",
+     "value": "משה לילינבלום"
+    },
+    {
+     "language": "he",
+     "value": "משה ליב ליליינבלום"
+    },
+    {
+     "language": "he",
+     "value": "לילינבלום"
+    },
+    {
+     "language": "he",
+     "value": "מ. ל. לילינבלום"
+    },
+    {
+     "language": "he",
+     "value": "משה לייב לילינבלום"
+    },
+    {
+     "language": "he",
+     "value": "משה ליב לילינבלום"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d6ff4672c210fb3cc15f26b155d16507ad209303",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 735138,
+        "id": "Q735138"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "5d44a4c1458387f0cdf89b6b66e0d63ced7cebfa",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1540300,
+          "id": "Q1540300"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "q742539$BAA74BF6-98B5-474A-A39D-3DAD104265D8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7c33068c5813ebf6f30c67bb2377b6f90cbec61d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1874,
+        "id": "Q1874"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "q742539$94F7DDA2-8768-4A4B-81A2-5A3221CCBE4F",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742539$B714C680-5893-4CE9-A356-6D34EB3AC3A9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6934475cbbc025a597fe2e959140c2ab21ddb5e7",
+      "datavalue": {
+       "value": {
+        "time": "+1843-10-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q742539$1FFECE1B-86DB-495C-82F6-B8186BD17624",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742539$DACDDF48-6FD4-43ED-A759-73AC18E507AA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742539$A90F4418-E872-4C27-8A9E-0EF248635352",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "943348a1c561d670ec8f5fab1132465a7c779b55",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1930187,
+        "id": "Q1930187"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742539$4FFEADFD-B528-4E16-A2DF-E5BD2F352837",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q742539$B589A133-EB92-477C-9BD2-DC7776BD30AD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cf3a573267d12327279dae7b39c9c6a3de1be0b3",
+      "datavalue": {
+       "value": {
+        "time": "+1910-02-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q742539$7D3A7AB5-0CEF-4E0C-9880-5F44FB1BAC9B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה לייב ליליינבלום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1874": "אודסה",
+  "Q1930187": "עיתונאי",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q735138": "קדאייני"
+ },
+ "raw": "data/raw/wikidata/Q742539.json"
+}

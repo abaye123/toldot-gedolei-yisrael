@@ -1,0 +1,139 @@
+{
+ "id": "Q7007551",
+ "url": "https://www.wikidata.org/wiki/Q7007551",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7007551",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים כפוסי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hayyim Capusi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק ממוצא מצרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Egyptian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי חיים כפוסי"
+    },
+    {
+     "language": "he",
+     "value": "רח\"כ"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Haim Capousi"
+    },
+    {
+     "language": "en",
+     "value": "Haim Capoussi"
+    },
+    {
+     "language": "en",
+     "value": "Chaim Kapusi"
+    },
+    {
+     "language": "en",
+     "value": "Haïm Capoussi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7007551$33CF72B0-AAEC-4DD9-8DF5-41ED979F110E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7007551$066E074C-E6CA-4685-8C48-9595C18E3156",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8f61fb2c9ea2c18d569b0ae7d1a928498b0bfd09",
+      "datavalue": {
+       "value": {
+        "time": "+1631-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7007551$ECA5B2BB-51C5-4DC2-B774-60713BF1C35D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים כפוסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7007551.json"
+}

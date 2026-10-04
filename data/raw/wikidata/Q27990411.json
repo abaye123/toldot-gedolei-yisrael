@@ -1,0 +1,148 @@
+{
+ "id": "Q27990411",
+ "url": "https://www.wikidata.org/wiki/Q27990411",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27990411",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נתן שולמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת סלבודקה בבני ברק (1930-2016)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27990411$2DBD2E71-0207-4216-AA9D-0E09855CD978",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27990411$660a4a5a-ceaa-474b-8ec3-99e45a822cb5",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "12a30b37f24535723a03ab5896a563a2f540da50",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409509,
+        "id": "Q12409509"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27990411$818c6c2e-4863-891d-1c2a-6fdae49b37c4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "031d357d0b631f53c322f068663d2c12b0452a3e",
+      "datavalue": {
+       "value": {
+        "time": "+1930-06-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27990411$1dc8f47d-431a-5989-a0b2-682365d4549d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8da4c31559552524e484cdc047343397530f8f70",
+      "datavalue": {
+       "value": {
+        "time": "+2016-11-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27990411$9d37c6f4-42d6-b8e4-76d0-c313ab8cb463",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתן שולמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12409509": "מרדכי שולמן",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27990411.json"
+}

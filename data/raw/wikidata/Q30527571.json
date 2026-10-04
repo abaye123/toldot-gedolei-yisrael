@@ -1,0 +1,78 @@
+{
+ "id": "Q30527571",
+ "url": "https://www.wikidata.org/wiki/Q30527571",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30527571",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבא בנימין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא שזמנו אינו ידוע"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527571$6CD0F783-AB38-4099-83F9-5031475C4B34",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527571$ae1c3e88-4133-587d-4709-ee81da87c97a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבא בנימין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q30527571.json"
+}

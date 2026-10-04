@@ -1,0 +1,181 @@
+{
+ "id": "Q85998071",
+ "url": "https://www.wikidata.org/wiki/Q85998071",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q85998071",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חננאל בן שמואל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chananel ben Shmuel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחסידי מצרים, חמיו של ראב\"ם"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ḥananel ben Samuel"
+    },
+    {
+     "language": "en",
+     "value": "Hananel ben Samuel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85998071$1ab66788-42e2-fbd8-022a-a8c1c368c9a5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85998071$5DE2B4C4-3BDB-4B4D-BE23-1C63CF3530DA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85998071$DF424821-994A-4B8F-8898-80A6F9C5B791",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4ac87efa7ae226f3a67017f5cb96eeacb8073308",
+      "datavalue": {
+       "value": {
+        "time": "+1174-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85998071$392C4593-76FC-45A4-A1B7-7B8750767920",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "abc051285d782b3373473641dc5c45ef39189e68",
+      "datavalue": {
+       "value": {
+        "time": "+1250-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85998071$72D51384-1B34-4D96-A8AD-769097936102",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "418759e54fca0c591542692fb7bee08e87cf7ae5",
+      "datavalue": {
+       "value": {
+        "text": "ר´ חננאל בן שמואל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q85998071$A10083FA-CA66-4EAE-A650-4D3BE26F4950",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חננאל בן שמואל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q85998071.json"
+}

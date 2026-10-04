@@ -1,0 +1,178 @@
+{
+ "id": "Q30527360",
+ "url": "https://www.wikidata.org/wiki/Q30527360",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30527360",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נתן פרג'ון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nathan Farjoun"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527360$E1832FD9-9FFB-409F-80B4-9FE01E67CE87",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4092cdd40d32e467478f5ed861475a0c3a9db70b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188938,
+        "id": "Q188938"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527360$B6B76345-2BED-4A54-9E90-690EDAF81E71",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "56ddd3ee337c0321db53aeda0d4c0c90dd131df9",
+      "datavalue": {
+       "value": {
+        "time": "+1959-03-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30527360$65123252-AD4C-46D3-9C26-52694AA109F2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "10e7caac935fbbee0178328e44d12e889bce5f05",
+      "datavalue": {
+       "value": {
+        "time": "+1910-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30527360$86C7A469-3024-48EE-8712-FBA28E477672",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "80b539a73c4c0139a778fb6b39d4a10973f88724",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60956,
+        "id": "Q60956"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527360$D842FC21-2609-46C9-98AF-D65758BD83D4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527360$4090b5bc-4585-3380-586f-fb5d15f8bb5a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתן פרג'ון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q188938": "ג'רבה",
+  "Q5": "אדם",
+  "Q60956": "אשקלון"
+ },
+ "raw": "data/raw/wikidata/Q30527360.json"
+}

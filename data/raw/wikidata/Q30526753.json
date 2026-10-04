@@ -1,0 +1,189 @@
+{
+ "id": "Q30526753",
+ "url": "https://www.wikidata.org/wiki/Q30526753",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526753",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים שאול ברוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Shaul Brook"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ברוק, חיים שאול, משפיע"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Chaim Brook"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526753$04A1C82F-ED3B-447E-B114-8E8E405C1898",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b2d1d2167d66d3cd5d2bed4d810f1f7868905cca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109623594,
+        "id": "Q109623594"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526753$2D90F2C2-7DFD-45E4-A703-DE9AA31ABA2F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526753$64707E0B-8ACD-4318-9C0F-17ED383D0C49",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526753$3c05954f-48b7-031a-ab8d-75f2dac6c331",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c6166043fb6ff854e36e6cc516fc9722a895a0ce",
+      "datavalue": {
+       "value": {
+        "time": "+1894-08-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526753$a8472e91-4245-79ab-8c20-12c50044ba5c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "91b738aed3085f84dc3afa6ff19febfd4413a778",
+      "datavalue": {
+       "value": {
+        "time": "+1965-04-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526753$e2e3503f-4df5-b35f-2e0e-d6ac473f6262",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים שאול ברוק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109623594": "בית עלמין גני אסתר",
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30526753.json"
+}

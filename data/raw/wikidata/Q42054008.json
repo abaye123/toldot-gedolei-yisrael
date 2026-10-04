@@ -1,0 +1,167 @@
+{
+ "id": "Q42054008",
+ "url": "https://www.wikidata.org/wiki/Q42054008",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q42054008",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זכריה בן הקצב"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בארץ ישראל, בן הדור הראשון לתנאים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q42054008$4D69E2A0-7BCB-4124-91F5-78BE87CA44E8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q42054008$d3d482fc-4b0a-c8bb-605b-8dc8643a6fee",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "52f0833ef6935d5a4b6922a76b353e84359b621a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2776817,
+        "id": "Q2776817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q42054008$5dc625ed-45de-d45f-544e-91d42e44b3fc",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "04d8c5c08fad487451c951713649940a7ac51b93",
+      "datavalue": {
+       "value": {
+        "time": "+0100-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q42054008$c39b9883-4405-2232-2596-5ec379963906",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b0b2887ae33b738d849985f52f3bee5484303b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q42054008$50A8B388-FAA6-4A1D-B8D8-E514C295DB6B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a2f1b115eb183f9cc037a8c0359f2bd3851db2b0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q42054008$5474420F-F62C-43B2-B4B1-13099641DD88",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי זכריה בן הקצב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1003997": "פרובינקיה יודיאה",
+  "Q133485": "רב",
+  "Q2776817": "כפר חנניה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q42054008.json"
+}

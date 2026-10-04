@@ -1,0 +1,287 @@
+{
+ "id": "Q85991903",
+ "url": "https://www.wikidata.org/wiki/Q85991903",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q85991903",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב בוקארה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jacob Boccara"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי של קהילת יוצאי ליוורנו בתוניסה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב אבוקארא"
+    },
+    {
+     "language": "he",
+     "value": "אבוקארא, יעקב בן אליהו"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jacob ben Elijah Abukara"
+    },
+    {
+     "language": "en",
+     "value": "Yacob Boccara"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85991903$2515e98a-41a7-3133-9731-13ff7f9f6aa7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85991903$10c79f81-40b9-af6a-8d12-86dd23b54197",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q85991903$c2aaa7cb-48b0-33e5-019f-413e09f82d01",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "eaf4d77855dad1260c90caf5c23ede569fc6f80b",
+      "datavalue": {
+       "value": {
+        "time": "+1843-03-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85991903$539467a5-47f1-51b8-deae-8a4a9b468d5a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "438ec89c728249767ec773a36dcb9668b8e96c6a",
+      "datavalue": {
+       "value": {
+        "time": "+1941-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q85991903$c10561dd-40a0-6f98-e181-d79f622bb2b9",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c8aae1b3d2d382207798a6e2573c116de9195fed",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2972598,
+        "id": "Q2972598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "fce0145e5dfb7ccf82ff3f68113fec5e1330f185",
+        "datavalue": {
+         "value": {
+          "time": "+1941-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "022a6e3fa253ff7dd92b24888edfa66facc966bf",
+        "datavalue": {
+         "value": {
+          "time": "+1984-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582"
+     ],
+     "id": "Q85991903$a3065f24-4e66-1cd9-9bf0-fa00503ed527",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "6e9dc009e5d21d486b74950c06e04ee0f6c05b81",
+        "datavalue": {
+         "value": {
+          "time": "+1984-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580"
+     ],
+     "id": "Q85991903$07702661-4419-da4b-04ce-8c430998322e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב אבוקארא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q2972598": "בית הקברות בורג'ל",
+  "Q3572": "תוניס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q85991903.json"
+}

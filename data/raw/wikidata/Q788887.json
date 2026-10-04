@@ -1,0 +1,167 @@
+{
+ "id": "Q788887",
+ "url": "https://www.wikidata.org/wiki/Q788887",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q788887",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hirs Bak"
+   },
+   "he": {
+    "language": "he",
+    "value": "צבי הירש באק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Hirsh Bak"
+    },
+    {
+     "language": "en",
+     "value": "Hirsch Bak"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q788887$B7652DED-8747-4FBE-A738-D91604F7C1F5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q788887$678539DB-0015-47EA-9FA6-89420D62A47E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "debfefe8990bf28ab16678c9c2445d2e9992dca8",
+      "datavalue": {
+       "value": {
+        "time": "+1747-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q788887$8f8deb90-fbc9-4e19-8453-cc4ef546d56f",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "539582eb19a9844957e8c31c8a0c3ce4b8104523",
+      "datavalue": {
+       "value": {
+        "time": "+1842-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q788887$649f257c-4ef6-1085-7f56-22d80fa62194",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "adde0adfc369cf1e6e13d0d2d636de3f31d60371",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 81581,
+        "id": "Q81581"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q788887$0b746293-469b-0bea-2c3f-0d917cad6e69",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש באק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q81581": "סגד"
+ },
+ "raw": "data/raw/wikidata/Q788887.json"
+}

@@ -1,0 +1,167 @@
+{
+ "id": "Q76511363",
+ "url": "https://www.wikidata.org/wiki/Q76511363",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q76511363",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר אביטבול"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir Abitbol"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q76511363$52F047CA-5F17-4606-A75F-26DB45C40853",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "2a8f1ecd8048d8fda447e0bd42e373bc3c3f444a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2961975,
+        "id": "Q2961975"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q76511363$1fb6d53d-dcce-4511-9bb6-b9426a3ba002",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q76511363$960e61e5-46f5-a41c-a0c4-11222c373208",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "03b0a5dc23467feeafc62633a15e23031e0d1123",
+      "datavalue": {
+       "value": {
+        "time": "+1944-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q76511363$53FE53F6-4019-465D-AC33-32DAE902AF57",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9b480f4491f8a035f55d256ee32581a955ea89a7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7903,
+        "id": "Q7903"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q76511363$2462D69F-8F97-4F1E-9CC0-078B284C57FD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ab728ac17e0fc91e45938e7c3453f43c7dd94b38",
+      "datavalue": {
+       "value": {
+        "time": "+2023-09-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q76511363$7E61C9B2-4402-4CB4-B689-6F4EF8BD8C6D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר אביטבול",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2961975": "מנהל עסקים",
+  "Q5": "אדם",
+  "Q7903": "קזבלנקה"
+ },
+ "raw": "data/raw/wikidata/Q76511363.json"
+}

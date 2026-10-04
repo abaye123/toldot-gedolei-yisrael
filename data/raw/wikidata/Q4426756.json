@@ -1,0 +1,413 @@
+{
+ "id": "Q4426756",
+ "url": "https://www.wikidata.org/wiki/Q4426756",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4426756",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נתן מיליקובסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nathan Mileikowsky"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופעיל ציוני"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi, educator, writer and prominent Zionist activist (1879–1935)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "נתן מיליקובסקי-נתניהו"
+    },
+    {
+     "language": "he",
+     "value": "מילייקובסקי, נתן בן צבי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "MILEJKOWSKI, NATHAN (NETHANIAH) B. ZEBI‏"
+    },
+    {
+     "language": "en",
+     "value": "Nathan Mileikowski"
+    },
+    {
+     "language": "en",
+     "value": "Natan Mileikowski"
+    }
+   ]
+  },
+  "claims": {
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3d8860eeb1510fd335b3b3c5b100bc6276b8c8a0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 818507,
+        "id": "Q818507"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q4426756$3265A8F0-B040-4BC4-B908-9DDE37E0DA74",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "9738cc0a26d9ccab02f274bb2ba78ce5bf0dd31f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5361791,
+        "id": "Q5361791"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q4426756$2C41EE1B-0DF7-44FE-9A41-BDE911B62400",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$2CEC3020-A6A3-4A88-B54D-03D9E2994726",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b6be6a0874bd2f6ed8e732d6141b0ba7181dbb67",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2621007,
+        "id": "Q2621007"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q4426756$4E6E433F-AB56-4C4C-9982-94F1FE7DCC14",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ea1318cbff5979566f49b4f4deabf823986ed7b3",
+      "datavalue": {
+       "value": {
+        "time": "+1935-02-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4426756$123EDA2F-3E2B-42A1-BAE2-9C67FA3088B1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f0f726769400be1852daec7e1016458f9aa0a1c3",
+      "datavalue": {
+       "value": {
+        "time": "+1879-08-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4426756$8E74B90F-F3FC-4A84-A80B-CDAFF2053A24",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$3225D6BA-62A3-4979-A5D3-E295FC69A1F0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "7f4a67cc582aa680ebccc641e09a5c5280bee14f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 193714,
+          "id": "Q193714"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q4426756$65EC2F4A-C76C-4FE8-BAF7-9186CE2EFB0B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "27abee4ef9b7415b37658808d5acaaa05e8f671a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 361809,
+        "id": "Q361809"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$c94d0655-b6c2-4f1a-9973-c94e2e241e4c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "24a7d7af59408fc9b8a5669c74c971d9975dbaa5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1056391,
+        "id": "Q1056391"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$abcb9a09-418a-0697-8b05-a4b15c19790f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "874daf46b2150178f8c2dd08c5a2f72db776e859",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 50326480,
+        "id": "Q50326480"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$5e9a2d99-414a-558e-6a66-da362d02bf0c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$5F432659-3A79-4FA8-9164-90F207AF1BB2",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "8e283f23cd3ea02263a2c55407af2315c1390a7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107074725,
+        "id": "Q107074725"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$5e937e42-533e-465e-9a72-7b7197f75f01",
+     "rank": "normal"
+    }
+   ],
+   "P25": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P25",
+      "hash": "2a3550358dd40ec666f2e352ab5667199664bd21",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107074726,
+        "id": "Q107074726"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4426756$26cd6a40-d73c-4c34-85d0-a62def66a161",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתן מיליקובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1056391": "מנהל בית ספר",
+  "Q107074725": "צבי הירש הלוי מיליקובסקי",
+  "Q107074726": "ליבה גיטל",
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q2621007": "קרבו",
+  "Q361809": "רטוריקן",
+  "Q5": "אדם",
+  "Q50326480": "פעיל ציוני",
+  "Q5361791": "אלישע נתניהו",
+  "Q818507": "בנציון נתניהו"
+ },
+ "raw": "data/raw/wikidata/Q4426756.json"
+}

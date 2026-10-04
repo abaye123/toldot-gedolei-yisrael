@@ -1,0 +1,172 @@
+{
+ "id": "Q16131869",
+ "url": "https://www.wikidata.org/wiki/Q16131869",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131869",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב פנחס שיר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה הראשי האשכנזי של כפר סבא במשך למעלה משלושים שנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131869$784BCF54-BEBA-4B86-BB33-0A635210DF2B",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131869$35c16e76-44d9-4634-b502-47adb2bd9897",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "34d1bf32f6762c88d0fef56dca19ac3741871a73",
+      "datavalue": {
+       "value": {
+        "time": "+1923-06-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131869$4bd7a0c1-4320-dcc8-f750-c0a584f74b78",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e30ce0499a38b585ebfffcc3fa71415c3521ee15",
+      "datavalue": {
+       "value": {
+        "time": "+2010-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131869$b5290bc3-42e8-0aca-97a5-67ac38be2550",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131869$f8ad5ec3-4f40-6dec-466f-d9dbd7494e63",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131869$22f7e768-469d-722c-5a5e-8b51bb45925f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב פנחס שיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q694994": "אב בית דין",
+  "Q7418236": "בית הקברות סנהדריה"
+ },
+ "raw": "data/raw/wikidata/Q16131869.json"
+}

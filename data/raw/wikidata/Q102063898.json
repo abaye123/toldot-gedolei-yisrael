@@ -1,0 +1,255 @@
+{
+ "id": "Q102063898",
+ "url": "https://www.wikidata.org/wiki/Q102063898",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q102063898",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel Pollak"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל פולק"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q102063898$F66EEBD2-2CEC-4D22-BC80-8193D1AA2B02",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q102063898$2fe9de40-4fe9-21dc-14d9-a4c33c22b49c",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7adb9ec63ac6ed912dee4ba65c037d3d324e3f47",
+      "datavalue": {
+       "value": {
+        "time": "+1842-11-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q102063898$aac7fda9-48e7-8084-21ec-09ca18a0844b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "761d29f3f2fd43ca0f751cf74b6b4704239fa204",
+      "datavalue": {
+       "value": {
+        "time": "+1842-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P248": [
+       {
+        "snaktype": "novalue",
+        "property": "P248",
+        "hash": "fc52913c710fd5c7e9439f7463902261e5da4609",
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P2699": [
+       {
+        "snaktype": "value",
+        "property": "P2699",
+        "hash": "f717c133e69eadbf96ed32f7f34de281ff290478",
+        "datavalue": {
+         "value": "https://genealogyindexer.org/view/1929GoldMoravia/1929GoldMoravia%20-%200540.pdf",
+         "type": "string"
+        },
+        "datatype": "url"
+       }
+      ],
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "db9784c356efd0abc39b91628488944a72868070",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 203443,
+          "id": "Q203443"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P248",
+      "P2699",
+      "P7452"
+     ],
+     "id": "Q102063898$e66a8212-430d-46e5-d6e3-cf2d742b5112",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6fd77364f8ad620568a811eae433508567f742e0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270704,
+        "id": "Q270704"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q102063898$8162f0c3-4beb-bccd-15b3-cf6a8014b3ea",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "20d09d1da3fc7696a968e21e3eca6ed29af73f1f",
+      "datavalue": {
+       "value": {
+        "time": "+1906-09-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q102063898$896162ed-4eb6-274a-d311-9bb3c4cdf917",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "209d9aab748d1c37b09c2e6ab3026f85a32db5fb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270704,
+        "id": "Q270704"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q102063898$06ab388f-4dc6-f872-8b6e-a16eaf94dbc3",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "0015e857a200d569527374242545083d7f5525ae",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6204628,
+        "id": "Q6204628"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q102063898$60b4488a-432d-78a5-77e7-726b7e2ebeeb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל פולק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q270704": "טשביץ'",
+  "Q5": "אדם",
+  "Q6204628": "חיים יוסף פולק"
+ },
+ "raw": "data/raw/wikidata/Q102063898.json"
+}

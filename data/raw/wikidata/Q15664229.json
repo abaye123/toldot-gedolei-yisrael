@@ -1,0 +1,148 @@
+{
+ "id": "Q15664229",
+ "url": "https://www.wikidata.org/wiki/Q15664229",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q15664229",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים זלמן הלפרין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15664229$3f31cbdf-4069-6304-1fa9-14373278b0ee",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15664229$238a2aa3-4108-2c19-4d0a-b96cb6eb416b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "45166468dabb3f5f3ce4672f885479cc35366d56",
+      "datavalue": {
+       "value": {
+        "time": "+1871-12-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15664229$2bd9537c-4a12-9b16-54be-c0a11605ca3d",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "268fc05e7aeae05b9f37fe11d42daceb738260f3",
+      "datavalue": {
+       "value": {
+        "time": "+1871-11-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15664229$24b58533-44b0-4c9b-886c-be0ac34f257c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dedb278b2e61f303281c4869f11335f62c93af17",
+      "datavalue": {
+       "value": {
+        "time": "+1961-02-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15664229$da2dc96a-4305-308d-b75a-293aa920e446",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים זלמן הלפרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q15664229.json"
+}

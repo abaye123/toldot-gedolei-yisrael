@@ -1,0 +1,174 @@
+{
+ "id": "Q12408279",
+ "url": "https://www.wikidata.org/wiki/Q12408279",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408279",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק קוסובסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchak Kossowsky"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בכמה מערי ליטא וראב\"ד יוהנסבורג"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408279$89E934CB-89BE-4AE8-86DA-17DDD2F8F810",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408279$E03CAB92-ADE9-4FD3-BC17-7A9910D8460B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d7fdfdbc1e645834507286139a8cec674351bd33",
+      "datavalue": {
+       "value": {
+        "time": "+1877-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408279$82CF0783-975A-4B86-9FE3-5F068DBDF6AB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4b35434c632dff0358c2a76bd6e8a48e63e6ea86",
+      "datavalue": {
+       "value": {
+        "time": "+1951-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408279$7E91C735-76AC-4F65-B752-C013A2391934",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1e77e31acfc9c8aaeb7d5316c359afd02493bba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408279$8AF4021D-95B1-4584-AB26-6A950BF86F05",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fb168dfd673268f0ee0f88a88416be75bcf13944",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 34647,
+        "id": "Q34647"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408279$86E973C8-EA4E-4414-9161-06482389BC73",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק קוסובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q270": "ורשה",
+  "Q34647": "יוהנסבורג",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408279.json"
+}

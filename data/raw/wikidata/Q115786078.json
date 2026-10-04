@@ -1,0 +1,85 @@
+{
+ "id": "Q115786078",
+ "url": "https://www.wikidata.org/wiki/Q115786078",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q115786078",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חנן הנחבא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חסיד בן בתו של חוני המעגל"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנין הנחבא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115786078$8c519af9-46c4-d747-f67c-15a50c6c7078",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115786078$7a2a5600-4e75-cc93-8cd4-70fe3759c1bd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנן הנחבא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q115786078.json"
+}

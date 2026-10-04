@@ -1,0 +1,134 @@
+{
+ "id": "Q4694994",
+ "url": "https://www.wikidata.org/wiki/Q4694994",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4694994",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aharon Pfeuffer"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן פפויפר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "South African rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב דרום אפריקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694994$707C99CE-C111-4AE7-8AEF-FBB2CFC10B5E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4694994$57AD75A2-A925-4F48-9468-BE0C65BF35F4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "74b52dbf315116c347f5eb99763200fce24a0eba",
+      "datavalue": {
+       "value": {
+        "time": "+1993-05-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4694994$83108B32-7F01-4D48-97CF-DF0D4E8EAE58",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "863ae2440900cb5133df3633819c11d69f1ff8a9",
+      "datavalue": {
+       "value": {
+        "time": "+1949-01-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4694994$CB662C0D-503F-4F2B-831B-0AB508FED6A2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן פפויפר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4694994.json"
+}

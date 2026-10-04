@@ -1,0 +1,339 @@
+{
+ "id": "Q6578241",
+ "url": "https://www.wikidata.org/wiki/Q6578241",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6578241",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים מקלעת חמאד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ephraim of Kelat Hamad"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחכמי צפון אפריקה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ephrayim of Kalah Hammad"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6578241$C717F6D8-0B62-457E-93CF-26B137AACB0C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6578241$23B968D6-A35C-4D00-AD51-340598A1687A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6578241$C4D21990-06B4-40BE-AB8D-232B710E6F5D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "050d79646517f9a3bf73c976781f73aa3a625cb7",
+      "datavalue": {
+       "value": {
+        "time": "+1050-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6578241$48D8C213-A305-4FBF-B819-E7B5687E0D91",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ec328ba420018c85e08ad4566e54a80f0167af19",
+      "datavalue": {
+       "value": {
+        "time": "+1150-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6578241$42A1B988-4419-4A75-99F4-4B44901E6AE8",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "6940602e309c025707cfef4120a574e45c643c1c",
+      "datavalue": {
+       "value": {
+        "text": "ר' אפרים מקלעת חמאד",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$1D708466-9FF4-4EE4-A904-AAE94252FFE1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "55f3031ecc987e2abfe9f13aa747481f2b3d5080",
+      "datavalue": {
+       "value": {
+        "text": "רבינו אפרים",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$3B98840E-E83B-4ECD-8C3A-638068D1D3B5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "a682b5e66039568382cdbe7f8e099a9e9c8d9c5f",
+      "datavalue": {
+       "value": {
+        "text": "רבינו אפרים ז\"ל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$81AF121F-0B2C-4047-BD84-AB7DA7424C63",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "d48caf4cfaf48160beed6784e8c43c58e7fad837",
+      "datavalue": {
+       "value": {
+        "text": "רבי´ אפרים ז״ל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$EE8F6878-8A6C-44E4-839C-F88274AA5937",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "8047146487acffefd8c69565e9ed5058c361fd80",
+      "datavalue": {
+       "value": {
+        "text": "רבינו אפרים זצ״ל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$6FF8E9C2-F790-4677-A552-7994CC258E92",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "2169248bf44ae3349d8403517949159315c60684",
+      "datavalue": {
+       "value": {
+        "text": "אפרים יצ״ו",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$4320BEF2-3AC9-4AA2-B77A-8E4B29AFE2DF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "3ca92cf16eac663ea1d1ccb5f92e6cfc140e67a4",
+      "datavalue": {
+       "value": {
+        "text": "אפרים ב״ר אליעזר",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$6DBBDD35-1A03-4BE6-8DFF-6161C8C46816",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "e472f604cc0c1d2815b5a80db0f9a69bd771c34b",
+      "datavalue": {
+       "value": {
+        "text": "רבי´ אפרים הדיין החסיד זצ״ל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$D04DBB86-47CE-47ED-9C2F-C4457F548083",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "05d886acaaeb5e0ab920be24261884c00c371206",
+      "datavalue": {
+       "value": {
+        "text": "אפרים ז״ל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$0F85DBAA-AA91-4CEF-8F27-59899BA7E160",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "21c02fbf92eeb10296511da2ff0fce1db759fcb4",
+      "datavalue": {
+       "value": {
+        "text": "הרב אפרים",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q6578241$47F0A8DC-5A5B-4736-9D2B-B3F3CE1C1126",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים מקלעת חמאד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6578241.json"
+}

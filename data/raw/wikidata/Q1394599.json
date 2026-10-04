@@ -1,0 +1,175 @@
+{
+ "id": "Q1394599",
+ "url": "https://www.wikidata.org/wiki/Q1394599",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1394599",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה בן יצחק בונמש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses ben Isaac Bonems"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה בן יצחק מלובלין"
+    },
+    {
+     "language": "he",
+     "value": "מהדורה בתרא"
+    },
+    {
+     "language": "he",
+     "value": "מהדורא בתרא"
+    },
+    {
+     "language": "he",
+     "value": "מהדורי בתרא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1394599$77A91745-5C76-48C7-BA8D-08F8E84D53B6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "010b91805576778089e0ef9b3e4f3af4bdf7c634",
+      "datavalue": {
+       "value": {
+        "time": "+1668-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1394599$C670DAB9-D3B6-4AF3-809F-60FEEB3B5D2C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1394599$BE206DA0-EBE8-4565-99D2-4BDC30D0745A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cde235fac8352823b62c3256330100235b019e9d",
+      "datavalue": {
+       "value": {
+        "time": "+1600-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1394599$55bfb2ab-415f-3dbb-c7bd-42cbccab49c4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c7d8495d0b8a5dcb9321cd4560bb1e0bf5a26346",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 204150,
+        "id": "Q204150"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1394599$29d0974a-4907-51b4-b6a2-b8805e79630e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה בן יצחק בונמש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q204150": "פינסק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1394599.json"
+}

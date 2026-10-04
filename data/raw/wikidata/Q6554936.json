@@ -1,0 +1,187 @@
+{
+ "id": "Q6554936",
+ "url": "https://www.wikidata.org/wiki/Q6554936",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6554936",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק גראנבום"
+   },
+   "en": {
+    "language": "en",
+    "value": "Izak Graanboom"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הולנדי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6554936$F65A133B-DD7F-4037-AE40-6754A65CE006",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "222c16a47a69fc6ad7db3380931e90d0a40693c9",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2441492,
+          "id": "Q2441492"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "56447f46ec5ed26fe61434deaef7f083a60b688b",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 6190025,
+          "id": "Q6190025"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q6554936$3D4CFF1C-B080-44DC-A140-04DD520B1E6C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fc88e65dce8f73c6a2a2d494d9794831c2dee81d",
+      "datavalue": {
+       "value": {
+        "time": "+1738-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6554936$43fe5c66-47de-aee4-9149-187a5267aad8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3285d8c2f537fbcc2abdc079d32059c0abfca953",
+      "datavalue": {
+       "value": {
+        "time": "+1807-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6554936$ac5ab6bb-4045-7c89-6b92-cd3bd335956d",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "2de0ccb460e8e3618aa667ccb5536c22ce11c335",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17187883,
+        "id": "Q17187883"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6554936$e51c4263-49bc-aa1b-5c8e-6b460db94e85",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק גראנבום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17187883": "Israëlitische Begraafplaats",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6554936.json"
+}

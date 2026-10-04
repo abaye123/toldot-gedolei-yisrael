@@ -1,0 +1,191 @@
+{
+ "id": "Q5379345",
+ "url": "https://www.wikidata.org/wiki/Q5379345",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5379345",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Enoch Zundel ben Joseph"
+   },
+   "he": {
+    "language": "he",
+    "value": "חנוך זונדל בן יוסף"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנוך זונדיל בן יוסף"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "HANOCH SUNDEL B. JOSEPH"
+    },
+    {
+     "language": "en",
+     "value": "Ḥanokh Zondel ben Yosef"
+    },
+    {
+     "language": "en",
+     "value": "Ḥanoḵ Zundel ben Yosef"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5379345$8BACDF96-CCEC-41E4-8A53-AF0342ECCAA8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "78e4309eb6d119ef4320a44d94309f965bf67bd2",
+      "datavalue": {
+       "value": {
+        "time": "+1867-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5379345$483456F8-1060-4123-9131-C6F8C39D8FF0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "acbd5667ab98bd321ac4a3b07562b0c67eebdb93",
+      "datavalue": {
+       "value": {
+        "time": "+1859-12-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5379345$47de4d0b-4145-4f7d-4894-7303fcc58097",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5379345$068319AE-ABCE-44E4-9995-C094A013BA22",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb1fbdd090ef3cb31f51c8348856b9392520e3d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5121550,
+        "id": "Q5121550"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5379345$332609C5-B49A-43E4-9EC4-9F284695C0BF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "243e0b9f523a6ba7c5f428bd101c7a01f45b8e2a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5379345$fde1e948-411d-a674-11ed-0592e6c7e328",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנוך זונדל בן יוסף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5121550": "חוקר יהדות",
+  "Q761": "ביאליסטוק"
+ },
+ "raw": "data/raw/wikidata/Q5379345.json"
+}

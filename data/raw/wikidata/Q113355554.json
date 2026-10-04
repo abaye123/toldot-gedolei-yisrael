@@ -1,0 +1,124 @@
+{
+ "id": "Q113355554",
+ "url": "https://www.wikidata.org/wiki/Q113355554",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113355554",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה שמשון וסרמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני ישראלי במאה ה-20"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355554$D4C21F5D-CED6-4F90-968C-BF6E4BF8984B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355554$1BF2C72E-01E1-4F48-AD67-A349DA43A40A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5957cd903c1de6ffe39a36d5421c5b1e09d4f756",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355554$CDE5F31E-3BA3-479B-B22B-A49F1B97A94E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b2f5a84bf083eb8a3fa567a34ebe73f6a0651cc0",
+      "datavalue": {
+       "value": {
+        "time": "+1962-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355554$8B75A3ED-B507-4B24-A2A3-30448848C869",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה שמשון וסרמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q465104": "ברודי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113355554.json"
+}

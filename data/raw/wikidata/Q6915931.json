@@ -1,0 +1,197 @@
+{
+ "id": "Q6915931",
+ "url": "https://www.wikidata.org/wiki/Q6915931",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6915931",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses Sebulun Margolies"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה זבולון מרגליות"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1851-1936)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Moses Sebulun Margolies"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Margolies"
+    },
+    {
+     "language": "en",
+     "value": "Moses S. Margolies"
+    },
+    {
+     "language": "en",
+     "value": "Moses Zebulun Margolies"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915931$4C0BCEA0-4F60-4FB8-AD93-EFF6A6F2A69C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "33437a8e4adf7968af05d5623af8bdd66804fc03",
+      "datavalue": {
+       "value": {
+        "time": "+1936-08-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6915931$2B2BBF8C-8935-4057-9EFA-E7FE6B35E297",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915931$E5393E93-BD93-453A-AF0D-E651342559ED",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a0a4bc0f16680ef198831aff6054751e1bffd5c3",
+      "datavalue": {
+       "value": {
+        "time": "+1851-04-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6915931$CBBBE0C8-050D-40C0-AE07-CA28ECC88F9C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1f8afd4a06ac039e4ce7ba2fc8fbf24b91e73ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3183314,
+        "id": "Q3183314"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915931$C533E346-D7B2-4090-B6D7-B62EF56760BB",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3273a8a35a973731a0021a38e4981bcfb74d8906",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20502000,
+        "id": "Q20502000"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6915931$4c264408-4624-cc73-bbea-ee67ee563400",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה זבולון מרגליות",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20502000": "יום טוב ליפמן הלפרין",
+  "Q3183314": "קרוז'",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6915931.json"
+}

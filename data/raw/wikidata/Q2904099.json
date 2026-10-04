@@ -1,0 +1,195 @@
+{
+ "id": "Q2904099",
+ "url": "https://www.wikidata.org/wiki/Q2904099",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2904099",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה חיים אפרים מסדילקוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Chaim Ephraim of Sudilkov"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "המחנה אפרים"
+    },
+    {
+     "language": "he",
+     "value": "בעל הדגל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Moshe Chaim Ephraim"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904099$06502a17-44cf-8af7-dc5d-60ff493c2fe1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0df3a3bc5a9dfb7e1012dc28976eaab9279cceb7",
+      "datavalue": {
+       "value": {
+        "time": "+1748-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904099$987E65FE-0C39-4DB4-A3E6-69139B54EFD3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904099$7A864676-8060-40A2-8C81-01780CDC4C9B",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9e1557d02682c9ef66529ba471e9dda79d78e369",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 319062,
+        "id": "Q319062"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904099$A98626EA-94A5-4AFB-B0F4-53175870F209",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e0a096a253bc89fdd9730a00e9b031b39671933d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1022485,
+        "id": "Q1022485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2904099$ECB6F8A2-E63C-4388-AA5A-01D8DDED3A74",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1fa69a06aa0e07893cd855adaba6d0ed56ca9345",
+      "datavalue": {
+       "value": {
+        "time": "+1800-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2904099$A87DD4C4-E166-483D-99B5-B0BEA750B3D6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה חיים אפרים מסדילקוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1022485": "מז'יבוז'",
+  "Q133485": "רב",
+  "Q319062": "הבעל שם טוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2904099.json"
+}

@@ -1,0 +1,100 @@
+{
+ "id": "Q64590733",
+ "url": "https://www.wikidata.org/wiki/Q64590733",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q64590733",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי יהושע הגרסי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בן הדור הרביעי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q64590733$BBE07E1C-70A1-441D-B204-C8221DA617AB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q64590733$b595e89e-4f60-d12f-2b47-395c82f4a08f",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "cbd148524aa424bc805d441f1d7af5fd2b49dec0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 310821,
+        "id": "Q310821"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q64590733$644d6b22-4aab-6555-044e-a2767c3e3831",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יהושע הגרסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q310821": "רבי עקיבא בן יוסף",
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q64590733.json"
+}

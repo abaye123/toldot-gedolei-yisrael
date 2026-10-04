@@ -1,0 +1,251 @@
+{
+ "id": "Q5360762",
+ "url": "https://www.wikidata.org/wiki/Q5360762",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360762",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer Heilbut"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלעזר היילבוט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אלעזר לאזי בן יוסף"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360762$8882E416-60F3-4156-80FE-7CF95FEC9784",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "53177b89d6caae9a9d78c01840e7f967b0b9354d",
+      "datavalue": {
+       "value": {
+        "time": "+1740-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360762$C0811EE4-EE1C-4AE1-BDCB-378001D42622",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "648b39a98328e73586457f0222b0f387e044e0be",
+      "datavalue": {
+       "value": {
+        "time": "+1740-09-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360762$F1B5D454-592D-4AB9-AD25-E0590E783948",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4664ec73d7ce394e5cf18f4585a5d17f968703c3",
+      "datavalue": {
+       "value": {
+        "time": "+1814-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360762$A63774DF-F1E2-4EDB-9F2D-9A70E43E1678",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c551492223ee54ae7d1ee4ae3b9baf7ae6c2219e",
+      "datavalue": {
+       "value": {
+        "time": "+1814-01-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360762$20A764DF-7947-41EC-A769-9012E923AA6B",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360762$15005FFE-7320-4AD2-8121-8EA7A74BE635",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8bc3a00e2035c63c36dda8717c29c988389137d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1055,
+        "id": "Q1055"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360762$41CC36FA-3EF6-466C-86E4-44E82064A92B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "11c4ef35f23c9b0a50d909dad962c23b6ef9172e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 64,
+        "id": "Q64"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360762$61059767-4814-40F1-9124-C96F0335B158",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "a729bfefdafe36a788d5078b0dadeb0aa2d35037",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29557214,
+        "id": "Q29557214"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360762$d942aafc-48e0-d018-b94d-7fad28548c02",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר היילבוט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1055": "המבורג",
+  "Q133485": "רב",
+  "Q29557214": "יצחק אייזיק ברלין",
+  "Q5": "אדם",
+  "Q64": "ברלין"
+ },
+ "raw": "data/raw/wikidata/Q5360762.json"
+}

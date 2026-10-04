@@ -1,0 +1,126 @@
+{
+ "id": "Q6587609",
+ "url": "https://www.wikidata.org/wiki/Q6587609",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6587609",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רמי בר יחזקאל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rami Bar Yechezkel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בן הדור השני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6587609$A872314B-57FF-4DE6-B9AF-A93FDA327F8B",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "228a2bb02a1798cb24c151fc2e04549d47452457",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6603176,
+        "id": "Q6603176"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6587609$54a990e6-4f32-0406-fd3b-fd079256e19a",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "5835e5ea0ec360c2e13ffd72cecde4f49916501a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359777,
+        "id": "Q359777"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6587609$71654aa5-4a59-1766-876b-7ebdc59fa8ef",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6587609$80B4FF02-1B0F-4FFC-8410-22CFED582669",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רמי בר יחזקאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q359777": "רב יהודה",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q6603176": "רב יחזקאל"
+ },
+ "raw": "data/raw/wikidata/Q6587609.json"
+}

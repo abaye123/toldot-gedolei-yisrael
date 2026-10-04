@@ -1,0 +1,177 @@
+{
+ "id": "Q4669065",
+ "url": "https://www.wikidata.org/wiki/Q4669065",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669065",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Lévy-Bacrat"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם הלוי בקראט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי, מחבר \"ספר זכרון\" על פירש\"י על התורה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Levy-Bacrat"
+    },
+    {
+     "language": "en",
+     "value": "Abraham Bokrat"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי אברהם בן שלמה הלוי בקראט"
+    },
+    {
+     "language": "he",
+     "value": "רבי אברהם בר שלמה הלוי בקראט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669065$5FA14C36-517F-4B7F-8577-A49992BAA8CC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669065$A465E8C0-4E42-408A-B00C-B67CBF67EB8E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2c7ccff534297e4d88858135e7cff5f860686b14",
+      "datavalue": {
+       "value": {
+        "time": "+1401-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669065$C455EA7C-3A18-4A7B-8856-BB82FF13AA5A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1378050b4cc0388800c25df00214824ee1289b83",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 8851,
+        "id": "Q8851"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669065$0bf68eec-49a6-4f3a-d646-553cda084189",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ce1c19a4e5e2b4c3b0f9c2d42446d6b5a95e9473",
+      "datavalue": {
+       "value": {
+        "time": "+1501-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669065$3774B6EF-2C52-4836-BEEE-3F3D7A71A479",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם בקראט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q8851": "מאלגה"
+ },
+ "raw": "data/raw/wikidata/Q4669065.json"
+}

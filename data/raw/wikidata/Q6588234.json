@@ -1,0 +1,176 @@
+{
+ "id": "Q6588234",
+ "url": "https://www.wikidata.org/wiki/Q6588234",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6588234",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה זרקא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shelomoh Zarka"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588234$CDAA534D-09FD-4DF9-907C-B10277ADC5EE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588234$C7EE592C-7A69-4BDE-A7F5-615D40BE0218",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "67733936ea4027c6039fdd7477f0f9daa165f1d4",
+      "datavalue": {
+       "value": {
+        "time": "+1876-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6588234$5b66b52d-474a-984c-0414-8585250b616f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588234$d633e72c-471d-3193-2826-6154c4bdab44",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1844cd4f49e94aee369fc34ab2a13257065000d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 609871,
+        "id": "Q609871"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588234$0f841df3-4aaf-d64c-7ef9-4c0454334ce4",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e157cdcc4760d1d7f3b7f6a7ade144445cb39cfd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 131818,
+        "id": "Q131818"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588234$04731e72-49b4-f260-7ff8-71efa67b0c21",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה זרקא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q131818": "אוראן",
+  "Q133485": "רב",
+  "Q3572": "תוניס",
+  "Q5": "אדם",
+  "Q609871": "גלמה"
+ },
+ "raw": "data/raw/wikidata/Q6588234.json"
+}

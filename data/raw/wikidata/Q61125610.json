@@ -1,0 +1,176 @@
+{
+ "id": "Q61125610",
+ "url": "https://www.wikidata.org/wiki/Q61125610",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q61125610",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבא שאול חדאד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shaul Haddad"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחנך, מורה צדק ורבה הראשי של העיר בן גרדאן שבתוניסיה, ומחבר ספרים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125610$6b620e9d-4a16-4216-9c5f-3f647c511ba9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125610$839dd551-465d-4951-6880-8b84ea05d2f9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4092cdd40d32e467478f5ed861475a0c3a9db70b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188938,
+        "id": "Q188938"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125610$0f6172c2-4138-91e3-f37b-89d83bf3a48d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dea362a5f2e02d76e7b966e13cb8f839abca1f10",
+      "datavalue": {
+       "value": {
+        "time": "+1940-04-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q61125610$2d9164df-4a9f-06c0-e1f8-0405132513c8",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "32b3bd98df46e1f68bad135f2a3e2cdbcc32c9a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 102730661,
+        "id": "Q102730661"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125610$369d228b-452b-640e-60d1-e74ea864c77f",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3e4e61991295a5de1f129a1345de825b10067244",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 124821140,
+        "id": "Q124821140"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125610$6cd14905-480e-dd60-f27d-935e8c48091c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבא שאול חדאד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q102730661": "יהודה חדאד",
+  "Q124821140": "יוסף ברבי",
+  "Q133485": "רב",
+  "Q188938": "ג'רבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q61125610.json"
+}

@@ -1,0 +1,124 @@
+{
+ "id": "Q6793073",
+ "url": "https://www.wikidata.org/wiki/Q6793073",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6793073",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם יצחק גרשונוביץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה יהודי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6793073$718D2A42-908E-4917-BCFE-EB0FCE5036C4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7380089dd31ae321e0fa0f2bb0f22374a7d0b63b",
+      "datavalue": {
+       "value": {
+        "time": "+1954-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6793073$7B62DB97-0346-4797-AC3F-9F34D0A3EB00",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6793073$C0A74820-EEF8-4037-9361-2C8C96C1EAD8",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "994718add64c0ce8aca57bf14384c7a71ffa11c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 27009578,
+        "id": "Q27009578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6793073$1e9480a5-4c41-7816-906d-842c622a74f9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם יצחק גרשונוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q27009578": "ראובן יוסף גרשונוביץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6793073.json"
+}

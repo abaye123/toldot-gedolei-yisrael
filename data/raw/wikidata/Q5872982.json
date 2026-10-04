@@ -1,0 +1,135 @@
+{
+ "id": "Q5872982",
+ "url": "https://www.wikidata.org/wiki/Q5872982",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5872982",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hiyya b. Abin Naggara"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב חייא בר אבין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish Talmudist"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי מהדור הרביעי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חייא בר אבין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5872982$ABBEAD11-0A5E-41AA-A7F6-DCD2BC4B9226",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5872982$82745771-BD2E-4DC6-8502-6CC882B6B5D1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5872982$578C1E24-AB88-40F9-B963-C8C5915BB224",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "672c18ea0cb6593568999442893a5e42e48745d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104399845,
+        "id": "Q104399845"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5872982$d830472e-498f-4889-c551-d6261bcd495b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב חייא בר אבין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q104399845": "רבי אבין נגרא",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q5872982.json"
+}

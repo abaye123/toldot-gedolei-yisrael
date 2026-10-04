@@ -1,0 +1,164 @@
+{
+ "id": "Q30527480",
+ "url": "https://www.wikidata.org/wiki/Q30527480",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30527480",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד חיים צבאח"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Tsabah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב יהודי-מרוקאי במרקש"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Tsebaḥ, Daṿid"
+    },
+    {
+     "language": "en",
+     "value": "Tsabaḥ, Daṿid Ḥayim"
+    },
+    {
+     "language": "en",
+     "value": "SABBAH, DAVID HAYYIM"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527480$C163DDC1-7160-405B-B6E6-1964EE617BEB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "39a853cd52a2b46855a56dc22b74fde666a6019c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527480$67640E34-5C58-4E56-BD8C-2A0D5EEDBC12",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b7e802ac27e747020032ce87ee7fd4dd757cdf78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527480$1A8588B4-C554-41FC-8BE6-9183D869F687",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "735d76fbf247a3cecad8680703ea300cb0f62a00",
+      "datavalue": {
+       "value": {
+        "time": "+1858-09-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30527480$78f6f136-4d37-bf26-cdd3-88357814cdc5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527480$31AE4EF4-D010-4C0A-BA07-F31FDA034A1B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד חיים צבאח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q101625": "מרקש",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30527480.json"
+}

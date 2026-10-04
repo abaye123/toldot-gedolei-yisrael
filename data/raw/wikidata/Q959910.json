@@ -1,0 +1,309 @@
+{
+ "id": "Q959910",
+ "url": "https://www.wikidata.org/wiki/Q959910",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q959910",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ידעיה הפניני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jedaiah ben Abraham Bedersi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "philosopher"
+   },
+   "he": {
+    "language": "he",
+    "value": "פילוסוף ומשורר יהודי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ידעיה בדרשי"
+    },
+    {
+     "language": "he",
+     "value": "ידעיה הבדרשי"
+    },
+    {
+     "language": "he",
+     "value": "ידעיה בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "בדרשי, ידעיה"
+    },
+    {
+     "language": "he",
+     "value": "ידעחה,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "En Bonet"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "dc2531e1639db5fe2cbdc99a3e0c7fdc315e2f44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 174019,
+        "id": "Q174019"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q959910$115EAB3E-E401-437E-A765-2594EC87252D",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$0C568146-80A8-42C6-ABB9-67C445E4AC5D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4df49af62f47719abca036ef121ed1663e754295",
+      "datavalue": {
+       "value": {
+        "time": "+1270-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q959910$9E502CCC-B25C-48B1-9368-5BA83D87C7F2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2defdae5fb127816ebd472af63e80ce753926b6e",
+      "datavalue": {
+       "value": {
+        "time": "+1340-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q959910$CAAFBF00-D988-4167-9CC8-0B1AEACEEF64",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$04F4BDB6-B624-42D3-A752-278299876EB0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$75a533ac-4a74-9c4a-d08d-908ef9f6d641",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$f4b9a2ee-4dc9-1cc6-f92e-d2568f6fe6b7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$30ead8eb-4f8f-33d3-5ac7-460b64d75001",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f86344dccad2bcc474498c95be28f5eee9acca42",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4668765,
+        "id": "Q4668765"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q959910$b585717e-491e-87e3-e50a-90ff7c532ec5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ידעיה הפניני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q174019": "בזייה",
+  "Q36180": "סופר",
+  "Q4668765": "אברהם בדרשי",
+  "Q4964182": "פילוסוף",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q959910.json"
+}

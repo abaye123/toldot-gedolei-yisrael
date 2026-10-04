@@ -1,0 +1,146 @@
+{
+ "id": "Q117878288",
+ "url": "https://www.wikidata.org/wiki/Q117878288",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q117878288",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד פאיאנס (רב)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראב\"ד ביאליסטוק, ממנהיגיה הרוחניים של תנועת המזרחי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117878288$cf1050f3-484c-5ff7-bd06-60a88151154d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117878288$3304e9f6-45af-d5b8-2f5b-9d80e6b5d975",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0b53df1ed9e6f6582f8681c6db801d68a13c9881",
+      "datavalue": {
+       "value": {
+        "time": "+1935-03-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117878288$2848AE4F-2186-4195-A9B2-0333FBBC4F16",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "243e0b9f523a6ba7c5f428bd101c7a01f45b8e2a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117878288$8974FF5C-84EA-4986-8D0C-5E8D694B126B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4c631d8dddc4f07bd53db09a33b41c7911bf4e2c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201230,
+        "id": "Q201230"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117878288$E4D4D80B-2CFC-4FEA-89D6-61ED066E286A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד פאיאנס (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201230": "ניאסוויז'",
+  "Q5": "אדם",
+  "Q761": "ביאליסטוק"
+ },
+ "raw": "data/raw/wikidata/Q117878288.json"
+}

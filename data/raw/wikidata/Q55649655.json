@@ -1,0 +1,154 @@
+{
+ "id": "Q55649655",
+ "url": "https://www.wikidata.org/wiki/Q55649655",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55649655",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון מימון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shimon Maimon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין ורב העיר גאבס שבתוניסיה במאה ה-20"
+   },
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649655$357ADBB9-2741-4480-864A-BEDF2058AD8E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e4baaa44c3df88dde2be2f2473fc725b51e84176",
+      "datavalue": {
+       "value": {
+        "time": "+1981-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55649655$EAA94828-2DA9-4CED-AA22-EAA7213361DC",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d8cf330645f82a413e989756bef7ca5d7f759e08",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 215661,
+        "id": "Q215661"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649655$292BA49D-0C36-4E31-8BF8-438DD2B1514D",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0e473b7c36e26647805290e63078d360b8fe3b43",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41843,
+        "id": "Q41843"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649655$99C6F2EF-E7C1-4E21-B238-61F0CF1D3888",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55649655$d0320e77-48a1-4bfe-37fc-251b36242d2a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון מימון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q215661": "גאבס",
+  "Q41843": "באר שבע",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q55649655.json"
+}

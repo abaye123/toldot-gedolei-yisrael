@@ -1,0 +1,152 @@
+{
+ "id": "Q7066556",
+ "url": "https://www.wikidata.org/wiki/Q7066556",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7066556",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל אבא ציטרון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Abba Zitron"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה השני של פתח תקווה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7066556$ADF3FD37-E2A6-424A-9D45-90232633CD3F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7066556$25BD90C7-162F-4856-A31F-7CC5E51A6B73",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7066556$E43530B7-883C-4B9F-B07A-FB4B68999435",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a2a90dc0517e14d1d6b2bc356bc9fea295a93594",
+      "datavalue": {
+       "value": {
+        "time": "+1881-01-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7066556$9432EE15-8D44-4814-920E-0EAFB597E085",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "13c05206571db39bd1035909c9bb34e495dd2b6d",
+      "datavalue": {
+       "value": {
+        "time": "+1927-09-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7066556$B63BCCDF-5D0C-451E-B276-D054896EC848",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל אבא ציטרון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6958598": "בית הקברות סגולה"
+ },
+ "raw": "data/raw/wikidata/Q7066556.json"
+}

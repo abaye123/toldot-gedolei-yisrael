@@ -1,0 +1,174 @@
+{
+ "id": "Q16442044",
+ "url": "https://www.wikidata.org/wiki/Q16442044",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16442044",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yitzchak Abadi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק עבאדי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American Haredi rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16442044$35F50BBC-E386-48EF-9E99-30D89DB67B57",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e1fd6a8083e69de161e25296b2fcc6ab07af9037",
+      "datavalue": {
+       "value": {
+        "time": "+1933-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16442044$C6EEBF16-D6E9-4709-89C1-EA9798876047",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16442044$3291035D-368E-4015-B5A6-1C87D5791702",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "57dc787c7225cc46e3224e703df134b0558548dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 717,
+        "id": "Q717"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16442044$AC0194B9-9936-45AD-A75B-EC1AAE728FA1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "42b9056cedfd18d76531f161780922f85e859938",
+      "datavalue": {
+       "value": {
+        "time": "+2025-12-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16442044$caef2f6e-4609-a845-27cf-99979651e05d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ee002b9ce06c37402d87e0aefcbf81b22adc12b3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1088792,
+        "id": "Q1088792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16442044$2b51b2d3-4b7b-dafe-4cb7-0c3fc2a48ff3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק עבאדי (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1088792": "לייקווד",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q717": "ונצואלה"
+ },
+ "raw": "data/raw/wikidata/Q16442044.json"
+}

@@ -1,0 +1,231 @@
+{
+ "id": "Q457187",
+ "url": "https://www.wikidata.org/wiki/Q457187",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q457187",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל בן חפני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel ben Hofni"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "last gaon of Sura"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל בן חופני"
+    },
+    {
+     "language": "he",
+     "value": "שמואל בן חפני גאון"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shemu’el Ben Ḥofni"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q457187$9538F731-7867-4217-A3B6-760DEB569766",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52c5db29f8182e4a32f070f0b2c384be3424cb1d",
+      "datavalue": {
+       "value": {
+        "time": "+1000-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q457187$9EEF1BCB-2338-4BA4-92FF-9D1DBF524C49",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f6e2ca8ec8c42f2e97655714cd5e3f19cf41fa14",
+      "datavalue": {
+       "value": {
+        "time": "+1013-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q457187$FE4B85A5-F32B-40FC-B073-8B28F85F80CD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q457187$538BFAFF-337C-47A5-A7AC-832AE6731C83",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q457187$AFE231A8-59B9-4DBB-A011-60D34F3664CD",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0bdbbe1cb1a066241d484ecf5d378327e71d6fa1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141493260,
+        "id": "Q141493260"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q457187$b048dc5c-449d-9d9e-c0f2-325dc7cb39b1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב שמואל בן חפני גאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q141493260": "ישראל הכהן בן שמואל",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q457187.json"
+}

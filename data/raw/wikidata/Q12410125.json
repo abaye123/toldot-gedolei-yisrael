@@ -1,0 +1,201 @@
+{
+ "id": "Q12410125",
+ "url": "https://www.wikidata.org/wiki/Q12410125",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12410125",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "סעיד עוזרי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת בית אלאוסטא בקאע אל-יהוד בצנעא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "סעיד עזיירי"
+    },
+    {
+     "language": "he",
+     "value": "סעיד עזירי"
+    },
+    {
+     "language": "he",
+     "value": "סעדיה אלעזירי"
+    },
+    {
+     "language": "he",
+     "value": "סעיד אלעזירי"
+    },
+    {
+     "language": "he",
+     "value": "סעיד עוזירי"
+    },
+    {
+     "language": "he",
+     "value": "סעדיה עוזירי"
+    },
+    {
+     "language": "he",
+     "value": "סעדיה עזירי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410125$3A777053-A63D-430C-ACF3-BD14981D345B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410125$F5C10786-F8F0-4550-AE14-3B5751A29FFF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e0452b991567c4fa1705d40bdfa8cc8e14484732",
+      "datavalue": {
+       "value": {
+        "time": "+1954-07-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410125$7582E015-3115-4B60-B88B-D10F4E3FFFDB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410125$2E79FB70-D5AD-4A05-B7FB-0D3306E54B68",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "89aaf0ca8f7b156ccac3d3ca55d4e9a0da0e14f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410125$CC405469-1EBA-45E5-B418-F5222E1FE240",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3284b58cbecc286eb481e21e0f07a0953334605f",
+      "datavalue": {
+       "value": {
+        "time": "+1869-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410125$85DA0490-FCA6-417E-9178-285154C42D4E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "סעיד עוזרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q805": "תימן"
+ },
+ "raw": "data/raw/wikidata/Q12410125.json"
+}

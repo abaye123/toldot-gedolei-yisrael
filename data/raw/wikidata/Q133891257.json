@@ -1,0 +1,167 @@
+{
+ "id": "Q133891257",
+ "url": "https://www.wikidata.org/wiki/Q133891257",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q133891257",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chanoch Henach Schick"
+   },
+   "he": {
+    "language": "he",
+    "value": "חנוך הניך שיק"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi of Shklow"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנוך הענוך"
+    },
+    {
+     "language": "he",
+     "value": "Ханох-Генах Шика"
+    },
+    {
+     "language": "he",
+     "value": "חנוך הענך"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133891257$4fac5df8-493c-0c9d-912b-9ccc939efca8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1e708e9920b7ee5611c726375672aec8b5774828",
+      "datavalue": {
+       "value": {
+        "time": "+1723-05-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q133891257$add47982-4c45-84ec-a40f-81b8e657efc6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0c4e795bcee576dd84f681e677ea2496485ffa1a",
+      "datavalue": {
+       "value": {
+        "time": "+1809-04-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q133891257$69c862f9-4c9a-dc9d-49d9-1ecdc60c8c76",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133891257$7cfd40f2-4ff7-6e6c-3243-1eb1abdcd921",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "81030c3a7fe8d511a205cdab860561711474a61f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2630517,
+        "id": "Q2630517"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133891257$b0590fe1-4476-0ced-24e4-bd4d552d4263",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנוך הניך שיק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2630517": "קרוהלה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q133891257.json"
+}

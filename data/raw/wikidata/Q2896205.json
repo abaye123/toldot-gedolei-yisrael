@@ -1,0 +1,197 @@
+{
+ "id": "Q2896205",
+ "url": "https://www.wikidata.org/wiki/Q2896205",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2896205",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הלל מפאריץ'"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hillel HaLevi Paritcher"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Orthodox Jewish Chabad Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומשפיע חב\"די"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הלל מפאריטש"
+    },
+    {
+     "language": "he",
+     "value": "הלוי, הלל בן מאיר"
+    },
+    {
+     "language": "he",
+     "value": "הלל בן מאיר הלוי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Hillel HaLevi Malisov of Paritch"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896205$4C765059-0CF4-4270-8FC1-F4D0729BBC0D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "adb451a1ed94b815b08c8e12317a9da1bb5a9e54",
+      "datavalue": {
+       "value": {
+        "time": "+1795-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2896205$B8F169FA-C11F-41E9-B9E8-5922508C55B7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fe96f288aae4363817fff1929bf4885a4a6dd3c0",
+      "datavalue": {
+       "value": {
+        "time": "+1864-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2896205$6E4B0F30-82ED-443B-9D7D-E5604647E26B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896205$1A1D9A07-3575-4022-A2DD-D9D4A28D7E61",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896205$B987A0BE-8F51-4E04-8D1D-BA06DB1FE83C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "016d862f2da2e6f7e9ea395c4296deedd2112488",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156732,
+        "id": "Q156732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896205$B2DC4F15-579C-43A9-A691-7497DEF00BFC",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל מפאריץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156732": "חרסון",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2896205.json"
+}

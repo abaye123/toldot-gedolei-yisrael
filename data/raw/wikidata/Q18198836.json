@@ -1,0 +1,152 @@
+{
+ "id": "Q18198836",
+ "url": "https://www.wikidata.org/wiki/Q18198836",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18198836",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף יפה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef Yafeh"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי, רבם של כמה יישובים בליטא, ובסוף ימיו במנצ'סטר"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18198836$05816D43-EDB9-46FB-8C94-426A42A0A917",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18198836$BC8E879F-1D5A-4EC6-9C13-92D2F497A392",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5489f189b0db170f01f1e06ee01a7520f61bf2a",
+      "datavalue": {
+       "value": {
+        "time": "+1845-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18198836$5BA3DF40-9D36-41AD-881E-430FE9784962",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "78669a16b3162f1b013ed3dced6f297d0db0c2c5",
+      "datavalue": {
+       "value": {
+        "time": "+1898-06-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18198836$8359AD38-05AC-4A83-9869-3D28A447778E",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "579223c0407a7a4285c4c13dc3f8f2db36841e01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 213127,
+        "id": "Q213127"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18198836$8e1ab924-41c4-e0e2-7c06-c4d6bd70201e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף יפה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q213127": "אוקמרגה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18198836.json"
+}

@@ -1,0 +1,172 @@
+{
+ "id": "Q124365729",
+ "url": "https://www.wikidata.org/wiki/Q124365729",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q124365729",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל הכהן רפפורט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ואב\"ד בטארנוב, גאליציה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ישראל כץ רפפורט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124365729$55EF9D99-6056-4949-B021-603DB30401F2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8f0506630a18381f2748b8d5c291e852ff7faf18",
+      "datavalue": {
+       "value": {
+        "time": "+1881-06-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124365729$78da9f73-49a4-3aae-24da-a11bdfcac394",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "eed2a77a84cc34392a85c3fc7ee4b68e0edc1880",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 106281,
+        "id": "Q106281"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124365729$f5fee723-4c51-e3b1-d4f8-f431837d8e02",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124365729$669c175c-498b-9d47-9b17-33e211d83b7a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "4cf14e7b11a5a71865e71bb8ba5bb1fb2edb7ad8",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 106281,
+          "id": "Q106281"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q124365729$a3de8d3e-46ae-2b23-afe5-000123b360c8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל הכהן רפפורט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q106281": "טרנוב",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q694994": "אב בית דין"
+ },
+ "raw": "data/raw/wikidata/Q124365729.json"
+}

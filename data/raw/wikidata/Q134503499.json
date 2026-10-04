@@ -1,0 +1,217 @@
+{
+ "id": "Q134503499",
+ "url": "https://www.wikidata.org/wiki/Q134503499",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q134503499",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Gabriel Feinberg"
+   },
+   "he": {
+    "language": "he",
+    "value": "גבריאל פיינברג"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f63f38dfb01f8d878c7c8dc633d9202f65a48f88",
+      "datavalue": {
+       "value": {
+        "time": "+1825-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q134503499$ce6c912a-4b66-e33f-7812-f94236c94d1b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "31109a024595eb2eac7fa6361aae0038c2bdc76d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2845251,
+        "id": "Q2845251"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134503499$54b9c7d3-4bbf-1e39-ca1c-8682661df8ce",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134503499$5165ead1-4a0b-a5e1-a9da-8f174fb132f2",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134503499$fa9aa9b0-42c3-2df4-f0f8-222ac18e4e1d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e2e15772ab9625154a86b6d7c9f425e8afde6d4a",
+      "datavalue": {
+       "value": {
+        "time": "+1904-08-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q134503499$931d8c47-4daa-f9cb-db96-1e6f33df8ee5",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "8c2d80bbdbf0847cbd7ae1c270005223dd4aa2c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134506939,
+        "id": "Q134506939"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1039": [
+       {
+        "snaktype": "value",
+        "property": "P1039",
+        "hash": "5eccbec7b73e2539f8796455e2e4eb60713247f7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 10861465,
+          "id": "Q10861465"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1039"
+     ],
+     "id": "Q134503499$dff1c9a7-45c2-7f49-1ebb-98a568561b60",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7c33068c5813ebf6f30c67bb2377b6f90cbec61d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1874,
+        "id": "Q1874"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134503499$3076BE69-5BEA-4DCE-9503-F12A064B1E3D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "גבריאל פיינברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q134506939": "יצחק פיינברג",
+  "Q1874": "אודסה",
+  "Q2845251": "בלבירישוק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q134503499.json"
+}

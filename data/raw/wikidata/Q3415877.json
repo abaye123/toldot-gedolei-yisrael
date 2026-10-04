@@ -1,0 +1,86 @@
+{
+ "id": "Q3415877",
+ "url": "https://www.wikidata.org/wiki/Q3415877",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3415877",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי יצחק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi Itzhak"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מאמוראי ארץ ישראל שירדו מספר פעמים לבבל"
+   },
+   "en": {
+    "language": "en",
+    "value": "3rd-century rabbi in the Land of Israel"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3415877$58FBC5DB-2558-4011-85CC-5632C0E69FF9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "83c4f58eaff2c3a6b2aff8b88d25091fba1b4ba9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 474035,
+        "id": "Q474035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3415877$D8B45AB9-A3AC-45E7-BAF7-53B41811EE5B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יצחק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q474035": "אמוראים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3415877.json"
+}

@@ -1,0 +1,259 @@
+{
+ "id": "Q12409606",
+ "url": "https://www.wikidata.org/wiki/Q12409606",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409606",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה סולובייצ'יק (ציריך)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Soloveitchik"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Haredi rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת לוצרן בשווייץ"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Moshe Mordechai Soloveitchik"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב משה מרדכי סולובייצ'יק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409606$A342AE45-BDBC-41BC-AFFD-5EA094458547",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409606$510A86E9-DB04-4E37-8A03-15E3B02B4D00",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bee77364beaec981cf0c80903bf09a7d49d6421c",
+      "datavalue": {
+       "value": {
+        "time": "+1914-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409606$3FFA62B1-5298-4D82-BC87-03C9113F97F2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a8b3f46a0f686fb26aece9436a972f70345e7308",
+      "datavalue": {
+       "value": {
+        "time": "+1995-05-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409606$266ACF8E-E68D-4207-8BA2-47F54DA660E4",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409606$edc6d4b5-8ed2-4a87-a307-9fcd7732bed8",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "90032636701919ff0ee48883cba878a6303fefb7",
+        "datavalue": {
+         "value": {
+          "time": "+1948-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580"
+     ],
+     "id": "Q12409606$69f7b3a4-c803-4ffb-a00f-414d123fc35f",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "5efeac84a1d87f4b8bb819350fc4d2141cb08d73",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 108887944,
+        "id": "Q108887944"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409606$aa155674-4710-72ed-54f8-d8db6acaca54",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "9dab66153b2a5fd438b416a70628fa0379116def",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 27020086,
+        "id": "Q27020086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409606$ca363b18-4dbf-b489-28d0-93a2207130f3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה סולובייצ'יק (ציריך)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q108887944": "ישראל גרשון סולובייצ'יק",
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q27020086": "ברוך סולובייצ'יק",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12409606.json"
+}

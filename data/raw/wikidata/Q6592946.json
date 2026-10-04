@@ -1,0 +1,152 @@
+{
+ "id": "Q6592946",
+ "url": "https://www.wikidata.org/wiki/Q6592946",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6592946",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף יוסלביץ'"
+   },
+   "en": {
+    "language": "en",
+    "value": "joseph Yoselevich"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי שפעל בפולין"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6592946$795CC080-AA79-46B3-9709-8EAA76570AAD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6592946$DEABB913-9B04-4B91-A692-CCA9C379D3BE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c2f88cc2a54ae4e8d3c6684295cb229fd6c0b35",
+      "datavalue": {
+       "value": {
+        "time": "+1879-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6592946$11eabf7a-4c03-495b-b2c8-1a48dbb132fe",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "16e8c07c53539cca902966d7f400e75d2779fc81",
+      "datavalue": {
+       "value": {
+        "time": "+1935-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6592946$39224b76-4abb-b1ab-e9ad-c2260bfb65ef",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cf2f33dfa34f48a4275d523b55007cce290e86aa",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2596991,
+        "id": "Q2596991"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6592946$92f7f1ee-4528-0c36-94e6-03505338f435",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף יוסלביץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2596991": "לובצ'ה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6592946.json"
+}

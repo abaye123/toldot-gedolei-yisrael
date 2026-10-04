@@ -1,0 +1,196 @@
+{
+ "id": "Q127969198",
+ "url": "https://www.wikidata.org/wiki/Q127969198",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q127969198",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה שרביט הזהב"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מהראשונים, פייטן ומשורר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה בן אליהו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127969198$d0bef3e6-4800-2877-ce5d-aec2a77400f5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127969198$718fe0a5-4ea5-0f39-3e89-403bdf38c9bf",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1c7c954f9c5b67b792ec5811f635bd72daece395",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109143736,
+        "id": "Q109143736"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127969198$a331e3c7-42ca-5b95-be3f-345eba89c961",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "75d4cc560937cf87d3712e0f3f67c4f0da40d3be",
+      "datavalue": {
+       "value": {
+        "time": "+1418-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q127969198$2e127423-4387-7de5-ce63-acb50287f227",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9c752796b1a51c31d7755199d7b13edf585a1b74",
+      "datavalue": {
+       "value": {
+        "time": "+1350-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P5102": [
+       {
+        "snaktype": "value",
+        "property": "P5102",
+        "hash": "d4c5e766752420a93cf195654cd99be733673775",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P5102"
+     ],
+     "id": "Q127969198$f66a3257-45fa-b81f-6abc-559e23156f3b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127969198$27afe029-4a49-1a59-5a45-5bc465ce5f3c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה שרביט הזהב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109143736": "פייטן",
+  "Q17151": "סלוניקי",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q127969198.json"
+}

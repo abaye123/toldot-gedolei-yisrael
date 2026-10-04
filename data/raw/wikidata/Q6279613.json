@@ -1,0 +1,77 @@
+{
+ "id": "Q6279613",
+ "url": "https://www.wikidata.org/wiki/Q6279613",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6279613",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jose b. Zebida"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי יוסי בר זבידא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6279613$B71409C8-FDAF-4D1B-B712-21F77183C488",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "83c4f58eaff2c3a6b2aff8b88d25091fba1b4ba9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 474035,
+        "id": "Q474035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6279613$1911B337-A646-4A0E-8740-DF8E40B0723A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יוסי בר זבידא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q474035": "אמוראים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6279613.json"
+}

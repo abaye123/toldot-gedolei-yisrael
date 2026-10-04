@@ -1,0 +1,215 @@
+{
+ "id": "Q140032465",
+ "url": "https://www.wikidata.org/wiki/Q140032465",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q140032465",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עזרא הנביא ממונקנטור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ezra of Moncontour"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תלמיד חכם צרפתי ואולי גם מקובל, בן המאה ה-13"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140032465$048f3ab3-4f47-6dfb-7196-be2528fe409a",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140032465$4af5b8ba-451d-63b6-84af-967987283baa",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2583dad862f9786a7c0712bc80035ddc3a6f7717",
+      "datavalue": {
+       "value": {
+        "time": "+1150-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P459": [
+       {
+        "snaktype": "value",
+        "property": "P459",
+        "hash": "f054ad54d1ef222c850d18da1dcb69e584f87dc1",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 37113960,
+          "id": "Q37113960"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P459"
+     ],
+     "id": "Q140032465$0216d607-4f7b-4c5c-18ae-7e01c5c031be",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0a608078af931bb59149bbaeaad64e469e001c81",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1970330,
+        "id": "Q1970330"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140032465$66224366-45c7-1abd-b389-07fdb47c6797",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1512671dc994f2d1b21507186769fccce2298c5a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4198116,
+        "id": "Q4198116"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140032465$1ced0c74-43fc-d4f1-bc68-1e1935264f51",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7315ea74f7e32324f1616a93676ea86d6dad680d",
+      "datavalue": {
+       "value": {
+        "time": "+1250-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q140032465$dbab71aa-4379-d10e-0e2c-353772ce8849",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "9245d47ca32586c674fc686602f401d04f8023d4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 72163,
+        "id": "Q72163"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140032465$67ec58b4-474f-c7ef-6fcb-11101360c488",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזרא הנביא ממונקנטור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1970330": "ר\"י הזקן",
+  "Q4198116": "יהודה שירליאון",
+  "Q5": "אדם",
+  "Q72163": "מהר\"ם מרוטנבורג"
+ },
+ "raw": "data/raw/wikidata/Q140032465.json"
+}

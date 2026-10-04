@@ -1,0 +1,323 @@
+{
+ "id": "Q555516",
+ "url": "https://www.wikidata.org/wiki/Q555516",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q555516",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הנרי פררה מנדס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Henry Pereira Mendes"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi and author (1852–1937)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים פרירה מנדס"
+    },
+    {
+     "language": "he",
+     "value": "חיים פררה מנדס"
+    },
+    {
+     "language": "he",
+     "value": "הנרי פריירה מנדס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$078BAFA4-DD77-402D-AE11-DA12C3043FF6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "130d71f253125b76226a11b2c925052614a011dd",
+      "datavalue": {
+       "value": {
+        "time": "+1852-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q555516$333B8F23-0124-4809-80B4-69CCF64C06D4",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8aad96b72988be2d7d622c246091a45c1b6ef74c",
+      "datavalue": {
+       "value": {
+        "time": "+1852-04-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q555516$93e8dca0-4bb4-e98a-a22f-169c53b574c1",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7934eb156ff0077e667a29016f4e87a2c1460131",
+      "datavalue": {
+       "value": {
+        "time": "+1937-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q555516$A9EAD93D-0A33-46E5-97DD-9A459601FCC1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bedfaa85be6770ce2d0efc2c78dce5992b622825",
+      "datavalue": {
+       "value": {
+        "time": "+1937-10-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q555516$893c9ab5-46ea-9f87-165b-04984a341389",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$09B55FAD-E17A-4E0B-AEAD-DACDAC6B0A24",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "bedcf10401a08a539d92f778f166b14092eeb374",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2256,
+        "id": "Q2256"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$DAD2134E-4771-438B-AD3F-A57324F4B64C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$E4FA0A52-D444-457F-8CB6-A923481A4D98",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "c22c57527973269c2f4dc9f51f19fa3331b972d0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4669127,
+        "id": "Q4669127"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$c231eab7-458a-5ff9-3526-b9c08077b904",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "4975244f4f1441da66d295e36595e2f56ffb8277",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 555506,
+        "id": "Q555506"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q555516$2eba6d08-479a-4ce6-f3c1-f4eb7ced173c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הנרי פררה מנדס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2256": "ברמינגהאם",
+  "Q4669127": "אברהם פררה מנדס",
+  "Q5": "אדם",
+  "Q555506": "פרדריק דה סולה מנדס",
+  "Q60": "ניו יורק"
+ },
+ "raw": "data/raw/wikidata/Q555516.json"
+}

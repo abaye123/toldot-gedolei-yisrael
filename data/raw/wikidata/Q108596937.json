@@ -1,0 +1,340 @@
+{
+ "id": "Q108596937",
+ "url": "https://www.wikidata.org/wiki/Q108596937",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q108596937",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק אייזיק רוזנבוים (קליבלנד)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Rosenbaum"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מקליבלנד"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1932–2020)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "תפארת יצחק"
+    },
+    {
+     "language": "he",
+     "value": "זקן אדמו\"רי בית נדבורנה"
+    },
+    {
+     "language": "he",
+     "value": "הרבי של רעננה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$60d170c0-469d-8b90-ee3c-184d1d2fa503",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "098b8cb600005c6da4afe7b45587ea408b70dfd2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 107711172,
+        "id": "Q107711172"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$ac48e360-4de6-5727-d0a1-35cc5709bb10",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6bc764956d4bc4ba8d5975458f0089a4ade12350",
+      "datavalue": {
+       "value": {
+        "time": "+2020-02-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108596937$44331157-4373-92a3-2901-ded038a96671",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "86b46f583eb3226c26f1391bb23fb94e2fc79f59",
+      "datavalue": {
+       "value": {
+        "time": "+1932-12-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108596937$162c8cc1-4eab-d4df-074e-4f6b25ff6934",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P463": [
+       {
+        "snaktype": "value",
+        "property": "P463",
+        "hash": "8d5f3df15cf9fb56d942b26d54ed312cc4753a59",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 6626676,
+          "id": "Q6626676"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P463"
+     ],
+     "id": "Q108596937$6b32d977-4583-d4dd-40f8-ac0df539d68a",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$1b8be2e3-4f0f-3458-17a3-d09a619df3dc",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "d8c29d7c3216bc09242e1cd19a697ebc2b629fe3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920204,
+        "id": "Q2920204"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$823a7026-4c22-1e63-7ae8-4dc1d0f9bd16",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0338b2dd68d44c7d0c5303ca14dc46d47b1b8e73",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2893262,
+        "id": "Q2893262"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$b665f31d-4dc0-f979-c5d3-95cc96a8a5fe",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "fc54385ac4603c9d8afc539f947c425f1656cc51",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 571575,
+        "id": "Q571575"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$ae58242e-44b4-8eac-9215-ad83c526676d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6785984f68a1976bd33a5cc587195c14f02f6075",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2261293,
+        "id": "Q2261293"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$3d2c0443-4d3c-9d39-39a0-9669f7741673",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "46d46f8ad3a8afb1a0232c582eec6b8a09fd0a3b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 147747,
+        "id": "Q147747"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$c4d2d1c5-4dc6-69a3-9970-50bb9811ac43",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1fd30078b168b7377a9961e1ac03ea4c3255b923",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12040651,
+        "id": "Q12040651"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108596937$225cb0f2-43fd-482d-900d-42ae51199da6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק אייזיק רוזנבוים (קליבלנד)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q107711172": "ישכר בער רוזנבוים",
+  "Q12040651": "מרכז רפואי מעיני הישועה",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q147747": "סטורוז'ינץ",
+  "Q2261293": "חיים מיכאל דב ויסמנדל",
+  "Q2893262": "יונתן שטייף",
+  "Q2920204": "יעקב קמנצקי",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q571575": "יקותיאל יהודה הלברשטאם"
+ },
+ "raw": "data/raw/wikidata/Q108596937.json"
+}

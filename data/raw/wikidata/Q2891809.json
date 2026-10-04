@@ -1,0 +1,156 @@
+{
+ "id": "Q2891809",
+ "url": "https://www.wikidata.org/wiki/Q2891809",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2891809",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נפתלי צבי לאבין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Naftali Tzvi Labin of Ziditshov"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב חסידי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hasidic abbi (1916–2009)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2891809$E93B768D-E9C1-465E-BB86-CABE52188C0C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8f4e6beeb350e46b6e9bede7bef2773931342c96",
+      "datavalue": {
+       "value": {
+        "time": "+1916-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2891809$AD4A22CD-C54B-4C1C-B531-965AB14D156A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "51a20f4a8d17cdb83bd9f86881f79de9c55f4a38",
+      "datavalue": {
+       "value": {
+        "time": "+2009-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2891809$530722FB-905C-45FE-A5E0-7FBBE4A8BB4F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2891809$0BFA9071-5095-4269-BCE4-2AF05A8CA8F0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "494332bee506c89bf12c98847eefa6d0841d40ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180086,
+        "id": "Q180086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2891809$41FFBBAD-4A76-4DED-B0D4-1634798FCF0A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נפתלי צבי לאבין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q180086": "גליציה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2891809.json"
+}

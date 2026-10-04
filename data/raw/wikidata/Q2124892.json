@@ -1,0 +1,147 @@
+{
+ "id": "Q2124892",
+ "url": "https://www.wikidata.org/wiki/Q2124892",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2124892",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbah bar bar Hana"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה בר בר חנה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Talmud rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא מהדור השלישי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבה בר בר חנא"
+    },
+    {
+     "language": "he",
+     "value": "רבב\"ח"
+    },
+    {
+     "language": "he",
+     "value": "אגדות רבה בר בר חנה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2124892$BD6EAA1E-0576-4F2C-B901-E50D71242151",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "5eead4913d255f21a77e21615b91082dc5208b90",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 38058307,
+        "id": "Q38058307"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2124892$45c01701-4f93-2dc0-e901-706bce740a83",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "48692f600a360af00d5db98cede2a23aa5073d96",
+      "datavalue": {
+       "value": {
+        "time": "+0300-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2124892$25ba5f52-bf04-4cd4-98a3-e61d5c065715",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2124892$3FB353F9-0B57-4C25-9B13-E84B0436A8A2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבה בר בר חנה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q38058307": "רב יצחק בריה דרבה בר בר חנה",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q2124892.json"
+}

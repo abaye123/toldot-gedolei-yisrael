@@ -1,0 +1,257 @@
+{
+ "id": "Q7027719",
+ "url": "https://www.wikidata.org/wiki/Q7027719",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7027719",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישעיהו שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yeshayahu Shapira"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמור החלוץ אחי בעל חובת התלמידים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$C2F0679A-9EC0-415A-89A4-FA791A1DA83F",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$F9C60F78-18CA-4B44-9399-08049F58C635",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$C5699461-0AD6-4C85-B873-02B53C3AE39D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "9c59ad7a126450bda41d4a1313fdbc435ed76ac7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12718299,
+        "id": "Q12718299"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$68DEF1FA-4167-4ABA-8632-FAB13CEF1BF0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "639d71984ee5ce51923f250cf8af3b02eee75d79",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7027719$A499EBB2-479C-4480-9D23-95F24D2F4535",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "67f539d7189de05affb7f38183f427af2ddf87fb",
+      "datavalue": {
+       "value": {
+        "time": "+1945-05-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q7027719$53935EFD-5D06-4785-9CF0-A8EDC3AB5014",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "485d6e0268d27b41ea446e704af5262b622fe4b7",
+      "datavalue": {
+       "value": {
+        "time": "+1945-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7027719$DBD92529-DFCB-46CD-9978-9E4EB0D23ADB",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "c4f259e41d7cca7f7df84275f3220cde217dcdd2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 8055899,
+        "id": "Q8055899"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$e2622d29-4bef-1d68-5715-c923e10f971c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "78bb7851febeb8ff714d2de52e2879ef2b702b0e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6907080,
+        "id": "Q6907080"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7027719$a12ebddb-4758-1810-b118-be046804d4a1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישעיהו שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q12718299": "ציוני",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6907080": "אלימלך שפירא (תל אביב)",
+  "Q8055899": "יוסף שפירא"
+ },
+ "raw": "data/raw/wikidata/Q7027719.json"
+}

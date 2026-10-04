@@ -1,0 +1,210 @@
+{
+ "id": "Q987518",
+ "url": "https://www.wikidata.org/wiki/Q987518",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q987518",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Baruch Eckfeld"
+   },
+   "he": {
+    "language": "he",
+    "value": "ברוך אקפלד"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987518$941E50C6-2267-4D28-A253-0D45242BC149",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3230e71d34c6ec14aa24fda4aff9b6a51ab7943b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 750423,
+        "id": "Q750423"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "6f983a6d073fae274011525beae911263c12eaf8",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 277748,
+          "id": "Q277748"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "ca4ce9cac520d8bdc2881bd69c520cd3ebf21753",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 171150,
+          "id": "Q171150"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "70d93bd2f063d32bcdb294097b793e4254f636f0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 131964,
+          "id": "Q131964"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q987518$d2d38a35-4df7-64b8-e64f-53b5d8117843",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e127feefa601e864bec3811c2744315f9156c51f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 223479,
+        "id": "Q223479"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987518$dd853343-4ad7-ce6f-4dff-f42ffebde72e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a9ca2142d896967f752280138946c7e6160dffd",
+      "datavalue": {
+       "value": {
+        "time": "+1892-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q987518$595b179f-43d2-1ad9-8c86-ba68054591c5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q987518$0f0885bb-46d0-30fe-4b33-9733f8c90896",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987518$610886c8-430a-ca3d-4942-097489b7d94a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברוך אקפלד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q223479": "Dubník",
+  "Q5": "אדם",
+  "Q750423": "טופולצ'אני"
+ },
+ "raw": "data/raw/wikidata/Q987518.json"
+}

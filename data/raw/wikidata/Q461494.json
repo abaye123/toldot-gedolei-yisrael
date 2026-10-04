@@ -1,0 +1,290 @@
+{
+ "id": "Q461494",
+ "url": "https://www.wikidata.org/wiki/Q461494",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q461494",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה בן שמעון דוראן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Solomon ben Simon Duran"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "בנו של רשב\"ץ, רב ופוסק באלג'יר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רשב\"ש"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8151c9593d1b3777013f1036eeb5c649be749f39",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3561,
+        "id": "Q3561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q461494$D0930C96-0210-49E2-A036-D20B5FCE41B5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5c2eb674ef9119299c0061557b9c0dc65755fb44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3561,
+        "id": "Q3561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q461494$0A7B3793-6E7F-4F57-BB7F-6E636B46796C",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$DDFFC3CC-AE0E-48C8-BBD2-3C21CEB5A38E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "191d6bcc480591dd7b28283368278ece2d107edd",
+      "datavalue": {
+       "value": {
+        "time": "+1467-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q461494$139C65BE-1F67-483F-98C8-74BD8B24688D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$2AFEA442-DE12-4380-B8C9-185F4E9CB9E2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e708e0753ed9acade20c57547bf1be8063630f13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21185790,
+        "id": "Q21185790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$A46A017E-67AE-48CF-A420-C8EF1473A37A",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "d3912451ef9cac3380fc9610bd9a1b152f631fa9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2918665,
+        "id": "Q2918665"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$4783e7ae-4cdf-56af-51c1-0449df99dd1e",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "396e795b6381d96f94eb2ca57b86c1153002e76f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2918665,
+        "id": "Q2918665"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$cb8a8b96-4332-2f63-c5db-e5ab3d382dd5",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "69e65cd2db7ea4e5b1ca04072ec1e6f065bc2e8b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 99614749,
+        "id": "Q99614749"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q461494$b4a3ce6f-4ed2-fe0b-4d03-58792ca3b44c",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "37ed186b64275257822bf0b23514ea8b16d8d88c",
+      "datavalue": {
+       "value": {
+        "time": "+1400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q461494$06DA7EF3-A516-4BDA-ADFC-2602D342F03F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה בן שמעון דוראן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21185790": "exegete",
+  "Q2918665": "שמעון בן צמח דוראן",
+  "Q3561": "אלג'יר",
+  "Q5": "אדם",
+  "Q99614749": "צמח בן שלמה דורן"
+ },
+ "raw": "data/raw/wikidata/Q461494.json"
+}

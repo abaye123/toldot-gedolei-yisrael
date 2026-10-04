@@ -1,0 +1,165 @@
+{
+ "id": "Q7218786",
+ "url": "https://www.wikidata.org/wiki/Q7218786",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7218786",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נחמיה אלתר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nehemyah Alter"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בירושלים ובלודז'"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אלטר, נחמיה בן אריה יהודה ליב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Alter, Neḥemyah"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7218786$8829AD5B-1C80-43E0-B320-1CFA21744031",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7218786$5648D767-A4D9-4C34-BE14-C44D1DEC3C3B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c71685c76ad65af606eb03a19a4b39e0459df7f",
+      "datavalue": {
+       "value": {
+        "time": "+1875-08-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7218786$192e9c69-43e6-44ba-5856-546166729e8c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b641bd524c2348921ac9c559db5f2a41dcecaaa1",
+      "datavalue": {
+       "value": {
+        "time": "+1942-07-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7218786$4be74375-4857-1c0e-3356-4e4ff7537516",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ad15ea8d3bc338be7261b47a444f24ab12d60f3f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 154607,
+        "id": "Q154607"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7218786$37A0EAB3-0B64-4E30-A9EC-F29488871166",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נחמיה אלתר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q154607": "גטו ורשה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7218786.json"
+}

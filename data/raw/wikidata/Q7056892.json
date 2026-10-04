@@ -1,0 +1,178 @@
+{
+ "id": "Q7056892",
+ "url": "https://www.wikidata.org/wiki/Q7056892",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7056892",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף בוקסבוים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef Asher Buksboim"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi, founder of Mekhon Yerushalayim"
+   },
+   "he": {
+    "language": "he",
+    "value": "סופר, חוקר ועורך תורני, מייסד ומנהל מכון ירושלים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7056892$DB5E4D20-FC0A-4BB1-AB0B-C17B65C8305E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "da230c010c3e2e1fe4b939e77911063bf396323f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409485,
+        "id": "Q12409485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7056892$CB0CD26D-B29C-4460-9DF3-E160B19C04EB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7056892$8b916708-61b5-4a53-83d3-8e04f8b6de28",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "af1ba4e3824389a8a531939af852584ec71eb726",
+      "datavalue": {
+       "value": {
+        "time": "+1943-07-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7056892$80cc97dd-44b3-a633-4d2e-54ef12bf9063",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7056892$cbc513da-4477-574a-2388-b74eb17e4969",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bd83bffd47cb82b931900540bca28c5ab71e9ee0",
+      "datavalue": {
+       "value": {
+        "time": "+2007-02-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7056892$0e56a306-4830-17d9-4bec-7390554036f7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף בוקסבוים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12409485": "מרדכי בוקסבוים",
+  "Q133485": "רב",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7056892.json"
+}

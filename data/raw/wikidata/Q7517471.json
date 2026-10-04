@@ -1,0 +1,189 @@
+{
+ "id": "Q7517471",
+ "url": "https://www.wikidata.org/wiki/Q7517471",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7517471",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Simcha Krauss"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמחה קראוס"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American zionist and rabbi (1937–2022)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Simcha Krauss"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "הרב שמחה קראוס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7517471$5EC5B25F-1F89-4A4D-973B-E4F6B1F8881D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "95731223c9b12f832a76096d57937354bea7e3a3",
+      "datavalue": {
+       "value": {
+        "time": "+1937-06-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7517471$748f8097-fed4-4c6f-8372-c52d40cc39eb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d69e7c6a88a3a64b687db1fc2e20605ac0deeb79",
+      "datavalue": {
+       "value": {
+        "time": "+2022-01-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7517471$f404d8bd-4c9b-c015-d797-267e68cd1990",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "9c59ad7a126450bda41d4a1313fdbc435ed76ac7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12718299,
+        "id": "Q12718299"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7517471$bd417a1b-4896-06aa-10e3-5620baabbe66",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7517471$b707573a-4609-bbda-2a21-4e8c6e9e3ff8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "84c74d33f9041d50e22b6bf27e35bca82fca2bd1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 218,
+        "id": "Q218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7517471$6219cde5-46b8-a161-6c95-64a4909c70d3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמחה קראוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12718299": "ציוני",
+  "Q133485": "רב",
+  "Q218": "רומניה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7517471.json"
+}

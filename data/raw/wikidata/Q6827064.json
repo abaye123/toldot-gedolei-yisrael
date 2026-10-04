@@ -1,0 +1,307 @@
+{
+ "id": "Q6827064",
+ "url": "https://www.wikidata.org/wiki/Q6827064",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6827064",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה די אוליוירה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Solomon de Oliveyra"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני הקהילה הספרדיות-פורטוגזיות באמסטרדם ומחבר פורה בתחום הלשון והדקדוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Dutch rabbi, poet, and philologist"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Solomon d'Oliveyra"
+    },
+    {
+     "language": "en",
+     "value": "Solomon de Oliveira"
+    },
+    {
+     "language": "en",
+     "value": "Selomoh de Oliveyra"
+    },
+    {
+     "language": "en",
+     "value": "Selomoh d'Oliveyra"
+    },
+    {
+     "language": "en",
+     "value": "Shelomoh de Oliveyra"
+    },
+    {
+     "language": "en",
+     "value": "Shlomo de Oliveyra"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$EAB36F7C-E9C7-4FC8-944F-0F5274A7C5BB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "eded77de83f29c9b2da86e29c69a28e8a3c2c7d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14972848,
+        "id": "Q14972848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$7510E8A7-1EBA-44D5-9172-F4E4126183E9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$E9CD7419-643E-4179-880E-CD28F5A4C1A0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$EE0A68F5-765E-45A9-B7DF-02B8B60F993B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$81A1C9B3-CBBD-4ADB-A483-BBB25E829EBC",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$DCC49D70-93EB-44EA-AC1C-CC026BB2BB32",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b3aa7c2aa05d7820f7c37ebd43e7a56b17358b0c",
+      "datavalue": {
+       "value": {
+        "time": "+1635-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6827064$B533F253-EC4C-4C42-863F-89C97A00365B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f487ac8aed1d7dbc8c3a815788bb9bc3a540a517",
+      "datavalue": {
+       "value": {
+        "time": "+1708-05-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6827064$32C8E89A-FEC7-4D21-A59C-15C156329625",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "01fceddb0e2f59e7ff4069dc87b1cfcd6e86fd1c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$F00503E2-8812-435C-B0F5-5CDF1A678CF7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0f0114e6e8f0d52577096184ca97cc16f8e8e255",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 597,
+        "id": "Q597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$8544BC7B-C17D-44DC-ADE2-29841A26929E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c1ff673996c3820d145ab45d04f6a73fc79be576",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 831131,
+        "id": "Q831131"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6827064$854C43F9-5122-4697-AEBE-04FB3502D6BA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה די אוליוירה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14972848": "מילונאי",
+  "Q333634": "מתרגם",
+  "Q36180": "סופר",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q597": "ליסבון",
+  "Q727": "אמסטרדם",
+  "Q831131": "בית חיים"
+ },
+ "raw": "data/raw/wikidata/Q6827064.json"
+}

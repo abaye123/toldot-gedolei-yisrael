@@ -1,0 +1,146 @@
+{
+ "id": "Q18609302",
+ "url": "https://www.wikidata.org/wiki/Q18609302",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18609302",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע השיל וולהנדלר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18609302$4B11AE01-D338-41DF-AF70-0145ACC8D463",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6957dad0ca642c9c7d60466ce32be533870158ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15980158,
+        "id": "Q15980158"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18609302$e6d4a0fd-557e-4b69-8d2b-c7fe4b422fa0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18609302$4bca5c51-44b6-07bc-0ac0-59997220c04a",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "181e68d827d2a97048faa7f3d6b8c2c115d57614",
+      "datavalue": {
+       "value": {
+        "time": "+1954-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18609302$5c25cafd-4fac-5799-4c0f-170c74279197",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "86fb8285c03b7b8ecf13982159503ab7fe1f90ce",
+      "datavalue": {
+       "value": {
+        "time": "+2011-11-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18609302$94ca0ccd-485a-0b32-a0c0-2001a258250e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע השל וולהנדלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15980158": "כותב ספרי עיון",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18609302.json"
+}

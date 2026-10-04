@@ -1,0 +1,93 @@
+{
+ "id": "Q598839",
+ "url": "https://www.wikidata.org/wiki/Q598839",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q598839",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מר בריה דרבנא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mar son of Ravina"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "3rd century talmudic sage"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מר בריה דרבינא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q598839$02F77B82-F090-41F6-A74A-A711A98104A6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q598839$6AB50171-DB76-4DDB-BE55-430386E4571C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מר בריה דרבנא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q598839.json"
+}

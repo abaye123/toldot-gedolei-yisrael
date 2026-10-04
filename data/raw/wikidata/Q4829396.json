@@ -1,0 +1,178 @@
+{
+ "id": "Q4829396",
+ "url": "https://www.wikidata.org/wiki/Q4829396",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4829396",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Avraham Eliezer Alperstein"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם אליעזר אלפרשטיין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829396$2077D8DD-B6C0-495F-BBAA-BC1882C7EF66",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8ba872b885d9d8f85cb1303c3ddce78d8aee7287",
+      "datavalue": {
+       "value": {
+        "time": "+1853-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829396$A4E934B6-677D-4A28-B84C-D7591B74C584",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d9f0d06116d6e95ecb2d2da3e7266b0e38718eee",
+      "datavalue": {
+       "value": {
+        "time": "+1917-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4829396$cf68781c-5db8-4854-9f6c-c8e12d804ad2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829396$6FCC6CED-AF22-4F29-B7EF-91899B5CF92B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f2b6bbd395df2e460e6341504cc9bad5973c610e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 955992,
+        "id": "Q955992"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829396$76F4C335-722E-4154-A2B2-FA884C9502E8",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "81d366b919f1e9f4c8a6699ef4dc281357ddb41e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 115192282,
+        "id": "Q115192282"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4829396$62d8fb38-d804-4978-a9f0-8b3ed208f972",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אליעזר אלפרשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q115192282": "Mount Judah Cemetery",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q955992": "קוברין"
+ },
+ "raw": "data/raw/wikidata/Q4829396.json"
+}

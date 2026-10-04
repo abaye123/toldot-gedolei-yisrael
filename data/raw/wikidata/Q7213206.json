@@ -1,0 +1,178 @@
+{
+ "id": "Q7213206",
+ "url": "https://www.wikidata.org/wiki/Q7213206",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7213206",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ירחמיאל ישראל יצחק דנציגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jerahmeel Israel Isaac Danziger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר מאלכסנדר השני"
+   },
+   "en": {
+    "language": "en",
+    "value": "2nd Alexander Rebbe (1853–1910)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213206$A232E6ED-BDE1-409D-AB7D-810136BED849",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213206$72CCD0A1-4BF1-4493-A9D9-74D3395634C2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8ba872b885d9d8f85cb1303c3ddce78d8aee7287",
+      "datavalue": {
+       "value": {
+        "time": "+1853-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7213206$8EAC4EA1-E4EE-4831-B0EB-260F0380AD13",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2279424354960d65688600c1bd1c80c1113e7e15",
+      "datavalue": {
+       "value": {
+        "time": "+1910-01-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7213206$9B2554B4-8232-474B-9987-F00C60223086",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "28744fe21743ba1b081ceedf9b7d6f3550c5f4df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 664371,
+        "id": "Q664371"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213206$8e6470aa-0489-4ea3-b634-736ba3c74c05",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3591ef835a6343843e392ab8a7b7dfc8be74b8cf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 983871,
+        "id": "Q983871"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7213206$cbdb3213-4224-80ee-671d-e578bc18df2d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ירחמיאל ישראל יצחק דנציגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q664371": "אלכסנדר לודז'",
+  "Q983871": "מקוב מזובייצקי"
+ },
+ "raw": "data/raw/wikidata/Q7213206.json"
+}

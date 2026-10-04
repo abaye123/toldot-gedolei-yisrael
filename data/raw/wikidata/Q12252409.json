@@ -1,0 +1,251 @@
+{
+ "id": "Q12252409",
+ "url": "https://www.wikidata.org/wiki/Q12252409",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12252409",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל הורוביץ (מעליץ)"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12252409$F678F1EE-6012-4D94-8BD0-FFB08D22A39A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "62a2be5aef7bfc2179b670f66b18f3899904a606",
+        "datavalue": {
+         "value": {
+          "time": "+1879-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "f8ba3cf0dcee28c53d2c28011c03c775cf4e12bf",
+        "datavalue": {
+         "value": {
+          "time": "+1904-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582"
+     ],
+     "id": "Q12252409$b1a3b87e-4c16-543d-5984-19b061a2a789",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12252409$06af39b6-4d30-90be-6ba4-9ebe2ad5448d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4c4bf5eff3fce60b86d88bc8e9ebb6ed8914fb23",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q12252409$6c692e21-4881-a91b-bd5e-3ce2be88988a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c4380fb0362a5a48aed00c594f388f330feb42de",
+      "datavalue": {
+       "value": {
+        "time": "+1904-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "f8d02bf291f32f5dba83e0b8e6bd8ce60e8bf552",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 10970140,
+          "id": "Q10970140"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q12252409$27db6640-4682-40ab-c101-6f495d977bfa",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "9c8755e932bc168e1222055ab335294be3c739e7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20607463,
+        "id": "Q20607463"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12252409$bf7fe8bb-4c11-d42a-f67e-571e8eab3851",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל הורוביץ (מעליץ)",
+    "badges": [
+     "Q70894304"
+    ]
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20607463": "יהודה הורוביץ",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12252409.json"
+}

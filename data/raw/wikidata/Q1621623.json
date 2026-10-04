@@ -1,0 +1,462 @@
+{
+ "id": "Q1621623",
+ "url": "https://www.wikidata.org/wiki/Q1621623",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1621623",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi Meir"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי מאיר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בן הדור הרביעי"
+   },
+   "en": {
+    "language": "en",
+    "value": "2nd century Jewish sage"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Baal HaNess"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי מאיר בעל הנס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$F954CBCF-1E76-4411-BD09-2798D86B6CF1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "83add5c35cba8923a9db2ce9b54e7d8cd2835a05",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$8AD91470-C169-4865-8E6A-90ACDA2D531C",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "99963342530c8595a0a7547f17069005950fd28b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12824780,
+        "id": "Q12824780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1552": [
+       {
+        "snaktype": "value",
+        "property": "P1552",
+        "hash": "ad9a8023566ec024489b5a4864609c849e222dd4",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 18122778,
+          "id": "Q18122778"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1552"
+     ],
+     "id": "Q1621623$a1990098-4a23-0238-5554-1a4e26259b31",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b0b2887ae33b738d849985f52f3bee5484303b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1003997,
+        "id": "Q1003997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$B330AABE-6C72-4FC3-A47D-3AD992B7067B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7388395e2d336b3acfd9413d3b09fa6ece6bde71",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1621623$435B5CAB-0858-4CF3-9EA0-2690E8E0612F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1621623$F68BC2A7-F430-412B-BDB8-BEA4E5124824",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "cbd148524aa424bc805d441f1d7af5fd2b49dec0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 310821,
+        "id": "Q310821"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$9b6cd68f-4506-5ee6-faf4-f4c63138dc08",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b25dc2227471ebda7a64c7875a33a272e42dbb59",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 542710,
+        "id": "Q542710"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$68f76754-469a-b629-c894-332b3aeff95f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1acab3bfc1a7aa112a2f0bb2ff930424a86d5047",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1391069,
+        "id": "Q1391069"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$a412fd7f-44e7-be69-515d-8e14a061b0d8",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c4560a870387f6dde20cce6fc11c53b06a22f040",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 151920,
+        "id": "Q151920"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$81a96283-8e59-48ac-aa43-7b8c7727c8a9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$d57a3fa4-e00e-4fe4-9869-a9f164064d57",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "7e687eadf45f6ec014f66c8ebd339078ba6d3e07",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2624172,
+        "id": "Q2624172"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$b8240a68-4327-d044-dcf2-1f27d123a6a6",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "1ffcc55bcfc717c74c227274921a6c76ce8789b9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2892416,
+        "id": "Q2892416"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$91361301-4C33-4809-94A6-33C3E8594DD1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "bb13ab0939607bf367021e292e050120c31a1cac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1251063,
+        "id": "Q1251063"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$224483af-4072-b613-e7e5-0f98ebb412b5",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "bdbfe93266df698ec835f190e81470cb99d56d0b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 469428,
+        "id": "Q469428"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$396B032E-C180-44AA-B95F-ED6EFA6C67A5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "4947d7ba01a273e34a5896bf1a117818ac8ff7b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1621623$B0272A33-C23E-44C1-ADEA-5153ACDAD9F2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי מאיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1003997": "פרובינקיה יודיאה",
+  "Q1251063": "רבי דוסתאי ברבי ינאי",
+  "Q12824780": "אסיה הקטנה",
+  "Q133485": "רב",
+  "Q1391069": "רבי ישמעאל",
+  "Q151920": "טבריה",
+  "Q2624172": "חכם",
+  "Q2892416": "ידוע הבבלי",
+  "Q310821": "רבי עקיבא בן יוסף",
+  "Q469428": "ברוריה",
+  "Q5": "אדם",
+  "Q542710": "אלישע בן אבויה",
+  "Q5684": "בבל",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q1621623.json"
+}

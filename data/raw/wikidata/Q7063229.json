@@ -1,0 +1,152 @@
+{
+ "id": "Q7063229",
+ "url": "https://www.wikidata.org/wiki/Q7063229",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7063229",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם חזן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Albert Hazan"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב באלג'יר, מרוקו, צרפת וישראל. רבה של משטרת ישראל ושל שירות בתי הסוהר"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7063229$F687D686-C08C-4B55-9167-2F793EBD040C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7063229$6C15C005-46F0-4D91-A8F9-947511508609",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e7cdd6308ed1c2255ce09c122a9aab283d625c19",
+      "datavalue": {
+       "value": {
+        "time": "+2003-04-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7063229$7FE194F2-2DF9-44C1-B89E-A177C9D25373",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "41dd74471f25b17a69ce7fbb27f3c9b5f794534b",
+      "datavalue": {
+       "value": {
+        "time": "+1920-09-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7063229$35340FB3-CD9C-4BF3-8421-4D810E11131C",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "d5f54a4b75da8bad9300e420c26114b6ae2b2999",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 61126970,
+        "id": "Q61126970"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7063229$c472d8fc-4c87-fe3e-9a12-92310b01d8bb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם חזן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q61126970": "בתיה רוזנק"
+ },
+ "raw": "data/raw/wikidata/Q7063229.json"
+}

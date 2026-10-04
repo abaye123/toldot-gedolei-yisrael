@@ -1,0 +1,150 @@
+{
+ "id": "Q6604205",
+ "url": "https://www.wikidata.org/wiki/Q6604205",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6604205",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף חיים שרים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Haim Shrem"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "שד\"ר ושליח ארץ ישראל בגולה מטעם העדה הספרדית"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7db7181ea246b2c51ee7266db66478ec4e72d951",
+      "datavalue": {
+       "value": {
+        "time": "+1851-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6604205$44a0649c-4763-1b8b-1da3-7771a114b5e1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1cdccf7cefa60b65e8f12c1681f079cda7cbb1fe",
+      "datavalue": {
+       "value": {
+        "time": "+1949-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6604205$7e2aa6a0-4a5c-dc22-051c-f0fd7c4999da",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6604205$e441ae86-48a6-08d3-038b-e721bb7df5ce",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6604205$47FDBA35-6BB1-4050-AC70-BED01F03A62B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "3edb9eaeaafa86d9a6eff6187effa2246febd87f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2907367,
+        "id": "Q2907367"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6604205$986ac223-4fe0-c714-7fcc-1b8d0c0ee5f1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף חיים שרים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2907367": "שד\"ר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6604205.json"
+}

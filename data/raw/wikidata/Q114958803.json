@@ -1,0 +1,245 @@
+{
+ "id": "Q114958803",
+ "url": "https://www.wikidata.org/wiki/Q114958803",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q114958803",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אפרים רוזינג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Efrayim Rozing"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודרשן ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ראזינג, אברהם אפרים"
+    },
+    {
+     "language": "he",
+     "value": "ראזינג, אברהם אפרים בן יעקב דוד"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114958803$6085b016-40dc-6faa-1ac5-25ebe452ab24",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114958803$1aee9f5c-4d56-6a7a-0327-f3858b7ccdbf",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d026163f3967272c5c8b824a55a1f371450eef54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 432386,
+        "id": "Q432386"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114958803$ba2d9ff0-4bff-39ac-b443-454069992256",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d1d413fec327bb3ac779c02fc7d916cfeb1401c4",
+      "datavalue": {
+       "value": {
+        "time": "+1878-04-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114958803$25c8513a-4144-be32-b6e9-e2bf7757d998",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f65efcb3133d3a6920a42aa4188f585eded09c19",
+      "datavalue": {
+       "value": {
+        "time": "+1969-09-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114958803$2f789d30-4713-1c7f-ba73-efc952e7d535",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "57d8977d2a6565711fa44fe6ee53663b569f14fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37,
+        "id": "Q37"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114958803$1f9e2026-4d4e-7ef6-acb3-91a63601aa8c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0dee4ddfee85b7e6537d988041ec90317343f4f8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3055022,
+        "id": "Q3055022"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "5d44a4c1458387f0cdf89b6b66e0d63ced7cebfa",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1540300,
+          "id": "Q1540300"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q114958803$7e2ff08d-4298-3c7a-b1a3-6dc77f97e996",
+     "rank": "preferred"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אפרים רוזינג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3055022": "ויינוטאס",
+  "Q37": "ליטא",
+  "Q432386": "דרשן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q114958803.json"
+}

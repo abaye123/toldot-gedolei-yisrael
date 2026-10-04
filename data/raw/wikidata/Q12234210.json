@@ -1,0 +1,186 @@
+{
+ "id": "Q12234210",
+ "url": "https://www.wikidata.org/wiki/Q12234210",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12234210",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נפתלי הורוביץ (מעליץ)"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234210$4e03113b-4655-09cf-b5ff-c9bd36103635",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e5fac8d4e14d8263ac2cce797df9f31258a75f1c",
+      "datavalue": {
+       "value": {
+        "time": "+1844-12-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12234210$c5ac53d3-46bf-da05-fb05-73cb616af5bc",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2b96ef6b6bc1c104b32f8f7cb6f5aace010eae38",
+      "datavalue": {
+       "value": {
+        "time": "+1915-09-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12234210$00a2c92a-4a81-c9a9-3003-8b5eaec0d29b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "be8cf397d312355c509b51c0ef76d4c48fb83375",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 658861,
+        "id": "Q658861"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234210$ace96fb8-43eb-30af-27d5-eb3d12101775",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c498c5079550a927e1cbe6d5a2bcdbc11cb6f668",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234210$948880ca-4fc8-9e7f-4217-18b64218bb9a",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "4551d6b05280a7719c0a53aaa445bb0742c01cbf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 658861,
+        "id": "Q658861"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234210$791e12a1-472c-c723-99fa-acfaf717ae1b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234210$9cca9fd3-3f57-4f94-acb2-60f108fd4d94",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נפתלי הורוביץ (מעליץ)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1741": "וינה",
+  "Q5": "אדם",
+  "Q658861": "מיילץ"
+ },
+ "raw": "data/raw/wikidata/Q12234210.json"
+}

@@ -1,0 +1,244 @@
+{
+ "id": "Q6916182",
+ "url": "https://www.wikidata.org/wiki/Q6916182",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6916182",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moshe Yehuda Blau"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה יהודה בלוי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, מהדיר ספרי הראשונים."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים משה יהודה בלוי"
+    },
+    {
+     "language": "he",
+     "value": "בלוי, משה יהודה"
+    },
+    {
+     "language": "he",
+     "value": "משה יהודה הכהן בלוי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "M. J. ha-Kohen Blau"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Chaim Moshe Yehuda Hakohen Blau"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916182$B8B707CC-0051-446D-973A-E74F22802F9B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "83b94280021b7047f5a874c8120cd504e365d7d6",
+      "datavalue": {
+       "value": {
+        "time": "+1912-10-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6916182$9CA2D2F1-A666-4F10-ABE2-52E9FD851F1D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916182$18457482-2416-44C9-A6F9-6FD19E8BEBF5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "0ec5fd8c44883761a086ded45acb8fdb4ea2b6f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 29017275,
+        "id": "Q29017275"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2348": [
+       {
+        "snaktype": "value",
+        "property": "P2348",
+        "hash": "8afeee68f476d8c790f35033efae3788b429ca33",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2070193,
+          "id": "Q2070193"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2348"
+     ],
+     "id": "Q6916182$22D15C9A-3CCD-48AA-8960-D4098821E176",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0ba40d09170ad80053e51dfc33fa304d237ef64d",
+      "datavalue": {
+       "value": {
+        "time": "+2003-05-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6916182$2CC37B65-427B-48EB-90E9-EF7FFDA08CE8",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5f17e2a88232b1e02e8698524b28e3360e94bb0d",
+      "datavalue": {
+       "value": {
+        "time": "+2003-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6916182$3D0CA0F7-62A2-4D00-84B4-3ACB16EEAA57",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "06962491a2db4f39edbcf32e8d85ee8dc07d2355",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1055,
+        "id": "Q1055"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916182$0bed312a-4592-3901-0752-99b074cbea51",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה יהודה בלוי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1055": "המבורג",
+  "Q133485": "רב",
+  "Q29017275": "מהדיר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6916182.json"
+}

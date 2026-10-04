@@ -1,0 +1,192 @@
+{
+ "id": "Q56421718",
+ "url": "https://www.wikidata.org/wiki/Q56421718",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q56421718",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף ג'יעאן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב לובי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421718$EBE75CF7-D2CC-4581-97A5-36203296E2CE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421718$CBEB69A6-DE8F-4548-A3A9-58AE015BF3D0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2bf863ff7a15d5e5d2d83896d28b03a3a78c0485",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q56421718$E2801071-892C-40F1-9A69-9CB8EA4646FF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4ea9265de510e18ec40fad3b660046e1916d9913",
+      "datavalue": {
+       "value": {
+        "time": "+1960-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q56421718$FA291AB5-F712-48C9-9800-B549185637B0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "18bfa98535a548d225b983ad81051f68ba502f31",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421718$722632BD-E22C-47E8-A2D4-87E1DEDBA64D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "63e6fc93863744717a3555c6dad57803ac3c196d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3579,
+        "id": "Q3579"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421718$c9f3fe78-4e70-f51c-4e49-e819eeb5d0d5",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "f935bae16cabc645388b7a96a0c90285c85f01cc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152467,
+        "id": "Q152467"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421718$8246AE21-F2BE-423F-B07F-E2354D12B4AE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף ג'יעאן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152467": "בני ברק",
+  "Q3579": "טריפולי",
+  "Q5": "אדם",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q56421718.json"
+}

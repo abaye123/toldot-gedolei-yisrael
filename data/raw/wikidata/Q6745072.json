@@ -1,0 +1,174 @@
+{
+ "id": "Q6745072",
+ "url": "https://www.wikidata.org/wiki/Q6745072",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6745072",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "היינריך אלפרין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Heinrich Alperin"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Romanian Rabbi (1877-1958)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6745072$95AC4705-97D9-4F5C-9278-0E62850B63B3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6745072$0EA72AE3-2D9E-43EE-B172-E1AB662F283F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "df298c027d2b8975870e1d056faf988bd39a6b8f",
+      "datavalue": {
+       "value": {
+        "time": "+1877-10-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6745072$729e98db-4a35-f6c4-e43a-2a1284be3e7b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "bf6fc6411286419090dbaa0cc334a32ce79f288f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168057,
+        "id": "Q168057"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6745072$63488d28-4eef-16fc-6fad-57128c31ab99",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "74c7eade9105addb1376afdc83b7fd25c40b88f0",
+      "datavalue": {
+       "value": {
+        "time": "+1958-03-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6745072$c81c9b1f-44f2-87e5-2f83-bdf836b4f43d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bbc9ba6e8a75333bd26a02ca2f47590e98c8eed1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19660,
+        "id": "Q19660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6745072$2468786c-41e6-61f6-09c7-ecedf49a689d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "היינריך אלפרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q168057": "קראיובה",
+  "Q19660": "בוקרשט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6745072.json"
+}

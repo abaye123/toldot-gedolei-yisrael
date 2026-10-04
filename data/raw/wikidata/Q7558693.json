@@ -1,0 +1,193 @@
+{
+ "id": "Q7558693",
+ "url": "https://www.wikidata.org/wiki/Q7558693",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558693",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Klein"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה זאב קליין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "French rabbi (1814–1867)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "סלומון קליין"
+    },
+    {
+     "language": "he",
+     "value": "סלומון וולף קליין"
+    },
+    {
+     "language": "he",
+     "value": "קלײן, שלמה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558693$EFF983C6-42BB-4FB1-8A05-F4CEAD1ECFBB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d229504c23e0e87a11eb20bd543d1c098699406e",
+      "datavalue": {
+       "value": {
+        "time": "+1814-10-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558693$3C18AC80-3D40-4188-A622-AFB1E13ACED7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "54a49d59c729d454b01e0f010e07cbac9f2539eb",
+      "datavalue": {
+       "value": {
+        "time": "+1867-11-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558693$9CBE6EF5-B880-4A61-AE43-C40A8D4F8176",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558693$5B762403-7810-4B6B-8692-2D4BDE3071EB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "979432a1c0a4f6bca173f0e9cb7be0daf2e62172",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 130994,
+        "id": "Q130994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558693$5983734E-636E-471C-9FEB-13DC841E0550",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b2c2276de47ab1c37e0790d4f2e2fa98ef2f62bc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21570,
+        "id": "Q21570"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558693$7333B847-556B-418D-9395-DAA4F332EB86",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה זאב קליין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q130994": "קולמר",
+  "Q133485": "רב",
+  "Q21570": "בישהיים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558693.json"
+}

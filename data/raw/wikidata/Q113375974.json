@@ -1,0 +1,170 @@
+{
+ "id": "Q113375974",
+ "url": "https://www.wikidata.org/wiki/Q113375974",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113375974",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי דב אייזנר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי שהיגר לארה\"ב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113375974$75557D43-2B73-4F67-BEE7-9D3C0A64B993",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c7b335e62a2710fc9d446814f0b993d2c5284a7b",
+      "datavalue": {
+       "value": {
+        "time": "+1864-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113375974$6316f57b-48f0-2006-71f8-c0ead40699a5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6d0335f97f39ff2cc038a85b8ad1a734e85d906e",
+      "datavalue": {
+       "value": {
+        "time": "+1955-02-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113375974$fa3a5b54-4589-5aa6-3039-dfe84bd3bdaa",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113375974$d9ff3e25-4a08-7365-cb51-6455dad6e4a0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1c1d31fb4a5e16117bd994af6b2647590b36d44b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1400,
+        "id": "Q1400"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113375974$D2CB3EF6-09CC-446E-8F19-9DF0CCDC47B3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1536703473f86afaaee78bb0ea88c76838b744c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28,
+        "id": "Q28"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113375974$BA22DE79-5096-4426-87EF-DE653328613C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי דב אייזנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1400": "פנסילבניה",
+  "Q28": "הונגריה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113375974.json"
+}

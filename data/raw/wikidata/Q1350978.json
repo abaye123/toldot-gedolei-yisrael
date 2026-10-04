@@ -1,0 +1,355 @@
+{
+ "id": "Q1350978",
+ "url": "https://www.wikidata.org/wiki/Q1350978",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1350978",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yehuda Alharizi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה אלחריזי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi, translator, and poet"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראשון ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אל-חריזי, יהודה בן שלמה,"
+    },
+    {
+     "language": "he",
+     "value": "חריזי"
+    },
+    {
+     "language": "he",
+     "value": "יחיא אבן סלימאן אבן שאאול אבו זכריא אלחריזי אליהודי מן אהל טוליטלה,"
+    },
+    {
+     "language": "he",
+     "value": "אלחריזי, יהודה בן שלמה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehudah ben Shelomoh Alḥarizi"
+    },
+    {
+     "language": "en",
+     "value": "Judah ben Solomon Harizi"
+    },
+    {
+     "language": "en",
+     "value": "Judah ben Salomon Harizi"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "60add5e2e2c64005702bb6be95db00f2611c2676",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5836,
+        "id": "Q5836"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1350978$A28A589B-A0FD-4FD4-BD8B-606B1CA4F6E3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1073a2e269fbfa5c47e3a9f33cdd3a29b9c9c51d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1492,
+        "id": "Q1492"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$E002957F-5186-4AD1-8039-CA1E7F237DD7",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "4da7bea41df329e7b8afeb85961c4244610070b1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1350978$81061B5D-D027-462C-980F-F976CC4CC20F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "da6b57500565c95efc4bc0dc9284295f864edb05",
+      "datavalue": {
+       "value": {
+        "time": "+1165-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "q1350978$ACD5A43E-3765-427C-A701-4A3ACBB92152",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "beaf0adf80e71b03379e68a8dd3e11baed0ae675",
+      "datavalue": {
+       "value": {
+        "time": "+1225-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "q1350978$D232688A-831C-4C34-85D6-A138D78BD247",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1350978$B8B7C7CF-1289-46B7-AA42-EA7B66162662",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$C3F15297-2F58-4603-B8C3-60D422D94E5F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$D0FD4615-CE19-4B61-A4CB-98BAA59EC6EF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$35bd8603-4d60-52ca-2881-afc558578b19",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$CAE0306B-A8CF-4697-A12C-658E73642AED",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "43790a8cc562e540778b2d8420b10962c60f68ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12412035,
+        "id": "Q12412035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1350978$d5be4c88-4a0c-a9ee-afb8-5d1a269e9bc8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה אלחריזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12412035": "ספר תחכמוני",
+  "Q133485": "רב",
+  "Q1492": "ברצלונה",
+  "Q333634": "מתרגם",
+  "Q36180": "סופר",
+  "Q41183": "חלב",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q5836": "טולדו"
+ },
+ "raw": "data/raw/wikidata/Q1350978.json"
+}

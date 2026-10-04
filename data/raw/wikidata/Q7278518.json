@@ -1,0 +1,121 @@
+{
+ "id": "Q7278518",
+ "url": "https://www.wikidata.org/wiki/Q7278518",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7278518",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbah Tosafa'ah"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה תוספאה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Babylonian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי, דור שמיני, מסוף תקופת האמוראים."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבא תוספאה"
+    },
+    {
+     "language": "he",
+     "value": "רבא תוספתא"
+    },
+    {
+     "language": "he",
+     "value": "רבה תוספתא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278518$D819DA61-30EC-423B-AB18-4D9F4573FD8B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278518$8D793BBC-06BA-418A-9503-37CE7AC08A1A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278518$ECEB55F0-5624-4A0C-B81F-D6A433E09BD9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבה תוספאה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q7278518.json"
+}

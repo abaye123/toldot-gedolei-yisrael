@@ -1,0 +1,119 @@
+{
+ "id": "Q18121733",
+ "url": "https://www.wikidata.org/wiki/Q18121733",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121733",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה דוד אשכנזי"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121733$09E936F3-F28C-4A87-B3BE-D5B19E8B0838",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121733$1371F7B4-F449-4FE0-8973-9C73CF7DF23C",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6e06e16c6c1694dcfff0f3da9804529e9cbe0b82",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7061378,
+        "id": "Q7061378"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121733$7400a521-0ff5-4c59-82b6-fa4d30d2608a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7270959de30a9b29d4c16bd6dd9bc9d412206a65",
+      "datavalue": {
+       "value": {
+        "time": "+1856-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121733$7420026d-d0f2-4bc9-bd61-265796b80e6a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה דוד אשכנזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7061378": "בית הקברות היהודי העתיק בצפת"
+ },
+ "raw": "data/raw/wikidata/Q18121733.json"
+}

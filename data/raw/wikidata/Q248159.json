@@ -1,0 +1,286 @@
+{
+ "id": "Q248159",
+ "url": "https://www.wikidata.org/wiki/Q248159",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q248159",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yosef Azran"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף עזרן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli politician (1941-2010)"
+   },
+   "he": {
+    "language": "he",
+    "value": "פוליטיקאי ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$136F9C48-5D12-4A3E-A884-164DBFBBF6A9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9e62b8289bd5f7852a0552c09bbbb5d26e839cea",
+      "datavalue": {
+       "value": {
+        "time": "+1941-10-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q248159$F9253E00-048E-4E34-93AD-839377C3719A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f805460af39327e58b3b31af33e62ade89d08004",
+      "datavalue": {
+       "value": {
+        "time": "+2010-02-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q248159$BE49EB56-47FB-4451-BEBF-9DC7DA67182B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 82955,
+        "id": "Q82955"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$771589ED-140F-4C8D-92DA-DA3E1C0D4CD2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$ED6C8ADA-0D6B-4DA4-A6D8-F87A60CAB41D",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "1536f36a650c3a9f6bd4d6e84305ef772ce0acb0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4047513,
+        "id": "Q4047513"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "dd56f0835cef3f33b1c4caa9abc07bf173b57c2f",
+        "datavalue": {
+         "value": {
+          "time": "+1988-11-21T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "d450211425c7c554c8267ac15ed184c5e9208c64",
+        "datavalue": {
+         "value": {
+          "time": "+1996-06-17T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582"
+     ],
+     "id": "Q248159$F4A3E58C-6D03-4957-AE94-4E2817E6A303",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b7e802ac27e747020032ce87ee7fd4dd757cdf78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$F7B9E3C5-ADD5-474F-83E6-8869145DDA8A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b8ea39dbb203df5fe088ece48a558ff3004e2098",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 142,
+        "id": "Q142"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$A8E73A5A-27F5-47FE-B467-144475E6307E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "9be7c29a9f4f648de8d9fe65bafe7648dcc616f7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104502628,
+        "id": "Q104502628"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q248159$202acd80-4d80-98d6-7ead-6ea6303819f5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף עזרן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q101625": "מרקש",
+  "Q104502628": "בית העלמין גורדון החדש",
+  "Q133485": "רב",
+  "Q142": "צרפת",
+  "Q4047513": "חבר הכנסת",
+  "Q5": "אדם",
+  "Q82955": "פוליטיקאי"
+ },
+ "raw": "data/raw/wikidata/Q248159.json"
+}

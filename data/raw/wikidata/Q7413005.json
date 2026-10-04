@@ -1,0 +1,215 @@
+{
+ "id": "Q7413005",
+ "url": "https://www.wikidata.org/wiki/Q7413005",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7413005",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel ben Uri Shraga Phoebus"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל מפיורדא"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני, מחבר הפירוש \"בית שמואל\" על השולחן ערוך"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל פיבוש"
+    },
+    {
+     "language": "he",
+     "value": "בית שמואל (פירוש)"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Samuel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7413005$C2E8C4B7-0425-4E6E-BDFF-B6206E4E0576",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7413005$B6C96CCB-F89F-45F0-A632-E7F2B1A4DD01",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f4e3c4f5c0016455760a067d4ea7ae0952ec6d4d",
+      "datavalue": {
+       "value": {
+        "time": "+1650-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7413005$E53FE72F-8D98-4724-B5AF-FEFE19065401",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e56506bb3aff336cd9a0a0bf8f59c362e00fe4f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2917229,
+        "id": "Q2917229"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7413005$528ab498-45f3-e6b3-b965-7c84e6d6852d",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "f1293ee17593fc8b5e9aec453a2aaca67580e32f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16130364,
+        "id": "Q16130364"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7413005$7f462b91-4dff-14eb-b503-c870500f4946",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a3622bde90aca25b558ee65152a41ebb8a27ec68",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20501827,
+        "id": "Q20501827"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7413005$f75437ac-405d-aead-3f88-340b28be56c3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "505aaa18d004467d742e2ea3c23799c858b76064",
+      "datavalue": {
+       "value": {
+        "time": "+1705-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7413005$EF373FBE-D95F-4317-AF62-ED1E1CF5AFCB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מפיורדא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16130364": "השיל מקראקא",
+  "Q20501827": "אריה לייב \"הארוך\" מקראקא",
+  "Q2917229": "וודז'יסלאב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7413005.json"
+}

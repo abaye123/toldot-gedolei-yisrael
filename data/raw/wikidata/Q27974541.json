@@ -1,0 +1,163 @@
+{
+ "id": "Q27974541",
+ "url": "https://www.wikidata.org/wiki/Q27974541",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27974541",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זלמן פינחס קפלן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zalman Pinhas Kaplan"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi (1853-1921)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "זלמן פינחס קאפלאן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27974541$e4d3eb87-4faf-4d8d-fb40-109aab57e2c1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27974541$e3671dc7-4aea-4bab-926e-963b482c4535",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "26539871e03caca7f8dbaff84f70e47e88e14a3c",
+      "datavalue": {
+       "value": {
+        "time": "+1853-06-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27974541$56ca5427-4946-3c72-be5f-c75b4906072b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dd05369c758142e042109ffa2586cfc0de745de8",
+      "datavalue": {
+       "value": {
+        "time": "+1921-04-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27974541$2f5a4497-4a56-d4a9-4508-f7c630841604",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1b9d24084cec9fd984e69c9334e5831b3cdd07bb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1719466,
+        "id": "Q1719466"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27974541$8ef61e7b-47a2-7cb8-19ec-52ecc24f03d6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זלמן פינחס קפלן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1719466": "פוניבז'",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27974541.json"
+}

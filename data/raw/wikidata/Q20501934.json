@@ -1,0 +1,156 @@
+{
+ "id": "Q20501934",
+ "url": "https://www.wikidata.org/wiki/Q20501934",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20501934",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד אבן כליפא"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Ben Kalifa"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין ומורה צדק, רב המחוזות עין תמושנת וסעידה באלג'יריה, ורב קהילת מאסי בצרפת"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501934$D0BA162E-3462-40A2-8FD0-CF37BABDCDBE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501934$DD5C8399-22FC-44B9-8820-48CF04959C07",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f399c3dc73bfa1359976b524553a85cba4677cd6",
+      "datavalue": {
+       "value": {
+        "time": "+1991-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501934$364E3842-7E2E-4298-BC64-48B2676EBC64",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c5a8b36dbf664bff65166bc935378ab66f1bd5a",
+      "datavalue": {
+       "value": {
+        "time": "+1906-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20501934$AA158FB3-16AC-44B0-B416-78721D9DEFE3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ff8e4b2c9473090fe50ffc069f9eeab1f5772ea2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1028,
+        "id": "Q1028"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20501934$F7C005AA-F91D-4224-BFF9-0FE7F136DB41",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד אבן כליפא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1028": "מרוקו",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20501934.json"
+}

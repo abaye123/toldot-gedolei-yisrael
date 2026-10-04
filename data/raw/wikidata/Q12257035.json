@@ -1,0 +1,173 @@
+{
+ "id": "Q12257035",
+ "url": "https://www.wikidata.org/wiki/Q12257035",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12257035",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה צבי הירש אייכנשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehudah Tsevi, ha-a.b.d. di-ḳ.ḳ. Rozdol"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר השני מזידיטשוב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אייכנשטיין, יהודה צבי בן משה, 1791-1847"
+    },
+    {
+     "language": "he",
+     "value": "יהודה צבי בן משה, אבדק רוזדל, 1791-1847"
+    },
+    {
+     "language": "he",
+     "value": "יהודה צבי בן משה, מסמבור"
+    },
+    {
+     "language": "he",
+     "value": "יהודה צבי, אבדק רוזדל"
+    },
+    {
+     "language": "he",
+     "value": "אייכנשטיין, יהודה צבי, מראזלא"
+    },
+    {
+     "language": "he",
+     "value": "יהודה צבי, מראזדיל"
+    },
+    {
+     "language": "he",
+     "value": "אייכנשטיין, יהודה צבי הירש בן משה, מרוזדול"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Judah Zevi, of Rozdol"
+    },
+    {
+     "language": "en",
+     "value": "Judah Zebi ben Moses, of Rozdal"
+    },
+    {
+     "language": "en",
+     "value": "Eichenstein, Yehuda Zevi Hirsh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12257035$20E98221-AD0B-4474-9E17-62B86D9E9B4F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12257035$263976DE-1BEC-4542-AD45-01F14F603821",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "494332bee506c89bf12c98847eefa6d0841d40ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180086,
+        "id": "Q180086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12257035$42BE15F2-5CFB-4374-AB43-0E4DE68E3553",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fface3286c96ddc2a16213e91980759767199b85",
+      "datavalue": {
+       "value": {
+        "time": "+1847-10-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12257035$C2B529EE-5B51-4ADD-892E-F1CFEEDCBDE1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה צבי הירש אייכנשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q180086": "גליציה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12257035.json"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "Q6814474",
+ "url": "https://www.wikidata.org/wiki/Q6814474",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6814474",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד ומשה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi David Ou Moshe"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב שמוצאו מירושלים שסבב כשד\"ר בין הקהילות היהודיות בהרי האטלס"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6814474$9627D033-123E-41DF-A8D5-8D0DC72BAB73",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6814474$FF72C24D-B955-490C-A892-F872C60363DC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e8b766338e03d4bec61278c05e81e590fd387bf",
+      "datavalue": {
+       "value": {
+        "time": "+1171-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6814474$C86AB0B9-7728-43E1-B42E-059BD765A910",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד ומשה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6814474.json"
+}

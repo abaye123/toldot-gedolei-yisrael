@@ -1,0 +1,156 @@
+{
+ "id": "Q12256559",
+ "url": "https://www.wikidata.org/wiki/Q12256559",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12256559",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף מאיר כהנא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef Meir Kahana"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מספינקא-ירושלים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256559$55382633-0F3B-4B8C-B044-728578782755",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256559$297935bd-4d26-f850-d701-4650cfae2e53",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7bad07f18d262206936e87e3b0efa6b11b377f2d",
+      "datavalue": {
+       "value": {
+        "time": "+1910-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12256559$63e47c35-4882-a948-1276-cec39ff5a434",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "84c74d33f9041d50e22b6bf27e35bca82fca2bd1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 218,
+        "id": "Q218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256559$7a093fd4-43ac-b7d7-75f8-1d56e1c2d0c8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b0075caabb97e19bae268384d806bb8e69e40de",
+      "datavalue": {
+       "value": {
+        "time": "+1978-01-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12256559$3e9d1121-4f3d-aea1-edfc-840da268134b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף מאיר כהנא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q218": "רומניה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12256559.json"
+}

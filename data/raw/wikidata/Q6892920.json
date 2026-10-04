@@ -1,0 +1,176 @@
+{
+ "id": "Q6892920",
+ "url": "https://www.wikidata.org/wiki/Q6892920",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6892920",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב יוסף מאוסטראה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Yosef ben Yehuda"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Jacob Joseph of Ostroh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6892920$790606A5-ABBE-41AB-B0C9-717D4E169633",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fc88e65dce8f73c6a2a2d494d9794831c2dee81d",
+      "datavalue": {
+       "value": {
+        "time": "+1738-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6892920$22A3F824-2EC6-4E4F-8771-28837ED0A715",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9a9f262915e2d23a484746eb10004c2d2351c0e",
+      "datavalue": {
+       "value": {
+        "time": "+1791-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6892920$035AD6F2-A6EB-4369-ACEF-F9B4EC102619",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "20ac87057275b4a06eaacd859b21e65406b23643",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 140671,
+        "id": "Q140671"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6892920$CF38FC1E-6694-4122-AF61-E394B5B36973",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5cda5507053d24754ca0d45615548cf99ed28d8d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 856018,
+        "id": "Q856018"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6892920$98042F3E-57D1-4623-AFA2-2B8ECC742E23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6892920$EFC7DBC1-C484-4597-AEBB-580B6D89C3B1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב יוסף מאוסטראה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q140671": "אוסטרוה",
+  "Q5": "אדם",
+  "Q856018": "סלאוויטא"
+ },
+ "raw": "data/raw/wikidata/Q6892920.json"
+}

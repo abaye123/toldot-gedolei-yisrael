@@ -1,0 +1,278 @@
+{
+ "id": "Q16132614",
+ "url": "https://www.wikidata.org/wiki/Q16132614",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16132614",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים יונה תאומים"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד בברסלאו"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$1655DBE7-73D3-4A32-914B-9F1F626CB0C7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$756C270D-DAC4-4095-97FD-33DBD5B8BC44",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cf9970c878b4023038cb1d4e1f9256e774ada863",
+      "datavalue": {
+       "value": {
+        "time": "+1690-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132614$65cf07dc-97f8-4c36-ab5d-159a5c0e02bf",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "26d8b33b15aaf7240ea0479b58a482ea3bf48d3f",
+      "datavalue": {
+       "value": {
+        "time": "+1698-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q16132614$14fe6f52-4f1b-670f-ea50-8c863ec01592",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0178c0ba4d42983ca239cf5efaaa25d510d23f24",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16132216,
+        "id": "Q16132216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$e5cd8b98-4604-48fb-758b-171a93b11681",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "e750575ca422155a0b8faa54d16114f969843a2a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16131175,
+        "id": "Q16131175"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$dc9d6df5-45e8-ba41-334a-851c08ccaad9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0840f9129a2cddaad5b6c849cc52894f1034ca8f",
+      "datavalue": {
+       "value": {
+        "time": "+1727-12-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132614$32bb3f3b-4a68-574a-f169-73e84a3c9c88",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9226ba3aad526380d802b422b81895a3eaa635f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$7c0f08ad-4ace-ee70-1875-05977ec407f1",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "82cb94959680b3ff1a142709026ffd671e167587",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3460944,
+        "id": "Q3460944"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$d6f68e47-4bf3-434b-a72f-b320ec5f60bf",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e3271ad45bbc8eda9b83bacd661f508adc893086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132614$c3c8efbd-4c9c-79f1-873a-ae520826ed39",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים יונה תאומים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16131175": "יחזקיה יהושע פייבל תאומים",
+  "Q16132216": "יצחק יוסף תאומים",
+  "Q1799": "ורוצלב",
+  "Q3460944": "קורצ'ינה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16132614.json"
+}

@@ -1,0 +1,188 @@
+{
+ "id": "Q16132742",
+ "url": "https://www.wikidata.org/wiki/Q16132742",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16132742",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל איסר איסרלין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Isser ben Ze'eb Wolf"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק, ממפרשי השולחן ערוך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Russian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שער המשפט"
+    },
+    {
+     "language": "he",
+     "value": "ישראל איסר בן זאב וולף"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132742$151669C4-5545-4274-BF93-EB13790C0765",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132742$68EDF23C-C14D-4006-A7EF-8EE8C4D1570D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28352a9984c8ef2b3ca3ec4487a30ce71353fb32",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132742$1cdf440c-41d7-277d-ce75-4a4f0a65e401",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "300474884129fbd6d1b09679ee578da6c71552e3",
+      "datavalue": {
+       "value": {
+        "time": "+1829-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132742$2eb198a6-415b-8917-18e7-c247612c88e8",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "76bb73960ae1d439501968ca439a8007e46f7640",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157144,
+        "id": "Q157144"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132742$eb4dcf5c-4a26-8d7c-1ba8-79d30f6100d6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3b7b55ad28a4dde6db50808a7ab61269dcfba72c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157144,
+        "id": "Q157144"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132742$6EE115FE-B01F-4ED4-A1A2-80E4A18641F8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל איסר איסרלין (שער משפט)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q157144": "ויניצה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16132742.json"
+}

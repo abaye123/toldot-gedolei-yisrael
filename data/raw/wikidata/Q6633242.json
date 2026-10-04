@@ -1,0 +1,135 @@
+{
+ "id": "Q6633242",
+ "url": "https://www.wikidata.org/wiki/Q6633242",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6633242",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום מויאל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabino Shalom Emanuel Muyal"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מרוקאי שפעל במנאוס"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלום עמנואל מויאל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6633242$7B7E558C-9B14-48BA-A998-7F89046F1459",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6633242$08BC250A-830B-4AEF-8EFB-5A9A62571240",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6c8b0a825d704aeb537e1960f11240eed3dd2278",
+      "datavalue": {
+       "value": {
+        "time": "+1910-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6633242$E303CF21-3588-4BF7-A8BB-B277B6DD0473",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "9537659e08ae9df8c6632473d2ca005c9a4114e2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 40236,
+        "id": "Q40236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6633242$98DA0E71-1A94-46F5-B297-D54108D0B10A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום מויאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q40236": "מנאוס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6633242.json"
+}

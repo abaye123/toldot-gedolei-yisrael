@@ -1,0 +1,143 @@
+{
+ "id": "Q6982194",
+ "url": "https://www.wikidata.org/wiki/Q6982194",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6982194",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נפתלי מנחם הוטנר"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982194$DC25688A-F704-4C3B-946A-BA4117D9D25A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982194$CD95347A-CC36-4214-A8C6-34F79980B15E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6d51f4e99659dd4a6e3e1cf9b8a6c1d7e5386794",
+      "datavalue": {
+       "value": {
+        "time": "+1878-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6982194$552837CF-4DBB-42EA-8C74-4233F846ECF5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "34179254e05baaa39a2ae3fe943f9a206be05c54",
+      "datavalue": {
+       "value": {
+        "time": "+1935-11-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6982194$59B23618-829B-490B-94C8-2F946A9B70F2",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "9b35769e47a3e045604f149fc09c99707834d39a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12407997,
+        "id": "Q12407997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6982194$0e196e17-43ee-3899-6652-84067b3ec0a5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נפתלי מנחם הוטנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12407997": "יוסף זונדל הוטנר",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6982194.json"
+}

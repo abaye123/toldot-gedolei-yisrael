@@ -1,0 +1,274 @@
+{
+ "id": "Q62606690",
+ "url": "https://www.wikidata.org/wiki/Q62606690",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q62606690",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל דוד מרגליות יפה שלזינגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Schlesinger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי ומחבר ספרות תורנית"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1802–1864)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלזינגר, ישראל דוד"
+    },
+    {
+     "language": "he",
+     "value": "סרד, ישראל דוד"
+    },
+    {
+     "language": "he",
+     "value": "שלעזינגער, ישראל דוד"
+    },
+    {
+     "language": "he",
+     "value": "סערעד, דוד"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Schlesinger, David"
+    },
+    {
+     "language": "en",
+     "value": "Israel David Jaffe-Margoliot"
+    },
+    {
+     "language": "en",
+     "value": "Israel David Schlesinger"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q62606690$c688e5dd-4b59-2d3e-2cff-079ce5d8f851",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a2a92e7728e6e9a0f214fcaad297d23938fef9f9",
+      "datavalue": {
+       "value": {
+        "time": "+1864-04-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "efc3bbf6df438bc259202e453f68dfde7dbd72fc",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 111961397,
+          "id": "Q111961397"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q62606690$c1e20116-4b21-2efb-5d81-a468569f720c",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e446bd22797f082c2ca37c33ca8f57a76fc6a74",
+      "datavalue": {
+       "value": {
+        "time": "+1854-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q62606690$46058C2A-D9BC-4C47-9CD4-175F591D7BAC",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71f27342b6043b44bf425d7ba36f4fb6ee224886",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 429676,
+        "id": "Q429676"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q62606690$b4e6cfc8-43d4-c3c0-826e-ea02876e8b53",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bf2b90230edd1e777cc096472700c64ffc2dd01f",
+      "datavalue": {
+       "value": {
+        "time": "+1802-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q62606690$88e50c60-9693-414d-80c8-d72ac4863851",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "01c13ac641641b6841bd0c51a5cf70e5b1671fc1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 659424,
+        "id": "Q659424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q62606690$878bed9e-4a92-54d6-c8a8-937433646dce",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q62606690$A1730854-68B3-4468-ADB9-64A3F173329A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6fe3da0640635f157544bbff2ce3974ffb4c5a8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1234713,
+        "id": "Q1234713"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q62606690$C2CBDBBC-EDA6-4349-ABFB-F5C899454112",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל דוד מרגליות יפה שלזינגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1234713": "תאולוג",
+  "Q133485": "רב",
+  "Q429676": "סרד",
+  "Q5": "אדם",
+  "Q659424": "פזינוק"
+ },
+ "raw": "data/raw/wikidata/Q62606690.json"
+}

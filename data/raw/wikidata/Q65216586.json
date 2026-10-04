@@ -1,0 +1,178 @@
+{
+ "id": "Q65216586",
+ "url": "https://www.wikidata.org/wiki/Q65216586",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q65216586",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ברנאט זינגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Bernát Singer"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1868-1916)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216586$B37761BD-85F6-4F9B-A0C7-13F490173D2B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ed057c23e14432eed85fed751426f41b05307226",
+      "datavalue": {
+       "value": {
+        "time": "+1868-12-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q65216586$80e04972-107c-457d-8687-65d344a68ef7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216586$33248ab1-4ddd-3d17-044e-cb570c6e2a1a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c671b33b65282c789f948d688b8a597b1f741a16",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116417,
+        "id": "Q116417"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216586$e030c5f1-4c54-c83c-8903-a542ddc630eb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a5e6fde25f80a9a7511c7c58afb9af0bea921c73",
+      "datavalue": {
+       "value": {
+        "time": "+1916-06-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q65216586$9a5ce86a-444f-5b2e-cf94-d1f10521a250",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2b4219cd710b7c1f231bcdb0433bb3867bb38ed0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170287,
+        "id": "Q170287"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216586$e07a3f47-4412-6a66-4993-1411268e7c35",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברנאט זינגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q116417": "שאטוראליאויהיי",
+  "Q133485": "רב",
+  "Q170287": "סובוטיצה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q65216586.json"
+}

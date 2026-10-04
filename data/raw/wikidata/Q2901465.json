@@ -1,0 +1,191 @@
+{
+ "id": "Q2901465",
+ "url": "https://www.wikidata.org/wiki/Q2901465",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2901465",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק קוב'ו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Kovo"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק קובו"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yitzhak Ben-Hezekiah Yosef Kovo"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2901465$F0A998EA-D776-4CB3-AE63-E0140FD01103",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "56f215812c993a4b2723d436a27191f9158398b5",
+      "datavalue": {
+       "value": {
+        "time": "+1770-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2901465$A37EB8DF-B151-4287-875C-3BFBDF541C62",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d37c57a507e64f689b58f625d6366355e2dc3f66",
+      "datavalue": {
+       "value": {
+        "time": "+1854-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2901465$A7506885-CD98-4396-B136-E97D7C4AE68F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2901465$612F7C54-ED18-4A13-9421-ED51FCC9247F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2901465$17B7049E-72A5-4821-A2D3-33A2FEC0334C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5b5ab82fd82db10d74fa9f1ffeb5c26d93bf4f8c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 87,
+        "id": "Q87"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2901465$B4DD0102-22DB-45F0-87A6-4BCB41B223F5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק קובו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q87": "אלכסנדריה"
+ },
+ "raw": "data/raw/wikidata/Q2901465.json"
+}

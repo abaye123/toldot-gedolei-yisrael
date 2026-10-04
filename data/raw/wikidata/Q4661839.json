@@ -1,0 +1,208 @@
+{
+ "id": "Q4661839",
+ "url": "https://www.wikidata.org/wiki/Q4661839",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4661839",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron Ben-zion ibn Alamani"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן אלעמאני"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Egyptian judge"
+   },
+   "he": {
+    "language": "he",
+    "value": "פייטן, רופא ודיין באלכסנדריה במאות ה-11־12"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aaron al-ʿAmmānī"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אהרן אבן אלעמאני"
+    },
+    {
+     "language": "he",
+     "value": "החבר אבן אלעמאני"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661839$1685E344-F39F-4868-B2E9-8812CEA505BA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "696369085b87f191a48a12916e48d297639982e8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16533,
+        "id": "Q16533"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661839$21697468-8D7E-4DC6-B9B5-5C688CFEA6CA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1c7c954f9c5b67b792ec5811f635bd72daece395",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109143736,
+        "id": "Q109143736"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661839$BBD1348F-7130-47C8-BB33-2C588E822430",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661839$E3FEBC98-4273-411C-BFFF-2DE21D8B9ABE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4661839$DC2E7FD7-356F-4269-9E4A-50A73677492B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dfc204ae8cfb178219ac113c61ff13e7d546a30e",
+      "datavalue": {
+       "value": {
+        "time": "+1141-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q4661839$06235F7F-C0F4-4433-AD87-535F876EDB58",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן אלעמאני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109143736": "פייטן",
+  "Q133485": "רב",
+  "Q16533": "שופט",
+  "Q39631": "רופא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4661839.json"
+}

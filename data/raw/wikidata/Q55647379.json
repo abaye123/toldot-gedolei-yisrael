@@ -1,0 +1,193 @@
+{
+ "id": "Q55647379",
+ "url": "https://www.wikidata.org/wiki/Q55647379",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55647379",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל פירר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shmuel Firer"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Galician Rabbi (1863–1942)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גליציאני (1863–1942)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shemuwel Firer"
+    },
+    {
+     "language": "en",
+     "value": "Shmuel Ozon Fuhrer"
+    },
+    {
+     "language": "en",
+     "value": "Samuel Fihrer"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55647379$726e1e6b-439f-a353-613c-d051449f7fb0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55647379$58f288a7-4da3-6544-8c9e-ef3e07f65f69",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "dd037fd8aa2a19cda72e82fa88c67ad255d22b3a",
+      "datavalue": {
+       "value": {
+        "time": "+1863-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55647379$4f348dca-4887-458a-433e-31f8425a7a23",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e228a3d02cd588648dce95bffb2f96fc123a32b",
+      "datavalue": {
+       "value": {
+        "time": "+1942-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55647379$0f31fadd-4743-1a5a-9dab-a13502fd9ba3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e74e12feb792c3ccf4e9a16dd3637db90b4d7d5d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 609329,
+        "id": "Q609329"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55647379$29f33980-447e-9d44-5275-3345fa3d5e63",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "85c5bd2579f31e654439b33014037fe1e53163ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 826068,
+        "id": "Q826068"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55647379$026cd949-4f0b-61a5-d3eb-7d7042b07cdd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל פירר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q609329": "סנקובה",
+  "Q826068": "קרוסנו"
+ },
+ "raw": "data/raw/wikidata/Q55647379.json"
+}

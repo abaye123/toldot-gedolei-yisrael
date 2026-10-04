@@ -1,0 +1,152 @@
+{
+ "id": "Q4662607",
+ "url": "https://www.wikidata.org/wiki/Q4662607",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4662607",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron of Neustadt"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן בלומלין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austrian Talmudist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אוסטרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "520b67b801f7cc0bd15ab3e4bcf3ab03b2c55fe2",
+      "datavalue": {
+       "value": {
+        "time": "+1420-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662607$CC0D7A9A-2516-479D-8F7F-5B230284E191",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662607$6F12FE9D-B5CE-4DC5-B232-68CCE323AD99",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662607$00956040-4248-d325-8fec-ca3de9466da3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662607$A81DEC19-3897-44A4-9DCD-08EAE4885AC2",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c498c5079550a927e1cbe6d5a2bcdbc11cb6f668",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662607$5E4BB252-4D46-4BBC-9461-7550C9FB59BC",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן בלומלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1741": "וינה",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4662607.json"
+}

@@ -1,0 +1,332 @@
+{
+ "id": "Q13829144",
+ "url": "https://www.wikidata.org/wiki/Q13829144",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q13829144",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Meijer de Hond"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאיר דה הונד"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Dutch teacher, rabbi and writer (1882-1943)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יהודי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meyer de Hond"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q13829144$CBB2DB8E-9DB0-4832-BC44-9A2F0AF622C5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5eba1f2b68b52f1d9c4678f73000e9f62d7de01d",
+      "datavalue": {
+       "value": {
+        "time": "+1882-08-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q13829144$AC31A02A-9312-4EC4-8454-03CC4F0D4A34",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f8f868507f65bbcfddfac168270c6541b3fd9d3b",
+      "datavalue": {
+       "value": {
+        "time": "+1882-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q13829144$B4DEA7CA-411B-4135-A777-CC5C6F1C350A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b28d98d321b76286224688a652367969eb354bf",
+      "datavalue": {
+       "value": {
+        "time": "+1943-07-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q13829144$F822B528-2AF9-4420-8D0E-533043831D17",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "65d0ad9fe619962370ed65f000ec6d8eb5255061",
+      "datavalue": {
+       "value": {
+        "time": "+1943-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q13829144$20D431C4-D8CC-41D3-9D36-48867B46EEDB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cbe652155c23d4823e70fffb8dfef9ba3ef0a125",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37226,
+        "id": "Q37226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q13829144$c24dd0fd-4302-678b-8cfa-0be8b479a544",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q13829144$60d2f761-4fe5-d6bd-bc1d-dd16a3934a79",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q13829144$a6972286-4f43-8421-e3dc-1ce8a454f2c9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6b7857ef8f9a76ed1c43cd43c0027edc2c1a5d44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q13829144$C1B75610-CDC6-4CCF-8742-25D966E5D5B0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5c5a2d97767485d7166d98508d69fc79468bf767",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152658,
+        "id": "Q152658"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "0c2c9655ffff006a815d40978c89fecb96677e62",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 156111,
+          "id": "Q156111"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q13829144$3DA6C9C4-892C-4DB0-B534-5431BB6B7393",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר דה הונד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152658": "סוביבור",
+  "Q36180": "סופר",
+  "Q37226": "מורה",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם"
+ },
+ "raw": "data/raw/wikidata/Q13829144.json"
+}

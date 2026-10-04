@@ -1,0 +1,293 @@
+{
+ "id": "Q28657483",
+ "url": "https://www.wikidata.org/wiki/Q28657483",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q28657483",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה פלסנר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Salomon Plessner"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, מתרגם ספרים חיצוניים לעברית"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi and Bible commentator"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פלסנר, שלמה בן ליב‏"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Plesner, Salomon Lekhel‏"
+    },
+    {
+     "language": "en",
+     "value": "Pleßner, Salomon"
+    },
+    {
+     "language": "en",
+     "value": "Plessner, S."
+    },
+    {
+     "language": "en",
+     "value": "Plesner, Šelomoh ben Leb"
+    },
+    {
+     "language": "en",
+     "value": "Plesner, Šelomoh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$c167407f-4d42-eaad-00de-dd029740f032",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e3271ad45bbc8eda9b83bacd661f508adc893086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$8c1f4c11-4388-fcf7-9682-3896800589e5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a3586e6990a9fa17f225fc06b82eba158b67b76d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 268,
+        "id": "Q268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$b1a3347f-4d83-107e-7882-aa639193519b",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "eed99069c14ec527ae5fe78eafdd2b62ea33d279",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14918429,
+        "id": "Q14918429"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$2ef2c5ad-4082-5836-3544-2de95cca20b6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$eba79ae9-4ae7-6942-7ea1-3e18462164d5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$d38be9a5-4b29-6e3c-9607-440a719ce400",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fbce386f299f6300e99299ab7df879552b308d91",
+      "datavalue": {
+       "value": {
+        "time": "+1797-04-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28657483$1DED9775-890D-40FD-AB03-111C3D7F3EF7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "90c578a3f4a71b88f7e1ff9ce572f6d41df98b14",
+      "datavalue": {
+       "value": {
+        "time": "+1883-08-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28657483$F83268FB-C49C-4EA3-866E-A2EA01CD9F82",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "24c0731c5c810507308428b1f3657b27310a9ce2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28709223,
+        "id": "Q28709223"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$368536fa-407c-42da-1bd7-c9eee5a061ad",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "6c6e44cd14ee783ef6de4e9126ea6aad791074b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 565666,
+        "id": "Q565666"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28657483$9ae0c9e9-4d7a-dc4f-5c89-be7bc201a8b5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה פלסנר (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14918429": "אליהו פלסנר",
+  "Q1799": "ורוצלב",
+  "Q268": "פוזנן",
+  "Q28709223": "נוזלים מן לבנון",
+  "Q333634": "מתרגם",
+  "Q5": "אדם",
+  "Q565666": "לואי לבנדובסקי"
+ },
+ "raw": "data/raw/wikidata/Q28657483.json"
+}

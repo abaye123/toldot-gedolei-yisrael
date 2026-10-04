@@ -1,0 +1,222 @@
+{
+ "id": "Q3128910",
+ "url": "https://www.wikidata.org/wiki/Q3128910",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3128910",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק חי טייב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haï Taïeb Lo Met"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3128910$77C302EF-4122-4E3D-9A52-4A003DDAD854",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613a34c9ce20bd7f68458602dfeec4facc05b7f1",
+      "datavalue": {
+       "value": {
+        "time": "+1743-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3128910$6B05315D-F596-425D-A088-0BFD38EAA853",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8edbabced3376a45bec329c4922743ceaa48a4d5",
+      "datavalue": {
+       "value": {
+        "time": "+1836-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3128910$02A1048F-DD89-4C2F-ADD7-BCF13FAC2537",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3128910$8995fd3a-42f0-f141-c714-e7ba962f04a5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a789066caefc18efddf1138ef86bd2c8cbf3e884",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3128910$f812eb86-429d-74d9-76e0-14c32e93031f",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3128910$08B9AE01-47CD-4F94-AD5A-933AD5C512EB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c8aae1b3d2d382207798a6e2573c116de9195fed",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2972598,
+        "id": "Q2972598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P625": [
+       {
+        "snaktype": "value",
+        "property": "P625",
+        "hash": "4a463b30923fe4a58710400e3d0a40e2b21f0f7f",
+        "datavalue": {
+         "value": {
+          "latitude": 36.823888888889,
+          "longitude": 10.190833333333,
+          "altitude": null,
+          "precision": 0.00027777777777778,
+          "globe": "http://www.wikidata.org/entity/Q2"
+         },
+         "type": "globecoordinate"
+        },
+        "datatype": "globe-coordinate"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P625"
+     ],
+     "id": "Q3128910$4a91fe8c-4b27-b8a7-37ef-ade74b849001",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק חי טייב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2972598": "בית הקברות בורג'ל",
+  "Q3572": "תוניס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3128910.json"
+}

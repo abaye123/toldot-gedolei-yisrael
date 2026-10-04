@@ -1,0 +1,209 @@
+{
+ "id": "Q8051042",
+ "url": "https://www.wikidata.org/wiki/Q8051042",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8051042",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yechezkel Levenstein"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחזקאל לוינשטיין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חצקל לוינשטיין"
+    },
+    {
+     "language": "he",
+     "value": "לעוינשטיין, יחזקאל בן יהודה ליב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051042$28A2E61E-11BE-4A56-B861-43CA3FC70288",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "30b80167d7acb27aed3e50f894029a241f68fe16",
+      "datavalue": {
+       "value": {
+        "time": "+1885-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051042$1594B739-6544-4C85-86C4-564D3FBD6228",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cecaaf734dffc2f8bdb5aea93c7bd9a081a07fd2",
+      "datavalue": {
+       "value": {
+        "time": "+1974-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8051042$2dd39c35-4057-40ad-b55c-f159ba784c15",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051042$E410E846-D0AF-4692-91E6-D69CBB1033B1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "f68b3c4470eb4df9f3a6db3b7ac0addb52e7c1a1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2976326,
+        "id": "Q2976326"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051042$27e5af5a-4a5e-bd47-60e4-7e3cbf0c4dc5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1e77e31acfc9c8aaeb7d5316c359afd02493bba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051042$E0470BF9-CC9A-47C7-8A27-FC8C07AC6578",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0a2fd26ceb7c7b6866701f29bb64e8b45bb256a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152467,
+        "id": "Q152467"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8051042$1C1D08F5-DFF8-40C2-AE7F-53D5C94486EE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחזקאל לוינשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152467": "בני ברק",
+  "Q270": "ורשה",
+  "Q2976326": "משגיח",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8051042.json"
+}

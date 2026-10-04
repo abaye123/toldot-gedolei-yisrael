@@ -1,0 +1,161 @@
+{
+ "id": "Q124290601",
+ "url": "https://www.wikidata.org/wiki/Q124290601",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q124290601",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק השנירי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzhak hasniri"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "jewish poet from Provence, 12th-13th century"
+   },
+   "he": {
+    "language": "he",
+    "value": "פייטן יהודי מפרובאנס, המאות ה-12 וה-13"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Itzhak hasniri"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124290601$477bdb7e-40e0-cbc8-e972-e6dcecfa526a",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e36f09ddaf0afe16fd1a008662199843070c53e4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 781402,
+        "id": "Q781402"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124290601$186d07b1-4362-d439-8ab8-24f11eb6837e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124290601$84DCCCA5-C3A0-45F5-A5B6-5F5C99F31C4F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a912bf524f8d51b2e38f15ac7110723d60dcf87f",
+      "datavalue": {
+       "value": {
+        "time": "+1170-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124290601$9de89a0e-4cd6-5993-5025-ab135eb56851",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fb27ff114a39faafb2e2e90e8347b4a686309d6b",
+      "datavalue": {
+       "value": {
+        "time": "+1300-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124290601$db8172eb-4dd7-a162-cce8-fe7d13ec4596",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק השנירי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q781402": "פיוט"
+ },
+ "raw": "data/raw/wikidata/Q124290601.json"
+}

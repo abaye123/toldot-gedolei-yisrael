@@ -1,0 +1,319 @@
+{
+ "id": "Q828097",
+ "url": "https://www.wikidata.org/wiki/Q828097",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q828097",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה בן הרא\"ש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah ben Asher"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה בן הרא״ש"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בן אשר"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c65369c3c1c3b3c6381dc21ddb96ce24e9465825",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 365,
+        "id": "Q365"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q828097$453A86E4-2678-4A4A-A710-FECCD2903B52",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "422328a9e0a1b7a285ce1c567bb0021d1a25ab33",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5836,
+        "id": "Q5836"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q828097$58E3B2C8-78D7-4432-9609-61614791D2BE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c12a5f2a4de09865b2dfaf126a28addc1eeb11b3",
+      "datavalue": {
+       "value": {
+        "time": "+1270-06-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q828097$FCF16BF6-23D7-40FE-91FE-FD6340A33894",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0c0269f16e75b08601b347a5bb77f9b5837d30f1",
+      "datavalue": {
+       "value": {
+        "time": "+1270-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q828097$2412ecd3-450a-c4f0-bb7d-4e9aa42b1f5b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8b162bea52c6c55c173fbedf53d31e61d8f5d270",
+      "datavalue": {
+       "value": {
+        "time": "+1349-07-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q828097$4739C1D8-D8F2-47F6-AB13-EC51C16291C8",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ec68eed4ce3e4d2d9aeae6f89ffe15d22ae6886f",
+      "datavalue": {
+       "value": {
+        "time": "+1349-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q828097$96791a6b-42aa-d68d-9fbc-f09620472a3b",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$C4B06D6D-D50C-48D5-AF3F-28DAF2FFEF90",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$0466C15B-9D98-43DF-B15F-E24C7EB964D6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$B5FBB103-D7BC-4D93-9883-7B9A5B7B647E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "42e5cf2829a61a6b2251b47b80af8189c57c3fc1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 722525,
+        "id": "Q722525"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$f7e12df2-42e2-7868-3964-2218461a448d",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "8f3c0eb8421bb3bc1d476f1ce7402a7b00e9afdf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18191783,
+        "id": "Q18191783"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$572ca0fc-42c4-8314-d6c5-4ab5d2dcd715",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "14f9f313af5b8fa9ccd38dcfa7832fda3beeb670",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1376849,
+        "id": "Q1376849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q828097$E00B7307-C2E2-4548-8973-F215BDA835C1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה בן הרא\"ש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1376849": "יעקב בן אשר",
+  "Q18191783": "זכרון יהודה",
+  "Q36180": "סופר",
+  "Q365": "קלן",
+  "Q5": "אדם",
+  "Q5836": "טולדו",
+  "Q722525": "רא\"ש"
+ },
+ "raw": "data/raw/wikidata/Q828097.json"
+}

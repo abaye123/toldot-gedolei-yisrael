@@ -1,0 +1,178 @@
+{
+ "id": "Q106459411",
+ "url": "https://www.wikidata.org/wiki/Q106459411",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q106459411",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק קסוטו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Itzack Cassuto"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב יווני בתקופת השואה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Greek rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106459411$F37F24D6-A74A-47D9-99B0-092EE3B584F9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106459411$bb1633d9-4b71-4f1c-c303-c0fe548d0298",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "23da3e3187dc6d0e8255916a4f1f1197ee68acea",
+      "datavalue": {
+       "value": {
+        "time": "+1896-09-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106459411$072cd392-496a-2032-f79b-9f022815a398",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "61a5fa843b908d2c1649e82925027d6feb497634",
+      "datavalue": {
+       "value": {
+        "time": "+1996-02-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106459411$19ddf590-4f74-321b-f0d2-b95806c5382c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106459411$ec6d9ef3-4212-2a55-1a9c-e4b670bbcb95",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7651617950979c078827c38dcb932b6d36254506",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28207012,
+        "id": "Q28207012"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106459411$185da028-48f4-2174-7d69-ec21555b8117",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק קסוטו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q28207012": "בית העלמין ניו מונטיפיורי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q106459411.json"
+}

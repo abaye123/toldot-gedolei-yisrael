@@ -1,0 +1,139 @@
+{
+ "id": "Q16155143",
+ "url": "https://www.wikidata.org/wiki/Q16155143",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16155143",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ben Bag-Bag"
+   },
+   "he": {
+    "language": "he",
+    "value": "בן בג בג"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Talmud rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוחנן בן בג בג"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16155143$0D8736FF-C484-4903-8B36-BDCFEAD10FCE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16155143$D8014146-267F-4F60-8754-A3EBAC024480",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f58a1916ca12aa99db0a86f9706f1e22d2d7ce21",
+      "datavalue": {
+       "value": {
+        "time": "+0050-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16155143$ac1baf2a-dd5b-4f0f-8579-4a62c7bdeb6f",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d91be4d71478c8061d7409a796eb3e9c0ba7ea13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18184585,
+        "id": "Q18184585"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16155143$12f4def4-46d2-e937-6e5f-4c21428f2d11",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בן בג בג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18184585": "משנה אבות ה כב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16155143.json"
+}

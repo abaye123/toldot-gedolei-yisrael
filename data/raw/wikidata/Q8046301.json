@@ -1,0 +1,220 @@
+{
+ "id": "Q8046301",
+ "url": "https://www.wikidata.org/wiki/Q8046301",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8046301",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yaakov Perlow"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב פרלוב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1930-2020)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046301$E6ED7D46-A929-440D-B26B-E5A1C2203AEB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046301$1CDA6468-2E83-4880-8FBE-B0F56CB87E18",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fbe9e8e72d6e749474f700701865e9070570917e",
+      "datavalue": {
+       "value": {
+        "time": "+1930-11-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046301$3D858AEF-AA38-420E-9490-0F6B2635782B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f37a862f8e63e99bdaeecf20255b772aa5eb36fe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046301$B4B01111-B823-4B3B-BA59-2F9F56B43CA7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aae0959a0f13afb9a663742ee2e83f646675c702",
+      "datavalue": {
+       "value": {
+        "time": "+2020-04-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046301$f2b2b444-4a40-9690-a412-8bdf7b1aa2a7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "aae0959a0f13afb9a663742ee2e83f646675c702",
+      "datavalue": {
+       "value": {
+        "time": "+2020-04-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P3629": [
+       {
+        "snaktype": "value",
+        "property": "P3629",
+        "hash": "b32559261fa3e4d803ce8c2703c75c762695008f",
+        "datavalue": {
+         "value": {
+          "amount": "+89",
+          "unit": "http://www.wikidata.org/entity/Q24564698"
+         },
+         "type": "quantity"
+        },
+        "datatype": "quantity"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P3629"
+     ],
+     "id": "Q8046301$10657248-5394-4567-BB69-0C87963DC04D",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c6d3ed6abbea4d9d117c7f37fa9e0278c75976dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2911280,
+        "id": "Q2911280"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046301$e70281d6-43f9-428d-4975-450080580fde",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב פרלוב (ארצות הברית)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18419": "ברוקלין",
+  "Q2911280": "בורו פארק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8046301.json"
+}

@@ -1,0 +1,421 @@
+{
+ "id": "Q359694",
+ "url": "https://www.wikidata.org/wiki/Q359694",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q359694",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנדלי מוכר ספרים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mendele Mocher Sforim"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Yiddish-Hebrew writer (1836-1917)"
+   },
+   "he": {
+    "language": "he",
+    "value": "סופר יידי ועברי (1836–1917)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מנדלה מוכר ספרים"
+    },
+    {
+     "language": "he",
+     "value": "מנדליי מוכר ספרים"
+    },
+    {
+     "language": "he",
+     "value": "מנדלי מוכר-ספרים"
+    },
+    {
+     "language": "he",
+     "value": "שלום אברמוביץ'"
+    },
+    {
+     "language": "he",
+     "value": "שלום יעקב אברמוביץ'"
+    },
+    {
+     "language": "he",
+     "value": "מנדלי"
+    },
+    {
+     "language": "he",
+     "value": "מנדלי מו\"ס"
+    },
+    {
+     "language": "he",
+     "value": "שלום יעקב אברמוביץ"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Mendele Moykher Sforim"
+    },
+    {
+     "language": "en",
+     "value": "Shalom Jacob Abramowich"
+    },
+    {
+     "language": "en",
+     "value": "Sholem Yankev Abramovitsh"
+    },
+    {
+     "language": "en",
+     "value": "Sholem Yankev Abramovich"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7c33068c5813ebf6f30c67bb2377b6f90cbec61d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1874,
+        "id": "Q1874"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q359694$CA26AFBA-B81D-4859-BD1F-81DBEABFB5F3",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$a09a91b2-45fc-1b15-68d9-b7288fc3df96",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c913775b1dca8346d5ad571cf5ec150bc810495f",
+      "datavalue": {
+       "value": {
+        "time": "+1835-12-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q359694$467E9766-5894-412D-9E66-101D3DB82C6B",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1cd3e72b17230f398f7a3d15ed20abe6da565eac",
+      "datavalue": {
+       "value": {
+        "time": "+1836-01-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q359694$CBEBD553-38A2-4D79-AB50-8CE5D130DB0C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "599d1bddba792cab3e11968d0d82c0e0c9e52577",
+      "datavalue": {
+       "value": {
+        "time": "+1917-11-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q359694$50500E7C-8969-4D29-A05B-3382A6CE5F6C",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "43547943d21c4c64a80a806549acdf2eb3b8c198",
+      "datavalue": {
+       "value": {
+        "time": "+1917-12-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q359694$2cb2ee2d-7b00-4d15-811a-203745b4e6cc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6596ac4e164ad2e6d0581b6a2f4374c820a0d0d8",
+      "datavalue": {
+       "value": {
+        "time": "+1917-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q359694$D19CA61B-9128-4F43-8763-802C1B4CAD6A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9fad66326fbbbd943505d1aa7fd3dcc007c097a0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 200950,
+        "id": "Q200950"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$931E7534-C1E6-4014-A36C-44537DB254D1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$ECDD4436-2A5A-41F8-ADA9-B0C458E9B71D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$DF4C9A00-2E47-454B-9D5B-73D904B42169",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$c3b02e3c-51b6-420e-afe3-fc7552393888",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "7992d2aec094f84d664106049d9a4955d096082f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6625963,
+        "id": "Q6625963"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$21f579d8-42b5-1b58-9b37-9550f9e86b35",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "96466360c17e3d9a938e97c2eb2c4b1380b3e78e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 140197632,
+        "id": "Q140197632"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$d28c0330-4469-7f69-46a2-508b49195645",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "09c4dd9b09804a29de1af2538a3f438f93e67ba3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13416784,
+        "id": "Q13416784"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$ca51bb58-75c4-466c-a8f8-748df97d2b28",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "2d136843a07fb2876ac319fb4778e8560139deb9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4054974,
+        "id": "Q4054974"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359694$7d11c5e5-4fac-11b4-304f-f374e719233b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנדלי מוכר ספרים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13416784": "2nd Christian Cemetery",
+  "Q140197632": "satirical novelist",
+  "Q1874": "אודסה",
+  "Q200950": "קופיל",
+  "Q333634": "מתרגם",
+  "Q36180": "סופר",
+  "Q4054974": "Mikhail Abramovich",
+  "Q5": "אדם",
+  "Q6625963": "מחבר רומנים"
+ },
+ "raw": "data/raw/wikidata/Q359694.json"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "Q6667599",
+ "url": "https://www.wikidata.org/wiki/Q6667599",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6667599",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה קרליץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Ḳarelits"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667599$640CEF26-5688-43ED-9E76-625F45EDC6CB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667599$F1D8F096-F60D-48BA-AFBD-CF16047CD853",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2bf863ff7a15d5e5d2d83896d28b03a3a78c0485",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6667599$46d9f28d-48c4-3ccf-4075-69cbc119b7cd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "22ed9d6b09c43659b4a582c187cd6ebbd7cd6bae",
+      "datavalue": {
+       "value": {
+        "time": "+1941-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6667599$85329668-4140-b0cb-b1fc-d5443da44b90",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "89791024271a324ebf4401c8b9a75a3aace152c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6766666,
+        "id": "Q6766666"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667599$52520b9f-4ade-afb8-2b86-f588c25e3266",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "5e65298be92e1ddf0dbd7bae45fb0dca520d3608",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 543442,
+        "id": "Q543442"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667599$7ba5a9e0-402a-978c-1307-5f02d81e09d5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "ab044f58deadeba852c2125805a1b6bfe7fe5f32",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6828189,
+        "id": "Q6828189"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667599$19f54e74-45b2-93f1-2eab-28fc22cd2de6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה קרליץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q543442": "אברהם ישעיהו קרליץ",
+  "Q6766666": "שמריהו יוסף קרליץ",
+  "Q6828189": "מאיר קרליץ"
+ },
+ "raw": "data/raw/wikidata/Q6667599.json"
+}

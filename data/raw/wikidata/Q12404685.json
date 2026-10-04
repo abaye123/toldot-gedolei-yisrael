@@ -1,0 +1,147 @@
+{
+ "id": "Q12404685",
+ "url": "https://www.wikidata.org/wiki/Q12404685",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12404685",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בצלאל יאיר דנציגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Becalel Jair Danziger"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404685$4CE5D21D-CF85-4FDA-BE7E-385293311842",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404685$3B99E78E-9720-4DE3-A9B0-792D588FC9C1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "555f375f4ad1d25c4905b0821ab8eaac363f0710",
+      "datavalue": {
+       "value": {
+        "time": "+1856-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12404685$CF55A6E2-50C8-4981-B1B3-EF00405B6884",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a64876b3749b115ca2dd5c680abcbde6d11dc8f8",
+      "datavalue": {
+       "value": {
+        "time": "+1934-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12404685$188C7DB0-9112-481E-B299-1AE31ECB2A14",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "28744fe21743ba1b081ceedf9b7d6f3550c5f4df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 664371,
+        "id": "Q664371"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12404685$0a4aec66-aacc-4d29-969d-0a08a8a9959e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בצלאל יאיר דנציגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q664371": "אלכסנדר לודז'"
+ },
+ "raw": "data/raw/wikidata/Q12404685.json"
+}

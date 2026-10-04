@@ -1,0 +1,178 @@
+{
+ "id": "Q24837608",
+ "url": "https://www.wikidata.org/wiki/Q24837608",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q24837608",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה בורשטין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo Burstein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24837608$68FF3716-ED3B-4683-ACA7-51CAB77B620D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24837608$D1433E65-7D78-4735-8D09-A449F18BB1A3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bee77364beaec981cf0c80903bf09a7d49d6421c",
+      "datavalue": {
+       "value": {
+        "time": "+1914-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q24837608$69230B3D-FACC-489E-B095-40D2BB50A8F7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ef725ea3b33391b966dc9c043065e3382ace9cc8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36,
+        "id": "Q36"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24837608$A10985D9-ABC5-403A-B1A4-1384A5A7A399",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bf27d5e81eb48d09e23faf9abde4344859e0a076",
+      "datavalue": {
+       "value": {
+        "time": "+2004-06-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q24837608$F0116E56-0313-4EAE-BE39-7A69B86A1E90",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "5673db3054f9f9ab81c2dbda9e45e50a1cb073f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409268,
+        "id": "Q12409268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24837608$e4a4d8b8-4bd4-2af2-c819-116dcb7d0d1e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה בורשטין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12409268": "מנחם בורשטין",
+  "Q133485": "רב",
+  "Q36": "פולין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q24837608.json"
+}

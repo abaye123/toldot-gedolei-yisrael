@@ -1,0 +1,181 @@
+{
+ "id": "Q55889905",
+ "url": "https://www.wikidata.org/wiki/Q55889905",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55889905",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Refaʾel Aharon Monsonego"
+   },
+   "he": {
+    "language": "he",
+    "value": "רפאל מונסונגו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רפאל אהרן בן ידידיה משה מונסונגו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55889905$CFFBF931-A757-4391-ADDE-F7D3B76E9F68",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2dec126213abfbb785c9be7e3ead2a6e3548dbe5",
+      "datavalue": {
+       "value": {
+        "time": "+1760-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55889905$94DA95AF-8494-4925-8AE2-8B8DDA80E0BF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b5897ad1a6d32a9dcd29e8da932b69b96c364624",
+      "datavalue": {
+       "value": {
+        "time": "+1840-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55889905$08701C8E-567A-47A3-8CBC-03B85B2214A0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55889905$369CB9A3-1755-48E7-B687-834AF96A3A85",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ac962882d5c3ea84ad133033230f836d1d57acc4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55889905$dfc98c00-47af-62ca-d004-54bb3437f3f8",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "30d27916b8e0de0628a1cb557d2b0a3cf1960a2e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 42338406,
+        "id": "Q42338406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55889905$f1988623-4d7b-4e06-ac86-288c10384ba0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רפאל אהרן מונסונייגו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q42338406": "ידידיה מונסונייגו",
+  "Q5": "אדם",
+  "Q80985": "פאס"
+ },
+ "raw": "data/raw/wikidata/Q55889905.json"
+}

@@ -1,0 +1,199 @@
+{
+ "id": "Q16062633",
+ "url": "https://www.wikidata.org/wiki/Q16062633",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16062633",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Hochmuth"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם הוכמוט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1816-1889)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16062633$3CFF097C-199D-4D78-A1B1-D7D8F3AE607A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4a724902482e232b7ce72d4dc39b8564a97d061c",
+      "datavalue": {
+       "value": {
+        "time": "+1816-12-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16062633$1F178771-3AD1-4F2A-820F-2E4D45195F82",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "27a8b3e96eae8d8d3e465de0a3df6cd35672aa47",
+      "datavalue": {
+       "value": {
+        "time": "+1889-06-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16062633$76F6536D-5A97-493F-BDAB-8A26078311F1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16062633$3E4BD43D-4C44-43BD-A3DB-6A9A8116AD4E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a54d82e4ea8975758d791eb05db2b6709d51d494",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 146317,
+        "id": "Q146317"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16062633$9F7AB51A-85AA-4028-BA16-19A5B73DD139",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0682dc221baca9ef69da806502dc5a9f0133019a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 549849,
+        "id": "Q549849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16062633$6f932491-45fa-9512-c085-644711529ac1",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d542714d806552253313be627c85c6ac10fc92ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 146317,
+        "id": "Q146317"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16062633$885ac073-4d69-36f1-a2b0-3554d69bd72a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם הוכמוט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q146317": "וספרם",
+  "Q5": "אדם",
+  "Q549849": "באנובצה נאד בבראבואו"
+ },
+ "raw": "data/raw/wikidata/Q16062633.json"
+}

@@ -1,0 +1,187 @@
+{
+ "id": "Q133454572",
+ "url": "https://www.wikidata.org/wiki/Q133454572",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q133454572",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עבדאללה חנין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מגדולי פייטני עיראק"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133454572$ec31b63b-4fb5-deed-249e-86d8d113a766",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "1c7c954f9c5b67b792ec5811f635bd72daece395",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109143736,
+        "id": "Q109143736"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q133454572$664b2546-4955-782b-51b7-428c5ae9b6c1",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133454572$8b7fb7c8-4e07-fc2a-bd21-53eaf5dd838b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a5a816baa8ef17feb1067ec4ff78fca6c8f25cfe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1530,
+        "id": "Q1530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133454572$bc015c56-4ed9-6225-1ac8-f5dc904a53af",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "810c0b1034f5972b48315fb75cd87b93df9e3156",
+      "datavalue": {
+       "value": {
+        "time": "+1859-08-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "6b95fa87e47ee112869e574f02103dc03866510c",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2906493,
+          "id": "Q2906493"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q133454572$94f0539f-4b77-7d6f-2aee-d43aed2b7aee",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "8373664ec55c81c51cc442479aaf9ae53592c034",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 136868644,
+        "id": "Q136868644"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q133454572$d1147ba5-421e-695a-a410-1b0a451edaab",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עבדאללה חנין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109143736": "פייטן",
+  "Q136868644": "אליהו יהושע עובדיה",
+  "Q1530": "בגדאד",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q133454572.json"
+}

@@ -1,0 +1,187 @@
+{
+ "id": "Q5382263",
+ "url": "https://www.wikidata.org/wiki/Q5382263",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5382263",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ephraim Einhorn"
+   },
+   "he": {
+    "language": "he",
+    "value": "אפרים פרדיננד איינהורן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אפרים איינהורן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Ephraim Ferdinand Einhorn"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5382263$7BE27CD0-9A22-4714-952F-B04F669992A8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5abdeb6957de64e22563cf5b413b3c12d163c6d3",
+      "datavalue": {
+       "value": {
+        "time": "+1918-09-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5382263$816CBBEB-B557-4A89-A60D-6273BC8EE326",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5382263$0523BDC4-F161-42E8-8770-A057EA3103A8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71f2e2b08d4d39a71681b7e5d4ac7e82d1332880",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5382263$2862A7AF-AB24-4B13-9647-5D56C7B36C40",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "10bee55a3df10e2babeb6f3b86bcab1efb0ed09e",
+      "datavalue": {
+       "value": {
+        "time": "+2021-09-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5382263$a09163da-49fb-73fb-b3c7-471bcc169733",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "57299c6fd236babde40bdd83110e72940592bb6c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1867,
+        "id": "Q1867"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5382263$88a5a994-4369-4d1b-831c-34ed65a53971",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים פרדיננד איינהורן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1741": "וינה",
+  "Q1867": "טאיפיי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5382263.json"
+}

@@ -1,0 +1,152 @@
+{
+ "id": "Q55650101",
+ "url": "https://www.wikidata.org/wiki/Q55650101",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55650101",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "סולימאן אוחנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Suleman Oḥanah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מקובל שנמנה עם גורי האר\"י"
+   },
+   "en": {
+    "language": "en",
+    "value": "16th century rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55650101$57C1A967-55C4-448E-9A90-60F93A5D1C8A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f266894030b5979aa7d65219dd023c8caff2ad5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55650101$287CE51E-4F60-4948-ACE6-A9EDFE308D93",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bbfeaa6f44044c2e806c6f3e519d7dde64156658",
+      "datavalue": {
+       "value": {
+        "time": "+1618-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55650101$0bf940fb-4a4c-8d06-40ee-58ec5db5a6f8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55650101$06351f84-41fa-50e8-29d7-aafe00ca0f63",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ddedae4ea27d442adca2a78af61ced0b66ead501",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 508743,
+        "id": "Q508743"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55650101$2cdd6484-4a8a-2bb6-68a3-e91eb433c1dd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "סולימאן אוחנה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q508743": "סופר סת\"ם",
+  "Q80985": "פאס",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q55650101.json"
+}

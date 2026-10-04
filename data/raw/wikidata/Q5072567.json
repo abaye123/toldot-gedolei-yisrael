@@ -1,0 +1,167 @@
+{
+ "id": "Q5072567",
+ "url": "https://www.wikidata.org/wiki/Q5072567",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5072567",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chanoch Henoch Eigis"
+   },
+   "he": {
+    "language": "he",
+    "value": "חנוך אייגש"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרחשת"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנוך אייגס"
+    },
+    {
+     "language": "he",
+     "value": "חנוך הניך אייגס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072567$A6C13FE0-2141-4531-B536-B57EFE8BD29B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4bedfb283250105e2eb7e768ed93a92f3bb45ed2",
+      "datavalue": {
+       "value": {
+        "time": "+1863-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5072567$05FD6503-F51C-47A8-B1F9-C6F567F6CE7C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "817d5d2c57ec019054592bb65b1f9085ad3f9e0f",
+      "datavalue": {
+       "value": {
+        "time": "+1941-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5072567$39E42758-1E15-480B-8F4F-F844FC7F1E73",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072567$3680F7E7-0B12-4786-974F-40A9175C463F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d3f6baa9af223c221a4e6aa801dd313a98850bd9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 658562,
+        "id": "Q658562"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5072567$6d6e7a74-4ad8-488b-eb99-5d1877e60faf",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנוך אייגש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q658562": "ראסייני"
+ },
+ "raw": "data/raw/wikidata/Q5072567.json"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "Q18549938",
+ "url": "https://www.wikidata.org/wiki/Q18549938",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18549938",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נתן אדאדי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nathan Adadi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "sephardi Hakham, Torah scholar, and kabbalist"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18549938$5bc461d5-43e4-82b2-f4d0-97405382dc6e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "746fe9010194dfed3b6b2c808d1e57031de099e4",
+      "datavalue": {
+       "value": {
+        "time": "+1818-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18549938$DF95DD34-E0DB-468F-982D-CB9706E10469",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18549938$AF956FE4-B2BD-4784-A570-8081934A28BE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "53177b89d6caae9a9d78c01840e7f967b0b9354d",
+      "datavalue": {
+       "value": {
+        "time": "+1740-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18549938$B85BD168-73A7-4FF2-B2F6-DEBB058CC5D5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d3885656ef24d3928774e5fcd8b23e43fe42d7fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18549938$A55D49EC-D14F-48DF-A5EC-FC775F47E62E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5f567f06450b2aced12a68c3376efe2612d80c19",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18549938$CDEF4D62-27F0-4489-A754-CA08FFABCEA1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתן אדאדי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q188336": "צפת",
+  "Q23792": "ארץ ישראל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18549938.json"
+}

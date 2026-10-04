@@ -1,0 +1,170 @@
+{
+ "id": "Q18635490",
+ "url": "https://www.wikidata.org/wiki/Q18635490",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18635490",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אור שרגא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Or Sheraga"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם יהודי פרסי במאה ה־18"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18635490$69EBEFB5-C60A-4EAC-A180-434FB4D14B3A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18635490$382DBDB8-58D9-4F50-8AF6-D662757953E0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9bed23bbfe71dc96b422085d1dd87f93e011688a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 182394,
+        "id": "Q182394"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18635490$0DEF2923-8960-4B76-9E1A-9F7BD97DA8C9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "fbd3e42a654f7cbbae54d01f18e485e12d061955",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 765553,
+        "id": "Q765553"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18635490$A56540A6-5375-4F09-B768-74EDC0690EEE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "360d080d6a4e1ae9c4df2786a157259f99c0dc1e",
+      "datavalue": {
+       "value": {
+        "time": "+1793-11-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18635490$970B44FD-AE19-40A3-810E-05526BD603A8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "74858e64a03b2a954838892ea78b41774b38a4dd",
+      "datavalue": {
+       "value": {
+        "time": "+1792-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18635490$97957247-b2f2-4025-b927-2213e12285ee",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אור שרגא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q182394": "יזד",
+  "Q5": "אדם",
+  "Q765553": "סבזוואר"
+ },
+ "raw": "data/raw/wikidata/Q18635490.json"
+}

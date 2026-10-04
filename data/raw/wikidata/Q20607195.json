@@ -1,0 +1,192 @@
+{
+ "id": "Q20607195",
+ "url": "https://www.wikidata.org/wiki/Q20607195",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20607195",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף אלטר הגר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר הראשון מרדוביץ"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607195$12154D37-B527-46C5-9802-B4368D27F19A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607195$67319386-45ab-f558-87dd-1b83a8ae743d",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f18a7d967a123b0020e20cd1d467d8882c7a0bc3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7212245,
+        "id": "Q7212245"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607195$2c5ae779-4c11-16ee-fd4a-8da4b869bf17",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f842a5c154d8131ae1b9e05230422f25c20a91c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41621,
+        "id": "Q41621"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607195$82044E03-BEA3-4F71-BAFB-A4C7E9C8D24A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02b148ed7ee2b6adf637b1dd5bc5b90c77fb1871",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157461,
+        "id": "Q157461"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607195$58D1F36D-EEB3-48F2-82C0-C24E2CEE7C25",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "28b143faf59cc2dfafcc76302e3a2ead1568d03a",
+      "datavalue": {
+       "value": {
+        "time": "+1879-06-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20607195$5e0aa031-4c2d-6893-16e7-8845f0d07170",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "aae9483ce42ced6834d586815b887b364d269255",
+      "datavalue": {
+       "value": {
+        "time": "+1822-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20607195$30a700f3-4f18-f17f-b314-4b4f85539e7c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אלטר הגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q157461": "קוסוב",
+  "Q359351": "אדמו\"ר",
+  "Q41621": "חיפה",
+  "Q5": "אדם",
+  "Q7212245": "חיים הגר מקוסוב"
+ },
+ "raw": "data/raw/wikidata/Q20607195.json"
+}

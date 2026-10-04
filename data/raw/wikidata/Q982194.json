@@ -1,0 +1,365 @@
+{
+ "id": "Q982194",
+ "url": "https://www.wikidata.org/wiki/Q982194",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q982194",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב האי גאון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hai Gaon"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi of Academy of Pumbedita"
+   },
+   "he": {
+    "language": "he",
+    "value": "מגאוני בבל"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב האי"
+    },
+    {
+     "language": "he",
+     "value": "רב האיי גאון"
+    },
+    {
+     "language": "he",
+     "value": "האי גאון"
+    },
+    {
+     "language": "he",
+     "value": "האיי גאון"
+    },
+    {
+     "language": "he",
+     "value": "רה\"ג"
+    },
+    {
+     "language": "he",
+     "value": "האי בן שרירא, 939־1038"
+    },
+    {
+     "language": "he",
+     "value": "חי,"
+    },
+    {
+     "language": "he",
+     "value": "האי בן שרירא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Hai ben Sherira"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$5DFC2A30-B1D9-4803-B926-F81BB280FBE4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a80f982573737b87e4679230ffdaf6059efc8ba8",
+      "datavalue": {
+       "value": {
+        "time": "+1038-03-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q982194$A5D053B8-6A08-47B0-8BE5-08F23790F37E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9d47dd248c9e222f4fa1d4f51bbc4d45802f6c32",
+      "datavalue": {
+       "value": {
+        "time": "+1038-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q982194$37592339-4903-8df0-1fc6-647edd5694f7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "75e090b6245ffe3a759d5e541fff45b10f0b173b",
+      "datavalue": {
+       "value": {
+        "time": "+0939-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q982194$7214F257-C8D7-44B9-8CF5-E89FB374362E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$4D55DE10-DB72-4FEE-830C-F7DFFA2E5113",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "eded77de83f29c9b2da86e29c69a28e8a3c2c7d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14972848,
+        "id": "Q14972848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$375CB7EB-07E4-4C21-B689-0E0C1D0D9022",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "46a74f384f65b893bc66d633f391230d2d58eec6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116631319,
+        "id": "Q116631319"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$8895593e-1bdb-4e88-a2e0-f22726467335",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$d48f33bd-4cc0-e1af-6d02-ddc15ea6c498",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "a7308911c48218833897c82496c8a168446ef620",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 356149,
+        "id": "Q356149"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$fabc7a09-474a-3c76-5430-d8c1d8819a3b",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "9d52b81ec70375782d89c653eec4456c744cd137",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 467161,
+        "id": "Q467161"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$08710285-8851-45EA-9FFD-09F29DC87420",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a5127680744b55c9ee710a43575978f9bfa7e0c6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4446399,
+        "id": "Q4446399"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982194$7B9FB4CD-A4BC-47C8-934F-07282FD568CE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב האי גאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q116631319": "Jewish theologian",
+  "Q133485": "רב",
+  "Q14972848": "מילונאי",
+  "Q356149": "רב שרירא גאון",
+  "Q36180": "סופר",
+  "Q4446399": "סורא",
+  "Q467161": "שמואל הנגיד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q982194.json"
+}

@@ -1,0 +1,170 @@
+{
+ "id": "Q12259852",
+ "url": "https://www.wikidata.org/wiki/Q12259852",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12259852",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלכסנדר סנדר אייכנשטיין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר הראשון מקומרנה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12259852$B86E4CDF-AFC4-4E52-8EE3-8740728A80EF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12259852$210AAB44-1675-4EDC-8C8B-EFFBC63DDFE9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c155c79a4e3fc2257502798f4cf9b742f6a466d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1004265,
+        "id": "Q1004265"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12259852$912D5F4C-FCA2-486C-A354-70511BD4A3FB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3a2a0447e2eaf184cca01c57d9d3036a05d04112",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116417,
+        "id": "Q116417"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12259852$B5E89C0E-7EB6-4B3B-8A61-2B9D7B4C0532",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "242eed9dab4ee2273dd570bcedb8a8b900f1b74f",
+      "datavalue": {
+       "value": {
+        "time": "+1769-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12259852$798b58b1-4a35-e036-66c7-f13394ee74dd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "62b62e5558959ae1aa822316278b24be5e556a95",
+      "datavalue": {
+       "value": {
+        "time": "+1818-08-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12259852$7004d44f-4662-4831-7f4d-8ee979935d25",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלכסנדר סנדר אייכנשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1004265": "קומארנו",
+  "Q116417": "שאטוראליאויהיי",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12259852.json"
+}

@@ -1,0 +1,287 @@
+{
+ "id": "Q793576",
+ "url": "https://www.wikidata.org/wiki/Q793576",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q793576",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaiah ben Judah Berlin"
+   },
+   "he": {
+    "language": "he",
+    "value": "ישעיה פיק ברלין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi and Talmudist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומחבר ספרים"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Isaiah Berlin"
+    },
+    {
+     "language": "en",
+     "value": "Yeshaye Pick"
+    },
+    {
+     "language": "en",
+     "value": "Isaiah Pick"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "ברלין, ישעיה בן יהודה ליב,"
+    },
+    {
+     "language": "he",
+     "value": "ישעיהו פיק ברלין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$A53DB105-F908-4105-A839-8602478E247B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$D37C1D99-9C35-4D8B-BDEC-8E6017B76AAF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$ef385f9c-4db4-afc0-88fa-734f1a00c0a0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$89DD4030-B12C-460C-8CA0-4D4CB2EE8703",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1a86a8030b35c2af4ab2531a8ce4d3e0dd214068",
+      "datavalue": {
+       "value": {
+        "time": "+1725-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q793576$adcc4471-483e-c8c1-95b0-6653e92ce7a6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "587e7ae387266b659154f6369c389746f9fd22f9",
+      "datavalue": {
+       "value": {
+        "time": "+1725-10-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q793576$0F16CF22-AD0B-4E2E-A7A0-BC7191554FED",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "30af1e59cc22f8a2dac12c15dd74478767af0c4b",
+      "datavalue": {
+       "value": {
+        "time": "+1799-05-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q793576$C5ECE743-59B2-4C5C-AC39-06D87993B1DA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "81dfc95f3fe391420ed36e48bf4f3558900270aa",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126321,
+        "id": "Q126321"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$a05111a3-4e1e-1d59-6eb9-a8c66b4ad90d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9226ba3aad526380d802b422b81895a3eaa635f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$36da6c63-41c2-9d65-8e84-bdaa2eb22a5a",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "c9f9ac5451817860790f0f8a906808bd222b1e4d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109003894,
+        "id": "Q109003894"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q793576$c63dd6db-4d68-8347-efab-c7aafcbed88d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישעיה פיק ברלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q109003894": "קריינדל שטיינהארט",
+  "Q126321": "אייזנשטאדט",
+  "Q133485": "רב",
+  "Q1799": "ורוצלב",
+  "Q21584816": "תלמודאי",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q793576.json"
+}

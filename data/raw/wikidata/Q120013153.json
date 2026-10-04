@@ -1,0 +1,169 @@
+{
+ "id": "Q120013153",
+ "url": "https://www.wikidata.org/wiki/Q120013153",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q120013153",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אריה לייב קלהורה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aryeh Leib Calahorra"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין ומגיד מישרים בפוזנא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120013153$4f7409f5-4fee-5356-0cc8-a94b6b73e82d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120013153$39296dcc-40d5-0ef8-7c07-13e1a0aad12a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "db52505cd56bbe153ed88b86feb0fcb007f81d00",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1884050,
+        "id": "Q1884050"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120013153$1636ba10-4a38-0f5c-1064-6da36e290da3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "72572ee4b6c62657eb9caded2d8fe4f044799a47",
+      "datavalue": {
+       "value": {
+        "time": "+1736-11-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q120013153$7c868d2a-43a4-d3be-e24e-a35f9f69ed14",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e96c8d69f7d8a4ac307f0f98c5320c24f34f22f6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 268,
+        "id": "Q268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120013153$64fe4799-4e03-28e6-9ce7-6dcef4b838d9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a3586e6990a9fa17f225fc06b82eba158b67b76d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 268,
+        "id": "Q268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q120013153$63abedd9-47be-d95c-a4e3-c7dbd334a360",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה לייב קלהורה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1884050": "מגיד",
+  "Q268": "פוזנן",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q120013153.json"
+}

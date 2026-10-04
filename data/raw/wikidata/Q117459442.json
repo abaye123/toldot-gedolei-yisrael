@@ -1,0 +1,181 @@
+{
+ "id": "Q117459442",
+ "url": "https://www.wikidata.org/wiki/Q117459442",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q117459442",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף אסכנדרני"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה וראש ישיבה בעיר צפת בסוף המאה ה-15 ותחילת המאה ה-16"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ר\"י אסכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוסף אסכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "יוסף בן אברהם אסכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוסף בן אברהם אסכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "ר\"י סכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוסף סכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "יוסף בן אברהם סכנדרני"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוסף בן אברהם סכנדרני"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117459442$415bcdd0-43fc-92ee-a784-0f5399d87a6f",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117459442$49e23353-4fe5-324a-60df-fe3983cb5554",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117459442$6c0e437c-42cf-dada-835f-ae5709be784d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fd5b439513a73434241fd8652814f09034cb9368",
+      "datavalue": {
+       "value": {
+        "time": "+1500-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117459442$e5987693-4876-ca83-219c-d382185e8f3c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c5979fcb49822e3cc1e338e27516bdc287650a82",
+      "datavalue": {
+       "value": {
+        "time": "+1600-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117459442$a9779422-4e87-c5be-864b-2379291b709e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אסכנדרני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q117459442.json"
+}

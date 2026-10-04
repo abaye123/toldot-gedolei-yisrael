@@ -1,0 +1,178 @@
+{
+ "id": "Q14629039",
+ "url": "https://www.wikidata.org/wiki/Q14629039",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q14629039",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ascher Löw"
+   },
+   "he": {
+    "language": "he",
+    "value": "אשר לב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q14629039$B5BE28EA-D306-4780-AE2D-58FCB4F56DDB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7c41ef1a949a996e606289140f04fafc2e3281ac",
+      "datavalue": {
+       "value": {
+        "time": "+1754-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q14629039$3D850E51-52F8-4214-A71E-B6E88557CB5D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "235ab64a4bb87a7e44a191834e210dcbd7767b74",
+      "datavalue": {
+       "value": {
+        "time": "+1837-07-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q14629039$AD9BC505-F495-4DDB-9F9B-29A9E67BA03B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "09e475ff78115c62d8a50dea5df8c3cedd967a7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2280,
+        "id": "Q2280"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q14629039$99FEC131-F73E-4A82-AE86-5C968EA50A66",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "64c736baaf44bc380a189dd0dffb0b591ff5e3d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1040,
+        "id": "Q1040"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q14629039$D2ECC67C-82F4-4DA4-9721-8496AB163AD6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q14629039$26B0AE0D-99FF-4002-8BF2-42D11ECEEDC9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אשר לב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1040": "קרלסרוהה",
+  "Q133485": "רב",
+  "Q2280": "מינסק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q14629039.json"
+}

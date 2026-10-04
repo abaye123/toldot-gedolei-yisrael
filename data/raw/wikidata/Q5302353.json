@@ -1,0 +1,297 @@
+{
+ "id": "Q5302353",
+ "url": "https://www.wikidata.org/wiki/Q5302353",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5302353",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Dov Ber Abramowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "דובר אברמוביץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה אמריקאי ממוצא ליטאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American Orthodox Rabbi and author (1865–1926)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Dov Ber Abramovitz"
+    },
+    {
+     "language": "en",
+     "value": "Abramowitz, Bernard"
+    },
+    {
+     "language": "en",
+     "value": "Abramowitz, Dob Baer"
+    },
+    {
+     "language": "en",
+     "value": "Abramowitz, Dov Baer"
+    },
+    {
+     "language": "en",
+     "value": "ABRAMOWITZ, DOB BAER (BERNARD) B. ABRAHAM MENAHEM"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אברמוביץ, דב בר"
+    },
+    {
+     "language": "he",
+     "value": "אברמוביץ, דוב בר בן אברהם מנחם‏"
+    },
+    {
+     "language": "he",
+     "value": "אווראמאוויטש, דב בר"
+    },
+    {
+     "language": "he",
+     "value": "אבראמאוויץ, דב בר"
+    },
+    {
+     "language": "he",
+     "value": "אבראמאוויטש, דב בר"
+    },
+    {
+     "language": "he",
+     "value": "ד ב אבראמאוויץ‏"
+    },
+    {
+     "language": "he",
+     "value": "ד. ב. אבראמאוויץ‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302353$09EAB696-2913-440D-895C-43CC2CB7C126",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0ed9049594ba1bfc70fb8995e2839e41a3709e1b",
+      "datavalue": {
+       "value": {
+        "time": "+1865-08-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302353$B43FC040-8876-43B6-B61E-166B47219469",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c255592179cc133f1dbf6d7778a893cb0aba8e28",
+      "datavalue": {
+       "value": {
+        "time": "+1860-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302353$bcb09e02-414e-601f-3598-7d467afcd27e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d7132c9ecfd1aec5fe2ad19c5fcf09c502262f3f",
+      "datavalue": {
+       "value": {
+        "time": "+1926-03-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302353$64CE08A1-CE6F-42DF-B312-C6BA941CA514",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "77ec8370dafd608fd71bb5bbb87e42316bcd09cd",
+      "datavalue": {
+       "value": {
+        "time": "+1919-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5302353$63ab7ae5-43e6-9156-92d9-63b5dd98b087",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302353$CB17D6C4-D05C-47BC-94BC-7D50BEB238D2",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302353$afb244c7-427d-41bc-b1be-65b97c64e6f4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4f903a3696346e028128e7360c0a69520cc95694",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2000579,
+        "id": "Q2000579"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302353$3252F122-D7C7-4F07-B80F-EDA194C85BBB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5302353$d9534b3d-4762-caca-5781-99d390b5114f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דובר אברמוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q2000579": "ובלנינקס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5302353.json"
+}

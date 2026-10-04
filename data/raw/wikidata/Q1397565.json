@@ -1,0 +1,321 @@
+{
+ "id": "Q1397565",
+ "url": "https://www.wikidata.org/wiki/Q1397565",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1397565",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי יוחנן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Johanan bar Nappaha"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "3rd-century Judean rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "גדול אמוראי ארץ ישראל בדור הראשון, חברו של ריש לקיש, מייסד הישיבה בטבריה."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "בר נפחא"
+    },
+    {
+     "language": "he",
+     "value": "יוחנן בר נפחא"
+    },
+    {
+     "language": "he",
+     "value": "ר' יוחנן"
+    },
+    {
+     "language": "he",
+     "value": "רבי יוחנן בר נפחא"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7d8724e1782496319d41246cb3708b150ebf2312",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1132798,
+        "id": "Q1132798"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1397565$7185F131-B6EF-46E7-BAC8-44AC1D454351",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$D68B32E4-2379-46B7-BA62-FFE5DED33D05",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "024f6c4ad8f520a6394722e02b966ab3cb95ea67",
+      "datavalue": {
+       "value": {
+        "time": "+0180-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P459": [
+       {
+        "snaktype": "value",
+        "property": "P459",
+        "hash": "907b019d4c93ad88c9caf55bfff3c19ab686e290",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31",
+      "P459"
+     ],
+     "id": "Q1397565$C5222E7D-3232-4DFC-98BC-CD227F6B4B0D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "18cb94d6927d37c0e8546b3c5af318895861e4e6",
+      "datavalue": {
+       "value": {
+        "time": "+0199-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1397565$CBCD9889-1376-4B33-B6CD-AC29A6B9620D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$83ABE6B4-C692-406D-99B2-49F8968094E1",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "45258a0976348d06a397c58e6ea71d9f8e4a05b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1062209,
+        "id": "Q1062209"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$581136e0-4260-6354-710c-45ec5a9e2242",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "ba5c3acfb67fa104d0afcc6c5981639d9ac1dc47",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 91060431,
+        "id": "Q91060431"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$5e4e5178-467c-f0d8-842a-ca78c23f39b9",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "3ec1bacfd80f84e81a4f283d3b427782d017801f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1391489,
+        "id": "Q1391489"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$C2C31650-1F28-49EF-8158-EC20DB8A7E49",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1397565$c46eea9f-0780-455a-a8a3-a731f55cd6b4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9b246e8db2219771fbad12eda4ae07b2c72618b",
+      "datavalue": {
+       "value": {
+        "time": "+0279-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1397565$F6448AF0-631F-4C5D-B8A8-697ED1270650",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יוחנן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1062209": "רבי חנינא בר חמא",
+  "Q1132798": "ציפורי",
+  "Q133485": "רב",
+  "Q1391489": "ריש לקיש",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם",
+  "Q91060431": "רבי נחוניא דמן חוורן"
+ },
+ "raw": "data/raw/wikidata/Q1397565.json"
+}

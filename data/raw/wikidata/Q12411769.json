@@ -1,0 +1,165 @@
+{
+ "id": "Q12411769",
+ "url": "https://www.wikidata.org/wiki/Q12411769",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12411769",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה מקרלין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shlomo de Karlin"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "prominent Hasidic Jewish leader"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חסידות לודמיר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Shlomo of Karlin"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411769$04E74E13-F062-4403-BE37-4240AABBC4E6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c941d9477969afaaafc982d523aa94244fe98946",
+      "datavalue": {
+       "value": {
+        "time": "+1738-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411769$4FC183CC-086E-4E49-8F65-EF80958AF248",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "74858e64a03b2a954838892ea78b41774b38a4dd",
+      "datavalue": {
+       "value": {
+        "time": "+1792-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411769$C37654B3-ED4D-4379-B234-908AAA24DF2D",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "67805bd6c5a3ed7ffe7aa770ece4de97a12c2150",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2857943,
+        "id": "Q2857943"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411769$7f17041b-4990-9a64-f3fc-9e8d102132f2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411769$091F3262-CCF2-4E4B-BFA7-20B791CF1F9B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה מקרלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2857943": "אהרן הגדול מקרלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12411769.json"
+}

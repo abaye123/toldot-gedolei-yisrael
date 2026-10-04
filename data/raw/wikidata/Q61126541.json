@@ -1,0 +1,115 @@
+{
+ "id": "Q61126541",
+ "url": "https://www.wikidata.org/wiki/Q61126541",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q61126541",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון בן ננס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi Shimon Ben Nanas"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בדור השלישי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Third generation Tanna"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי שמעון בן ננס"
+    },
+    {
+     "language": "he",
+     "value": "בן ננס"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Simeon ben Nanas"
+    },
+    {
+     "language": "en",
+     "value": "Simeon ben Nanos"
+    },
+    {
+     "language": "en",
+     "value": "Ben Nanas"
+    },
+    {
+     "language": "en",
+     "value": "Ben Nannas"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61126541$42B9C459-C5AB-4A31-8A74-1BD4CB1EFBC3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61126541$6134edfd-4279-013a-aedd-c685263f9af9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון בן ננס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q61126541.json"
+}

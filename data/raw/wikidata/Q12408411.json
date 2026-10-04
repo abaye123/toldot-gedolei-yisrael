@@ -1,0 +1,154 @@
+{
+ "id": "Q12408411",
+ "url": "https://www.wikidata.org/wiki/Q12408411",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408411",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל קושטא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Costa"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "סופר יהודה איטלקי במאה ב-19"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408411$D8BDB76F-9911-4584-86C0-A3C627B1020E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408411$83953B37-2474-44FE-9041-9282237C96F3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "645b4bccd4c05d8bf4eedcfe43caa50aa1802ea8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 175151,
+        "id": "Q175151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408411$C7807BB6-601A-492B-B419-BD8A16F0B4D2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e42ade3f72ddef4805d6e6b4ae352db3d9da1620",
+      "datavalue": {
+       "value": {
+        "time": "+1819-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408411$7DA58CBF-E689-4F84-80D3-AF75FBBCE4E9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fda3342251c83a0712c89223aa912979e614ae82",
+      "datavalue": {
+       "value": {
+        "time": "+1897-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408411$D43DD533-A656-4A6F-826E-8F29624BC4F8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל קושטא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q175151": "מדפיס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408411.json"
+}

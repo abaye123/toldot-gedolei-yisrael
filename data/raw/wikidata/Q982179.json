@@ -1,0 +1,242 @@
+{
+ "id": "Q982179",
+ "url": "https://www.wikidata.org/wiki/Q982179",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q982179",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי חנינא בן תרדיון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haninah ben Teradion"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחשובי התנאים בדור מרד בר כוכבא ולאחריו, אחד מעשרת הרוגי מלכות ואביה של ברוריה"
+   },
+   "en": {
+    "language": "en",
+    "value": "2nd century Jewish rabbi and teacher"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנניא בן תרדיון"
+    },
+    {
+     "language": "he",
+     "value": "חנינא בן תרדיון"
+    },
+    {
+     "language": "he",
+     "value": "חנניה בן תרדיון"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Ḥanina’ Ben Teradyon"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982179$A80F2C2B-8F08-4CCD-99CF-BA5F274C7D24",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "83add5c35cba8923a9db2ce9b54e7d8cd2835a05",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982179$2DBED1EA-8AA8-4F4D-AF11-18080F7119D4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a85a86b9b7538ff519976ecd2daa232bcb12534a",
+      "datavalue": {
+       "value": {
+        "time": "+0100-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q982179$5E1C213E-F521-4DC0-B107-77074ABF22FE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982179$d054bd1e-5af4-4781-94d9-67c637519385",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "96716510ebf18f7cffdf36d82f25201e93b61630",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 469428,
+        "id": "Q469428"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982179$7F601598-9C0C-46B1-BD74-3A56E67BD466",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e0c605e5cc8f3a3b3ab9d88855f5c65410fe7f42",
+      "datavalue": {
+       "value": {
+        "time": "+0200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q982179$be77fb45-4b54-339f-a190-e555e08440d5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f453d8a4a755d64b405d46c538d9dc8b56568eef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1669578,
+        "id": "Q1669578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q982179$E0048E0A-7953-425D-B2BC-8279B4DB27E4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי חנניה בן תרדיון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1669578": "סוריה פלשתינה",
+  "Q469428": "ברוריה",
+  "Q5": "אדם",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q982179.json"
+}

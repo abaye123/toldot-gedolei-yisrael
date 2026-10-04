@@ -1,0 +1,253 @@
+{
+ "id": "Q16133173",
+ "url": "https://www.wikidata.org/wiki/Q16133173",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16133173",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים סוקולובר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבהּ הראשון של המושבה רעננה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133173$9CCA499D-777E-49B3-A5F8-38AC738D37B6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fba2fff7d75d4a1f0dc50f194a4b26741c245b0b",
+      "datavalue": {
+       "value": {
+        "time": "+1901-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16133173$897C3606-1E5F-49AA-AA9E-55C2B41D68EB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e691f8016d345e029175d3af1382d9edfe47b00",
+      "datavalue": {
+       "value": {
+        "time": "+1968-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16133173$46B6012A-085B-4B56-927D-BB50CDABDDA7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133173$8a31d827-438a-7885-a96d-c204c4c1c6ab",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "ddd84f0dffda8619cc4a0252119b3c1315408ea4",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 93465544,
+          "id": "Q93465544"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "2c26eb9df698cea6c4c11ca0a9c3ce66347eba25",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 309164,
+          "id": "Q309164"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "5d361c4d833c09e75aae38a4498d3562a1156244",
+        "datavalue": {
+         "value": {
+          "time": "+1968-05-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 10,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1366",
+      "P108",
+      "P582"
+     ],
+     "id": "Q16133173$c40786d4-4161-8ad8-2a1f-15be3bc765b8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2ca5375b3c8ff7e564f6086e1b381e8035968c50",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 309164,
+        "id": "Q309164"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133173$482f611a-46ef-282b-8990-f9895199a1de",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b10642c605b3ec0a92563f6ed03917853a69ba38",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 309164,
+        "id": "Q309164"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133173$04bbc18c-45b0-f089-10cf-acd011121eeb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים סוקולובר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q309164": "רעננה",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16133173.json"
+}

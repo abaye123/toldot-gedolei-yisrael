@@ -1,0 +1,147 @@
+{
+ "id": "Q113355511",
+ "url": "https://www.wikidata.org/wiki/Q113355511",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113355511",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו אלפאנדרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliyahu Alfandari"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355511$3DEC5ECD-3A1A-4826-81FF-F3C501DC4D4A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355511$77599C92-7079-4337-9FBB-94408FA88012",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0c566e5e39b5ef1dd8977334e1b005939a06820",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355511$3984CBEE-2D32-4293-8C49-ACD7C2A2D60D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2ee79cb88b16dafa94d2bea9d7e755303aa11e1f",
+      "datavalue": {
+       "value": {
+        "time": "+1670-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355511$FC4D5CCF-6FEB-4614-AE15-9DBFF9AD70F8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "82e14b2d7fcece1c368c5ce046f2693b7cd2e357",
+      "datavalue": {
+       "value": {
+        "time": "+1717-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355511$8E38F7B7-3F22-44AC-BA81-A9A849ABA489",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו אלפאנדרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q406": "איסטנבול",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113355511.json"
+}

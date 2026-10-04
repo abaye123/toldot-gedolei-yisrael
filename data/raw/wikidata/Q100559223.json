@@ -1,0 +1,135 @@
+{
+ "id": "Q100559223",
+ "url": "https://www.wikidata.org/wiki/Q100559223",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100559223",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אשיאן בר נדבך"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בדור השני, המוזכר בתלמוד פעמים בודדות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אשיין בר נדבך"
+    },
+    {
+     "language": "he",
+     "value": "אשייאן בר נידבה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100559223$2be857d1-4b51-b577-7a73-94491e217808",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "48de364af22eb95f923ecf59d2fc0208c747634c",
+      "datavalue": {
+       "value": {
+        "time": "+0250-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q100559223$f7eb77b4-4a88-3de1-889b-ca26371fa59f",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1dba68dda7c0bcde737da9ee54495149927148b0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83891,
+        "id": "Q83891"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100559223$6a4c2006-4c81-270d-6b08-0338168cebbf",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100559223$14A36D0D-BF19-4AF5-86D3-20EEC6073BE0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אשיאן בר נדבך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q83891": "האימפריה הסאסאנית"
+ },
+ "raw": "data/raw/wikidata/Q100559223.json"
+}

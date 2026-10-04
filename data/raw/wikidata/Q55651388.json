@@ -1,0 +1,194 @@
+{
+ "id": "Q55651388",
+ "url": "https://www.wikidata.org/wiki/Q55651388",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55651388",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו הצרפתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliahou Hasarfaty"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מרוקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651388$17661D4E-A59D-4E55-BC99-ABEAEFBF3BA9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f266894030b5979aa7d65219dd023c8caff2ad5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651388$CACFFECB-45C6-4FFE-AC78-725D3DABB3C2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b392a342e48468048bd0dfdf008ae1d260c16b39",
+      "datavalue": {
+       "value": {
+        "time": "+1715-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651388$4872d8d6-8170-414f-b1d5-62a11c8cdafd",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "1657a9ac32cc35b091361c291b3bc7f04d29ba0b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651388$F8D6C326-4ED9-4738-A380-74922D88870F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "ac962882d5c3ea84ad133033230f836d1d57acc4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651388$5D7792AB-BD0E-4D01-9F44-84E91D22546B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a3463b325395d5d5e1894edeac4d73be4440e86",
+      "datavalue": {
+       "value": {
+        "time": "+1805-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651388$FFD57BDA-A089-4E9A-8D7E-876656F95108",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651388$7997E0A1-7C8A-45E8-8637-BA65B2B732FE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו הצרפתי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q80985": "פאס"
+ },
+ "raw": "data/raw/wikidata/Q55651388.json"
+}

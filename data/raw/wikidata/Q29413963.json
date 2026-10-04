@@ -1,0 +1,185 @@
+{
+ "id": "Q29413963",
+ "url": "https://www.wikidata.org/wiki/Q29413963",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q29413963",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Josef Altmann"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף אלטמן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, פוסק וממנהיגי יהדות באדן"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Joseph-Josel Altmann"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29413963$7038ECE3-A163-4109-8569-A92C12D85D66",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "67e42f8e4cc04bb05cdbf1d1ba2fc6362a74c92f",
+      "datavalue": {
+       "value": {
+        "time": "+1818-07-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q29413963$4675E677-9F8C-45F5-809B-1FB1C2EB61F5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a8d437eef0398c26c8ee985a32ee40bf4062f8b",
+      "datavalue": {
+       "value": {
+        "time": "+1874-11-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q29413963$DDE92FCB-7AE4-457B-8EF4-E8EECDA65257",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a484ba7b12df1f826f6316d099d88739c2a54d0a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23008,
+        "id": "Q23008"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29413963$AA2B54A9-8699-404C-AC5A-78CB880AEFFC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29413963$871E9658-1960-470F-8C86-71D7E5F9B950",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "64c736baaf44bc380a189dd0dffb0b591ff5e3d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1040,
+        "id": "Q1040"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q29413963$B1CE88E7-248C-4EAF-AEAF-83682E009083",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אלטמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1040": "קרלסרוהה",
+  "Q133485": "רב",
+  "Q23008": "מוסבאך",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q29413963.json"
+}

@@ -1,0 +1,173 @@
+{
+ "id": "Q4695002",
+ "url": "https://www.wikidata.org/wiki/Q4695002",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4695002",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aharon of Zhitomir"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן מז'יטומיר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "תלמידו של רבי לוי יצחק מברדיטשוב ומגדולי תנועת החסידות"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aaron of Zhitomir"
+    },
+    {
+     "language": "en",
+     "value": "Aaron, of Zhitomir, -approximately 1817"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אהרן, מזיטומיר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4695002$C593F62C-2116-4AC1-9870-309CAACF18B4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4695002$11E718CC-F761-4FE9-9FA7-985EC1CECF85",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b05746e8f20e658022e084c1a6fc755d570c6bbb",
+      "datavalue": {
+       "value": {
+        "time": "+1755-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4695002$3f0ee087-0865-489a-90b5-99078c8d49e7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a30a2e07cd228ce5a8632a4b45d4c90e84fcbc07",
+      "datavalue": {
+       "value": {
+        "time": "+1820-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4695002$3e7f0f42-471e-18c0-d2c3-3b0c65b7f761",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2b06a3162e64e98c8837f3ba6bd797eaa99fc010",
+      "datavalue": {
+       "value": {
+        "time": "+1816-10-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4695002$28B7FB26-80F0-44F5-A212-0AD9050574EA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן מז'יטומיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4695002.json"
+}

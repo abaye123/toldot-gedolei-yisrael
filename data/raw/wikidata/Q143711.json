@@ -1,0 +1,274 @@
+{
+ "id": "Q143711",
+ "url": "https://www.wikidata.org/wiki/Q143711",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q143711",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Alexander Suslin"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלכסנדרי זוסלין הכהן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (died 1349)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Alexander Suslin HaKohen"
+    },
+    {
+     "language": "en",
+     "value": "Alexander Suslin ha-Kohen"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b972799e74543f2295208090742ab79d61c799d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1729,
+        "id": "Q1729"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q143711$1E0AA3BF-D0C9-4AAC-8B45-A8BE9046E998",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "52ba4275425663e3259c07a54ccdfa6f9ef11c3d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q143711$FF6566EE-7A92-46D1-B687-A10E8BFAB618",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q143711$066687F0-890C-4485-938B-F03F96EADEA9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "750fbdce03abc1d6777c76e3d0d4239667b02a7e",
+      "datavalue": {
+       "value": {
+        "time": "+1349-03-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q143711$9E9D6574-D0F5-4F48-9DC1-4AE89E0CF165",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q143711$FFD3D63C-E032-4733-83B9-886F3B502B97",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q143711$39B2FB48-9BD3-4ECE-8451-FA97FBB83630",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cca2e8e9fd3fd174c994e6c0ac2f1a94119a00a2",
+      "datavalue": {
+       "value": {
+        "time": "+1300-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 6,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q143711$8e662a60-e42e-4ca7-a502-c710d38564a0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "85f4c28578a3fcb4760a06a2820114b0c9e6ab12",
+      "datavalue": {
+       "value": {
+        "time": "+1290-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q143711$b64657f0-40d6-c0cf-7aa4-3ba7f7c052c9",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "33d5a2a1462c5d0c2229c95bf74b4b8ae4a65155",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 129037724,
+        "id": "Q129037724"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q143711$d7d76317-4ee4-bb6a-087e-1a2ca6cd4c7a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלכסנדרי זוסלין הכהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q129037724": "ספר אגודה",
+  "Q133485": "רב",
+  "Q1729": "ארפורט",
+  "Q1794": "פרנקפורט על המיין",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q143711.json"
+}

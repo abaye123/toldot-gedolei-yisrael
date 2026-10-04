@@ -1,0 +1,173 @@
+{
+ "id": "Q68147831",
+ "url": "https://www.wikidata.org/wiki/Q68147831",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q68147831",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם שדמי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Shadmi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q68147831$60ECA7E5-A70C-4307-A31A-79D0AE0A6FE7",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q68147831$4379011f-f3e8-4b58-97c6-b72ef317bf30",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q68147831$943d9e73-1e2a-4e3c-9b8d-a40c8433c101",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "09e475ff78115c62d8a50dea5df8c3cedd967a7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2280,
+        "id": "Q2280"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q68147831$28FD3135-EB91-488D-B828-263F62DEB3F7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "15f99f9eddfce0b1e2efc3f72ee8118c2d55b361",
+      "datavalue": {
+       "value": {
+        "time": "+1971-07-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q68147831$62428945-B95C-4CBC-85E4-6D0DA9A780DD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8254229e0807a9a872645e316441be67eb06aba7",
+      "datavalue": {
+       "value": {
+        "time": "+1910-12-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q68147831$A7790754-A681-49D3-85E2-B1B78D45A07E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם שדמי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2280": "מינסק",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q68147831.json"
+}

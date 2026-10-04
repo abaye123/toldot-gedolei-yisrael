@@ -1,0 +1,288 @@
+{
+ "id": "Q12407444",
+ "url": "https://www.wikidata.org/wiki/Q12407444",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12407444",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים בז'רנו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Haim Bejarano"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "sephardic rabbi (d. 1931)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי, מורה ומשורר יהודי ברומניה ובטורקיה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אנריקה חיים בז'רנו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$8F03EBF4-7EA6-4715-8390-34EEBDC54542",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$4AA663AA-36C6-45E0-8F3C-C50E6A7AA755",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$36ba30b4-406f-6607-8d99-10203cb55ba8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a813580c04c99b2357150e229feb860b4df3a1da",
+      "datavalue": {
+       "value": {
+        "time": "+1846-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407444$AB7DAD46-0ABE-499A-BE8B-12CE6B30C973",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4c4bf5eff3fce60b86d88bc8e9ebb6ed8914fb23",
+      "datavalue": {
+       "value": {
+        "time": "+1850-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407444$817fcb6c-450e-9548-ba95-fed9bef1ad8c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "09a1e5b532611de8b6ac6bf53016950fb75125d1",
+      "datavalue": {
+       "value": {
+        "time": "+1931-08-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407444$76802DE1-23D5-494E-9F39-CF588AF67F51",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a1341a7019d74ae98f1d9b4c82b033e556d73095",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170415,
+        "id": "Q170415"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1932": [
+       {
+        "snaktype": "value",
+        "property": "P1932",
+        "hash": "ec41c12fb26ac548c43a76423b8ab6c48c4c35cf",
+        "datavalue": {
+         "value": "Eski Zagara",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1932"
+     ],
+     "id": "Q12407444$1f983750-458f-2e2d-2277-c3fbf6c23ef7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "efed09951a104d9512b9a9017c3c6647c3909a94",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$4c75ec41-40d7-a38a-6318-d7e59179f622",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "ee027f789f449d68c8368783b4495687c04c973c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16902302,
+        "id": "Q16902302"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$348cde0f-416f-7b4f-e3ba-8e5d184f9490",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407444$a51c4ab3-7995-4645-9a91-16207de4bc58",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים בז'רנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16902302": "בית הקברות הספרדי אולוס באיסטנבול",
+  "Q170415": "סטארה זאגורה",
+  "Q406": "איסטנבול",
+  "Q4501412": "רב ראשי",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12407444.json"
+}

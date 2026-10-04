@@ -1,0 +1,277 @@
+{
+ "id": "Q3017487",
+ "url": "https://www.wikidata.org/wiki/Q3017487",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3017487",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "David Bembaron"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוד בן-בארון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3017487$E148C604-1CDC-41C3-B86C-6F0A04E8DAEA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "00ab3ab125d2529d2e084eb07bfb2f216dac815b",
+      "datavalue": {
+       "value": {
+        "time": "+1885-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3017487$D21B4AF0-9D38-4C65-BAC0-D7D3DF30A337",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "40d2aec480a65182e69a1d8e347cea09dafed113",
+      "datavalue": {
+       "value": {
+        "time": "+1955-05-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3017487$6aa81e93-31d5-46b3-aecb-d0d52fbdfa17",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3017487$E393DACF-6E29-40D2-AA42-E9D0C991C163",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3017487$abe07626-4649-24bf-24ca-d1e1f4403688",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "075405f1838517284476be031d3df49661a5fc7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104434326,
+        "id": "Q104434326"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "64865c678204c3ccacb9eb0ccff8ca904d54afa3",
+        "datavalue": {
+         "value": {
+          "time": "+1947-03-13T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "24413b7c29baaac38e120fbee6dbf5a8face5abd",
+        "datavalue": {
+         "value": {
+          "time": "+1955-05-02T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "312dda582268b3bec475316512e9dca397cda963",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 16855470,
+          "id": "Q16855470"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "d8023cdf18c437442205fa1c3228e0ae0aa8920e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 86006308,
+          "id": "Q86006308"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P1365",
+      "P1366"
+     ],
+     "id": "Q3017487$8a58df4e-8522-41bd-8323-b611d27b31b5",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a789066caefc18efddf1138ef86bd2c8cbf3e884",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3017487$9C908CDB-DD9E-479B-B108-642E814BE46E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד בן-בארון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q104434326": "הרב הראשי של תוניסיה",
+  "Q133485": "רב",
+  "Q3572": "תוניס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3017487.json"
+}

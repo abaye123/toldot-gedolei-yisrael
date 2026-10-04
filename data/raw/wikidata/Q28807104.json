@@ -1,0 +1,181 @@
+{
+ "id": "Q28807104",
+ "url": "https://www.wikidata.org/wiki/Q28807104",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q28807104",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה שביב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehuda Shaviv"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehudah Shaviv"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28807104$BA38CC1E-8831-482D-B16A-57B9B210489A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28807104$91f333dc-49a1-d3af-85f8-4750a786721d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "948a5ee823b2028b5e0fcbb0f462be223920eaf8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1607826,
+        "id": "Q1607826"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28807104$02247de7-4439-a83e-29ec-f0dc5e976eb8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "fc93191f15e0195b32a63f53bd8dc4088bf64999",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 48728864,
+        "id": "Q48728864"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28807104$8276fad8-41ba-5e3c-9b92-1e1fa026826d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "03775d08ff0ab53c8ab5354994679ef572adfde3",
+      "datavalue": {
+       "value": {
+        "time": "+1941-05-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28807104$2beb3121-4122-d02a-4a7c-3896826c910e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "81e19c4837ff2d623c0747f9d601b2eb86df221b",
+      "datavalue": {
+       "value": {
+        "time": "+2018-12-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28807104$f77b3d31-4ec1-8a20-bf7b-b69c9dd03a13",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה שביב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1607826": "עורך",
+  "Q48728864": "ר\"מ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q28807104.json"
+}

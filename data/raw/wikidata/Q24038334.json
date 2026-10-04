@@ -1,0 +1,119 @@
+{
+ "id": "Q24038334",
+ "url": "https://www.wikidata.org/wiki/Q24038334",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q24038334",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב יוסף שלמה הלפרין"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038334$B0E94BB9-462E-4DE9-A107-8C5118C79515",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038334$143B82A5-2192-45F5-9974-0B6D7CF42B7E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f2be19a39baee046832c7b85fe1794273c1e676b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038334$9C8E2CDE-1103-48D3-9345-BB60318DC667",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f08fe34d6ec75cb0ef97eb04f02d62e72f6dbc94",
+      "datavalue": {
+       "value": {
+        "time": "+1902-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q24038334$ab0f4e45-c3ac-48eb-b20c-ef2f94a7f02b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב יוסף שלמה הלפרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q33935": "תל אביב-יפו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q24038334.json"
+}

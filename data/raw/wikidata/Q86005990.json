@@ -1,0 +1,342 @@
+{
+ "id": "Q86005990",
+ "url": "https://www.wikidata.org/wiki/Q86005990",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q86005990",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה שתרוג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshé Sitruk"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$58BC7C1A-96FE-41A0-948A-FE948FBB8CB5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$29695EC8-3E7B-437D-9E63-58142050E741",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a789066caefc18efddf1138ef86bd2c8cbf3e884",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$B0D51FD9-4D57-4236-93D9-5A9B85813436",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d2eea8333533898a065754512736087346eddcfe",
+      "datavalue": {
+       "value": {
+        "time": "+1927-12-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q86005990$B3AA0D8C-076C-4940-86C2-55B3D2335F27",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "f3c6bc9d1bb6076975ad81ccc979ee3bb7cae067",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 207540,
+        "id": "Q207540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$3C311CEC-31F3-4FC6-A151-1DBD3425AE72",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$6b5190e0-4f15-4e5b-2a16-f4d1e3ceea58",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a813580c04c99b2357150e229feb860b4df3a1da",
+      "datavalue": {
+       "value": {
+        "time": "+1846-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q86005990$3f3202f8-43ba-3a9c-df62-5e5e2fc2a868",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "075405f1838517284476be031d3df49661a5fc7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104434326,
+        "id": "Q104434326"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "d18b94be39e316a318941bb0ffa6fb8d1071ef04",
+        "datavalue": {
+         "value": {
+          "time": "+1921-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "63d6ff7cedddd9f3e13c4c3297e3fc146ff28923",
+        "datavalue": {
+         "value": {
+          "time": "+1927-12-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 10,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "947901c04b3bdef901e7952e415e4aa1edcbdc7b",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 25497495,
+          "id": "Q25497495"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "abba68c03c59c5d9955ba3c9c468f67604cff983",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 21780523,
+          "id": "Q21780523"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P1365",
+      "P1366"
+     ],
+     "id": "Q86005990$21097d44-4220-6937-1093-f49dfa6bea04",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "81275081de74d34a8e3a061262c4d3cfab6bed63",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113296118,
+        "id": "Q113296118"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005990$b870132d-4966-4cfd-f0de-a333ce5cbeea",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה שתרוג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q104434326": "הרב הראשי של תוניסיה",
+  "Q113296118": "אברהם חג'אג'",
+  "Q133485": "רב",
+  "Q207540": "לוד",
+  "Q3572": "תוניס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q86005990.json"
+}

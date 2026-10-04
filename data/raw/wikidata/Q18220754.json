@@ -1,0 +1,180 @@
+{
+ "id": "Q18220754",
+ "url": "https://www.wikidata.org/wiki/Q18220754",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18220754",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אנקווה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Enkawa"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם אנקאווא"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אנקאווה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220754$1FCE8990-D747-4465-BB8C-24896F5F6339",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220754$4966255A-0AEB-448F-B9A1-C00F1F2D17C3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "90bfd62239b28553a813749f7e3f4adc8cf0a9c3",
+      "datavalue": {
+       "value": {
+        "time": "+1807-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18220754$12A40275-FE50-451B-9BFE-07F4423B796A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b968a73522fd403ab8153bc2ba2a13fcb00c963c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 466046,
+        "id": "Q466046"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220754$1B51E52C-6CEB-4AA3-BE72-40FDAD7831F8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07117f29ce5931a60192f7ea3be129dfeaaed991",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18220754$67DEA4B1-FC9C-4265-BE78-6D3FE7BD7B35",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7dceb960fff4370341460fa5c8ed521d30c980c5",
+      "datavalue": {
+       "value": {
+        "time": "+1890-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18220754$88AC63B3-91DB-4531-AA8B-9FA10EFAB4C3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אנקווה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q466046": "סלא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18220754.json"
+}

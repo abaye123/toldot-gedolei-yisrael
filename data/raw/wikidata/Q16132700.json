@@ -1,0 +1,189 @@
+{
+ "id": "Q16132700",
+ "url": "https://www.wikidata.org/wiki/Q16132700",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16132700",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים צבי אהרנרייך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ḥayim Tsevi Ehrenraikh"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "1873-1936"
+   },
+   "en": {
+    "language": "en",
+    "value": "1872-1936"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים צבי בן יעקב ארנריך"
+    },
+    {
+     "language": "he",
+     "value": "אהרנריך, חיים צבי בן יעקב, 1873-1936"
+    },
+    {
+     "language": "he",
+     "value": "עהרנרייך, חיים צבי בן יעקב, 1873-1936"
+    },
+    {
+     "language": "he",
+     "value": "ערענרייך, חיים צבי בן יעקב, 1873-1936"
+    },
+    {
+     "language": "he",
+     "value": "עהרענרייך, חיים צבי"
+    },
+    {
+     "language": "he",
+     "value": "ארנרייך, חיים צבי בן יעקב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Ehrenraikh, Ḥayim Tsevi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132700$B4DB475B-478B-463E-A9F1-23E944D97B42",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132700$5EF3BA54-A2EB-4245-88EE-FC89A376F9AC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "90727ea093bff6ea60a8efcf8b191299819abbb5",
+      "datavalue": {
+       "value": {
+        "time": "+1936-12-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132700$3CB142E7-9257-4C70-89A2-1E4DCB023010",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3cfc616eedae4dca3c4af7c1e5bce97f84d777ef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 241125,
+        "id": "Q241125"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132700$E165BD4A-EA45-49C8-8E49-B9F74E3B6944",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e0179f296067666db25238f55a828de7de3c20e5",
+      "datavalue": {
+       "value": {
+        "time": "+1872-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132700$55DFC72C-0183-4F74-B170-6B8C3AEA6EBA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים צבי אהרנרייך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q241125": "סוברנצה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16132700.json"
+}

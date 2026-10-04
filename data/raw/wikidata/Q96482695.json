@@ -1,0 +1,174 @@
+{
+ "id": "Q96482695",
+ "url": "https://www.wikidata.org/wiki/Q96482695",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96482695",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אריה יהודה לייב תאומים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aryeh Loeb Teomim"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של העיר ברודי (בראד) שבגליציה (כיום באוקראינה)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96482695$ad4bf1c3-4bb0-0311-76a5-b2bc6c7a916f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9cca0fd478445ebacf06d88d59f1a1e365fd80f6",
+      "datavalue": {
+       "value": {
+        "time": "+1727-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96482695$175db692-4402-2caf-1960-8afc7dcd025a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "254b929a66708b3230cec63635731f2732929a3a",
+      "datavalue": {
+       "value": {
+        "time": "+1831-08-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96482695$945ab665-4267-4cd3-a060-52722ecf7140",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96482695$68463beb-4baf-37ac-5e9a-8fe69ce644fb",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "af9578e21836164a231fef6464698cad2f2b5cfb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18608492,
+        "id": "Q18608492"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96482695$9b146e01-40c7-7498-62c2-9e0a805c4bab",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2d96c52926b1fbfb6398038705ca06e9105f2c6a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96482695$83a2465c-4b72-9c44-6885-8a6da7918b68",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה יהודה לייב תאומים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18608492": "יוסף",
+  "Q465104": "ברודי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q96482695.json"
+}

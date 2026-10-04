@@ -1,0 +1,178 @@
+{
+ "id": "Q12408246",
+ "url": "https://www.wikidata.org/wiki/Q12408246",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408246",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac de Leon"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק די ליאון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408246$49504215-FE6D-45BE-B2DA-94573675DEF5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408246$23B5B709-3038-485F-AAED-8F72716619A6",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "31ef405dc76b0ed118ed0689a46d6cdce3de13a0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4669161,
+        "id": "Q4669161"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408246$2bf5ca33-484d-9957-4fd3-035dad2c1018",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "52fa64da4c0bf0c6fdac68bfbcbecde4c8e91149",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2908183,
+        "id": "Q2908183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408246$5ff9e50f-4b73-155f-d8ad-4124770d33ab",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "95f81bacc51d8f83a8bcd813c34f7029c9dda50a",
+      "datavalue": {
+       "value": {
+        "time": "+1410-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408246$9373f8f8-4125-7ec7-88b4-046c9a8319fd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fa3b17e78da0b597381384bf8c0eb7c3d2f8683d",
+      "datavalue": {
+       "value": {
+        "time": "+1490-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408246$d750d600-447c-a01d-f7b3-679662df4a6e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק די ליאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2908183": "יצחק קנפנטון",
+  "Q4669161": "אברהם סבע",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408246.json"
+}

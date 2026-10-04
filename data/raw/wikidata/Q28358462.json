@@ -1,0 +1,178 @@
+{
+ "id": "Q28358462",
+ "url": "https://www.wikidata.org/wiki/Q28358462",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q28358462",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "József Borsodi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוז'ף בורשודי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1878–1943)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28358462$F690CF9B-C323-4D19-8FF2-2C9410693618",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0a58f4a68949571b9ee80597511750ddb43c8209",
+      "datavalue": {
+       "value": {
+        "time": "+1943-06-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28358462$CB7FD216-35F1-4F12-906B-F650231DF05E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0c676dad754de1e0180830320923b9ca8799b1d1",
+      "datavalue": {
+       "value": {
+        "time": "+1878-03-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q28358462$57E274A2-BA79-4084-B958-CDB92B1C6FFB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28358462$f4fa0b1d-43cc-f4c5-70e5-740ee6b58e84",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8dc172af31cea9532d448d2ff91a9176cecc9f53",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 855086,
+        "id": "Q855086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28358462$e6b430ce-49b4-a600-0b51-1ae97447baa8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0c0c26b27ad4bb9de5a218151bb833ef94bf0081",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 171357,
+        "id": "Q171357"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q28358462$c5e1cbd6-4d26-95f7-5448-b89e47bfef45",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוז'ף בורשודי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q171357": "קצ'קמט",
+  "Q5": "אדם",
+  "Q855086": "שיוסנטפטר"
+ },
+ "raw": "data/raw/wikidata/Q28358462.json"
+}

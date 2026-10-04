@@ -1,0 +1,223 @@
+{
+ "id": "Q987784",
+ "url": "https://www.wikidata.org/wiki/Q987784",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q987784",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים הכהן"
+   },
+   "en": {
+    "language": "en",
+    "value": "ha-Kohen Ephraim ben Jacob"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1616–1678)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ephraim ben Jacob ha-Kohen"
+    },
+    {
+     "language": "en",
+     "value": "Ephraim ben ha-Kohen"
+    },
+    {
+     "language": "en",
+     "value": "Ephraim ben Jacob, ha-Kohen"
+    },
+    {
+     "language": "en",
+     "value": "Efraim ben Jakob, ha-Kohen"
+    },
+    {
+     "language": "en",
+     "value": "Efrayim Kohēn"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987784$73AE2410-8F95-45EA-A92D-607FFE970128",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987784$CB566FC5-4DE3-4782-BFBE-D72FBA4279A8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4f81c0c36312e70fe430404811b6b52ae1d0b03a",
+      "datavalue": {
+       "value": {
+        "time": "+1616-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q987784$e896d708-50f7-4d47-90e9-0756e30e8071",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "09aff57710da3fa0dd8b2aa58dd59028aaf98a94",
+      "datavalue": {
+       "value": {
+        "time": "+1678-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q987784$1298B4B3-ED06-4108-AA47-989796B36382",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2cbcae56003056fe73b7bfc8e1d9110cdb128155",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987784$6f298ea7-4cba-0900-765c-41f61e0b245b",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d9ae72bd623c8959b475ff91f5f8702baf30f23f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 193478,
+        "id": "Q193478"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987784$042c530c-43c7-b47b-9912-58b3dd69c582",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "fbbcf5617799c24cbff677cac41338ccfec75814",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6915995,
+        "id": "Q6915995"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q987784$a63c7e50-42dc-aea0-c527-0dca6979bb00",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים הכהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q193478": "בודה",
+  "Q216": "וילנה",
+  "Q5": "אדם",
+  "Q6915995": "משה לימא"
+ },
+ "raw": "data/raw/wikidata/Q987784.json"
+}

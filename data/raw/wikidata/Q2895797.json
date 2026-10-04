@@ -1,0 +1,189 @@
+{
+ "id": "Q2895797",
+ "url": "https://www.wikidata.org/wiki/Q2895797",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2895797",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ברוך תאומים-פרנקל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Baruch ben David Te'omim-Fränkel"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi and Talmudist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני במאה ה-18"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ברוך פרנקל-תאומים"
+    },
+    {
+     "language": "he",
+     "value": "ברוך טעם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895797$633B809C-973E-4C03-82DD-00C512FC39EE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2dec126213abfbb785c9be7e3ead2a6e3548dbe5",
+      "datavalue": {
+       "value": {
+        "time": "+1760-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895797$4EB907B3-4FCA-4983-A12A-D53BEB473331",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9e42d6eedc978bb9394eee48fcf027716cf05447",
+      "datavalue": {
+       "value": {
+        "time": "+1828-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895797$B4F5B1C3-D83F-4238-BDFF-5ECB80C536C4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895797$1BB2DB89-2E1F-48B8-AEE3-116792FB0736",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4cc05f82b02c71c3144bf5d11c9250677eaf84b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20610323,
+        "id": "Q20610323"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895797$e22dcc15-4d24-e529-6c4f-066913a6909a",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0ee521836c5b1f9c2d89a858a63e254946706aa4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7007074,
+        "id": "Q7007074"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895797$a0d07436-4c2d-8189-994e-8eb8c847df6e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברוך תאומים-פרנקל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20610323": "יהושע העשיל תאומים-פרענקל",
+  "Q5": "אדם",
+  "Q7007074": "משולם איגרא"
+ },
+ "raw": "data/raw/wikidata/Q2895797.json"
+}

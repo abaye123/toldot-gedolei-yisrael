@@ -1,0 +1,173 @@
+{
+ "id": "Q18121732",
+ "url": "https://www.wikidata.org/wiki/Q18121732",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121732",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק מרעלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Morali"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Algerian Rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121732$62E10D4B-1B36-4233-B796-E7D2192884DC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121732$FA68B362-1C45-4DE2-9EE6-BCE700D74684",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "df8922c090b1ea7bf4989a2c8e6298f14913392d",
+      "datavalue": {
+       "value": {
+        "time": "+1952-03-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121732$E6EB1D25-3B74-41A3-A6C6-5C27BECC8ADB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cc2c5eeff8857e3f5bfa9f8b3cbb756e385aefa4",
+      "datavalue": {
+       "value": {
+        "time": "+1867-09-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121732$49E86AC1-AEB0-4FA5-8B80-285316F7D110",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8151c9593d1b3777013f1036eeb5c649be749f39",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3561,
+        "id": "Q3561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121732$71D80325-F674-4F39-9DFA-223BA226665F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5c2eb674ef9119299c0061557b9c0dc65755fb44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3561,
+        "id": "Q3561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121732$dfce98bd-41de-3342-3054-149a6e595fc3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק מרעלי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3561": "אלג'יר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18121732.json"
+}

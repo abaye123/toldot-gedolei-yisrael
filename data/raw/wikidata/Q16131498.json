@@ -1,0 +1,169 @@
+{
+ "id": "Q16131498",
+ "url": "https://www.wikidata.org/wiki/Q16131498",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131498",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זלמן רוטברג"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת בית מאיר"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131498$ECBAAFE1-FB23-4385-AA4A-E780EB1062BE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0b071ca531ec1f534dc5627c50a4ccb89249d733",
+      "datavalue": {
+       "value": {
+        "time": "+2002-05-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131498$b7ef0d62-4315-98e7-c798-5e5c0fa0e1f9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "676dd68e0a1d2639bf3a212b25bc0bd27f1a79b5",
+      "datavalue": {
+       "value": {
+        "time": "+1913-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131498$617a30b9-4f3e-e610-f8f4-2155e6638c96",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "57053eb129a83c33b765f34b1718436c52e68b69",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16131850,
+        "id": "Q16131850"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131498$3f31d575-4acd-36c2-2436-eb6eeef0a85e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "babc3d4a619ceb1ef9ab890514f883587acfd8f1",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 6608067,
+          "id": "Q6608067"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q16131498$5705adc5-40f0-dbf8-5b2b-af2ccc9ae2c6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זלמן רוטברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q16131850": "צבי רוטברג",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16131498.json"
+}

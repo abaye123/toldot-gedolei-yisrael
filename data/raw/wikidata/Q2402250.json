@@ -1,0 +1,156 @@
+{
+ "id": "Q2402250",
+ "url": "https://www.wikidata.org/wiki/Q2402250",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2402250",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Saragossi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף סרגוסי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מחכמי צפת"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2402250$0A88C8D5-BB0A-4D46-8FC5-AB528A5EBEED",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7060a72c43ed75849e358e115072d902c110217f",
+      "datavalue": {
+       "value": {
+        "time": "+1460-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2402250$1DC53338-513A-4B88-A31D-74E8DE23F5C8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8652b1d6b94e7619e0c34a7481a7651aec8d26f1",
+      "datavalue": {
+       "value": {
+        "time": "+1507-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2402250$6871E48F-60FD-4629-AD3B-5DE350890D8E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2402250$92064368-F894-45A1-BD3B-B9D33D15B90B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "82473174f46250e6d49b0960b1c61b012de51ac4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10305,
+        "id": "Q10305"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2402250$EB72F8E9-35CE-4674-882B-0835D546E2DC",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף סרגוסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10305": "סרגוסה",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2402250.json"
+}

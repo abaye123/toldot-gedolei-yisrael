@@ -1,0 +1,307 @@
+{
+ "id": "Q1920221",
+ "url": "https://www.wikidata.org/wiki/Q1920221",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1920221",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Menachem HaMeiri"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנחם המאירי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Catalan rabbi, Talmudist and Maimonidean"
+   },
+   "he": {
+    "language": "he",
+    "value": "מפרש התלמוד מחכמי פרובנס במאה ה-13"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Menachem Meiri"
+    },
+    {
+     "language": "en",
+     "value": "Menachem ben Solomon Meiri"
+    },
+    {
+     "language": "en",
+     "value": "Menachem ben Solomon HaMeiri"
+    },
+    {
+     "language": "en",
+     "value": "Menaḥem ben Shelomoh Meʾiri"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "בעל בית הבחירה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$E3C48B32-0037-4307-A102-7A1C9261C104",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8d2354cb3a9d6efa66292988ce6cf8204e2b611e",
+      "datavalue": {
+       "value": {
+        "time": "+1249-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1920221$F51932DB-3A5F-4329-B024-A2E097B54107",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "3227da5c561faf242d77dcff2b2ceb6cb4ffa61c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 482980,
+        "id": "Q482980"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$061C3FD2-01AF-44A5-AFC3-24E8CAFB9E17",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$2D45D647-76DE-42BD-A7C9-D188EAAC2D02",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c54d0c7e189d753f77fab2e5f55273089685d75c",
+      "datavalue": {
+       "value": {
+        "time": "+1306-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "6dda267e2e52fa175f8036ecbf44db9ebb4e1344",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71538638,
+          "id": "Q71538638"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q1920221$16CCAFE5-A570-4B0D-9577-1AD0A96E0E63",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4e55a9706f1acb1c8c45df8a0f274fc0ad3089ea",
+      "datavalue": {
+       "value": {
+        "time": "+1315-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1920221$F4D2F7BE-18B9-4895-8048-FFD1DA6FE306",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aaa50021426fcd5653e52ba1e7ed052118d13aec",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5705,
+        "id": "Q5705"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$752DC13F-B657-44D1-B3F5-4DD66F68B6B7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "569b4a08e6f05edddde7bd28e1b525301f5372e1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6730,
+        "id": "Q6730"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$F2FE6B8B-FD8F-405F-A026-9584BD36B503",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f1c0bbedc1895122f8eb209026df783bb6f761c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6730,
+        "id": "Q6730"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$22DE0FAC-2733-48CF-8D2C-302C647DD0BF",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "fc91159645a3a0f34f25b653a945f7df748f7cce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16666193,
+        "id": "Q16666193"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1920221$cc73fb9c-4bce-e2a2-3c29-b76dd5861e14",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם המאירי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16666193": "נתן בן מאיר מטרקטלייש",
+  "Q482980": "מחבר",
+  "Q5": "אדם",
+  "Q5705": "קטלוניה",
+  "Q6730": "פרפיניאן"
+ },
+ "raw": "data/raw/wikidata/Q1920221.json"
+}

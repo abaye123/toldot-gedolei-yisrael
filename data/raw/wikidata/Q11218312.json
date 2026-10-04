@@ -1,0 +1,178 @@
+{
+ "id": "Q11218312",
+ "url": "https://www.wikidata.org/wiki/Q11218312",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q11218312",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה הורוויץ מדז'יקוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yidele Horowitz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hasidic Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב חסידי משושלת דז'יקוב-רופשיץ"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11218312$74AA2080-4D09-40D7-A053-9B34691C923B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbc330f5ba467b6ea88ac175f0dc5a9d44bfbbbf",
+      "datavalue": {
+       "value": {
+        "time": "+1905-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11218312$FF93E750-BC42-4371-B73D-46B6B36FCC25",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "14d70adc06bf484de88a3a66df38ce47cc371564",
+      "datavalue": {
+       "value": {
+        "time": "+1989-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q11218312$7E9AA492-D1A0-48B7-9A7B-C76ADF1E6FDB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11218312$c5a5e6d9-4d00-3f00-e3c7-501d8bb070b1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d972bb0f59e2641a622bf7d4d86efd6b84f9d27e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2716505,
+        "id": "Q2716505"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11218312$66b223e4-4c69-2c00-c9bc-0aa301b38adf",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "fd283640565a37e8c1036ea2bf9024bb67cf5fda",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5319922,
+        "id": "Q5319922"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q11218312$283958d6-4513-3f9a-2bb2-4dfbae2c6603",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה הורוביץ (דז'יקוב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2716505": "סטמפורד היל",
+  "Q5": "אדם",
+  "Q5319922": "Dzików"
+ },
+ "raw": "data/raw/wikidata/Q11218312.json"
+}

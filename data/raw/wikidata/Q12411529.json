@@ -1,0 +1,185 @@
+{
+ "id": "Q12411529",
+ "url": "https://www.wikidata.org/wiki/Q12411529",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12411529",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שבתאי ג'אין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Sabetay Djaen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי יליד בולגריה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Bulgarian-Argentinian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שבתאי דז'אן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411529$03A613FB-0395-4250-937A-AA1B4A06C17A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411529$A1EE620C-2A85-4DAB-AB45-68E6AC5459B9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "adfb0f78ce6c8ae7e08ac604693326c245b16a38",
+      "datavalue": {
+       "value": {
+        "time": "+1883-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411529$4bd60b6d-976c-4d23-a5b9-30c2c1cca713",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "236e0634f672080717982853253094d5147f4b06",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 165420,
+        "id": "Q165420"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411529$10056a2d-44ab-fdb6-1b8b-88c34e57e1e6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0321135f52ecfce2649c0c3ccbfba4b1b19137ba",
+      "datavalue": {
+       "value": {
+        "time": "+1947-11-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411529$3c01d868-4e43-b8df-ecc7-8106e9ae17c1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d3b16e1af96cd63618a476e4c58e981048d302dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 44255,
+        "id": "Q44255"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411529$8848573c-48fd-a1c4-12f0-ba46946b0396",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שבתאי ג'אין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q165420": "פלבן",
+  "Q44255": "טוקומאן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12411529.json"
+}

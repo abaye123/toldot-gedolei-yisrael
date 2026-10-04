@@ -1,0 +1,200 @@
+{
+ "id": "Q16668713",
+ "url": "https://www.wikidata.org/wiki/Q16668713",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16668713",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב פלטוי גאון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Paltoi ben Abaye"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "גאון ישיבת פומבדיתא בין השנים 858–842"
+   },
+   "en": {
+    "language": "en",
+    "value": "Babylonian rabbi (d. 858)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פלטוי בר אביי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16668713$D315C054-AB21-433C-85DC-C65561F2B436",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbd7275f56a67e2194b6584788cd0aa606f7afe1",
+      "datavalue": {
+       "value": {
+        "time": "+0805-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16668713$d3ae9aba-8fc5-4af1-909e-0f4f6464378e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16668713$ebb381bd-49f7-6350-01fc-4c557e5d1cd7",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "c4a8829e5df3accfc0d1a586abdbfed48cda6af2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1062089,
+        "id": "Q1062089"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "f1a86dc9f8b6ad565a0e558a6e810e7c4301ddbc",
+        "datavalue": {
+         "value": {
+          "time": "+0842-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "4c5f483d3f3d35304b724f3cbaff06bfa7db7fac",
+        "datavalue": {
+         "value": {
+          "time": "+0858-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "432ff9c6b84cb33617310182ad1b043f362bf0b8",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 14326107,
+          "id": "Q14326107"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P108"
+     ],
+     "id": "Q16668713$9a72474d-42f8-4fcf-4580-a8ff22931d65",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב פלטוי גאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1062089": "גאונים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16668713.json"
+}

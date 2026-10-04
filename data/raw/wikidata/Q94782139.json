@@ -1,0 +1,196 @@
+{
+ "id": "Q94782139",
+ "url": "https://www.wikidata.org/wiki/Q94782139",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q94782139",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Juda Mehler"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה מילר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94782139$3C56CA3A-2CB6-43DD-9604-D2F50C7D1D59",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5e4bf40eab1c0fdb3d8da566bd47ceecbff5926c",
+      "datavalue": {
+       "value": {
+        "time": "+1660-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94782139$0EC4C7C7-FF85-49C0-A34B-25C1BD5D1661",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fb48afa940f17941e55f5fc85ed596dd735ebfeb",
+      "datavalue": {
+       "value": {
+        "time": "+1751-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94782139$60A158EF-2007-4BEA-A078-F84D86B7961C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94782139$E5CB9977-2513-42FF-8CBF-764A2230C038",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e8aa662f0b1eb2416c2fca18ea94d0dd10f796e8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1549429,
+        "id": "Q1549429"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94782139$fd081eb3-4375-7f7c-8d7d-ab8af21cc432",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "04529290b674b4748c19c0c6f7df3df2231702c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 285879,
+        "id": "Q285879"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94782139$d6b258b9-4f1a-395a-ab98-481de9f419f4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "134ccd2770d21dd563c223d39a0320b1b8d29647",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 586,
+        "id": "Q586"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94782139$86ac596f-40ba-c4ec-d9b5-2642927bdf4e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה מילר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1549429": "Jewish cemetery Bonn-Schwarzrheindorf",
+  "Q285879": "בינגן על הריין",
+  "Q5": "אדם",
+  "Q586": "בון"
+ },
+ "raw": "data/raw/wikidata/Q94782139.json"
+}

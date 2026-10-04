@@ -1,0 +1,321 @@
+{
+ "id": "Q3417556",
+ "url": "https://www.wikidata.org/wiki/Q3417556",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3417556",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rahamim Naouri"
+   },
+   "he": {
+    "language": "he",
+    "value": "רחמים נאהורי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "French rabbi (1902–1985)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3417556$19B8A354-8E5C-46EA-B3D3-19491F8073CB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3417556$FC6ED48D-3C1D-455B-A0A3-CA5AB347DD7C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4f2862fd46d7d0e7de92645c9bafa6bf3a13ee54",
+      "datavalue": {
+       "value": {
+        "time": "+1902-08-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3417556$320529A7-1513-4436-889A-A95790003C25",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bafd3325e821d127cdd8e8f5d9606dfd770e3a0b",
+      "datavalue": {
+       "value": {
+        "time": "+1985-07-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3417556$EE264A23-4CA1-4EEC-A68B-DD21F8C6F90B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2a33ea7985450b6ee0f507d62b1ab4bd820b7a86",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 45942,
+        "id": "Q45942"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3417556$D40BEE6F-8034-4554-87AF-3D087995F4FD",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "911443a9c75023adadc3850bcfc212c55e508349",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 56763241,
+        "id": "Q56763241"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "8192884334ecae4ea014b40c44175e3fdbee6704",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 22211224,
+          "id": "Q22211224"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "68d492daaeed01d65e875ac221c09b26399b8ba6",
+        "datavalue": {
+         "value": {
+          "time": "+1979-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "f12b3bbbf4a4f75db924ab6b914cda40426e178f",
+        "datavalue": {
+         "value": {
+          "time": "+1981-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "b9d2030b5ff7e443c9cfed320e9dc0c06465b744",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 17350671,
+          "id": "Q17350671"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1366",
+      "P580",
+      "P582",
+      "P1365"
+     ],
+     "id": "Q3417556$72b71427-4fa1-cc09-1462-95d9c3172409",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3417556$E7F6A9A0-757A-4DB2-BCF8-BE70BF9E96E7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "cfa17a0e1af2fd20826d7649de8b95ee2f8a6268",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 801,
+          "id": "Q801"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q3417556$5df86fff-43cd-b825-a7c2-e5b902a5cf0b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רחמים נאהורי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q45942": "ענאבה",
+  "Q5": "אדם",
+  "Q56763241": "הרב הראשי לפריז"
+ },
+ "raw": "data/raw/wikidata/Q3417556.json"
+}

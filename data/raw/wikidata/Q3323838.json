@@ -1,0 +1,167 @@
+{
+ "id": "Q3323838",
+ "url": "https://www.wikidata.org/wiki/Q3323838",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3323838",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mordecai Baruch Carvalho"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרדכי ברוך קרבאליו"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מרדכי ברוך כאראוליו"
+    },
+    {
+     "language": "he",
+     "value": "מהר\"ם ברוך קרבאליו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3323838$16A24FAB-D111-4E5F-8B4E-CDE674F0C92C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3323838$B3F54B98-A93A-4797-88AE-58C57FCA3741",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "96ed1ce8f340213530eb97cf91d53e8122a0bad2",
+      "datavalue": {
+       "value": {
+        "time": "+1700-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3323838$9990D672-3F12-4E97-A64B-F92BE95DDF17",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "21b68e559a3ced4da5234d40b825014d3b82f88a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2899475,
+        "id": "Q2899475"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3323838$1239c883-468d-102a-ec63-7a4ef28bf869",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cac7c7373dc3936ac93a5206cd0156cbbb3257d7",
+      "datavalue": {
+       "value": {
+        "time": "+1784-12-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3323838$06da6218-4c8b-b551-7cff-81c1f6e02fe5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי ברוך קרבאליו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2899475": "יצחק לומברוזו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3323838.json"
+}

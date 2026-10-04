@@ -1,0 +1,111 @@
+{
+ "id": "Q31798220",
+ "url": "https://www.wikidata.org/wiki/Q31798220",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q31798220",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי פפייס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תנא בתקופת חורבן בית שני, מחכמי יבנה לאחר החורבן"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי פפיס"
+    },
+    {
+     "language": "he",
+     "value": "רבי פפוס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31798220$1fe71192-4891-d243-90d2-888f118aa171",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31798220$816c6c2c-4191-72c1-6158-df61dab863cd",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d3885656ef24d3928774e5fcd8b23e43fe42d7fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q31798220$3197A418-819F-4519-B9F9-45838CD5AB01",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי פפייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q23792": "ארץ ישראל",
+  "Q5": "אדם",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q31798220.json"
+}

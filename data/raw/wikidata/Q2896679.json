@@ -1,0 +1,159 @@
+{
+ "id": "Q2896679",
+ "url": "https://www.wikidata.org/wiki/Q2896679",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2896679",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב מאורליינש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jacob of Orléans"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "English rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מבעלי התוספות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבנו תם מאורליאנס"
+    },
+    {
+     "language": "he",
+     "value": "יעקב מאורליאן"
+    },
+    {
+     "language": "he",
+     "value": "ר\"ת מאורליינש"
+    },
+    {
+     "language": "he",
+     "value": "יעקב מאורלינס"
+    },
+    {
+     "language": "he",
+     "value": "רבנו תם מאורליינש"
+    },
+    {
+     "language": "he",
+     "value": "רבנו יעקב הקדוש"
+    },
+    {
+     "language": "he",
+     "value": "ר\"ת מאורליאן"
+    },
+    {
+     "language": "he",
+     "value": "רבי יעקב מאורליאנס"
+    },
+    {
+     "language": "he",
+     "value": "ר\"י מאורלינס"
+    },
+    {
+     "language": "he",
+     "value": "ר\"ת מאורליאנס"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jacob of Orleans"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896679$A4C859AC-AC2C-4175-B7F4-B2AE364460CE",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896679$C2BD649F-BA56-4C0E-84EA-E8428FA4DA4F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "034590f8165f86e081d2211e3d6ac7ca30a09bd1",
+      "datavalue": {
+       "value": {
+        "time": "+1189-09-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2896679$AA567F2B-4812-4FEE-9C01-9E8181975C89",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב מאורליינש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2896679.json"
+}

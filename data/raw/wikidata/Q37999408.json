@@ -1,0 +1,209 @@
+{
+ "id": "Q37999408",
+ "url": "https://www.wikidata.org/wiki/Q37999408",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q37999408",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi Yehudah Yudel Rosenberg"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה יודל רוזנברג"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וסופר פולני (בסוף ימיו בקנדה); 1960–1935"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish rabbi and author"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehudah Yudl Rozenberg"
+    },
+    {
+     "language": "en",
+     "value": "Yehudah Yudel Rosenberg"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q37999408$9606367D-7682-400D-97FD-3D21F77BDB60",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q37999408$fcaa3d63-b61d-4ef0-b6c6-fc32bcc38f4f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q37999408$5909C866-48E3-477B-9AA8-BC7D5A3262D7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a54b21ed145cd50128018ba22e44b3ee927a6b1d",
+      "datavalue": {
+       "value": {
+        "time": "+1860-12-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q37999408$BC2563C0-9EA9-4729-BCBA-418504B1CAB1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c4c85b5a8cdce3e29c5f5b41e58cf5fd65a68d76",
+      "datavalue": {
+       "value": {
+        "time": "+1935-10-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q37999408$B3E670C0-9F1C-4518-96B5-8ADBF4486EDE",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "41d610ba88f9f1a603253cc8b616413f4a320cd6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 340,
+        "id": "Q340"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q37999408$6A5F34CD-0AD0-4ABE-936A-FAACD1F0A777",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3ff7c2ae2f2c157f857f05d3fc19076ec5212577",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 991895,
+        "id": "Q991895"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q37999408$B1B99BF0-F324-40C8-8DB1-365B8B289D18",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה יודל רוזנברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q340": "מונטריאול",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q991895": "סקרישב"
+ },
+ "raw": "data/raw/wikidata/Q37999408.json"
+}

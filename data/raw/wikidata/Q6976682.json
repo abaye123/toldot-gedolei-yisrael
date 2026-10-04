@@ -1,0 +1,169 @@
+{
+ "id": "Q6976682",
+ "url": "https://www.wikidata.org/wiki/Q6976682",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6976682",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם מנחם דנציגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Menaḥem Dantsiger"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6976682$15168D59-821A-47AD-9EC9-537A8C1B8C75",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6976682$3694e652-79d4-48bd-9e2f-607065f5a2a1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cf1bad8616d8a7e8e971d084694380929eded613",
+      "datavalue": {
+       "value": {
+        "time": "+2005-03-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6976682$16305778-DE3D-4801-B8EB-D6273C00C8F5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f4e9aa2ca98e0613328494bed45e35c468323aba",
+      "datavalue": {
+       "value": {
+        "time": "+1921-07-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6976682$1F2E7F6F-40F4-424D-AF58-7B4B241CFCEF",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "05181284d1d1e7560e933e00e23046b2918ca6dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6608024,
+        "id": "Q6608024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6976682$E44776DE-E6DD-4498-9535-A80FF8A673B5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "51d36cfa1320493a450fdf6b4535304484b40424",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 580,
+        "id": "Q580"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6976682$E9A2F331-4E71-4F2B-BB67-B5C38CBB6960",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם מנחם דנציגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q580": "לודז'",
+  "Q6608024": "בית הקברות של נציבי ישיבת פוניבז'"
+ },
+ "raw": "data/raw/wikidata/Q6976682.json"
+}

@@ -1,0 +1,341 @@
+{
+ "id": "Q134303032",
+ "url": "https://www.wikidata.org/wiki/Q134303032",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q134303032",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Zvi Hirsch Lamport"
+   },
+   "he": {
+    "language": "he",
+    "value": "צבי הירש למפרט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד סטולביץ' ועורך ספרי הגר\"א על שולחן ערוך 1835-1905"
+   },
+   "en": {
+    "language": "en",
+    "value": "1835-1905"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "לעמפערט, צבי הירש בן שלמה"
+    },
+    {
+     "language": "he",
+     "value": "למפרט, צבי הירש בן שלמה"
+    },
+    {
+     "language": "he",
+     "value": "צבי הירש בן שלמה"
+    },
+    {
+     "language": "he",
+     "value": "צבי הירש, מסטאלאוויטש"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Tzvi Hirsch Lamport"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$a8b643ef-4015-bbc2-42ba-daafd1704791",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$b50b98bc-4807-b146-d12b-d8762eea1535",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb1fbdd090ef3cb31f51c8348856b9392520e3d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5121550,
+        "id": "Q5121550"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$3671fe6b-49d4-971e-e46d-6b1ae6176680",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$9C938CB4-9FF7-46F6-9C9C-A8B8DB655E41",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "63fcf8a63bed60f0628fe3d38d1e3dcf1f1c359b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 694994,
+        "id": "Q694994"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$ad11557a-432b-e99d-6e5d-3a2e8ea23ede",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1e7e631a5cbf764e896b19d849d8c7ceb4b5c27d",
+      "datavalue": {
+       "value": {
+        "time": "+1835-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "f14fc2bb0bbb316d21cb52cb7f050306f5819636",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406318,
+          "id": "Q12406318"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q134303032$86c9d74c-4adb-1fc7-37d5-d64463fe108c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d140ed46bccac634030601abb72167d9c739e7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 278743,
+        "id": "Q278743"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$82c5a879-421a-2ec6-d892-dfad20d2584b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ca08eb259d3fd061997294ddfe34dde52a6893e1",
+      "datavalue": {
+       "value": {
+        "time": "+1905-02-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "77547a02d6c7359023524099b06c2d7cbb979818",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28056654,
+          "id": "Q28056654"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "0133af23e375cf3324dc8376ba1c58e7c412d446",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817575,
+          "id": "Q2817575"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q134303032$f4116724-45c8-b882-6739-111dc330b55a",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$b5778be5-42d9-05ef-34d3-cbc0e14606af",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134303032$7c972c6e-4be6-dd63-0e1f-9398a4c9f631",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש למפרט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q278743": "נבהרדק",
+  "Q5": "אדם",
+  "Q5121550": "חוקר יהדות",
+  "Q694994": "אב בית דין"
+ },
+ "raw": "data/raw/wikidata/Q134303032.json"
+}

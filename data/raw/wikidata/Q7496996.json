@@ -1,0 +1,178 @@
+{
+ "id": "Q7496996",
+ "url": "https://www.wikidata.org/wiki/Q7496996",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7496996",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Shimon Sholom Kalish"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמעון שלום קאליש"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7496996$E7162C64-6E82-422E-A31E-14C4AC411403",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7496996$0BAC18F6-B772-49A2-91E4-1655A0E473D1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2bf863ff7a15d5e5d2d83896d28b03a3a78c0485",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7496996$A2281ED3-0402-4A57-A0FA-9CCD7785AED3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7380089dd31ae321e0fa0f2bb0f22374a7d0b63b",
+      "datavalue": {
+       "value": {
+        "time": "+1954-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7496996$80773DF8-ADB9-440F-8716-30A0477B0416",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e96eff9d6158ee7e61bfcf14c12ccc1c58b21b5f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7047088,
+        "id": "Q7047088"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7496996$0D1D0CD9-9682-42A8-9847-EC33E3BF124E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c6d3ed6abbea4d9d117c7f37fa9e0278c75976dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2911280,
+        "id": "Q2911280"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7496996$BC01F8E9-395D-45AF-8E0E-7E33104A5F09",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון שלום קאליש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2911280": "בורו פארק",
+  "Q5": "אדם",
+  "Q7047088": "בית הקברות היהודי העתיק בטבריה"
+ },
+ "raw": "data/raw/wikidata/Q7496996.json"
+}

@@ -1,0 +1,215 @@
+{
+ "id": "Q16063042",
+ "url": "https://www.wikidata.org/wiki/Q16063042",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16063042",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob Barit"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב בריט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian Talmudist (1797-1883)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומדינאי ליטאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "באריט, יעקב"
+    },
+    {
+     "language": "he",
+     "value": "קובנר, יעקב"
+    },
+    {
+     "language": "he",
+     "value": "ברייט, יעקב"
+    },
+    {
+     "language": "he",
+     "value": "באריט, יעקב בן יהודה ליב"
+    },
+    {
+     "language": "he",
+     "value": "קובנר, יעקב בן יהודה ליב"
+    },
+    {
+     "language": "he",
+     "value": "ברי\"ט, יעקב בן יהודה ליב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Barit, Jacob ben Judah Loeb"
+    },
+    {
+     "language": "en",
+     "value": "Jakob Barit"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16063042$105A23E3-1F66-448C-BB37-F51366C2DAE8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2300e38422947b6b8bbc4eada5776ab2e7750d5e",
+      "datavalue": {
+       "value": {
+        "time": "+1797-09-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16063042$A260A869-6820-42B0-9DA4-8B11DA9DB3BE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "549d07034edcc9274e477b77b2d6f3504435a584",
+      "datavalue": {
+       "value": {
+        "time": "+1883-03-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16063042$03B1C030-EF36-490F-B70F-9D82FB972A89",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16063042$DA023D91-28BB-4A68-85CA-8FFF10F6611A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bcbe5e2fd28e7ff6bc9e60c4657f64a6699b6ed0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16063042$5adaf43f-e7d6-4c06-a8b4-897157994ba8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c0d05ba2500e3debef2685bfe95f331de39f71c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1892074,
+        "id": "Q1892074"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16063042$A0C95D11-86C9-4A79-ADFC-222358C9445D",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב בריט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1892074": "סימנה",
+  "Q216": "וילנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16063042.json"
+}

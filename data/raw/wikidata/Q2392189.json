@@ -1,0 +1,220 @@
+{
+ "id": "Q2392189",
+ "url": "https://www.wikidata.org/wiki/Q2392189",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2392189",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Tanhuma bar Abba"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי תנחומא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא מ\"י בדור השישי, מגדולי בעלי האגדה והמדרש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jewish amora"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "תנחומא בר אבא"
+    },
+    {
+     "language": "he",
+     "value": "איסכוליסטיקא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Tanḥuma bar Abba‏"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥuma"
+    },
+    {
+     "language": "en",
+     "value": "Tanhuma Bar Abba"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥuma be-Rabi Aba"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥuma ben Aba"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥûmâ bĕ-Rabbî Abbâ"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥūmā Ben-Abbā"
+    },
+    {
+     "language": "en",
+     "value": "Tanḥūmā be-Rabbi Abba"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2392189$36E5C7BC-3F7D-4A2B-98D4-81792F904600",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "179ac7d0947bc9bc2f27705981f55df7dadbbbef",
+      "datavalue": {
+       "value": {
+        "time": "+0400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2392189$0A46F727-B285-41B9-A26C-9FA88393B643",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "83c4f58eaff2c3a6b2aff8b88d25091fba1b4ba9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 474035,
+        "id": "Q474035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2392189$69991623-43b4-294a-b52b-2f91e0d426d8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2392189$CDD42377-9838-4431-A860-AC89FCAA0A88",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c880a73f5bf1ae01d8d8a465886f2261a7269dfc",
+      "datavalue": {
+       "value": {
+        "time": "+0400-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2392189$22929B78-EF7B-4FAD-9542-1948E02FB29E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי תנחומא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q474035": "אמוראים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2392189.json"
+}

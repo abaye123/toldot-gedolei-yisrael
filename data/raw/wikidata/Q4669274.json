@@ -1,0 +1,314 @@
+{
+ "id": "Q4669274",
+ "url": "https://www.wikidata.org/wiki/Q4669274",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669274",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham de Boton"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם די בוטון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יהודי בסלוניקי במאה ה-16, מחבר פירוש \"לחם משנה\" על משנה תורה לרמב\"ם"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם די בוטן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669274$15DF754F-9138-498C-919C-D2070DCA2AEB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669274$8499BAFE-6B80-4307-A20B-F862BE37A327",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "10e42a50b4ff4dae5a3f36fd567df908107d357a",
+      "datavalue": {
+       "value": {
+        "time": "+1545-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669274$EFE8FFC0-BEEE-4806-9E74-BE1913978532",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5151b7df0c889cdc9412737dba06d7a28f76f513",
+      "datavalue": {
+       "value": {
+        "time": "+1540-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669274$0838a83e-4a02-6b79-a212-33b0b8301a91",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b89b56d4bf22fdc9d1c54a69c609b508d753c1c9",
+      "datavalue": {
+       "value": {
+        "time": "+1588-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669274$8DC3236A-27E6-4BD9-93E2-E6D9D252E9BE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "084508aa0788e14d21bd9649c5b56e5db8db877f",
+      "datavalue": {
+       "value": {
+        "time": "+1593-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "2a4f806681cdc801d03015abdc58d1c395d17a4d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 110290991,
+          "id": "Q110290991"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q4669274$8f85f7a9-4956-0b3b-1ae2-b5a3c567271c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a5771c6635f058b1457c50d2c2e32b183d95b18a",
+      "datavalue": {
+       "value": {
+        "time": "+1598-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "2a4f806681cdc801d03015abdc58d1c395d17a4d",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 110290991,
+          "id": "Q110290991"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q4669274$9af99bdc-4f3d-3b37-52ff-920bdbc20513",
+     "rank": "preferred"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "42ed5ff7e24ead9625d0aa7075980e49c7ff02be",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7413006,
+        "id": "Q7413006"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669274$21d6ed44-4537-0c6e-410b-ab2876c33c20",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "68b9cb6560a64a33695778b7f595f193d34097a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669274$7C04EF1E-2EF0-4A2D-9D81-EBBCD821DA19",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669274$42589856-5F67-46B8-B5D4-C8149292AFDE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם די בוטון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q5": "אדם",
+  "Q7413006": "שמואל די מדינה"
+ },
+ "raw": "data/raw/wikidata/Q4669274.json"
+}

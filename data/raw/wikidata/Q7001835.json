@@ -1,0 +1,173 @@
+{
+ "id": "Q7001835",
+ "url": "https://www.wikidata.org/wiki/Q7001835",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7001835",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום מנצורה (רב)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom Mansura"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם יהודי תימני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7001835$61767B3C-93DF-4EA8-A65F-060457D9D0A5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7001835$3DAD731C-8D02-41FF-85A4-56E082F6C6AE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3a93d61079dc9ff40bc1e8cbaca85b871b2e85f0",
+      "datavalue": {
+       "value": {
+        "time": "+1800-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7001835$978456b5-4b05-4fe6-74e0-80c35874f7ec",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "165f29c34451fbd3d02acf23c1f80e6b83300e60",
+      "datavalue": {
+       "value": {
+        "time": "+1884-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7001835$ac8fd4fb-4a10-c35e-2f3e-a3c6cd2b47e8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "66d9499aa94b973f2a8e267f162a9cc2a2d09ba3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7001835$DE01E5B4-2E94-43E0-B768-541E49BC6DC7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "89aaf0ca8f7b156ccac3d3ca55d4e9a0da0e14f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7001835$AADEE424-F4F1-4AC1-95B8-C811C62B5974",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום מנצורה (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q805": "תימן"
+ },
+ "raw": "data/raw/wikidata/Q7001835.json"
+}

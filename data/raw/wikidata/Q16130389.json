@@ -1,0 +1,174 @@
+{
+ "id": "Q16130389",
+ "url": "https://www.wikidata.org/wiki/Q16130389",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16130389",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל דיקמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shemuʼel Diḳman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130389$8377D4EE-2E58-4921-BFF3-6DA8A1FD1A1D",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b2fffa55f63454022d6b9b7f311f05d528b2d844",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113346448,
+        "id": "Q113346448"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130389$794D7FF8-12ED-44E7-AF58-D74C17C49544",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "71f2e2b08d4d39a71681b7e5d4ac7e82d1332880",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130389$3CE8A5DF-BC00-4425-A4D0-34198D062B08",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130389$2347848A-5F81-49EB-B5AD-C237DE829423",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7e33cdc4f26250c6a8291783dc7e4d2bf79f1cf2",
+      "datavalue": {
+       "value": {
+        "time": "+1990-10-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130389$71166C8E-775C-456E-B6EC-683DF8B147FE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2f8e584737011c57faabc6ea499374f1db059ec7",
+      "datavalue": {
+       "value": {
+        "time": "+1932-05-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130389$C1DC3F30-F1D1-4ACC-8370-0D316936BD77",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל דיקמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113346448": "בית הקברות היהודי שדה יהושע (כפר סמיר)",
+  "Q133485": "רב",
+  "Q1741": "וינה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16130389.json"
+}

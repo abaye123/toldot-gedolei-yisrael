@@ -1,0 +1,379 @@
+{
+ "id": "Q330707",
+ "url": "https://www.wikidata.org/wiki/Q330707",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q330707",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Abba Werner"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם אבא ורנר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian rabbi (1837–1912)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי, הרב הראשי לפינלנד ורבה הראשון של מחזיקי הדת בלונדון (1837–1912)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Abel Werner"
+    },
+    {
+     "language": "en",
+     "value": "Abraham Chaima"
+    },
+    {
+     "language": "en",
+     "value": "Abel Haima"
+    },
+    {
+     "language": "en",
+     "value": "Abraham Werner"
+    },
+    {
+     "language": "en",
+     "value": "Reb Abtchik, Rabbi Avraham Aba Homa"
+    },
+    {
+     "language": "en",
+     "value": "Avraham Aba Chaima"
+    },
+    {
+     "language": "en",
+     "value": "Avraham Aba Verner"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "ווערנער, אברהם אבא"
+    },
+    {
+     "language": "he",
+     "value": "וורנר, אברהם אבא בן יעקב"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אבא וורנר"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אבא חיימה"
+    },
+    {
+     "language": "he",
+     "value": "רב אבציק"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אבא חומה"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa8b45301178ccdd42e9e11b416be0ae5ea84086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2222616,
+        "id": "Q2222616"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330707$9EB3FAD3-FAFB-461C-86BE-9BA34CF273ED",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330707$EE48DFD5-FF4B-4D53-BCCD-11D51208FC36",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330707$D37CF787-0D8E-49A1-B981-156F14730378",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c5a4d8c5892270f1417f082c3565cf9b085cd1f",
+      "datavalue": {
+       "value": {
+        "time": "+1837-02-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330707$731028F5-3E2B-4ED2-82BE-3E0E02BB35B0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6f71d95e9684849e2532c6b3af15f6b4a3c9b560",
+      "datavalue": {
+       "value": {
+        "time": "+1912-12-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330707$3A79BF00-5F00-467B-AF68-4464DC6CFC15",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "76cbb2636866a915020203396e8cc78b77c4d7d1",
+      "datavalue": {
+       "value": {
+        "time": "+1911-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330707$E06DC9DD-9808-4FCF-8D68-846B38EC311E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5140902eeed33dfa30793fc52b7ca44cc4a33b87",
+      "datavalue": {
+       "value": {
+        "time": "+1912-12-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "efc3bbf6df438bc259202e453f68dfde7dbd72fc",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 111961397,
+          "id": "Q111961397"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1932": [
+       {
+        "snaktype": "value",
+        "property": "P1932",
+        "hash": "656af1fa1140add62eda9a35367d288d9b8be15f",
+        "datavalue": {
+         "value": "י' בטבת תרע\"ג",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452",
+      "P1932"
+     ],
+     "id": "Q330707$a3b3e016-4cf3-1c8b-7f96-38f042373621",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330707$5D7F57F1-2FE2-434B-AE6F-6B957B292618",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330707$ca3f274e-7dd6-4249-8631-9f95e4f2a5dd",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "37ccfdb5239f2f1bd2a6608a70f68ea32c9fc3fd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 114772439,
+        "id": "Q114772439"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330707$2f58d4aa-4d93-7373-dd2a-5c69c52ae6e0",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "728536fa100d612bf7da1b41739ba10386a24a3c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118744284,
+        "id": "Q118744284"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330707$bf81a553-4003-89f0-41b5-9da12061cedd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אבא ורנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q114772439": "Edmonton Federation of Synagogues Cemetery",
+  "Q118744284": "ברוך חומה",
+  "Q133485": "רב",
+  "Q2222616": "טלז",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q330707.json"
+}

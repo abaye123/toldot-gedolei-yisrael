@@ -1,0 +1,255 @@
+{
+ "id": "Q1809435",
+ "url": "https://www.wikidata.org/wiki/Q1809435",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1809435",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Lazar Horowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלעזר הורוויץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אוסטרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Austrian rabbi (1803–1868)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Hurwitz"
+    },
+    {
+     "language": "en",
+     "value": "Lasar Horwitz"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "426e4a2e49fbc66167becf405af20d0b8fde5f97",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 507904,
+        "id": "Q507904"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1809435$BBC4CD1F-8F0A-451A-A867-A803F998927B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1809435$0BB9A019-6A44-4E5D-9BFB-CB07E99831C1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f1f375e131ee9e282be9382cdbcef4a5970bb875",
+      "datavalue": {
+       "value": {
+        "time": "+1803-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1809435$436A8542-C874-4619-8A8B-28827AB6DF47",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d2001a07540a40a46492c767840a7cf0df0fa3c3",
+      "datavalue": {
+       "value": {
+        "time": "+1804-01-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1809435$543E5B7F-465D-4CD0-8229-834242C24426",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fadb09ac3f0f6ccee3c62f3d4a00810be4a90ba8",
+      "datavalue": {
+       "value": {
+        "time": "+1868-06-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1809435$13A9C82B-FAD0-41F6-9E0E-38438158A0B3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1809435$8741C7CF-8AF5-45E0-9B4C-DBF549929A8E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "154b4b365aec5f300ee1f08834ac33abe4659f3c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 240744,
+        "id": "Q240744"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1809435$ce2e2052-417d-7725-89b4-fcedca07261c",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "e8392cf54b34448fc9c4856359d888263de1aec8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 131364103,
+        "id": "Q131364103"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1809435$68476ac0-448b-1992-f5e9-8442e38f5025",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8530a9f1d87610088946fd0b903390ae2c125dea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 798800,
+        "id": "Q798800"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1809435$494FF2F4-4BB1-49D5-AF0F-5EA6E2F69EE6",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלעזר הורוויץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q131364103": "יהושוע העשיל הורוביץ",
+  "Q133485": "רב",
+  "Q240744": "בית הקברות המרכזי בווינה",
+  "Q5": "אדם",
+  "Q507904": "פלוס",
+  "Q798800": "באד ויסלאו"
+ },
+ "raw": "data/raw/wikidata/Q1809435.json"
+}

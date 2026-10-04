@@ -1,0 +1,147 @@
+{
+ "id": "Q139494090",
+ "url": "https://www.wikidata.org/wiki/Q139494090",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q139494090",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Azriʼel Zelig Noaḥ Ḳusheleṿsḳi"
+   },
+   "he": {
+    "language": "he",
+    "value": "עזריאל זליג נח קושלבסקי"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139494090$4ce8e574-4021-95e5-fe5b-b3298d92bfc2",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "69a09dc648977a73e9c90ec77ee2c409f316b44f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12408298,
+        "id": "Q12408298"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139494090$2c13830e-47af-cd0a-2a79-e3d4431f1f15",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139494090$41ad80d3-47f3-e33a-2431-fc7c85495be0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d97014c85282ae3cfdae750eb1b90d9675248382",
+      "datavalue": {
+       "value": {
+        "time": "+1867-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q139494090$0e5f3eba-4083-4efc-9df9-fdf909140ddb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "50256d211665544acb9f420878aee2da88b54e41",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q139494090$459a1f92-4786-e628-b574-9a6f35466e11",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזריאל זליג נח קושלבסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12408298": "יקותיאל עזריאלי",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q139494090.json"
+}

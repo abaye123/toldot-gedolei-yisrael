@@ -1,0 +1,163 @@
+{
+ "id": "Q12410642",
+ "url": "https://www.wikidata.org/wiki/Q12410642",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12410642",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "פסח פרוסקין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Pesaḥ ben Pesaḥ Prusḳin"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של קוברין ומייסדה של \"ישיבת קוברין\""
+   },
+   "en": {
+    "language": "en",
+    "value": "Russian Orthodox Jewish rabbi and rosh yeshiva"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Pesach Pruskin"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410642$DC46B9B6-B2D9-4AC3-875E-FB050400A944",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410642$48B5826C-E56C-4607-AD6D-54268E439F32",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c2f88cc2a54ae4e8d3c6684295cb229fd6c0b35",
+      "datavalue": {
+       "value": {
+        "time": "+1879-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410642$e98d00da-4130-878a-0058-0e73fa8bdf22",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0c57b18aea256eee668a6a14e62e3a8a3cb23f23",
+      "datavalue": {
+       "value": {
+        "time": "+1939-10-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12410642$93d31a7b-af41-4efb-9d38-6d6d71feaddd",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d979b399ad1f8de8a512b0a5e143b210e5369852",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 955992,
+        "id": "Q955992"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12410642$73CA93B8-C529-44D5-BBB3-7D33B2A77092",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פסח פרוסקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q955992": "קוברין"
+ },
+ "raw": "data/raw/wikidata/Q12410642.json"
+}

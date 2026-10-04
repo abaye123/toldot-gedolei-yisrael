@@ -1,0 +1,176 @@
+{
+ "id": "Q113637008",
+ "url": "https://www.wikidata.org/wiki/Q113637008",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113637008",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אהרן הלוי גולדמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aharon Halevi Goldman"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הר הגאון אהרן הלוי גולדמן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113637008$a5121347-46f7-acab-5ff3-b8b5401b2c27",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113637008$4df16b56-4330-19a2-5247-f3a04be74950",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1a25dbac448f7b74b91f81dadb196fe238d41a2f",
+      "datavalue": {
+       "value": {
+        "time": "+1854-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113637008$7a4c66b4-46d9-3d10-74f0-8cb0257a5043",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a5bb08e68a85aba3219b858b26b80711692eb6e3",
+      "datavalue": {
+       "value": {
+        "time": "+1932-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113637008$67360d9f-4a31-4a6b-3f5b-d97a25a96b0e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "66898d1bd99a55a5f8c67a41f0624f657a48ab4e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 191607,
+        "id": "Q191607"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113637008$e95a24be-4e24-d7d7-6f5d-6d77d4f8aea2",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "dcc6e1274d789857221a74cb5c9edb606bbf2238",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 414,
+        "id": "Q414"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113637008$1c365a27-4770-04b1-6613-fc94c22414b0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן הלוי גולדמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q191607": "פודוליה",
+  "Q414": "ארגנטינה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113637008.json"
+}

@@ -1,0 +1,159 @@
+{
+ "id": "Q6536855",
+ "url": "https://www.wikidata.org/wiki/Q6536855",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6536855",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום דנגור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom Dangoor"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, יליד בגדאד. בראשית המאה ה-20 רכש קרקעות בנגב עבור התיישבות יהודית"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Dangoor, Shalom"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6536855$4FDE8801-E7FF-40C6-9EC2-3EE027990B75",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ad8b2a522d8f6cbf4892a5bef0629d710234757a",
+      "datavalue": {
+       "value": {
+        "time": "+1832-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6536855$9ACB73F1-30EC-484C-B9B6-B703798AD960",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "54d94b676e8c56e6cd7f1c4888ff3f472322a485",
+      "datavalue": {
+       "value": {
+        "time": "+1916-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6536855$E6FE668D-C180-4590-91A7-2DF14C0E176F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6536855$3BE1F496-60B7-4687-94E2-584301CE677E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "767f093803145eb46b14cd058647217a6c5e62c8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134514,
+        "id": "Q134514"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6536855$74976663-45c2-77b5-5b7c-963b47d9b258",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום דנגור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q134514": "סואץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6536855.json"
+}

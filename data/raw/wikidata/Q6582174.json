@@ -1,0 +1,143 @@
+{
+ "id": "Q6582174",
+ "url": "https://www.wikidata.org/wiki/Q6582174",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6582174",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל דב בער מווילעדניק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yiśraʼel Dov Ber of Weledniki"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב חסידי במחצית הראשונה של המאה ה-19"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yiśraʼel Dov Ber, m.m. di-ḳ.ḳ. Ṿiledniḳ"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "המגיד מווילעדניק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6582174$FEE5B8AD-7C6D-4F89-90CC-9BC9B2FAEE8D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6582174$7516ABE0-1A58-421D-89C3-59127118AF6A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "754ba97f201f9b5625a2ae6c0ab39f36bc3f89ed",
+      "datavalue": {
+       "value": {
+        "time": "+1789-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6582174$e9e60484-76bd-4239-a0ae-1dc0baffeaa7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6e21a990037296fd3484cdff7e73ecc339984096",
+      "datavalue": {
+       "value": {
+        "time": "+1850-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6582174$99871DC5-98EF-46BB-8A74-70AC0E4B9459",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל דב בער מווילעדניק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6582174.json"
+}

@@ -1,0 +1,180 @@
+{
+ "id": "Q1253140",
+ "url": "https://www.wikidata.org/wiki/Q1253140",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1253140",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי שמלאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Simlai"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא"
+   },
+   "en": {
+    "language": "en",
+    "value": "amora"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמלאי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1253140$FFF0E767-DBD9-4ED8-8BCB-786DEA6F38DC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1f940987cf93f1063164ecc8aee3316a0073abb8",
+      "datavalue": {
+       "value": {
+        "time": "+0300-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1253140$9CF7D85A-1814-4FE2-A1C2-D7A646C12216",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1253140$81EADAB1-9CBA-4597-8412-86520C9B769A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4ee6002fa7de0e02fbef8277a1ccb2bd4b3ad616",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 337751,
+        "id": "Q337751"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1253140$5E313BCF-E338-4E5E-A0F9-A919374900B6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "74a31cabc37393fd5b88da064d381a53b4c51b12",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 207540,
+        "id": "Q207540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1253140$bf5b8a14-432c-3d44-cc6c-04c5125e672d",
+     "rank": "preferred"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי שמלאי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q207540": "לוד",
+  "Q337751": "נהרדעא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1253140.json"
+}

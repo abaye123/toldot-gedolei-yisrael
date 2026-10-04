@@ -1,0 +1,273 @@
+{
+ "id": "Q4662613",
+ "url": "https://www.wikidata.org/wiki/Q4662613",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4662613",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron of York"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרון מיורק"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish financier and chief rabbi of England."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662613$32E138D3-E9CE-4A51-B167-6F2DE0504006",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662613$4A12A41D-5049-4A6B-9940-9E403BDCF83F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f7899e752669af8371d0f5ba7d215a77909fa0d4",
+      "datavalue": {
+       "value": {
+        "time": "+1268-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q4662613$81c32cb1-4bdc-5b39-fcb2-59943b1d6d1b",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "c87c5479eb3054ee230c48a2d1ae174c6d70f958",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6279185,
+        "id": "Q6279185"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662613$85c9b01c-478d-a067-3780-0521497302d3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9bb2c1bc85cd053e0bb2b9977e756bb0a8ce9a9d",
+      "datavalue": {
+       "value": {
+        "time": "+1101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662613$607E024C-5A69-4C6A-89EC-66E8C119941E",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "d0f39ec543cbfa9d752a269a09f886a8ac040457",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7240716,
+        "id": "Q7240716"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "5843739a014fa0b3313f075a367457ba6d218907",
+        "datavalue": {
+         "value": {
+          "time": "+1237-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "8a433fa56b58a67217819b2ea51f8ce1149f4cd1",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 16158501,
+          "id": "Q16158501"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "4655a843dc3cbb55de96cf892636db0209258754",
+        "datavalue": {
+         "value": {
+          "time": "+1237-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1366": [
+       {
+        "snaktype": "value",
+        "property": "P1366",
+        "hash": "98a06ecca2631ebe4507beac93352aabe0e72971",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 25492856,
+          "id": "Q25492856"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P1365",
+      "P582",
+      "P1366"
+     ],
+     "id": "Q4662613$221cb6d6-4175-c1f9-8422-100dfa4fcc5c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרון מיורק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6279185": "Josce of York",
+  "Q7240716": "פרסביטר יהודי אנגליה"
+ },
+ "raw": "data/raw/wikidata/Q4662613.json"
+}

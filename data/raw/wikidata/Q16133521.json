@@ -1,0 +1,99 @@
+{
+ "id": "Q16133521",
+ "url": "https://www.wikidata.org/wiki/Q16133521",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16133521",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבין בר רב אדא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ravin bar Rav Adda"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "ebff53ee077eb4ea69f87e5fc36b5dfc5f615fd5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359777,
+        "id": "Q359777"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133521$72fe477b-452a-d3b9-9f25-cb0db74cc069",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133521$81ED9710-E39F-4479-A35C-02BDFFEB4C9C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16133521$1DFE0B91-C56C-4E2D-88B6-BEDA59001453",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבין בר רב אדא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q359777": "רב יהודה",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q16133521.json"
+}

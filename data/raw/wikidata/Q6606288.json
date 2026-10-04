@@ -1,0 +1,178 @@
+{
+ "id": "Q6606288",
+ "url": "https://www.wikidata.org/wiki/Q6606288",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6606288",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה בויאר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehudah Boyar"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק ומחבר ספרי הלכה, מתלמידי החזון איש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6606288$FFEF286E-73ED-4790-92CE-A8EE92EEAC1D",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "a2d58ab04bb5e1b954693aefcbf528eced60ce26",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16132473,
+        "id": "Q16132473"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6606288$A13E9C7E-7114-423D-A0C6-70BB3C5F78D4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d455411620f3d6cf760803747272d79ca9ebdde1",
+      "datavalue": {
+       "value": {
+        "time": "+1934-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6606288$049A229F-E7F4-4FAE-B466-2EA5029FE341",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6606288$32f1a939-0c3c-477d-9b4b-c280e60f70c0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "39e1c087aa37010138836aa81ede9bd7649feffc",
+      "datavalue": {
+       "value": {
+        "time": "+2024-11-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6606288$7e7623d3-423f-0c4e-ac08-8e8ded7d8a55",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "0f50c3f4b3543f8e77637ffda317ca4fd2612dd9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6783959,
+        "id": "Q6783959"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6606288$3ad61ede-4b2c-c124-5ff1-084a5ea7a0f0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה בויאר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16132473": "ירחמיאל בויאר",
+  "Q5": "אדם",
+  "Q6783959": "אברהם בויאר"
+ },
+ "raw": "data/raw/wikidata/Q6606288.json"
+}

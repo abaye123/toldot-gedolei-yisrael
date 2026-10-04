@@ -1,0 +1,152 @@
+{
+ "id": "Q12409590",
+ "url": "https://www.wikidata.org/wiki/Q12409590",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12409590",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה טיקוצ'ינסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "המשגיח והמנהל הרוחני של ישיבת סלבודקה בבני ברק, וקודם לכן מנהל רוחני של ישיבת מקור חיים בירושלים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409590$90C3F63E-83A9-47A9-8ED4-2AD94D1914D2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409590$4FC746D8-8648-4315-927D-8018CCCACAC0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "628a78842eed9f10ba4deb9ff16792e42dd4c682",
+      "datavalue": {
+       "value": {
+        "time": "+1988-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409590$9291ff7d-fcd0-4669-96ea-c6ec81c8c86f",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "a5e34efbac40165bb3b91cd960048644ce081364",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6887896,
+        "id": "Q6887896"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12409590$77af7bde-4e5f-2c2c-90af-d68d8ea51258",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "10e7caac935fbbee0178328e44d12e889bce5f05",
+      "datavalue": {
+       "value": {
+        "time": "+1910-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12409590$B2D18EFF-7FDD-4781-A8AA-6FF11408623B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה טיקוצ'ינסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6887896": "אברהם יצחק טיקוצ'ינסקי"
+ },
+ "raw": "data/raw/wikidata/Q12409590.json"
+}

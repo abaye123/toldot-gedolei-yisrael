@@ -1,0 +1,305 @@
+{
+ "id": "Q118836365",
+ "url": "https://www.wikidata.org/wiki/Q118836365",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118836365",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliʻezer Lipa ben Elimelekh"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר ליפא בן אלימלך"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "1743--1813"
+   },
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי, בנו של רבי אלימלך מליז'ענסק"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ווייסבלום, אליעזר ליפא בן אלימלך"
+    },
+    {
+     "language": "he",
+     "value": "ויסבלום, אליעזר ליפה בן אלימלך"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר ליפה בן אלימלך"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר ליפא מחמעלניק"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר ליפא וייסבלום"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר ליפא וייסבלום"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר ליפא ויסבלום"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר ליפא ויסבלום"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר ליפא מליעז'נסק"
+    },
+    {
+     "language": "he",
+     "value": "רבי אליעזר ליפא חמיילניק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$7214D0FD-61BE-4953-B39D-ADEFD225B7F4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6e09f77f6cc45a03756fe5b88346b72f0d2a1c93",
+      "datavalue": {
+       "value": {
+        "time": "+1813-02-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118836365$EB93615A-68DE-4B2B-B874-2CF73D8A16B0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$b6e0b161-4997-c1af-365a-4882077a0164",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$7E3986C3-F7CD-422D-9359-62793A262673",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613a34c9ce20bd7f68458602dfeec4facc05b7f1",
+      "datavalue": {
+       "value": {
+        "time": "+1743-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q118836365$37e3bea5-4003-9b78-ab0a-823776eaea48",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "494332bee506c89bf12c98847eefa6d0841d40ee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180086,
+        "id": "Q180086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$aa94dd7a-4139-3d50-a56e-5f62e208b065",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e74f633af6ba5818f59852ef00f9e185bcb191ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 614145,
+        "id": "Q614145"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$8ba58ae5-4c41-3a32-3e75-ba6f1db81fd2",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3be9709dbbbf65f478369927b8b25f19d834804a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 614145,
+        "id": "Q614145"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$8832DE0B-29E8-476B-A113-A2114D7EEECE",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "df816179bb2d243f545cfce91a0f01bc6d627f2b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1329488,
+        "id": "Q1329488"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118836365$4acf99e7-4774-7050-08d9-026ff42771c8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר ליפא וייסבלום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1329488": "אלימלך מליז'נסק",
+  "Q133485": "רב",
+  "Q180086": "גליציה",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q614145": "ליז'נסק"
+ },
+ "raw": "data/raw/wikidata/Q118836365.json"
+}

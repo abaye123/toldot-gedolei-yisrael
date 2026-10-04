@@ -1,0 +1,333 @@
+{
+ "id": "Q119618",
+ "url": "https://www.wikidata.org/wiki/Q119618",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q119618",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Shmaryahu Levin"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמריהו לוין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian politician (1867-1935)"
+   },
+   "he": {
+    "language": "he",
+    "value": "פוליטיקאי ופעיל ציוני יליד רוסיה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "לוין, שמריה,"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5eb98f5a425130cedeb24114bb23826d6adebdd1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1011334,
+        "id": "Q1011334"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q119618$A56E1E0E-210E-4809-AE72-0A08FEAE161E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f842a5c154d8131ae1b9e05230422f25c20a91c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41621,
+        "id": "Q41621"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q119618$FD92D606-3FE8-4DAE-B0EC-A135CDB412DF",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$B9E8644E-597F-4B9C-BD75-D13DC7512447",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a9a34436c79b26360f1a491d0513fc0325834dac",
+      "datavalue": {
+       "value": {
+        "time": "+1867-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q119618$D5A1D43A-7BA0-4A3E-9191-547ECB31F988",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b8c9184b3dc2955da9a294a1d2335e0ef30d18d9",
+      "datavalue": {
+       "value": {
+        "time": "+1867-03-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q119618$b56a1e00-4f66-bff9-a6a4-4fb70d1a8766",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e958847406a026e7aa462bf85dd5bb400be9c6b8",
+      "datavalue": {
+       "value": {
+        "time": "+1935-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q119618$D0CB5FF1-0FAB-4016-B0BF-93DD94D513D6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "97dae0f79ee87396cb54cf2d5910c87fc0043c69",
+      "datavalue": {
+       "value": {
+        "time": "+1935-06-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q119618$4266AFDD-FF75-4F1F-B27F-0A7DFC94BB00",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ec77091eaa2eb211c58a580744688a48166905f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2516866,
+        "id": "Q2516866"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$32072D9A-34D7-4C2E-8DB8-B55A98ACF342",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$e4f11aea-067e-4647-8a50-c15bea89a768",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 82955,
+        "id": "Q82955"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$86F2E0B6-C279-4E8A-86C6-36BE0FAB3517",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$E6C556A4-313D-4661-82D1-49159730A995",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "e7bdcb5a4549cb80693d60519dd7f2e84343c362",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 27481020,
+        "id": "Q27481020"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$2D8E2DB5-D7C0-4909-AA8C-649FA3A74042",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3cf000cea3f6aaf623d4975a0722db598e47e124",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2597530,
+        "id": "Q2597530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q119618$8aaf60b2-f3e0-43cf-833e-8f0e17f1e032",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמריהו לוין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1011334": "סוויסלץ'",
+  "Q133485": "רב",
+  "Q2516866": "מוציא לאור",
+  "Q2597530": "בית הקברות טרומפלדור",
+  "Q27481020": "חבר בדומה הממלכתית של האימפריה הרוסית",
+  "Q36180": "סופר",
+  "Q41621": "חיפה",
+  "Q5": "אדם",
+  "Q82955": "פוליטיקאי"
+ },
+ "raw": "data/raw/wikidata/Q119618.json"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "Q6870311",
+ "url": "https://www.wikidata.org/wiki/Q6870311",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6870311",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלישיב קנוהל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elyashiv Ḳnohl"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6870311$CFDB5E92-3244-417C-A628-04D18E27CA0B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52083903e3bff739834e389eb94fb530044cb2d9",
+      "datavalue": {
+       "value": {
+        "time": "+1948-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6870311$1836E425-301D-49A2-983F-90D9B85CED5D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b72fe012973f05adaf43d60d83f4de2daa4711e6",
+      "datavalue": {
+       "value": {
+        "time": "+2018-04-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6870311$078A44D1-E876-465F-AF51-82E0D22D1F76",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "43c6ee29c814423d2ea405d620f13e83013e520e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2291811,
+          "id": "Q2291811"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q6870311$54c0ed8e-492d-6be6-d291-ecf36e382965",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "10c93325c136d8621562b3e277a1ea28f9273c04",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12405654,
+        "id": "Q12405654"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6870311$68540246-45da-3820-7181-0939f68b605e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלישיב קנוהל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12405654": "דב קנוהל",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6870311.json"
+}

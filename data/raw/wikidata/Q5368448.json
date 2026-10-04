@@ -1,0 +1,326 @@
+{
+ "id": "Q5368448",
+ "url": "https://www.wikidata.org/wiki/Q5368448",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5368448",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Elyah Lopian"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליהו לופיאן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "משגיח מוסרי חרדי ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi of the Mussar Movement"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליהו לפיאן"
+    },
+    {
+     "language": "he",
+     "value": "אליהו לאפיאן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliyahu Lopian"
+    }
+   ]
+  },
+  "claims": {
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "cf3895315602483765915bf3615a0ddb80938158",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1239915,
+        "id": "Q1239915"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$7485ba18-417f-2984-2652-d11b032c7b7f",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$A449F339-53AB-4179-92EC-A4F691A89BE2",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$14940478-4CB0-46B7-B05C-305CB5EC8881",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e0179f296067666db25238f55a828de7de3c20e5",
+      "datavalue": {
+       "value": {
+        "time": "+1872-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "a2d8a1c3d2123317872b63a5fc856d95b9a983c5",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 25895909,
+          "id": "Q25895909"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q5368448$03DB1FE4-5825-4633-9879-9B388C74CD24",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "772fa20f6c9b2e00faa24a7c25893c0e7f7779f9",
+      "datavalue": {
+       "value": {
+        "time": "+1876-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5368448$8B60E9EA-47D9-42DA-90BA-AF40B11A58E4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "601e44bc0bbf95a4c7afb5e8018f5079d3551566",
+      "datavalue": {
+       "value": {
+        "time": "+1970-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5368448$A2458928-EA24-424B-8629-303D74AD90F8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ba4235a6edb0a45160cda91592128a85917d8a37",
+      "datavalue": {
+       "value": {
+        "time": "+1970-09-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5368448$F1C78330-ACC0-4436-ACFD-3DA461344350",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$A4E0C8D1-3F3F-46CB-A8B7-4317CEEFB63C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aedcb1965948ee1626a56b45281e7778b168f80d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 336204,
+        "id": "Q336204"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$F21FF614-6565-4456-85AA-55570B6F753C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "18bfa98535a548d225b983ad81051f68ba502f31",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 801,
+        "id": "Q801"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$2478f25b-4c0f-4527-972a-f0c22c5dde9d",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5368448$be9a5b24-7694-4599-a36c-0d30deff8aae",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו לופיאן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1239915": "עמנואל יעקובוביץ",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q336204": "גרייבו",
+  "Q5": "אדם",
+  "Q801": "ישראל"
+ },
+ "raw": "data/raw/wikidata/Q5368448.json"
+}

@@ -1,0 +1,190 @@
+{
+ "id": "Q18121741",
+ "url": "https://www.wikidata.org/wiki/Q18121741",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121741",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עזריאל הורוויץ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של לובלין. נודע בכינויו \"ראש הברזל\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121741$F8E1890D-CBEE-4D3B-A01C-93597704A516",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c4c6a7133bfddf17a15212f9c3591ec6371bae76",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 81859,
+        "id": "Q81859"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121741$23f9cea8-4e88-5944-01ca-cf7ec8b4a2f8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121741$e8dc066d-4270-c0fb-370e-d06f29c5fd29",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3fd689d8ce5dbab3060d953b76ce3bfeb076e8e1",
+      "datavalue": {
+       "value": {
+        "time": "+1757-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121741$a10377c2-499d-a950-9e46-4813e96a0df3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c46824efac06600ff5a19f7a0d119223ed88acf9",
+      "datavalue": {
+       "value": {
+        "time": "+1818-11-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121741$cf91ebee-4d3b-75d4-799f-6749e18eb7ec",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cab2364ee130fd4facc8024be4b4ac4205d3f877",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 145972,
+        "id": "Q145972"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121741$3ed3cdaf-4324-496a-cde9-213df67a0632",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "970c10e5676004fdee3fa50fd651e8b50f1fd133",
+      "datavalue": {
+       "value": {
+        "text": "ראש הברזל",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q18121741$ec3d2960-441e-2d70-0c6a-05277d140b3a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזריאל הורוויץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q145972": "זמושץ'",
+  "Q5": "אדם",
+  "Q81859": "בית הקברות היהודי הישן בלובלין"
+ },
+ "raw": "data/raw/wikidata/Q18121741.json"
+}

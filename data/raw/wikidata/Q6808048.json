@@ -1,0 +1,177 @@
+{
+ "id": "Q6808048",
+ "url": "https://www.wikidata.org/wiki/Q6808048",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6808048",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים רחמים יוסף פרנקו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה הספרדי של קהילת חברון ומייסד בית החולים חסד אברהם"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "החרי\"ף"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6808048$1C0CDEAC-7ECB-48EF-8023-73DBB919FD49",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6808048$7D307ED0-BD4A-47E5-B000-D2FBB6AB5F6D",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "9aa821d9ccdb9cb6697a03e2181f3b485a375ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 38281286,
+        "id": "Q38281286"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6808048$F372616A-36B1-49C4-BB10-0216C74EEF30",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1e7e631a5cbf764e896b19d849d8c7ceb4b5c27d",
+      "datavalue": {
+       "value": {
+        "time": "+1835-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6808048$98cf4d63-4f69-974d-13cf-142f5e7768f8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7eaa0dc6fed1aade4569f58a95ccb7c8b659dcd8",
+      "datavalue": {
+       "value": {
+        "time": "+1901-11-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6808048$d13e27b7-477b-a6af-a638-28b87c557af0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f86f1d912ca6bf5dbb57553118e49cf3c76f216",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43048,
+        "id": "Q43048"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6808048$08101e73-4a00-e5ee-bbed-b79ff34d2fd0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים רחמים יוסף פרנקו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q38281286": "קלרה חסון",
+  "Q43048": "רודוס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6808048.json"
+}

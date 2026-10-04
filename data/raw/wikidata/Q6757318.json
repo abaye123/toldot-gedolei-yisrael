@@ -1,0 +1,427 @@
+{
+ "id": "Q6757318",
+ "url": "https://www.wikidata.org/wiki/Q6757318",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6757318",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הלל זקס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hillel Zaks"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rosh yeshiva"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת כנסת הגדולה מודיעין עילית"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$b2885fc1-400e-ca9b-c1fb-5598ccaee7cb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ba99165c414d180b3a32b54a24e3a02e42086463",
+      "datavalue": {
+       "value": {
+        "time": "+2015-01-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6757318$7b09e06a-4a8e-68d2-045c-e73bcfa4850b",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$C7878101-CFBF-46B6-A4AC-2D1519A748CA",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "00c43808551b0573a4d2c3f81e8e0c9eac2fd3a5",
+        "datavalue": {
+         "value": {
+          "time": "+1996-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "9df7138128ab37bea32fb29a9977c77cd4ed3226",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 15223459,
+          "id": "Q15223459"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P582",
+      "P108"
+     ],
+     "id": "Q6757318$149c3268-4d5a-0da9-679f-da4a2852eff3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "68c4b4d459d1b131347d9ffde2e282a8b9a167c8",
+        "datavalue": {
+         "value": {
+          "time": "+1996-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "85ebf02f8b80826a7e6dc78230ef266087006d1f",
+        "datavalue": {
+         "value": {
+          "time": "+2015-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "cba3fe1c53d29f1fd0b7d180053a65637d77032a",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 30526737,
+          "id": "Q30526737"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P108"
+     ],
+     "id": "Q6757318$d2c43f38-461c-35bd-5d89-a31385596fea",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "9d66fc86278f2fdd9060406f028a78f8030650c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6816576,
+        "id": "Q6816576"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$cf5b93ff-491b-d4c8-27d6-4342ba3088f3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$74982B01-46B9-47E7-A951-38DCC2705136",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ca4e68339b63e50bf05a6cb9b779851721216c8d",
+      "datavalue": {
+       "value": {
+        "time": "+1931-02-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6757318$79A1D7FE-537B-4E84-9459-7B88847BC798",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1fd30078b168b7377a9961e1ac03ea4c3255b923",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12040651,
+        "id": "Q12040651"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$C9AB66B4-7161-4537-9A52-924336B2006F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c8154a3de3249d5bdc0a77e0d283a6ae5e032f9b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2995176,
+        "id": "Q2995176"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$5792BE83-7F15-4580-B2A2-A0B47D5C18A6",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "05c74d8f9148d398abe56120973dcff700ba9d2d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1391598,
+        "id": "Q1391598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$3e847b17-45ec-37c4-5bd9-9b27790cfd40",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6ce440f4b0bac5879f195b9333827349fa4ca60f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920505,
+        "id": "Q2920505"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$d4041a2b-4312-afd9-ec50-8538cabbc46c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0500acd36423cbc697d2e0c4da54abccf6a3b750",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7307082,
+        "id": "Q7307082"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6757318$a5a109fb-418b-6fd0-455f-28e14a674a35",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל זקס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12040651": "מרכז רפואי מעיני הישועה",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q1391598": "משה פיינשטיין",
+  "Q2308372": "ראש ישיבה",
+  "Q2920505": "אהרן קוטלר",
+  "Q2995176": "ראדין",
+  "Q5": "אדם",
+  "Q6816576": "מנחם מנדל זקס",
+  "Q7307082": "ראובן גרוזובסקי"
+ },
+ "raw": "data/raw/wikidata/Q6757318.json"
+}

@@ -1,0 +1,334 @@
+{
+ "id": "Q117827292",
+ "url": "https://www.wikidata.org/wiki/Q117827292",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q117827292",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הירש פלאי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "משגיח בישיבת חברון"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1911/15–2005)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "צבי זאב פלאי"
+    },
+    {
+     "language": "he",
+     "value": "צבי הירש פאלי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$e5d79a9c-4a66-390a-5752-6ac91ce1f5c4",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "1e29c05c4cedb2aa4b3896117a3e18998c8bf180",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 117827285,
+        "id": "Q117827285"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$96d5fb48-496a-677e-3213-5f79a04eecfc",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "f68b3c4470eb4df9f3a6db3b7ac0addb52e7c1a1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2976326,
+        "id": "Q2976326"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "9df7138128ab37bea32fb29a9977c77cd4ed3226",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 15223459,
+          "id": "Q15223459"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q117827292$c6efb6e8-4776-70ae-54d2-4ceb9d1ef555",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$9D4815C6-C220-40B4-9933-E5A7D523F79E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$E1114229-97F7-4775-A97C-60C5A13D39DD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a7950e28edd1b835c1196220e69aaeb63d20075c",
+      "datavalue": {
+       "value": {
+        "time": "+2005-12-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117827292$2db01fee-4bc4-f465-dab0-d59923bf8645",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a9f13d767a69bfc64bd7feeb90e1f5bf9f4e4977",
+      "datavalue": {
+       "value": {
+        "time": "+2005-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117827292$a962690a-479d-c928-83e9-9d1beca480de",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "64707dfab1c61d8e16a9bc6b9e5d882158e153d9",
+      "datavalue": {
+       "value": {
+        "time": "+1915-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117827292$5bfbad16-4e82-4ed3-034a-270b323741bd",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c8c65824e332f5bdca3c3a3a8739e183cecd347c",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q117827292$98838aa0-51be-410e-98de-e4acd85f92c5",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "e7e22782dd35c60968bb94a77d2ef7ea2ef00bac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118924725,
+        "id": "Q118924725"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$bd2d35b5-4574-7896-2b62-5d3f7a330acb",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$91885F6C-8627-4523-88FF-3B0B827162FA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aafdc486431a589c8c40b384b56bb31b5262d16e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 730175,
+        "id": "Q730175"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q117827292$083DB024-A2FE-422C-8D17-A1F48C901CA9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש פאלי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q117827285": "אברהם נח פלאי",
+  "Q118924725": "שלמה פלאי",
+  "Q133485": "רב",
+  "Q21584816": "תלמודאי",
+  "Q2976326": "משגיח",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם",
+  "Q730175": "שקלוב"
+ },
+ "raw": "data/raw/wikidata/Q117827292.json"
+}

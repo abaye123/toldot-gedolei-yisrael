@@ -1,0 +1,283 @@
+{
+ "id": "Q3184666",
+ "url": "https://www.wikidata.org/wiki/Q3184666",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3184666",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Breuer"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף ברויאר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1882-1980)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ברייער, לוי יוסף בן שלמה זלמן,"
+    },
+    {
+     "language": "he",
+     "value": "ברייער, יוסף"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yosef Breuer"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3184666$79D270B7-B234-480A-AE19-BCDD5B11AD73",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3184666$E7368145-979B-4407-A58F-58F27F430374",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3184666$03392972-9530-4DEE-A8DC-A6E71CC0F6C4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "de27e129fcd5dfee16dbcc953380655cfd7a39cd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 214945,
+        "id": "Q214945"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3184666$0F17B278-5592-4436-AEF1-C4EBFEBCEB4E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f44562d161b8e26d74f261ae18eadafce80738d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 849455,
+        "id": "Q849455"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3184666$D9BC6446-B476-4F02-AB83-49603D142455",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1d7e481544b689f7f5378d3a61e1cb31c16dd293",
+      "datavalue": {
+       "value": {
+        "time": "+1980-04-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3184666$BB12071C-C037-45FB-9D7E-906490F8E929",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2bc45ba50f6060439ba79502a4b4a58404ab4fb3",
+      "datavalue": {
+       "value": {
+        "time": "+1980-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3184666$BAA2B555-22CE-497E-8F8E-231813F865DD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f9c09d0a59dd2ab434951d7af03fd26503ecb053",
+      "datavalue": {
+       "value": {
+        "time": "+1882-03-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3184666$C315C413-6867-4990-B9B4-CF20F8884148",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f21a552fe848915b4eeab65bbfdb663dd3354cf2",
+      "datavalue": {
+       "value": {
+        "time": "+1882-03-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3184666$b00f98fa-4c0d-9fb9-b71d-f87436076909",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f8f868507f65bbcfddfac168270c6541b3fd9d3b",
+      "datavalue": {
+       "value": {
+        "time": "+1882-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3184666$9E5BA95D-612F-496C-85FC-4F6350F975B9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף ברויאר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q214945": "פאפה",
+  "Q5": "אדם",
+  "Q60": "ניו יורק",
+  "Q849455": "שלמה זלמן ברויאר"
+ },
+ "raw": "data/raw/wikidata/Q3184666.json"
+}

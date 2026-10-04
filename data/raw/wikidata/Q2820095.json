@@ -1,0 +1,246 @@
+{
+ "id": "Q2820095",
+ "url": "https://www.wikidata.org/wiki/Q2820095",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2820095",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron ben David Cohen of Ragusa"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן הכהן מראגוזה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi in Ragusa"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב בראגוזה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aaron ben David Cohen"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2820095$D7459421-BF85-42C7-B98D-931E2B15AFF6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2820095$46CE6073-F8C2-4C85-962D-FE79CBCD5240",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2820095$BA6DF1FA-A629-41AE-8ADF-61E7BB53EAB9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb5daf02b5943bc2f5f297329263bc9a7de33ec6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 215536,
+        "id": "Q215536"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2820095$68386E6C-C21B-448B-A9AF-CF238848D003",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "aa0b4c3c10442657415941bcecd45589e4cd247a",
+      "datavalue": {
+       "value": {
+        "time": "+1580-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "8f3ba8f7c3a741a5c33cfd3bf2eae8ab912943d5",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 97479954,
+          "id": "Q97479954"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2820095$102212fe-431e-a6cf-9cd3-6e20f9e20962",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2f20f5dda4261a5fd663406b5d6a92c206768db7",
+      "datavalue": {
+       "value": {
+        "time": "+1501-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2820095$97DF4820-BA32-4F9F-9138-EBA49DA6598B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "53953ed7f1349184ee5cd138030c9163bc36d314",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1722,
+        "id": "Q1722"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2820095$bba6d28f-4775-a319-8b16-ad718631e3ab",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c66ba166ee4f16516c38d09c37b765c81c33df02",
+      "datavalue": {
+       "value": {
+        "time": "+1656-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2820095$ac159985-46a6-6ce1-74fe-e1cb7c335cd8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן הכהן מראגוזה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1722": "דוברובניק",
+  "Q215536": "סוחר",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2820095.json"
+}

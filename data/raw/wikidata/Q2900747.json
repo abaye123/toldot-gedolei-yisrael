@@ -1,0 +1,281 @@
+{
+ "id": "Q2900747",
+ "url": "https://www.wikidata.org/wiki/Q2900747",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2900747",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד משה רוזן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses Rosen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב רומני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi (1912–1994)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מוזס רוזן"
+    },
+    {
+     "language": "he",
+     "value": "רוזן, דוד משה,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Rosen, Moses David"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$EA063ABB-76E6-4121-996B-11CED6D95186",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "396c388b188406fe4cd99533f9c360dc990687bf",
+      "datavalue": {
+       "value": {
+        "time": "+1994-05-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2900747$59503527-280C-431B-80D1-751B2CAEDC72",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bc2c7af9b1124f3858032391cb6f61aeadb641e2",
+      "datavalue": {
+       "value": {
+        "time": "+1912-07-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2900747$908B31D1-E6F5-4FD2-952E-35712608B5F8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$8B9089FB-0E1E-46A8-BD31-A2D54F146CAF",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 82955,
+        "id": "Q82955"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$b81f8e6d-4b4c-23ca-c933-c3c1e16b3a2b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "88d8fa626186bbb4771432d7564f4273b24d7b25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 476226,
+        "id": "Q476226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$6817ded0-4aa5-a10d-a3f2-3242b4860a6e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bbc9ba6e8a75333bd26a02ca2f47590e98c8eed1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19660,
+        "id": "Q19660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$6a5beb68-42cd-c914-70bb-c4d1087294fe",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$17331AF5-AF2A-4C99-A10C-9A370D03BF3C",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "23eacb3f5821d8eefd276f87217c1e53cd5c2165",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 64859409,
+        "id": "Q64859409"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$043977b5-4d6a-13d8-7c82-c8e1f0e81ee0",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "998e3c911923d8c54bb84ddae50f77c6206089af",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 68988468,
+        "id": "Q68988468"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2900747$C7E94E74-E9E9-49F7-9283-B4E153F33206",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד משה רוזן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q19660": "בוקרשט",
+  "Q476226": "מוינשט",
+  "Q5": "אדם",
+  "Q64859409": "חבר האספה הלאומית הגדולה של רומניה",
+  "Q68988468": "אברהם אריה לייב רוזן",
+  "Q7418236": "בית הקברות סנהדריה",
+  "Q82955": "פוליטיקאי"
+ },
+ "raw": "data/raw/wikidata/Q2900747.json"
+}

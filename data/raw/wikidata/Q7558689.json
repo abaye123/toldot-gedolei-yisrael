@@ -1,0 +1,164 @@
+{
+ "id": "Q7558689",
+ "url": "https://www.wikidata.org/wiki/Q7558689",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558689",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Kimhi"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה קימחי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Turkish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב טורקי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "קמחי, שלמה בן ניסים יוסף דוד"
+    },
+    {
+     "language": "he",
+     "value": "שלמה קמחי"
+    },
+    {
+     "language": "he",
+     "value": "רבי שלמה קמחי"
+    },
+    {
+     "language": "he",
+     "value": "הרב שלמה קמחי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558689$BA8B6AB9-751C-4CE4-B7CD-06DCDF84215F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558689$4AFE0C87-329C-4185-8E3E-580407639D11",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbb685208d77a19da801928d514c6fa7c6672203",
+      "datavalue": {
+       "value": {
+        "time": "+1800-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558689$B1545938-9FC0-4084-87AD-EC80F7397AD7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558689$2A8E7F20-59A4-419F-9C08-F55C77C8CA33",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a4a0c8d2f36d4f35834634155c440fe694f21aea",
+      "datavalue": {
+       "value": {
+        "time": "+1894-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558689$1774BBE2-AD67-43C7-A968-5342203B7E7E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה קמחי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558689.json"
+}

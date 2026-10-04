@@ -1,0 +1,123 @@
+{
+ "id": "Q16341126",
+ "url": "https://www.wikidata.org/wiki/Q16341126",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16341126",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נפתלי יוסף פריינד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Naftali Yosef Fraind"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16341126$F9631B55-49E2-46FF-A6CB-7CC152FDA907",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16341126$4e6e190f-4d20-9739-ada2-f1a25a4705a6",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "093035e9c1ee646e77ffd44f111b6eba5503c4c8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15900813,
+        "id": "Q15900813"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16341126$dd97bc27-453c-69ba-3cf4-1074b7633157",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0bbc624699345d430c09423e0a2e955ec6a773d8",
+      "datavalue": {
+       "value": {
+        "time": "+1860-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16341126$986065da-0d41-48c8-a976-7d0fa1144766",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נפתלי יוסף פריינד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15900813": "מנחם בנימין פומרנץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16341126.json"
+}

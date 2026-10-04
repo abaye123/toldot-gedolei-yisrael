@@ -1,0 +1,190 @@
+{
+ "id": "Q111272889",
+ "url": "https://www.wikidata.org/wiki/Q111272889",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111272889",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה אייזנבט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב והיסטוריון צרפתי-אלג'יראי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111272889$3e7ae74e-4583-6ebd-c0e8-42252e2f50db",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111272889$03358aa3-416d-5008-fdb6-19692524fdf9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111272889$9974a90b-4835-ed24-bff1-7eaab8e9cd7b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "59811b6177217f8ad5ed6e5be7296676af05f933",
+      "datavalue": {
+       "value": {
+        "time": "+1883-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111272889$8f2a0952-4c2b-b37d-534b-96dbe8776cae",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9c9b1407421519d373c6c6fc028e4bad410ebf4d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 90,
+        "id": "Q90"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111272889$a99d731e-425a-7055-b26a-231900b501ea",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6b4ec8d0d76f325eddf104a772d4c137e0992796",
+      "datavalue": {
+       "value": {
+        "time": "+1958-01-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111272889$5c1f608d-46f9-dedf-73ee-d24308003783",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5c2eb674ef9119299c0061557b9c0dc65755fb44",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3561,
+        "id": "Q3561"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111272889$8664ea07-40c2-3e38-f16d-711f93a53d29",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה אייזנבט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201788": "היסטוריון",
+  "Q3561": "אלג'יר",
+  "Q5": "אדם",
+  "Q90": "פריז"
+ },
+ "raw": "data/raw/wikidata/Q111272889.json"
+}

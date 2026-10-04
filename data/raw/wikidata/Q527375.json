@@ -1,0 +1,227 @@
+{
+ "id": "Q527375",
+ "url": "https://www.wikidata.org/wiki/Q527375",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q527375",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel Strashun"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל שטראשון"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi (1794–1872)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samuel ben Joseph Strashun"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$B21E8C48-B8C8-4FB6-ACA6-D39C84DBDB20",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4e40ab121a7cff4f3151f7475950d7ecd6988813",
+      "datavalue": {
+       "value": {
+        "time": "+1794-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q527375$FC09A011-C222-4F14-B30A-C21C8308D303",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e7d5d51ca62a089c4938c22c5bb1cafe56af070",
+      "datavalue": {
+       "value": {
+        "time": "+1872-03-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q527375$05BE91A5-F27E-42FE-9A59-5269D2048289",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$561EB656-B8BE-484B-9E87-5176DC6D63E3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$EB5F15D9-EF9B-42B6-B456-1AF92B752202",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ea29eec69af1534911efb70a53b1db4f22e72e74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2907489,
+        "id": "Q2907489"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$58b5a3c2-4b11-c228-eff1-21c0c1c6839d",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "440ee365d407e8cfa79190a46f22c623652a96c7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2909560,
+        "id": "Q2909560"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$75f9ab73-4e36-0e92-3290-cd2ee0ad481d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bcbe5e2fd28e7ff6bc9e60c4657f64a6699b6ed0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q527375$1CDE9566-7A59-4729-9F10-D61ABF8831F3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל שטראשון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21584816": "תלמודאי",
+  "Q216": "וילנה",
+  "Q2907489": "מתתיהו שטראשון",
+  "Q2909560": "אברהם דנציג",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q527375.json"
+}

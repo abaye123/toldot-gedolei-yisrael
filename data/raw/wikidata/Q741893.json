@@ -1,0 +1,220 @@
+{
+ "id": "Q741893",
+ "url": "https://www.wikidata.org/wiki/Q741893",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q741893",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel Löw Brill"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל לייב בריל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1814-1897)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2ef25b9d4ff01a85385bcf530fe996ba1861b389",
+      "datavalue": {
+       "value": {
+        "time": "+1814-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q741893$64DA4A3F-04BD-480A-89EB-B541FE7C7606",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "faef492b81a786f66b6eac918a7ca74fee97bf38",
+      "datavalue": {
+       "value": {
+        "time": "+1897-04-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q741893$4E8C484A-7F7D-432E-AC0D-8624B53C96EA",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$F4E4E41B-1805-429B-BF7C-BDEF01E1FADA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$D0397328-3E68-4DF9-B9C2-FF32C8ECF446",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a10534963529635b239839e93f896122c96c08ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1622272,
+        "id": "Q1622272"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$b49bbf56-4d6e-8da1-eac0-380387253c35",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "06a401e44891da7ffc8c0bec6b761eb7912d31b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$BDE03D66-566E-4EFF-8214-8DDDCE0FE16B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c2935e864306525cf6997741242e5687cc45bb3e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 210205,
+        "id": "Q210205"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$CDA6796E-DBD7-4946-8744-0006077DE9B3",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f21aa371952fa54fd917e799da645282dfaf516e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 849696,
+        "id": "Q849696"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q741893$f5dc74eb-4fca-4e08-eb5f-5e97f4638b77",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל לייב בריל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1622272": "מרצה באוניברסיטה",
+  "Q1781": "בודפשט",
+  "Q210205": "פשט",
+  "Q5": "אדם",
+  "Q849696": "עזריאל בריל"
+ },
+ "raw": "data/raw/wikidata/Q741893.json"
+}

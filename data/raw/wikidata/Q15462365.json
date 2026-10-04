@@ -1,0 +1,262 @@
+{
+ "id": "Q15462365",
+ "url": "https://www.wikidata.org/wiki/Q15462365",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q15462365",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Mordecai Karmi"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרדכי כרמי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Mordecai Carmi"
+    },
+    {
+     "language": "en",
+     "value": "Mordecai ben Abraham Crémieux"
+    },
+    {
+     "language": "en",
+     "value": "Mordekhai Carmi"
+    },
+    {
+     "language": "en",
+     "value": "Mordekhai Crémieux"
+    },
+    {
+     "language": "en",
+     "value": "Mordecai ben Abraham Carmi"
+    },
+    {
+     "language": "en",
+     "value": "Mordecai ben Abraham Karmi"
+    },
+    {
+     "language": "en",
+     "value": "Mordekhai Karmi"
+    },
+    {
+     "language": "en",
+     "value": "Mordecai Crémieux"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "מרדכי בן אברהם כרמי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15462365$3730887F-CE68-4763-BCBB-B7BDA6F95193",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e564ea0e0e32ffb7cf07c27a3449863d0af0fb88",
+      "datavalue": {
+       "value": {
+        "time": "+1749-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15462365$2E5664B8-EE4B-4928-B841-937377515936",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15462365$A93D9D58-566F-4AD1-A8BB-EA32CC908CEF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "07763903777a934c56938b3324487fafe9709020",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 47465,
+        "id": "Q47465"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15462365$9624853a-45be-0078-a9df-d5b566cc9b70",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "119d7ad115ad0a365eeede020635d4f74d9aeb05",
+      "datavalue": {
+       "value": {
+        "time": "+1825-05-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q15462365$8B988E81-7CEA-4A4A-B9F1-59170B51F377",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6ee9438cc01a93832b6dbf9ebd521476a5bbe309",
+      "datavalue": {
+       "value": {
+        "time": "+1825-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15462365$B8140F5B-2738-40B6-98C6-5BDC4F5E2071",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6522dbce344bad51c63969933b592519ba4fd6d3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 202560,
+        "id": "Q202560"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15462365$e9895820-4bb1-4521-2f46-b6ff4c17461d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי כרמי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q202560": "קרפנטרה",
+  "Q47465": "אקס-אן-פרובאנס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q15462365.json"
+}

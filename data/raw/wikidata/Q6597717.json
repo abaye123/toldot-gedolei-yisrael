@@ -1,0 +1,193 @@
+{
+ "id": "Q6597717",
+ "url": "https://www.wikidata.org/wiki/Q6597717",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6597717",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה קורח"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shelomoh ben Yiḥya Ḳoraḥ"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני יהדות תימן, רב העיר ואב\"ד בני ברק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה בן יחיא קורח"
+    },
+    {
+     "language": "he",
+     "value": "שלמה בן יחיה קורח"
+    },
+    {
+     "language": "he",
+     "value": "שלמה עמרם קורח"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6597717$0FEA4B3E-98CC-4C10-8137-1AE5D6926A88",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5a2498cff4440e44887346186c88d7fe2a6cf0d1",
+      "datavalue": {
+       "value": {
+        "time": "+1935-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6597717$93F1D7A8-FC2E-4052-A733-689DAA0E6072",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "aa83538c85600f8bfcffd1f91e237cc671a74f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2471,
+        "id": "Q2471"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6597717$561FEAEF-5ECB-4B39-B6C3-5D45CCFC0EC9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6597717$0711715e-4997-24fb-b8a6-c4e4f3506204",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ec8e8a237e27b8d2fe04b4d7241c78c8daf1d0d8",
+      "datavalue": {
+       "value": {
+        "time": "+2018-10-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6597717$9144bba1-4636-cfcb-a89f-33db67853c48",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6597717$CE126774-874E-449A-A464-8CC47D515194",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה קורח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2471": "צנעא",
+  "Q5": "אדם",
+  "Q7418236": "בית הקברות סנהדריה"
+ },
+ "raw": "data/raw/wikidata/Q6597717.json"
+}

@@ -1,0 +1,168 @@
+{
+ "id": "Q12235890",
+ "url": "https://www.wikidata.org/wiki/Q12235890",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12235890",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי זוסיא טברסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מטריסק-הוצלס-יאס והשלישי לשושלת חסידות טריסק"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12235890$DFC9872B-0016-4CE5-92BA-BF9BFE724A0D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12235890$70D1F4E6-5456-4312-A557-A0217C9CBD6D",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a850b355be51f7fbb7bb0e5ffeac2195221b7e9f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1996528,
+        "id": "Q1996528"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12235890$77D59F31-7A76-420F-B1A7-C8C8C66CFE95",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dcf34f360f019967bf724cccca8d294288c1089a",
+      "datavalue": {
+       "value": {
+        "time": "+1936-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12235890$a40061ea-48d3-afdd-e4be-e48cff421236",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2ab51967211b48babca860b739d29d66ea0a32e0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12237232,
+        "id": "Q12237232"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12235890$796cab25-4347-2f2c-ea4b-27f4b3c4319a",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "55824c44f509dc65e8078f246f13f5d976f17971",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12256243,
+        "id": "Q12256243"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12235890$657e374f-4d39-6faf-506a-e0db278a7963",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי זוסיא טברסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12237232": "מנחם נחום טברסקי (טריסק)",
+  "Q12256243": "יעקב אריה טברסקי",
+  "Q133485": "רב",
+  "Q1996528": "טוריסק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12235890.json"
+}

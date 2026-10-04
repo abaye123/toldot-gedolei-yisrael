@@ -1,0 +1,236 @@
+{
+ "id": "Q928893",
+ "url": "https://www.wikidata.org/wiki/Q928893",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q928893",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Gamaliel IV"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבן גמליאל הרביעי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi and nasi."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q928893$81B6C4DF-439F-4EFE-8E98-1974AA38D544",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1f940987cf93f1063164ecc8aee3316a0073abb8",
+      "datavalue": {
+       "value": {
+        "time": "+0300-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q928893$70642C3B-351E-401A-8336-8D41EA43441E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q928893$D53885CB-F622-4150-8568-44060EE74898",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "028ba6d4f482b44315036f70e70459dbb741456c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1279683,
+        "id": "Q1279683"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q928893$bf52a0b1-415a-39f0-596f-d52b566beae5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5571adab7c0563deb19f429e26c5abbae67c4916",
+      "datavalue": {
+       "value": {
+        "time": "+0290-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q928893$fe9dcf11-42d5-0f79-2268-146886de50bc",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "d2770427bad64a88e8b057f22a8c7a61bfb03149",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1529450,
+        "id": "Q1529450"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q928893$a351753a-4f22-af89-f8ce-07217e30c659",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "694387e97316e38ab47ea930a32c460ed8d2b476",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1710854,
+        "id": "Q1710854"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q928893$2bfa6882-49cf-37c7-42a9-b0f5cf0d22b9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבן גמליאל הרביעי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1279683": "נשיא",
+  "Q133485": "רב",
+  "Q1529450": "רבי יהודה נשיאה",
+  "Q1710854": "רבי יהודה נשיאה השני",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q928893.json"
+}

@@ -1,0 +1,129 @@
+{
+ "id": "Q111518579",
+ "url": "https://www.wikidata.org/wiki/Q111518579",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111518579",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב יהודה בן רב שמואל בר שילת"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בן הדור השני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב יהודה בריה דרב שמואל בר שילת"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111518579$5c5f9970-44f0-1467-a65d-ce590587511b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111518579$E67789B0-7DA5-4DA2-8121-BE8000134058",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "5c0d5bfa3dcad54910930070ade21c942a695d0c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 108528868,
+        "id": "Q108528868"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111518579$c8e020e3-4f10-7627-d4fe-44985efb7c34",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a93f93d5b5f44c7a72b1aef29227120541d1db4b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 305760,
+        "id": "Q305760"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111518579$c664141a-4e6d-4ac8-b5bb-8eda5fe9b266",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יהודה בן רב שמואל בר שילת",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q108528868": "רב שמואל בר שילת",
+  "Q305760": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q111518579.json"
+}

@@ -1,0 +1,134 @@
+{
+ "id": "Q7278521",
+ "url": "https://www.wikidata.org/wiki/Q7278521",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7278521",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbah b. Shela"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה בר רב שילא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבה בר שילא"
+    },
+    {
+     "language": "he",
+     "value": "רבא בר רב שילא"
+    },
+    {
+     "language": "he",
+     "value": "רבא בר שילא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278521$2AC0B339-3E34-432C-83FB-D4446B5EC982",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278521$1D0F264F-F47F-4F37-A98D-25DE086B998E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278521$D55FA173-CBEF-4F62-A5DB-F124A802B9D9",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0b7f6b74c3919f16c1615184cfc439533889d511",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 100154111,
+        "id": "Q100154111"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278521$3aec1df4-4572-b59e-5ebf-04148b1f9eed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבה בר רב שילא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q100154111": "רב המנונא סבא",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q7278521.json"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "Q61125382",
+ "url": "https://www.wikidata.org/wiki/Q61125382",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q61125382",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמשון בן צדוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samson ben Zadok"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מגדולי תלמידי מהר\"ם מרוטנבורג, בן המאה ה-13, חי לקראת סוף תקופת בעלי התוספות"
+   },
+   "en": {
+    "language": "en",
+    "value": "Student of Maharam of Rothenberg"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "תשב\"ץ קטן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125382$1c185a92-41de-6451-7398-7616c8fcd901",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "36fae03a86bc6100c23fcaad566596ed22ec21f7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 72163,
+        "id": "Q72163"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125382$ac90ee85-4b6f-4baf-526a-10bafff80d16",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q61125382$c462f114-2c4c-496f-98e8-272b00769e44",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d698d9b9678fa12f9dbf56767c91e176c58dcf34",
+      "datavalue": {
+       "value": {
+        "time": "+1312-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q61125382$D130D55A-FF40-4696-8D3F-D04D6B7B07EF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמשון בן צדוק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q72163": "מהר\"ם מרוטנבורג"
+ },
+ "raw": "data/raw/wikidata/Q61125382.json"
+}

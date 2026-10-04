@@ -1,0 +1,174 @@
+{
+ "id": "Q30526982",
+ "url": "https://www.wikidata.org/wiki/Q30526982",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526982",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבטליון ממודנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abtalion of Modena"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ממנהיגי יהדות איטליה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526982$4CEA1643-0813-418C-B13D-681013832917",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526982$960e7d75-4d1e-4b2a-0e12-c2f23aea4f2c",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b3b2ed8d7ae2e0f19b5bfdba9353a4274843e5cd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 870692,
+        "id": "Q870692"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526982$02155a71-4bcb-242a-7f1e-d8ca6ff51008",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "6baf7b96eadae043c9b904fe1a2e64e84be276de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 793598,
+        "id": "Q793598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526982$6faf18a1-4966-f187-3792-ac7d7ff08d15",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "afa9b8809fca36b9ac19b3462440acb590e6bbf2",
+      "datavalue": {
+       "value": {
+        "time": "+1529-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526982$aa22be88-4c1d-b03f-e2a2-4d8a26337a59",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6dfa0966300fe6a86b1ce5df0bfe1ce4a8c4dbee",
+      "datavalue": {
+       "value": {
+        "time": "+1611-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526982$12dd16f7-475a-770a-3d04-39795dbbc31e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבטליון ממודנה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q793598": "עזריה מן האדומים",
+  "Q870692": "קצנלנבוגן, מאיר בן יצחק,"
+ },
+ "raw": "data/raw/wikidata/Q30526982.json"
+}

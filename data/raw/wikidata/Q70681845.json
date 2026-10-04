@@ -1,0 +1,219 @@
+{
+ "id": "Q70681845",
+ "url": "https://www.wikidata.org/wiki/Q70681845",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q70681845",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה פרובינצאלו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Provençal"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681845$BF29F5AB-237F-4AE7-885D-3FFF1490ADF0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8cbb1ff2cc20bf8bf87ce2347cbfb3d68d120b44",
+      "datavalue": {
+       "value": {
+        "time": "+1503-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q70681845$0BC4F477-AA48-46D2-B7A7-E7532F98349B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7d481ae97d09a0c3147f258608252726d4c0c409",
+      "datavalue": {
+       "value": {
+        "time": "+1576-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q70681845$5A41BE01-B293-4AE0-A6FB-5590136CC1A8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "85ff4a29e113ba77f9866ed366eecc235406a1c4",
+      "datavalue": {
+       "value": {
+        "time": "+1575-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q70681845$ABE56CB6-9BC1-4F15-AFE1-5A1EA8C18FE0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681845$76CDBEB0-E514-4190-AB45-BDCD838093BB",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "90a5c8214deabb50588e4e972f1f0a110b74a753",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13418253,
+        "id": "Q13418253"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681845$7FBC2E0D-B86F-4AFC-BAAE-6E4B089A430C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "100407e33495e6d28053bb254bab635252f6bcc2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16333,
+        "id": "Q16333"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q70681845$E96CD7D4-F531-4824-9B54-3E5668D568A9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה פרובינצאלו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13418253": "פילולוג",
+  "Q16333": "קזאלה מונפראטו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q70681845.json"
+}

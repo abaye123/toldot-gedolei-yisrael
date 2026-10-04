@@ -1,0 +1,193 @@
+{
+ "id": "Q2895441",
+ "url": "https://www.wikidata.org/wiki/Q2895441",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2895441",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף מאיר וייס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Meir Weiss"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1838-1909)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "האמרי יוסף"
+    },
+    {
+     "language": "he",
+     "value": "ווייס, יוסף מאיר"
+    },
+    {
+     "language": "he",
+     "value": "יוסף מאיר בן שמואל צבי,"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d3c7afeaa5b83dce47552eee2a2d7fe9b8515271",
+      "datavalue": {
+       "value": {
+        "time": "+1909-05-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895441$FB8EFE56-E23B-4ED5-A572-8501BA8E5BD7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "502bbc577113476418e5c27fbf2ee6e77357dd66",
+      "datavalue": {
+       "value": {
+        "time": "+1838-03-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895441$DFD4F4AA-3032-4469-B905-C58509BD4F50",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895441$DF6D045F-E855-4FAE-9DC8-4B4337168569",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895441$7FF0F3CB-D6F1-449D-BC2E-ABC22878137A",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895441$EBB238EB-94B0-4B26-B6F6-5F73B9BA37EA",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "855cc208dacc5d40a68a89cd9445591be89b4733",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113407644,
+        "id": "Q113407644"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895441$146d8581-4cbc-cc1d-a45c-6ec08dcceb9d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף מאיר וייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113407644": "אהרן וייס",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6958598": "בית הקברות סגולה"
+ },
+ "raw": "data/raw/wikidata/Q2895441.json"
+}

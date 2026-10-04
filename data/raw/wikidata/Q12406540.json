@@ -1,0 +1,204 @@
+{
+ "id": "Q12406540",
+ "url": "https://www.wikidata.org/wiki/Q12406540",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12406540",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yom Tov of Joigny"
+   },
+   "he": {
+    "language": "he",
+    "value": "יום טוב מיואני"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "English rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אנגלי מבעלי התוספות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ר' יום טוב בן ר' יצחק מיואני"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12406540$E24E138B-DE23-42F3-8755-C7FFB7591AC2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12406540$4D2995E2-0B52-4BED-B614-7EBD8A819F0C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5b85e68b7873bc1b21f8010099b07f2d6af144ab",
+      "datavalue": {
+       "value": {
+        "time": "+1190-03-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q12406540$976CE048-9301-47B3-B70F-E3FF8E7690A2",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "91a5038db9dc000ebd8486d6cdb5246fc72c57ca",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 944289,
+        "id": "Q944289"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12406540$a3747c1f-4cde-92a4-1467-27fcb7e7192d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7f1e7887118ddefaaf146feda29ede25c064570a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80637,
+        "id": "Q80637"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12406540$7184eb97-4301-5a88-2310-f00afbf061eb",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "783be298c95436c24ff214c0291b77b16a6b7c6b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12816,
+        "id": "Q12816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12406540$646c8aea-448e-541e-ff4d-7b453ec4c107",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יום טוב בן יצחק מיואני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12816": "יון",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q80637": "טירת יורק",
+  "Q944289": "רבנו תם"
+ },
+ "raw": "data/raw/wikidata/Q12406540.json"
+}

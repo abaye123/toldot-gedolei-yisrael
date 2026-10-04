@@ -1,0 +1,194 @@
+{
+ "id": "Q99839531",
+ "url": "https://www.wikidata.org/wiki/Q99839531",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q99839531",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מרדכי בן ג'ו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mordejay Bengio"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "(1827-1917)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q99839531$7fe81116-4698-601a-a646-7218913595fe",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f343ba6ced1d3f1c81e7489b3adce6367ae21c12",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126148,
+        "id": "Q126148"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q99839531$6480D2BE-C3DE-4303-8443-C0E16681EC4B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ef529fc9623c277ef79f1e37467254eb23c4962c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126148,
+        "id": "Q126148"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q99839531$0FA532DC-3E83-47FE-89FC-56A38E808C1F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7bca9c8314f10628c1a7db52b8ea53e4d7d4c1a1",
+      "datavalue": {
+       "value": {
+        "time": "+1827-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q99839531$f034f503-410b-c0a3-2138-bddfa5772825",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6596ac4e164ad2e6d0581b6a2f4374c820a0d0d8",
+      "datavalue": {
+       "value": {
+        "time": "+1917-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q99839531$35f20667-47eb-4fc7-e9f8-41ddac528b63",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q99839531$c05136fd-4274-b502-141c-2e4be4c87a68",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "51c0083289ab68fa3a31e6e3849ed4519d14979f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 126148,
+        "id": "Q126148"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q99839531$6BB7822C-57A0-4490-882D-2781A5C97B0C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי בן ג'ו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q126148": "טנג'יר",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q99839531.json"
+}

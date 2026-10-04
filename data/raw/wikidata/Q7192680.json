@@ -1,0 +1,185 @@
+{
+ "id": "Q7192680",
+ "url": "https://www.wikidata.org/wiki/Q7192680",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7192680",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד משה פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Mosheh Tshortkov"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אבי חסידות צ'ורטקוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "19th century rabbi (1827–1903)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "David Mosheh Friedman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192680$D9CD04CE-9A45-4A6B-8D7C-16349ED9BC6F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192680$b3b0a9df-4cf0-c177-f8a2-a9e309c5f99d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c046661565be1abc058b993ca8dc293e8e19a3e9",
+      "datavalue": {
+       "value": {
+        "time": "+1827-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192680$03F2707D-F083-490D-9A01-1E1286C69722",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "88c831084848313f112d616dfb8ab8185ddf8b6f",
+      "datavalue": {
+       "value": {
+        "time": "+1903-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192680$0A41589D-04F5-47AD-8F59-C18215E86484",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "20dea2082d7820e0a94b476510be36d788778cd7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13577188,
+        "id": "Q13577188"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192680$9886dc49-4bdf-4273-bea3-a4f055b867d8",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2ee0e50602383d867c7602cc71d3c52acf4c3b20",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1674604,
+        "id": "Q1674604"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192680$74cfa3a6-4d59-cdd1-9b57-bebec453dd71",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד משה פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13577188": "ישראל פרידמן מצ'ורטקוב",
+  "Q1674604": "ישראל פרידמן מרוז'ין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7192680.json"
+}

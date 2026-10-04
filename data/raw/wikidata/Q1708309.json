@@ -1,0 +1,241 @@
+{
+ "id": "Q1708309",
+ "url": "https://www.wikidata.org/wiki/Q1708309",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1708309",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph ben Mordechai Gershon"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף כץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה פולני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף בן מרדכי גרשון הכהן"
+    },
+    {
+     "language": "he",
+     "value": "יצחק בן מרדכי לאנקוס"
+    },
+    {
+     "language": "he",
+     "value": "יצחק בן מרדכי לאנקוס פון קראקא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "JOSEPH B. MORDECAI GERSHON KATZ"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2411d4de72e191506305eca675e4ac359de0d6a8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1708309$3E47617D-D4F6-4D7D-86D1-ACC516F1F158",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708309$A78A4223-F43E-40F7-A946-0375F0F76C53",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f658b4dc621d00246c8cf78b2d274577c8cb4aa1",
+      "datavalue": {
+       "value": {
+        "time": "+1510-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1708309$AF74216A-D00A-4480-91D4-4BA740AF339F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2f27fe772ceb1061355908422f1309aaa0f38945",
+      "datavalue": {
+       "value": {
+        "time": "+1591-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1708309$7B0C00E6-3A4D-46D4-AAAE-D3235AFD477C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708309$F5B51E46-2217-4399-AE20-36880FCD48D8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "592903f53a436d9dc723e0f31089ff7265a3be8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708309$3834cd04-405c-8753-479c-0a2ab29ed6f0",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "213b2a8be1592fb3457ed3206b84bfd4b8359906",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 115001,
+        "id": "Q115001"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1708309$ddf05b8e-4ed4-0ecf-712b-64473be14fb0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף כץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q115001": "בית הקברות היהודי העתיק בקרקוב",
+  "Q133485": "רב",
+  "Q31487": "קרקוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1708309.json"
+}

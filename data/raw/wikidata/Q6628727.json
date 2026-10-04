@@ -1,0 +1,190 @@
+{
+ "id": "Q6628727",
+ "url": "https://www.wikidata.org/wiki/Q6628727",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6628727",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים אוירבך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Auerbach"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6628727$0A39D213-1C55-4D8B-9FF7-2011F1233D7A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6628727$B68A890B-28B6-4C98-8E74-B24FC529B75C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8e8a226a121208ff61c0e0206fef00310636c60d",
+      "datavalue": {
+       "value": {
+        "time": "+1755-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6628727$239D640E-A6AB-4E8E-AFC3-59BB5F678CF7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "55d5a60a7a69405bd965d6f8bf87a1bed18bba0a",
+      "datavalue": {
+       "value": {
+        "time": "+1840-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6628727$6C66FDD8-D1ED-42E9-9A07-F4FBB615D9BD",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "ce3e86b60710c3ab4a97a9d32232396905da3483",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 325727,
+        "id": "Q325727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6628727$8361C356-BAE3-4B74-993B-E12F32AA924F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "741512a7effc9a908c5f77e6e371571c49780330",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 325727,
+        "id": "Q325727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6628727$1C75E43E-DE1D-4EBF-9113-7E7E6F236283",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2c95b82cb1aca3c77b39f3fd18a04682a0974453",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 52892,
+        "id": "Q52892"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6628727$9BEFE630-0E41-4F0B-9915-E341D7356B87",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים אוירבך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q325727": "לנצ'יצה",
+  "Q5": "אדם",
+  "Q52892": "לשנו"
+ },
+ "raw": "data/raw/wikidata/Q6628727.json"
+}

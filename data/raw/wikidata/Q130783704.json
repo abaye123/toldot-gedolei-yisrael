@@ -1,0 +1,170 @@
+{
+ "id": "Q130783704",
+ "url": "https://www.wikidata.org/wiki/Q130783704",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q130783704",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל רוזנברג"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q130783704$db751b07-4699-2936-0970-6e162c53e3eb",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q130783704$341f0b14-4ef9-b4f7-2af4-411212c5e860",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3d91f18ef285b72178e910bbe5f8bbdec381ea99",
+      "datavalue": {
+       "value": {
+        "time": "+1956-01-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q130783704$2f1eac0c-45a2-640c-c592-c658adbb7db2",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1b36837ec0a677efe0cd9da6f9376469cff530d2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q130783704$b72b81cc-4ba6-f819-9f70-78dccfd6d5c6",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1b0de1af0ebd1fd0183b3863a0244b6880f73104",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 215633,
+        "id": "Q215633"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q130783704$277c3aeb-4f44-a640-e5a8-a1e5000b0481",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "11187e9be343451068c017cb79253ed3c024b1e7",
+      "datavalue": {
+       "value": {
+        "time": "+1875-03-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q130783704$16C5756D-5B83-4437-ADDD-7735D7478464",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל רוזנברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18419": "ברוקלין",
+  "Q215633": "לומז'ה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q130783704.json"
+}

@@ -1,0 +1,163 @@
+{
+ "id": "Q8053897",
+ "url": "https://www.wikidata.org/wiki/Q8053897",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8053897",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yitzchok Breiter"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק ברייטער"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish Breslov rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק ברייטר"
+    },
+    {
+     "language": "he",
+     "value": "יצחק בריטר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053897$7ACA6454-6F80-49CE-9DED-755FE19C425D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "24b006b800cefa118c4e6a4f7b96387bebcbd2af",
+      "datavalue": {
+       "value": {
+        "time": "+1886-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8053897$2798540A-D998-43C8-8D1E-06161BAF7D32",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053897$77302973-DDB0-4845-A1BE-0C16B9D23463",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0bdc079b084927516ae2d608af087d47fc89b97e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 153813,
+        "id": "Q153813"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8053897$8C8CFC1A-1DD6-4038-93C3-29F9717C78BD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "65d0ad9fe619962370ed65f000ec6d8eb5255061",
+      "datavalue": {
+       "value": {
+        "time": "+1943-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8053897$2172A63A-D1D0-4E04-95E7-E8BBED3575C1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק ברייטר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q153813": "מחנה השמדה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8053897.json"
+}

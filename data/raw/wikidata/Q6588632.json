@@ -1,0 +1,110 @@
+{
+ "id": "Q6588632",
+ "url": "https://www.wikidata.org/wiki/Q6588632",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6588632",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רחבה דפומבדיתא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rachava of Pumbedita"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Raḥava of Pumbedita"
+    },
+    {
+     "language": "en",
+     "value": "Rahava of Pumbedita"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588632$B28EE2AD-A9EA-41DC-9366-8D431C0221D4",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "9e9e4ebeca1f490fe575f32794964e20d01b1c6d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6788009,
+        "id": "Q6788009"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588632$2980f045-45fc-411e-fe8b-9eba2d98fe5c",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6588632$DCBC837F-1CE7-4F03-B56A-D5CF39811F88",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רחבה דפומבדיתא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q6788009": "חומא"
+ },
+ "raw": "data/raw/wikidata/Q6588632.json"
+}

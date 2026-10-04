@@ -1,0 +1,185 @@
+{
+ "id": "Q824780",
+ "url": "https://www.wikidata.org/wiki/Q824780",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q824780",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Riccardo Pacifici"
+   },
+   "he": {
+    "language": "he",
+    "value": "ריקרדו פצ'יפיצ'י"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi (1904-1943)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Riccardo Reuven Pacifici"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5bdc8ddf55e9d2f5086cb2486e4b4b246c12d7d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2044,
+        "id": "Q2044"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q824780$056D1121-3818-4C7D-982D-8AB7A08377CB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d5e4394c6fc54b63988539f9b65a626c98bd7d1d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 662563,
+        "id": "Q662563"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q824780$6308606F-3A2A-4448-870B-5F5AF8728A7F",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q824780$D5636908-37C2-45AC-A37C-13F027EA27B9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cce3cc62924acbbc50000c236fdc8d97f6993437",
+      "datavalue": {
+       "value": {
+        "time": "+1904-02-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q824780$1B30571D-3509-4E16-9BD6-33C4D695220B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ad94c2d9651248c0ad519258ef59efbe83641cf6",
+      "datavalue": {
+       "value": {
+        "time": "+1943-12-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q824780$C23B7217-C8F2-4609-A05F-D0C197D20548",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q824780$8A047699-296B-44DF-8E1E-9A5181784D97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ריקרדו פצ'יפיצ'י",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2044": "פירנצה",
+  "Q5": "אדם",
+  "Q662563": "אושוויץ I"
+ },
+ "raw": "data/raw/wikidata/Q824780.json"
+}

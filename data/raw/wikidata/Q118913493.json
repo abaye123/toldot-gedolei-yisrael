@@ -1,0 +1,273 @@
+{
+ "id": "Q118913493",
+ "url": "https://www.wikidata.org/wiki/Q118913493",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118913493",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Menahem Mendel Krengel"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנחם מנדל קרנגל"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חוקר תורני, ביבליוגרף, ומחבר ספרים גליציאני בקרקוב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "קרענגיל, מנחם מאנדל"
+    },
+    {
+     "language": "he",
+     "value": "קרנגל, מנחם מנדל"
+    },
+    {
+     "language": "he",
+     "value": "קרנגיל, מנחם מאנדל בן יוסף פינחס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118913493$F6AC38A0-AB63-413B-A2C0-B9A83152B3E7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e27d923b355c32158e514146a1adfb1406635216",
+      "datavalue": {
+       "value": {
+        "time": "+1847-05-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q118913493$BE9E305A-A92F-4112-8AA6-598CCF8D9051",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b78cbfb7bcd81429ff06e36a55d1b04142a76286",
+      "datavalue": {
+       "value": {
+        "time": "+1847-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118913493$48712AAA-D29C-496F-A900-B4722B3D387F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "36c7461aeb2f74dcaf03cccb5cd821e1a5bfe586",
+      "datavalue": {
+       "value": {
+        "time": "+1930-05-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q118913493$3C6E9726-986F-4BAE-A549-98ABC9AD1027",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5fb83bd6676a926cacc3718c8f640fdc55818e83",
+      "datavalue": {
+       "value": {
+        "time": "+1930-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118913493$CA169C48-7FF4-48D1-BA84-4FBF0A61614E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118913493$dc203462-4f01-f376-46a2-e3202b6fafcc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "083aa73a9514d8309b538ae9496e42198d025250",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10429346,
+        "id": "Q10429346"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118913493$a3001258-4a13-7bf9-5aea-7133e9496b81",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2411d4de72e191506305eca675e4ac359de0d6a8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118913493$d9d004e5-4b74-50df-558b-ab0bbfb36530",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם מנדל קרנגל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10429346": "ביבליוגרף",
+  "Q133485": "רב",
+  "Q31487": "קרקוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q118913493.json"
+}

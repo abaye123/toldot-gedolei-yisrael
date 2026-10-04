@@ -1,0 +1,152 @@
+{
+ "id": "Q6651801",
+ "url": "https://www.wikidata.org/wiki/Q6651801",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6651801",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים שאול קרליץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ḥayim Shaʼul Ḳarelits"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין ופוסק הלכה חרדי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6651801$EA691299-3472-4FB7-AB31-2FD553E8AFAC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6651801$FE581264-E0D7-4F68-9767-9296BBE381F5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7313c52ba965bd9b0a02cc9fe9851e1674b5e27f",
+      "datavalue": {
+       "value": {
+        "time": "+1912-08-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6651801$2450F096-4879-4C47-8A2A-0A5F0B33E781",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cd567552e6bbfcdc78d710ce8bee3923f316eb44",
+      "datavalue": {
+       "value": {
+        "time": "+2001-07-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6651801$79BF745F-8E59-4DBF-9C19-9461C221ED0F",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "b6a04b22345a66ccdf771c897b6de83353046543",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6828189,
+        "id": "Q6828189"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6651801$bee16280-425c-0819-09bc-da358c38f069",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים שאול קרליץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q6828189": "מאיר קרליץ",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q6651801.json"
+}

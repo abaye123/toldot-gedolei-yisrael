@@ -1,0 +1,231 @@
+{
+ "id": "Q41028755",
+ "url": "https://www.wikidata.org/wiki/Q41028755",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q41028755",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל שוורץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Schwarz"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "1830 - 1875"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שורץ, ישראל בן חיים"
+    },
+    {
+     "language": "he",
+     "value": "ישראל שווארץ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41028755$C9C2B2E5-5FC4-47B6-8A77-26EB42EEB4A4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41028755$64adec25-475a-4282-af09-0a506adcc614",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41028755$B7EB6962-645C-4DC7-B434-78EAE942F24C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "47e663049e54144e7f461d37cf07c4ff02aa104e",
+      "datavalue": {
+       "value": {
+        "time": "+1830-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41028755$1E574141-9D67-4BF0-BA9A-EE43E260EEEB",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1c45667516ad788b416bf44ab0171ef832f0f0b7",
+      "datavalue": {
+       "value": {
+        "time": "+1828-11-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41028755$EEE0383A-FF56-4E0B-9F99-9A40680B6177",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "41a12d72f7b57a414427439a68da9e44a40954e7",
+      "datavalue": {
+       "value": {
+        "time": "+1875-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41028755$B9B561CB-85BF-4106-B80E-D59E284ED765",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8bd338ed4948e640797ebda7762ca55872ccd21a",
+      "datavalue": {
+       "value": {
+        "time": "+1875-01-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41028755$D726ECEF-96CC-4FD5-9A8D-813145251890",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "49801047a878933cda6fe38523b5f4839ef986ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 365,
+        "id": "Q365"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41028755$6898E0E9-22FC-465D-846F-6A1BF29F3246",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל שוורץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q333634": "מתרגם",
+  "Q365": "קלן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q41028755.json"
+}

@@ -1,0 +1,262 @@
+{
+ "id": "Q12408244",
+ "url": "https://www.wikidata.org/wiki/Q12408244",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408244",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק דב גילת"
+   },
+   "en": {
+    "language": "en",
+    "value": "Itzchak D. Gilath"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחנך ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "(1919-1997)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק ד' גילת"
+    },
+    {
+     "language": "he",
+     "value": "י\"ד גילת"
+    },
+    {
+     "language": "he",
+     "value": "י. ד. גילת"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yitzhak Dov Gilat"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408244$BD844678-CC99-4EB2-935C-4070291C653A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408244$CEEB9909-9F39-4EEF-8D29-A7AD41C5F2B9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "618a020e39b00dd962ae176c42db072170ae0178",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17167049,
+        "id": "Q17167049"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408244$76DCD256-1F5B-4CF8-BEC6-B5563D33CF35",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2d3782466da6b0970dbccd6735659041bae2556c",
+      "datavalue": {
+       "value": {
+        "time": "+1919-09-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408244$fe0ad891-4e1d-bc59-7b03-51bdaa37bcaa",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b49fc4ff7da9559df94f8727c8c05cf4d76a54e7",
+      "datavalue": {
+       "value": {
+        "time": "+1919-09-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q12408244$92CEA2C0-EAB4-45C1-B919-F6236B7B6D77",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "08bf59b754e75234ccc72924da0a889c4086e865",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 393828,
+        "id": "Q393828"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408244$14ed5b08-4435-6008-b51a-dd7a96f82f7d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "425015f18717a6e288ad1518f4922bf02d2aa174",
+      "datavalue": {
+       "value": {
+        "time": "+1997-12-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408244$89ba2114-4a89-de40-94a5-455e4e9dd02f",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "29e7cd016180a03ff619af8f3ed15d3db3669e47",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2897414,
+        "id": "Q2897414"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408244$076F311C-F8AF-4A0B-A255-BFEEB6AF3D6A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק דב גילת",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q17167049": "מומחה ספרות",
+  "Q21584816": "תלמודאי",
+  "Q2897414": "בית העלמין ירקון",
+  "Q393828": "ז'מאיצ'ו נאומייסטיס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12408244.json"
+}

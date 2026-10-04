@@ -1,0 +1,147 @@
+{
+ "id": "Q893270",
+ "url": "https://www.wikidata.org/wiki/Q893270",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q893270",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב צבי מקלנבורג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Tzvi Mecklenburg"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני גרמניה במאה ה-19"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הכתב והקבלה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Jakob Z. Mecklenburg"
+    },
+    {
+     "language": "en",
+     "value": "Ya'akov Zevi Mecklenburg"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q893270$0271D157-26AA-4611-AC94-FBA059622F3A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cb0308355a4e9d61cfb14930a5ce7262990a6b94",
+      "datavalue": {
+       "value": {
+        "time": "+1785-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q893270$30E0909A-F6C9-4312-95A9-0647A549169A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q893270$9851729B-1405-4608-85A7-6898538CF530",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d4f960b996c28880e1b69eeb4c824cd0cf849225",
+      "datavalue": {
+       "value": {
+        "time": "+1865-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q893270$F711A02A-52AE-4400-93D1-CB70B3279537",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב צבי מקלנבורג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q893270.json"
+}

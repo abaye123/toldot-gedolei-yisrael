@@ -1,0 +1,281 @@
+{
+ "id": "Q118924843",
+ "url": "https://www.wikidata.org/wiki/Q118924843",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q118924843",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aryeh Leib ben Shlomoh Gordon"
+   },
+   "he": {
+    "language": "he",
+    "value": "אריה ליב גורדון"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "1845–1912"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Gordon, L., 1854-1912"
+    },
+    {
+     "language": "en",
+     "value": "Aryeh Leib Gordon, 1845-1912"
+    },
+    {
+     "language": "en",
+     "value": "Arie Leib Gordon, 1845-1912"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "אריה ליב גארדאן"
+    },
+    {
+     "language": "he",
+     "value": "גארדאן, אריה ליב"
+    },
+    {
+     "language": "he",
+     "value": "אריה ליב בן שלמה גארדאן"
+    },
+    {
+     "language": "he",
+     "value": "גורדון, אריה ליב בן שלמה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118924843$22A198D6-A9CE-47BF-B026-6423E5B2CD2F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "61cfc0a19bc426f4c32b3289f2a856adba581a9c",
+      "datavalue": {
+       "value": {
+        "time": "+1912-11-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118924843$BA2264CC-F41E-4FFE-BE81-DC51EA35C560",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f5489f189b0db170f01f1e06ee01a7520f61bf2a",
+      "datavalue": {
+       "value": {
+        "time": "+1845-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q118924843$93753a16-4b83-895c-98ba-5695b2135ca1",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "16d32370a580ee78b5f923cd558d441484a480f4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 127941584,
+        "id": "Q127941584"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1545": [
+       {
+        "snaktype": "value",
+        "property": "P1545",
+        "hash": "7241753c62a310cf84895620ea82250dcea65835",
+        "datavalue": {
+         "value": "2",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1545"
+     ],
+     "id": "Q118924843$8884d812-4b6a-6122-5b54-15966199027f",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118924843$afe460b6-4653-75bf-98fb-01a9545f8833",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cbe652155c23d4823e70fffb8dfef9ba3ef0a125",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37226,
+        "id": "Q37226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118924843$255e81ff-4d51-f9fc-f615-14ff636f3088",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "657b9db452f9d3eeb80822f8eaa8aff5143475aa",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 593644,
+        "id": "Q593644"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q118924843$4886d20a-4ed7-b5f8-175b-72543016be8b",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7308cd950bd40f699798dfe26decf9206fccd2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6958598,
+        "id": "Q6958598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P965": [
+       {
+        "snaktype": "value",
+        "property": "P965",
+        "hash": "dae98f6c77989512d438d0e11bce5eb0f3ef0e5c",
+        "datavalue": {
+         "value": "Plot א, Row יט, Spot 35",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P965"
+     ],
+     "id": "Q118924843$0a71bad3-47aa-0d5a-f971-18509275686c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה ליב גורדון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q127941584": "בתיה ליפשיץ",
+  "Q133485": "רב",
+  "Q37226": "מורה",
+  "Q5": "אדם",
+  "Q593644": "כימאי",
+  "Q6958598": "בית הקברות סגולה"
+ },
+ "raw": "data/raw/wikidata/Q118924843.json"
+}

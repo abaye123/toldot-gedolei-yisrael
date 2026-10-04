@@ -1,0 +1,321 @@
+{
+ "id": "Q124738622",
+ "url": "https://www.wikidata.org/wiki/Q124738622",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q124738622",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל מועד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shemueʼl Moʻed"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל ליטאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "בית שמואל הקטן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$fa3a58cb-49db-be29-ae49-758bad532364",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$d082a713-4085-86c7-b5c7-52ea4d270f37",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$2bb11842-4253-e5f4-cc59-4707a27abd75",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fb37caab58e0798aa0d2c2e75e9e836829a430ce",
+      "datavalue": {
+       "value": {
+        "time": "+1784-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124738622$d950dbbc-4da7-b89b-455d-6574cdf7d122",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b438ad1a0235bf848a26100f5376a4e0f164b861",
+      "datavalue": {
+       "value": {
+        "time": "+1875-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124738622$731542c2-45bf-5eb6-90aa-299b57770940",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "42743c38442996c8996576e7b3d8513f2ac88dd2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1906290,
+        "id": "Q1906290"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$77002b4d-4bc5-8036-3de6-86cd7db6cac2",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "9ed7bb3af88697550ed17cbcb340333ad6ccba4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P276": [
+       {
+        "snaktype": "value",
+        "property": "P276",
+        "hash": "99ed0bb81a15c9c42988f09865bc03bc177d3180",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1906290,
+          "id": "Q1906290"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "b971ec32780030fa129b0e2fa8a6a8017a9aa88d",
+        "datavalue": {
+         "value": {
+          "time": "+1819-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "0e6a0b45e683994143d587fba50786a5a3ef052b",
+        "datavalue": {
+         "value": {
+          "time": "+1875-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1416": [
+       {
+        "snaktype": "value",
+        "property": "P1416",
+        "hash": "27da662d2bac7894ab9a2f246f0022e7552e1b9f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 778305,
+          "id": "Q778305"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P276",
+      "P580",
+      "P582",
+      "P1416"
+     ],
+     "id": "Q124738622$22a13c30-4bc9-83ad-9946-46f02d95675d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "26ed4ac88922173ad8673352c94d04271e44e304",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1906290,
+        "id": "Q1906290"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$9c2eb263-4eca-e877-c5b6-7805c75ad3d2",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "14d474d7f8e09816e2ab8a8c4c26917717af4e53",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409284,
+        "id": "Q12409284"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124738622$91a460f2-4160-5b23-accf-527baa314603",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מועד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q12409284": "מנחם מנדל משקלוב",
+  "Q133485": "רב",
+  "Q1906290": "וסילקוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q124738622.json"
+}

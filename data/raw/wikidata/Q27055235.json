@@ -1,0 +1,178 @@
+{
+ "id": "Q27055235",
+ "url": "https://www.wikidata.org/wiki/Q27055235",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27055235",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jehuda Löb Aach"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה ליב אאך"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi and mohel"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, מוהל וראש ישיבה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27055235$F0D54C83-A5C8-4239-937F-50CC127372A8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "58a0cd55654567c225a21fabd061838e9071d263",
+      "datavalue": {
+       "value": {
+        "time": "+1820-07-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27055235$DD3D9232-C74D-4F51-9AC8-C646F7B5625A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28352a9984c8ef2b3ca3ec4487a30ce71353fb32",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27055235$A38E6F46-1DCA-4505-885B-387387E516F2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "63110d0c6824d6ebe0e33698394b2644969430a0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3138,
+        "id": "Q3138"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27055235$EBAEFA06-2909-4D7C-A51A-96286D026D77",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e372bed79f3b0e3476ff81c66e3fcd064e8f5907",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 494529,
+        "id": "Q494529"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27055235$4F07483D-5AA1-4349-82FC-AF55227927B1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27055235$e33da28d-e8eb-4986-813b-101694b06c5f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה ליב אאך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3138": "טריר",
+  "Q494529": "הכינגן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27055235.json"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "Q18220937",
+ "url": "https://www.wikidata.org/wiki/Q18220937",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18220937",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד אורטנברג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Orṭinberg, Daṿid ben Yiśraʼel Tsevi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק הלכה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אורטינברג, דוד בן ישראל צבי,"
+    },
+    {
+     "language": "he",
+     "value": "אורטנברג, דוד בן ישראל צבי"
+    },
+    {
+     "language": "he",
+     "value": "אורטינבערג, דוד"
+    },
+    {
+     "language": "he",
+     "value": "ארטינברג, דוד"
+    },
+    {
+     "language": "he",
+     "value": "דוד ארטינבארג"
+    },
+    {
+     "language": "he",
+     "value": "אורטנברג, דוד בן ישראל צבי, הלוי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "ORTENBERG, DAVID B. ISRAEL ZEBI"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220937$185546E4-A59A-4277-8DF1-EB0CC648D25C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220937$F7147B8E-98E6-4C0D-A005-65F4D306816C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "99f570c722e683af2d14f218dff05c337f37234a",
+      "datavalue": {
+       "value": {
+        "time": "+1910-08-29T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18220937$CDF43813-627A-409D-BC8C-B1D69CC00F96",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "907b93e70d919fa0169f0e78ff3fe171cf1d24a8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 158799,
+        "id": "Q158799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18220937$c94c90d0-487b-0b14-52a0-c661587990b7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד אורטנברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q158799": "ברדיצ'ב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18220937.json"
+}

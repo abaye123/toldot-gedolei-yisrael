@@ -1,0 +1,174 @@
+{
+ "id": "Q7427349",
+ "url": "https://www.wikidata.org/wiki/Q7427349",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7427349",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Saul ben Anan"
+   },
+   "he": {
+    "language": "he",
+    "value": "שאול בן ענן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7427349$B69A9C65-051D-4F8B-B55D-BB79A210E60D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7427349$9D944BC5-0B3F-4294-9002-80FAC75DFEFE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f0cff69a94c68ac28edbc8df91a72ec03ddd983c",
+      "datavalue": {
+       "value": {
+        "time": "+0780-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7427349$D96F9E5A-147C-42AC-8706-31E9BC474F56",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "12514f935704f812ea03b43b9c4240c5b8b05723",
+      "datavalue": {
+       "value": {
+        "time": "+0750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7427349$a83c85e7-cab7-42e1-bee0-9e5b475ef2f1",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "449a7994ef595e0ab663c33ed473c9e21766be59",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2296753,
+        "id": "Q2296753"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7427349$5dd6ff81-4442-6b08-04fe-6c9f72622868",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "69a2954be94c6ea5fba4c24f05474099ec220636",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6176491,
+        "id": "Q6176491"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7427349$40ddccb6-48d6-86b2-626b-b85f9b167525",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאול בן ענן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2296753": "ענן בן דוד",
+  "Q5": "אדם",
+  "Q6176491": "Jehoshaphat ben Saul"
+ },
+ "raw": "data/raw/wikidata/Q7427349.json"
+}

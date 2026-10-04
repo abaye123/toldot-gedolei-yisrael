@@ -1,0 +1,191 @@
+{
+ "id": "Q50424301",
+ "url": "https://www.wikidata.org/wiki/Q50424301",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q50424301",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד שלוש (מרקש)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה מרוקאי במאה ה-19"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50424301$D4C5DD67-A8EF-43F6-89EE-060422B89D39",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50424301$926d69fc-4e9b-abb6-54b1-551455ec6f05",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "268f2ae5b9f89682be8416ad8ffe07f990c0a463",
+      "datavalue": {
+       "value": {
+        "time": "+1803-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q50424301$8c370e58-4342-e5af-7661-9cdbba1d44d1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a0b06d1496b24ddd4a91969e8dc045c7d8e5ae48",
+      "datavalue": {
+       "value": {
+        "time": "+1892-12-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q50424301$7c257241-4c4a-3af9-811a-350a494fe142",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "39a853cd52a2b46855a56dc22b74fde666a6019c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50424301$237f8cf5-41e0-0143-f797-c6fff1be278d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "fc96f83508de6ac7c84a3d54477eb011b31e66f4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2154823,
+        "id": "Q2154823"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q50424301$9b11d50d-475e-3955-0363-3a11b3bc07d2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד שלוש (מרקש)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q101625": "מרקש",
+  "Q133485": "רב",
+  "Q2154823": "ריסאני",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q50424301.json"
+}

@@ -1,0 +1,156 @@
+{
+ "id": "Q7558717",
+ "url": "https://www.wikidata.org/wiki/Q7558717",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558717",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Nissim Algazi"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה אלגאזי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "17th-century rabbi and writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב טורקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558717$B0DC146B-1520-47A7-969F-B30832AB817A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558717$FFF19809-6CBE-4C9B-B91A-7172DD554160",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "346c9f330e9536180c3bafafbb7e6725eba13db6",
+      "datavalue": {
+       "value": {
+        "time": "+1610-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558717$3B6A8FDD-336E-478C-9159-FB20207534CD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e32745f4a902431b5b68225a6d52c28961cf0738",
+      "datavalue": {
+       "value": {
+        "time": "+1683-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558717$DD239562-24B7-4843-A212-BCA6841994DD",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cb40a0ddbbb1ad7914a7d4b1aa6bfb51db2697ec",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43,
+        "id": "Q43"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558717$E15146DE-B0A4-43E6-AF2D-BA9891D7A2F0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה אלגאזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q43": "טורקיה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558717.json"
+}

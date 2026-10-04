@@ -1,0 +1,170 @@
+{
+ "id": "Q18078890",
+ "url": "https://www.wikidata.org/wiki/Q18078890",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18078890",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה סוקולובסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "תלמיד חכם וראש ישיבה ליטאי (ה\"אמרי משה\")"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18078890$A0DD4687-3E44-4B49-85DA-F3D5CD1FBE47",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18078890$B0BE5D7D-6976-4AEE-8F38-D8B7614B6886",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cc31cab26aa34f3778dc81e71d9d1450300cbdb5",
+      "datavalue": {
+       "value": {
+        "time": "+1868-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18078890$976BD853-2BF3-4C89-9775-FCFF123EE240",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "28a00c281b1a847f74a1c6eb59349a7471edee91",
+      "datavalue": {
+       "value": {
+        "time": "+1931-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18078890$92B610F9-609C-4894-A8F1-CD75D2031184",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2cd4be96326829d3b76ec1646c10404c6394bfa5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 615132,
+        "id": "Q615132"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18078890$2CAFDFCF-3CC8-4476-A093-0268CB514E9D",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "809f85b6eb05d497f0257ef6e7008bd6f029e73d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 140147,
+        "id": "Q140147"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18078890$5393F1BB-EA5E-4AB6-A36C-4A9C7BA2EE4C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה סוקולובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q140147": "ברסט",
+  "Q5": "אדם",
+  "Q615132": "רוז'ינוי"
+ },
+ "raw": "data/raw/wikidata/Q18078890.json"
+}

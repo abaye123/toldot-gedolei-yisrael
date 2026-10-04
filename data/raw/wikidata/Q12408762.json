@@ -1,0 +1,361 @@
+{
+ "id": "Q12408762",
+ "url": "https://www.wikidata.org/wiki/Q12408762",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408762",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר מאזוז"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir Mazuz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי-ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר מאזוז (רב)"
+    },
+    {
+     "language": "he",
+     "value": "מאיר ניסים מאזוז"
+    },
+    {
+     "language": "he",
+     "value": "מאיר מזוז"
+    },
+    {
+     "language": "he",
+     "value": "נאמ\"ן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$9967D0F2-1EFF-4E99-901E-CF2831084309",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$d885961a-4af2-5176-43c4-56bfa12c79a7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "19e2601aa7323b999d30b85d71d1d6e8fde772eb",
+      "datavalue": {
+       "value": {
+        "time": "+1945-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408762$DF4C3D24-217F-498F-8A8A-4006C3D1C3BA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9e91508a136cec79609a39823437212da326ca7c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3572,
+        "id": "Q3572"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "c477af588def8cb4902bd7d3238f45423410e019",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2017684,
+          "id": "Q2017684"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q12408762$5E9D1B7C-3BD8-488B-9DAD-B73E15ACC7D9",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "6f0436152512a1b0b4d85e42c4b9c1c439ca8b06",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6777300,
+        "id": "Q6777300"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$2EC3FE50-1D7D-4A86-9F99-063CA1B32638",
+     "rank": "normal"
+    }
+   ],
+   "P1449": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "2e7aacbb892977af56c809f631d732a04ec5596a",
+      "datavalue": {
+       "value": {
+        "text": "נאמ\"ן",
+        "language": "he"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q12408762$4eb4d489-4803-cb76-456c-2b1a82cd0aaf",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1449",
+      "hash": "096ab25a71c8c2490cb0fbcf976cd6fdfa739518",
+      "datavalue": {
+       "value": {
+        "text": "Naman",
+        "language": "en"
+       },
+       "type": "monolingualtext"
+      },
+      "datatype": "monolingualtext"
+     },
+     "type": "statement",
+     "id": "Q12408762$1c0b39e0-4d9b-d8ea-ee89-bcf669d7e9ac",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "93d623e614569af0c4a24874fdd5ef2eeb6adfa1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25489700,
+        "id": "Q25489700"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$9aad24d0-4863-007d-e50f-16e76f6f64e4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "eac83ec3355fcac3045c2af92e4834579efe9043",
+      "datavalue": {
+       "value": {
+        "time": "+2025-04-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408762$75179132-44b0-8c0c-d4d7-e5fb4eb6e999",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$773d6718-44a6-560f-f84e-f07e1ef1c908",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "05181284d1d1e7560e933e00e23046b2918ca6dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6608024,
+        "id": "Q6608024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$d66e78df-45e9-74d7-63f1-841d5bcc30fd",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "b947d843541df8eeb9834058b5735f92f7d8d2ad",
+      "datavalue": {
+       "value": "נאמ״ן ס״ט",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q12408762$28e23f00-4e7b-e5d7-c0e0-c9e78c05373e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "41d43a0577f9e31405604581bc8bbdebae83d290",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 190828,
+        "id": "Q190828"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408762$babb82c6-47d1-014d-286c-124c69058d73",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר מאזוז",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q190828": "פתח תקווה",
+  "Q2308372": "ראש ישיבה",
+  "Q25489700": "צמח מאזוז",
+  "Q3572": "תוניס",
+  "Q5": "אדם",
+  "Q6608024": "בית הקברות של נציבי ישיבת פוניבז'",
+  "Q6777300": "מצליח מאזוז"
+ },
+ "raw": "data/raw/wikidata/Q12408762.json"
+}

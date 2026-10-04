@@ -1,0 +1,267 @@
+{
+ "id": "Q1391091",
+ "url": "https://www.wikidata.org/wiki/Q1391091",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1391091",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מלבי\"ם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Malbim"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופרשן מקרא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1809-1879)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר ליבוש בן יחיאל מיכל"
+    },
+    {
+     "language": "he",
+     "value": "המלבי\"ם"
+    },
+    {
+     "language": "he",
+     "value": "המגיד מקמפן"
+    },
+    {
+     "language": "he",
+     "value": "מלבים, מאיר ליבוש."
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Meir Loeb ben Jehiel Michael"
+    },
+    {
+     "language": "en",
+     "value": "Me’ir Leib ben Yeḥi’el Mikha’el"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "fa065a6809d56abc8d6077c6a60ea7136307e02f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 219762,
+        "id": "Q219762"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "00fee36ca2b0c9109cafdad912bb4db89a6190e1",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1333965,
+          "id": "Q1333965"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "q1391091$8A53DF0E-564C-43A4-AC35-13D1674AF007",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "11bb526c845e7ad7c7b78cdd7910911ac9b3110f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1899,
+        "id": "Q1899"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1391091$2B4F59E1-04F6-4104-8118-0ACC7C0947AB",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391091$7D9B3B55-8568-4171-8EDB-8017AD2A5DE9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8d98ec2dd1f04d244d6e43e8a20cea2b6b268d66",
+      "datavalue": {
+       "value": {
+        "time": "+1809-03-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391091$44A364F5-81D2-4CD5-B327-A55B5044C0E1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e026a8643a039150aa64da888715d9e111901f0f",
+      "datavalue": {
+       "value": {
+        "time": "+1879-09-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391091$CBDEB37C-96D2-4BF8-A901-76E81A517168",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391091$B669BA24-0685-45FC-B3B3-A73DDCBB248A",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "a48d0e7f73d48690ea36052fef5b7baf2e20db74",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4501412,
+        "id": "Q4501412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391091$2d04d11b-3700-4c0f-9708-41c0bd293375",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מלבי\"ם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1899": "קייב",
+  "Q219762": "וולוצ'יסק",
+  "Q4501412": "רב ראשי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1391091.json"
+}

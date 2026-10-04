@@ -1,0 +1,194 @@
+{
+ "id": "Q18120872",
+ "url": "https://www.wikidata.org/wiki/Q18120872",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18120872",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם כלפון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Khalfon"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "community leader"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18120872$066AB322-E3B0-475B-9FC8-C99DA3F776FA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ed54e0ed93e726d97754b6fb3e89a79b31ac26c9",
+      "datavalue": {
+       "value": {
+        "time": "+1735-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18120872$8FE3760C-6973-4487-BB48-5D1803542C82",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b3dc308f25211cfe53496084358e13f16d7629e3",
+      "datavalue": {
+       "value": {
+        "time": "+1819-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18120872$0494BE58-7F41-4504-BCA0-54FD0F3169DC",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18120872$1A46F566-6FFC-4648-9F97-6655CE7439ED",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18120872$0317E5F2-26C6-49BB-BBA0-8F8039BA29EF",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5f567f06450b2aced12a68c3376efe2612d80c19",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18120872$526E7796-5FA1-4B6F-AC7A-24F3CA307530",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "af66732815dc7ba0291819e89cf6bc1f385fbded",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6761,
+        "id": "Q6761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18120872$CC1FD45F-1AE9-4626-A4B1-703FA2F460CF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם כלפון (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q188336": "צפת",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q6761": "ליבורנו"
+ },
+ "raw": "data/raw/wikidata/Q18120872.json"
+}

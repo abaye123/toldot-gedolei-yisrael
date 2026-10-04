@@ -1,0 +1,135 @@
+{
+ "id": "Q6638066",
+ "url": "https://www.wikidata.org/wiki/Q6638066",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6638066",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר הכהן קפלן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meʼir Ḳaplan"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין ישראלי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meʼir ben Yehoshuʻa Ḳaplan"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6638066$F3853898-3D8A-4BD9-B529-63EC5771485E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "c722d1702353ff454905f2c2409aa2e62ab26534",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6598339,
+        "id": "Q6598339"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6638066$d7fe1272-4350-00d0-aef6-4af32da69981",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6638066$7FE3641F-499E-4930-A9C4-FBFB6B206B66",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbc330f5ba467b6ea88ac175f0dc5a9d44bfbbbf",
+      "datavalue": {
+       "value": {
+        "time": "+1905-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6638066$1D2AB47C-0758-4833-979C-35F10224764C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר הכהן קפלן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6598339": "יהושע הכהן קפלן"
+ },
+ "raw": "data/raw/wikidata/Q6638066.json"
+}

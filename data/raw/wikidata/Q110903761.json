@@ -1,0 +1,173 @@
+{
+ "id": "Q110903761",
+ "url": "https://www.wikidata.org/wiki/Q110903761",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q110903761",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם מאיר איזראעל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Meir Israel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב בית דין בהוניאד שברומניה של היום, בווינה ובברוקלין, מחבר ספרים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi in Romania and New York, author of books"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם מאיר ישראל, אברהם מאיר איזראל"
+    },
+    {
+     "language": "he",
+     "value": "איזראל, אברהם מאיר בן יהודה ליב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "ISRAEL, ABRAHAM MEIR B. JUDAH LOB"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110903761$c347dca8-4a92-d2ce-d606-544bedae34ca",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "61dbd2b123cc733ac26622be61e6aba70d9490b5",
+      "datavalue": {
+       "value": {
+        "time": "+1913-05-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110903761$d234e692-459c-b966-24a6-2e6b60af1789",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bf19abedd14ca03f83514ff9620d54ce4ebe14f8",
+      "datavalue": {
+       "value": {
+        "time": "+1995-05-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110903761$30eba469-4ae1-7379-3e4f-3b2898ada5f6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110903761$DD01A1F6-C77B-4535-A971-DB7AE75CC01A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1b36837ec0a677efe0cd9da6f9376469cff530d2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110903761$B8624674-A59C-4AA1-804F-DA5B7A054D24",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם מאיר איזראעל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18419": "ברוקלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q110903761.json"
+}

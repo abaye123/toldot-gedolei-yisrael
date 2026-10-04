@@ -1,0 +1,157 @@
+{
+ "id": "Q107534221",
+ "url": "https://www.wikidata.org/wiki/Q107534221",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107534221",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב אלחאייק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov El Haïk"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Tunisian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב תוניסאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב אלחאייך"
+    },
+    {
+     "language": "he",
+     "value": "יעקב אלחייך"
+    },
+    {
+     "language": "he",
+     "value": "יעקב אל חייק"
+    },
+    {
+     "language": "he",
+     "value": "יעקב אל חאייך"
+    },
+    {
+     "language": "he",
+     "value": "יעקב אלחייק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534221$27C16F4D-214D-4342-8A61-5A2B324E4022",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107534221$677d5627-43de-f843-b3f0-f210b4dbb516",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "48949c9d6496c357635b615a62c3a47b334ec6a0",
+      "datavalue": {
+       "value": {
+        "time": "+1846-08-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107534221$8623a6f7-4ba0-69eb-5f4a-b91093d41b00",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "71fd41ee67748bf6bbf644af30f07b48ee91daaf",
+      "datavalue": {
+       "value": {
+        "time": "+1914-02-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107534221$ef205170-4953-b3b2-a94b-2a9d1c605665",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב אלחאייק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q107534221.json"
+}

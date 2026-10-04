@@ -1,0 +1,143 @@
+{
+ "id": "Q25490440",
+ "url": "https://www.wikidata.org/wiki/Q25490440",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490440",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דובער זאב וולף ליבשיץ"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490440$aceaa428-4ddf-9afc-454b-bffc0e02898d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490440$0ffa2183-42bb-dd3c-58c5-4fca577219b0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6b74d8e9b9bd67ba51d8bec491ca424832704e89",
+      "datavalue": {
+       "value": {
+        "time": "+1827-03-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490440$fd489d86-42cb-2bf1-6374-f207feb17325",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "e038a4597b95d831bf0f6c1d79489f8a74a7bcf4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118913982,
+        "id": "Q118913982"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490440$0f8309ed-42f2-cd91-9a93-a8408853171e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "34098c0a78b218266d75ae12d5cb563a825143b4",
+      "datavalue": {
+       "value": {
+        "time": "+1900-12-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490440$b7c49331-48b3-fe69-28f4-17e875977c2c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דובער זאב וולף ליבשיץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q118913982": "ליפקין, זאב וולף בן אריה, מטלז",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25490440.json"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "Q8052680",
+ "url": "https://www.wikidata.org/wiki/Q8052680",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8052680",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yerucham Gorelick"
+   },
+   "he": {
+    "language": "he",
+    "value": "ירוחם גורליק"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Haredi rabbi and Rosh yeshiva"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה ליטאי-אמריקאי. כיהן כראש ישיבה בישיבת רבנו יצחק אלחנן שליד ישיבה יוניברסיטי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8052680$9A3FD925-0E30-427B-85C9-E41359CCECDB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8052680$F82ADD37-ED8C-488E-9EB6-58DB6EE41310",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9f71cecfef53e640174ff2b7b077e3dba5e3a66f",
+      "datavalue": {
+       "value": {
+        "time": "+1911-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8052680$14DEE52E-B6C3-4467-915B-F2E775B152EA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "57370fc51a8606b2d702b5583b0b096617c3143d",
+      "datavalue": {
+       "value": {
+        "time": "+1982-09-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8052680$19B2D4F7-51BB-4FED-8BE9-D3142D48102C",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8052680$12cd9cdb-e7f6-4a21-a7ac-959fc0d17ebd",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e0b15eb238e421b6d3cd28e7a4462e3f51a79420",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201243,
+        "id": "Q201243"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8052680$8495D495-3DB6-4CE0-AA51-39F6A66D91B9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ירוחם גורליק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201243": "סלוצק",
+  "Q335336": "הר המנוחות",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8052680.json"
+}

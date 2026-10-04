@@ -1,0 +1,174 @@
+{
+ "id": "Q108036040",
+ "url": "https://www.wikidata.org/wiki/Q108036040",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q108036040",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה צארום"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב תימני, מראשי פלג הדרדעים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yemeni rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108036040$74001fa7-4e58-c3a8-9434-7161aee57e12",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108036040$3113fab7-46da-78fb-d84c-6dffac24db92",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f886e3ec06fbfb464979494d7c77ddcc99b2d62d",
+      "datavalue": {
+       "value": {
+        "time": "+1875-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108036040$fd4b538a-4eb9-1fdb-28de-349eaf8ddcd3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "89aaf0ca8f7b156ccac3d3ca55d4e9a0da0e14f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108036040$579c9189-490b-7cd2-bf69-7cf8fe04fd2e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e23f12b59051a95abde6994bcadcf9ba25008d4",
+      "datavalue": {
+       "value": {
+        "time": "+1951-09-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q108036040$76a7bb6e-4a5e-06a9-08db-809924a4442d",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "282707fc5ec8e0ddd5415bf13775617d6cc89e29",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2475182,
+        "id": "Q2475182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q108036040$4e496780-4958-da82-ec9c-765c330f84d9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה צארום",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2475182": "פרדס חנה-כרכור",
+  "Q5": "אדם",
+  "Q805": "תימן"
+ },
+ "raw": "data/raw/wikidata/Q108036040.json"
+}

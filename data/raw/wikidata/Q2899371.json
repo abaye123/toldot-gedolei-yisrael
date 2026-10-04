@@ -1,0 +1,185 @@
+{
+ "id": "Q2899371",
+ "url": "https://www.wikidata.org/wiki/Q2899371",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2899371",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישעיה שטיינר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yeshayah Steiner"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי, מייסד חסידות קרסטיר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1851–1925)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ישעיה'לה מקרסטירן"
+    },
+    {
+     "language": "he",
+     "value": "ישעיה'לה קערעסטירער"
+    },
+    {
+     "language": "he",
+     "value": "ישעיה קסטירר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yeshaya Steiner"
+    },
+    {
+     "language": "en",
+     "value": "Isaiah Steiner"
+    },
+    {
+     "language": "en",
+     "value": "Jesája Steiner"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899371$32579EB0-2624-4760-8C47-42845686E7AD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7db7181ea246b2c51ee7266db66478ec4e72d951",
+      "datavalue": {
+       "value": {
+        "time": "+1851-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899371$C3C97AD5-2FE8-41C3-A1DA-279194CE0012",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "56d03127798d6f5e5aa6f6bf4d01484cf1394e3b",
+      "datavalue": {
+       "value": {
+        "time": "+1925-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2899371$6E233556-5E15-48BA-94E4-8C5CDD674F67",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899371$88010344-C385-4EBB-8CF7-35EDFE5199B3",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a2c6a3c604f668900e0c1d41d2daa2cf030db7e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 665853,
+        "id": "Q665853"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2899371$4EE76E58-943C-42C2-8513-F41A3D7D57C5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישעיה שטיינר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q665853": "בודרוגקרסטור"
+ },
+ "raw": "data/raw/wikidata/Q2899371.json"
+}

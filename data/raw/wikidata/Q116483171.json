@@ -1,0 +1,135 @@
+{
+ "id": "Q116483171",
+ "url": "https://www.wikidata.org/wiki/Q116483171",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q116483171",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק אלבוים"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין בסלובקיה פולין וקנדה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אהלבוים"
+    },
+    {
+     "language": "he",
+     "value": "עהלבוים"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116483171$3DE712C1-A2A3-48CE-92E1-BDDB8B9CD6BF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116483171$3d05e858-45e8-352c-5fe7-1edbe19b1e8a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ac12d58a1f1027d1386a5c11fb5b51f2d08beb12",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 714249,
+        "id": "Q714249"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116483171$42c0214d-4706-4f51-4e09-b9620cf5c2e0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a9ea3a69801688b42ecbc2f1ddd88147dd698eb8",
+      "datavalue": {
+       "value": {
+        "time": "+1986-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q116483171$6e1255ad-47ec-23d2-5b88-251d0b0cfa75",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק אלבוים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q714249": "Zaluzhzhia"
+ },
+ "raw": "data/raw/wikidata/Q116483171.json"
+}

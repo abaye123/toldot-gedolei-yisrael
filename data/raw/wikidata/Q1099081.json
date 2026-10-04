@@ -1,0 +1,241 @@
+{
+ "id": "Q1099081",
+ "url": "https://www.wikidata.org/wiki/Q1099081",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1099081",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף שאול נתנזון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Saul Nathansohn"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1808–1875)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שואל ומשיב"
+    },
+    {
+     "language": "he",
+     "value": ", נאטאנזאהן, יוסף שאול"
+    },
+    {
+     "language": "he",
+     "value": "יוסף שאול הלוי נתנזון"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Joseph Saul Nathanson"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$90DB99EA-6ACB-488B-92E0-5684B219E222",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8fadef0ad7d85e61ed9defc03f02ce588f20b48b",
+      "datavalue": {
+       "value": {
+        "time": "+1808-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1099081$FFCD0B5B-A6C2-41AC-93C2-93EA7A69170E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "41a12d72f7b57a414427439a68da9e44a40954e7",
+      "datavalue": {
+       "value": {
+        "time": "+1875-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1099081$389EA060-7A11-4A5C-893B-65F66D9DA232",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$22E1D2DF-9E5B-490A-A934-63C38B8CDA46",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$9F9B5CCB-04E8-4372-A77A-3D6A61A94811",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f0bf8f509cc632680b23936d9cb58faeaed4af5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$4ECBC8CE-6388-441F-B949-AF771034FB83",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d66ea010d59243d8beb805aac0f91ee951b3c741",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 793424,
+        "id": "Q793424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$54736636-391E-4290-B945-30BC395E2601",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "0ef34bc1e32825799e368c770f95a929073367ea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141585900,
+        "id": "Q141585900"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1099081$6adf020c-4b45-2e8c-8a09-f2dffd341466",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף שאול נתנזון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q141585900": "שרה האדיל נתנזון",
+  "Q21584816": "תלמודאי",
+  "Q36036": "לבוב",
+  "Q5": "אדם",
+  "Q793424": "בז'ז'ני"
+ },
+ "raw": "data/raw/wikidata/Q1099081.json"
+}

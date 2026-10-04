@@ -1,0 +1,148 @@
+{
+ "id": "Q6586757",
+ "url": "https://www.wikidata.org/wiki/Q6586757",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6586757",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה צבי ברנדויין (הראשון)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מייסד חסידות סטרטין"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6586757$2FF7B687-27BD-498A-91E3-6957B673A4C1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6586757$7d85738c-4da7-2d4a-24c2-35af2244cb60",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "66ecdf6e6d959cbabc0956dce848d8090b3367cd",
+      "datavalue": {
+       "value": {
+        "time": "+1780-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6586757$bce947c9-411c-3a1e-8ae7-4461c5544c31",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6bf05d1043733879147ff553706120374366960c",
+      "datavalue": {
+       "value": {
+        "time": "+1844-04-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6586757$67728514-429e-c926-cfec-5d5b269784f9",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6b40084712a71cb2456115ec2d6989e63dd0bd46",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12403612,
+        "id": "Q12403612"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6586757$3cd67969-4777-11cc-e502-03ecb4f1fe1d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה צבי ברנדויין (הראשון)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12403612": "אורי מסטרליסק",
+  "Q2796156": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6586757.json"
+}

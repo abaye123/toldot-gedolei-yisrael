@@ -1,0 +1,143 @@
+{
+ "id": "Q20502259",
+ "url": "https://www.wikidata.org/wiki/Q20502259",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20502259",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה אשכנזי מטיקטין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah Ashkenazi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני במחצית הראשונה של המאה ה-18 נודע בחיבורו באר היטב על השולחן ערוך"
+   },
+   "en": {
+    "language": "en",
+    "value": "18th-century Polish rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה אשכנזי"
+    },
+    {
+     "language": "he",
+     "value": "יהודה אשכנזי (טיקטין)"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502259$B5E67CF5-FBE7-4AD6-A285-86E1736E0AE1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502259$18994C43-79BE-4BA8-8FF7-A77C0C87DCAF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4118919a2836b6bf664a3c8f0f463d4054290417",
+      "datavalue": {
+       "value": {
+        "time": "+1743-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502259$cc730da8-4095-bacb-ac50-3b8068eebc49",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d7b5f1b19928540a93e22e710cb52b4217d44dcd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4837028,
+        "id": "Q4837028"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502259$737d7aea-4525-df86-62da-844da96618f8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה אשכנזי (טיקטין)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4837028": "באר היטב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20502259.json"
+}

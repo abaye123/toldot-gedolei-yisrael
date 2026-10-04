@@ -1,0 +1,358 @@
+{
+ "id": "Q723526",
+ "url": "https://www.wikidata.org/wiki/Q723526",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q723526",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה מולכו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Solomon Molcho"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "16th century Jewish Portuguese mystic"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודי אנוס שנהיה לרב מקובל שפעל בפומבי בענייני גאולת ישראל, והוצא להורג על ידי האינקוויזיציה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "המפואר וחית הקנה"
+    },
+    {
+     "language": "he",
+     "value": "מולכו, ש."
+    },
+    {
+     "language": "he",
+     "value": "שלמה מולכ"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0f0114e6e8f0d52577096184ca97cc16f8e8e255",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 597,
+        "id": "Q597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "ec5c6a09f5ef9b4487320cee385df92b4d0d6168",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 45670,
+          "id": "Q45670"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "q723526$2E8E237C-EC54-4FF7-BEB4-BACDB1017C14",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "083741480739987947d9cc7c1e6a7ec9309d1024",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "381ed75d97c2d39ce31e1f842621f451604da8ac",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 766501,
+          "id": "Q766501"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "q723526$DBE434FB-7807-446D-BAC8-20BFCC47D27A",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$1456CE3E-FBB3-46B4-A1BE-7B46EC68DFDB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "41f65258edf6b0b1dc9f9a5aac898def9a9b4e13",
+      "datavalue": {
+       "value": {
+        "time": "+1532-12-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q723526$C1667C83-E941-493D-8D11-7DB4BFC7209B",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fe1c2a8564962ab339d2e4305c71713c06c81bac",
+      "datavalue": {
+       "value": {
+        "time": "+1532-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q723526$8C622F3B-CB75-4AD6-A7AF-C9E0483B0DC0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "89a8ea257cb2f59dba505defeb282bce6fbd25f5",
+      "datavalue": {
+       "value": {
+        "time": "+1500-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q723526$62493AF0-1896-4FFA-929E-FBF92C158C8C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$E38F9EF4-28CD-44E1-B7BD-21BE8FD53776",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$CF594F78-7269-40B6-A362-CA95EE165B3D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "3817dfca2c15c6b5dcdf3ccdcc3af223b3c740a9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12328016,
+        "id": "Q12328016"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$4b4a78f2-a8da-4112-965a-0b49b0beb034",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$1a7a4cd5-b145-4718-892d-067ea2fec1ba",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6fab06515346132c96c9977ebdc740f42f4da9de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5432717,
+        "id": "Q5432717"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723526$a8b3dc37-4cbd-618a-b9f7-1974405f9e05",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה מולכו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12328016": "מיסטיקן",
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם",
+  "Q5432717": "משיח שקר",
+  "Q597": "ליסבון",
+  "Q6247": "מנטובה"
+ },
+ "raw": "data/raw/wikidata/Q723526.json"
+}

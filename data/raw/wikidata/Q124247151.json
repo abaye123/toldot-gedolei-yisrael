@@ -1,0 +1,134 @@
+{
+ "id": "Q124247151",
+ "url": "https://www.wikidata.org/wiki/Q124247151",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q124247151",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה צבי אריה ביק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Zvi Aryeh Bick"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק בארצות הברית"
+   },
+   "en": {
+    "language": "en",
+    "value": "American Rabbi and Posek"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124247151$ba1b76ac-464e-b71a-c161-df75585b4a1a",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "15aacbff4509143ebac4fcb3ad683626fb9f5e65",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124247151$8726fcf2-4849-28d3-bc88-dba764c2bbb5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "790c129e4efcf9d2b3e4b1981389bb3e5ac4207e",
+      "datavalue": {
+       "value": {
+        "time": "+1990-09-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124247151$a026be6c-4e44-3b5f-f0fa-ca4b5bd611e4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124247151$b342535d-4d4b-0841-1525-e4d5405bcf06",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה צבי אריה ביק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q124247151.json"
+}

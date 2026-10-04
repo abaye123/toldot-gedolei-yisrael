@@ -1,0 +1,257 @@
+{
+ "id": "Q111095219",
+ "url": "https://www.wikidata.org/wiki/Q111095219",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111095219",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samson Raphael Weiss"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמשון רפאל וייס"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אורתודוקסי גרמני-אמריקאי, ופרופסור למחשבת ישראל בטורו קולג'"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samson Rafael Weiss"
+    },
+    {
+     "language": "en",
+     "value": "Weiss, Shamshon Rafael"
+    },
+    {
+     "language": "en",
+     "value": "Weiss, Samson R."
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111095219$E594A265-85F7-4A36-AE95-D1E6B0C37935",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "80ba0614feaaeb2ad01490038963e465f45c933b",
+      "datavalue": {
+       "value": {
+        "time": "+1990-02-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111095219$4F6A6882-184F-41CB-A84E-83773D739F1C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "10f7f30c41fa40cb0436cc270e5df0f25e5a3ff1",
+      "datavalue": {
+       "value": {
+        "time": "+1910-03-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111095219$BA558F2D-DCA9-4625-84CC-868FEC22055A",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111095219$221E3548-9D70-4BD5-8B61-68B6CCA09750",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b509d5a9ffda54d8461a233d048e4b8a662afe88",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4174,
+        "id": "Q4174"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "4f903c2468942e5ab1c09545c1ed44bb02cdf5da",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 22979588,
+          "id": "Q22979588"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q111095219$750D407C-5DAD-4AB4-A895-D22BA3712700",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "63093b09a0cfd1e60bdeb5c47da2a67fe3579183",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60,
+        "id": "Q60"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "4f903c2468942e5ab1c09545c1ed44bb02cdf5da",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 22979588,
+          "id": "Q22979588"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q111095219$8C896E71-103A-43DF-8662-74FD4C8C55DB",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111095219$CEB64342-5DBD-41CD-B83D-E2677907B739",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמשון רפאל וייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q4174": "אמדן",
+  "Q5": "אדם",
+  "Q60": "ניו יורק"
+ },
+ "raw": "data/raw/wikidata/Q111095219.json"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "Q113559936",
+ "url": "https://www.wikidata.org/wiki/Q113559936",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113559936",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב יהודה ורשנר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Wreschner"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבם של סמטר שבפולין ובאד הומבורג שבגרמניה"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113559936$CCF1ECE1-FB37-4CBD-8ADA-C3E64034C7B0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e3271ad45bbc8eda9b83bacd661f508adc893086",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1799,
+        "id": "Q1799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113559936$6611B97B-8BD6-4808-8B1D-2E955EC46A43",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "16e8c07c53539cca902966d7f400e75d2779fc81",
+      "datavalue": {
+       "value": {
+        "time": "+1935-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113559936$69FBAC25-A5A7-471E-909A-AC4174867D71",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3a8e38cfb7e8a5a0c48c48d5d220060466892496",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 75601688,
+        "id": "Q75601688"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113559936$8c727c22-47d7-846e-e7d2-77076b30e109",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "0039211fa640031afb42eab64878710592afb6b3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60421775,
+        "id": "Q60421775"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113559936$e3a7ec8f-4291-51ac-6c89-9ad39c57dcbe",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q113559936$41d96c1e-47d2-327e-9154-45ed55c42914",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב יהודה ורשנר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1799": "ורוצלב",
+  "Q5": "אדם",
+  "Q60421775": "ארתור ורשנר",
+  "Q75601688": "פייגה יעקובוביץ"
+ },
+ "raw": "data/raw/wikidata/Q113559936.json"
+}

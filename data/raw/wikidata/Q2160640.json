@@ -1,0 +1,292 @@
+{
+ "id": "Q2160640",
+ "url": "https://www.wikidata.org/wiki/Q2160640",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2160640",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hiyya al-Daudi"
+   },
+   "he": {
+    "language": "he",
+    "value": "חייא אלדאודי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חייא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2160640$98A08E8B-3B76-4A5E-8908-41FD008BB54E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0ccdad594c219afd2e8c7ff1057acad17a255771",
+      "datavalue": {
+       "value": {
+        "time": "+1154-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2160640$CEDD8BCB-C40C-4BE4-86F6-5A4B5900E4AF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P136": [
+       {
+        "snaktype": "value",
+        "property": "P136",
+        "hash": "fd78173240985bed92a32048722b0b63fb8777ca",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 781402,
+          "id": "Q781402"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P136"
+     ],
+     "id": "Q2160640$40497123-D32B-4329-92C4-30EE85131C95",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2160640$2e1cce9c-4931-0ed5-4e8e-e77d2790fc08",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7b40e1dae112d4abfc2a19e2900e88b3f26daffc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 179293,
+        "id": "Q179293"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2160640$2d9f5825-414e-c2db-8ee0-33c54530bf7f",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "c1abafbbfa2c47f3b84c16bd91defc18356a5b6a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 175276,
+        "id": "Q175276"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2160640$00cacc30-4fc9-5a99-8091-e9ab91f721ec",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5738d40c2d16cdb356ad583cb3adafe1d1d5930d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 47690,
+        "id": "Q47690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2160640$c0f9b14f-4299-2e31-84d8-ffa0503b0520",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5cb1779ac59f10b002174dc9483dd29e88d0efcc",
+      "datavalue": {
+       "value": {
+        "time": "+1080-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "e51c9f800c4138755d0ba7c2cfd4ad4b17b8abde",
+        "datavalue": {
+         "value": {
+          "time": "+1080-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "4ef61d24d20f37d6a6c8c099dea36f45490506cc",
+        "datavalue": {
+         "value": {
+          "time": "+1090-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319",
+      "P1326"
+     ],
+     "id": "Q2160640$30e6dceb-43e7-a5a6-5f3f-a54034b1fcd3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חייא אלדאודי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q175276": "ממלכת לאון",
+  "Q179293": "ממלכת קסטיליה",
+  "Q47690": "בבל",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2160640.json"
+}

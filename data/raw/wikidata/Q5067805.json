@@ -1,0 +1,189 @@
+{
+ "id": "Q5067805",
+ "url": "https://www.wikidata.org/wiki/Q5067805",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5067805",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Chaim Dov Rabinowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "חיים דב רבינוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבינוביץ, חיים"
+    },
+    {
+     "language": "he",
+     "value": "חיים דוב רבינוביץ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067805$24239833-FE39-45A2-9B45-75FAB1531A69",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "743a5fd762515d838857403d424aa5ee6493e955",
+      "datavalue": {
+       "value": {
+        "time": "+1909-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067805$B160FB23-1C9B-4296-A11E-3B7412152D4F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c8c65824e332f5bdca3c3a3a8739e183cecd347c",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067805$A89BACBF-16B7-433C-8FB6-134E8047C0BA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "61dc3b55cc681795518f64f0764eebcc7a15266f",
+      "datavalue": {
+       "value": {
+        "time": "+2001-04-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5067805$9CFBDC2D-91B2-441A-AB5F-8D12E181516B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067805$1477E556-7A0F-45A3-91F0-BA8A06C6BDE1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "468a6e8d6a7a8003b837f22c2a6446c5ad183151",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2076834,
+        "id": "Q2076834"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5067805$892668B4-2CD6-482C-9847-CCC90EF7D5CF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים דב רבינוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2076834": "איזבלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5067805.json"
+}

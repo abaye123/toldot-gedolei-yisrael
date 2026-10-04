@@ -1,0 +1,260 @@
+{
+ "id": "Q2358203",
+ "url": "https://www.wikidata.org/wiki/Q2358203",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2358203",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל ליפשיץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Lipschitz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני, פרשן המשנה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "תפארת ישראל"
+    },
+    {
+     "language": "he",
+     "value": "ליפשיטץ, ישראל בן גדליה,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yisrael Lifschitz"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$805F8F07-C68D-489C-920E-4A13D8068EDA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d83249c9f36b88139de75019eb435d667d1a1dbf",
+      "datavalue": {
+       "value": {
+        "time": "+1782-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2358203$AB757CE8-F443-45E1-A2DD-BB9D130A62D9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3dbcfff9be20be8f98427542ddeb6f9b187cf839",
+      "datavalue": {
+       "value": {
+        "time": "+1860-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2358203$B4B462E9-463D-4C16-8DEF-647006EA1A17",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "40ed7ed2ce9748eadc7bea60ae7e460c02efcb02",
+      "datavalue": {
+       "value": {
+        "time": "+1860-09-19T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2358203$7F916799-976E-4E37-9D06-F60AD7D8A10D",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$A7527C25-944B-4793-8679-C5B2F13BEA09",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "c32865978a7d75d83433f5f698cc90094888a8f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118927768,
+        "id": "Q118927768"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$c9a63679-4913-052d-efc6-58cf70fe89ce",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d4311a19478f5afe8cd7d1c6321bfb5d1a411362",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1792,
+        "id": "Q1792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$FD38CA28-A6EA-4D6C-97D4-C01C7CE9F158",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "8dec45b3e7d276bdd41cfef06701ac96c06c1bd4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23062745,
+        "id": "Q23062745"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$a6655bbe-47e2-0dc1-4ec5-0d9f38bea73c",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "558ffb11085aecf3e8f9d2d3d870a778f7cb8d03",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1792,
+        "id": "Q1792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2358203$0759C685-B398-401C-9CD9-75B412452FB0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל ליפשיץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q118927768": "גדליה בן ישראל ליפשיץ",
+  "Q133485": "רב",
+  "Q1792": "גדנסק",
+  "Q23062745": "ברוך יצחק ליפשיץ",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2358203.json"
+}

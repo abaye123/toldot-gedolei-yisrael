@@ -1,0 +1,257 @@
+{
+ "id": "Q5762992",
+ "url": "https://www.wikidata.org/wiki/Q5762992",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5762992",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hillel Rivlin"
+   },
+   "he": {
+    "language": "he",
+    "value": "הלל ריבלין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הלל ריבלין משקלוב"
+    },
+    {
+     "language": "he",
+     "value": "הלל משקלוב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Hillel Rivlin of Shklov"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$D17E5AEE-4371-4A62-937B-9D9B098FAA02",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$302AA065-0302-40A9-A61D-3F35518C8E95",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bf3acc6a8384971228add6d818639ceeaddac2b6",
+      "datavalue": {
+       "value": {
+        "time": "+1758-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5762992$446B7792-1245-452F-B9AE-921F684C956A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7f6c07ff00bc008ae6daf7747562db31a728d178",
+      "datavalue": {
+       "value": {
+        "time": "+1838-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5762992$C1DAEA21-FC75-4847-BFC9-1EA376B40103",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "51e95899f49a1aedd654ee2af52be5c509de058c",
+      "datavalue": {
+       "value": {
+        "time": "+1838-06-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5762992$d97e3d51-92ae-43f9-8616-0959584fa6e7",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$F6E72FD7-8769-49AA-9031-6E4ACBE17DFF",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "31cb27f91af97f9846d6c40c1d916135fbd59edb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 279359,
+        "id": "Q279359"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$f9df7445-4ded-1413-2c8e-b1345ed86760",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "d9192aa6d7c04cce3efb5b040e8eaf2b049ac8a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409627,
+        "id": "Q12409627"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$711df787-43cc-c02c-473c-4d3d948b6362",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "1726c38cf3dd8f5fe26f5be35e67935331dac9aa",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28940370,
+        "id": "Q28940370"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5762992$aa8f5e8f-46d2-a11a-405a-a65802f31fa4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל ריבלין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q12409627": "משה ריבלין",
+  "Q133485": "רב",
+  "Q279359": "הגאון מווילנה",
+  "Q28940370": "בנימין ריבלין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5762992.json"
+}

@@ -1,0 +1,247 @@
+{
+ "id": "Q467553",
+ "url": "https://www.wikidata.org/wiki/Q467553",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q467553",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משולם בן קלונימוס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meshullam ben Kalonymos"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק מתקופת הגאונים, פרשן ופייטן"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משולם בר קלונימוס"
+    },
+    {
+     "language": "he",
+     "value": "רבנו משולם"
+    },
+    {
+     "language": "he",
+     "value": "משולם הגדול"
+    },
+    {
+     "language": "he",
+     "value": "משלם בן קלונימוס"
+    },
+    {
+     "language": "he",
+     "value": "משלם בר קלונימוס"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Meschullam ben Kalonymus"
+    },
+    {
+     "language": "en",
+     "value": "Meshullam the Great"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467553$24E4449B-2621-4B0E-A16A-9BB0131DD18A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52c5db29f8182e4a32f070f0b2c384be3424cb1d",
+      "datavalue": {
+       "value": {
+        "time": "+1000-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q467553$5F7A073E-3982-47F3-9535-394BD621D0AE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3b6fcdd9f9dacb093f69b35b3f222359ee45ca23",
+      "datavalue": {
+       "value": {
+        "time": "+1100-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q467553$83B5FC2F-D8AF-4A7B-809C-CF2947CCF394",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467553$45C4572C-AB36-41DD-A384-0B221680648E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467553$07F65F1B-C9D2-4660-8F72-ED9F05388239",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "57d7529e2cc110695476473b6a530d7f6c350880",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 124326083,
+        "id": "Q124326083"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467553$ADDD2E9F-67F4-49B6-88FD-D197343DDA11",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משולם בן קלונימוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q124326083": "קלונימוס בן משה",
+  "Q133485": "רב",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q467553.json"
+}

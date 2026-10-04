@@ -1,0 +1,148 @@
+{
+ "id": "Q12231276",
+ "url": "https://www.wikidata.org/wiki/Q12231276",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12231276",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל טייטלבוים"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד גורליץ"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12231276$041D8E91-8664-44FF-81B0-1E4180E6C3D9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12231276$B4B509D4-9913-4BD2-90CA-07232894F231",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c7d00ecd7425063aeddd3785e52715d36dd997c6",
+      "datavalue": {
+       "value": {
+        "time": "+1814-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12231276$02feef4c-47ce-c249-ed98-bf49b615d21b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f4168454b85c5625301269c32248a8ac0d13e9b7",
+      "datavalue": {
+       "value": {
+        "time": "+1888-08-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12231276$00b56b4a-40e8-04a4-d240-7596a5c9a076",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "efa8dff503473abb4de196942fd7b1844a54092c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12231276$88bc9ad7-4988-573e-8212-fa82d42ab86b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל טייטלבוים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q31487": "קרקוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12231276.json"
+}

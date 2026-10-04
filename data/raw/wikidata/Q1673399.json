@@ -1,0 +1,214 @@
+{
+ "id": "Q1673399",
+ "url": "https://www.wikidata.org/wiki/Q1673399",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1673399",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac Aboab I"
+   },
+   "he": {
+    "language": "he",
+    "value": "יצחק אבוהב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "14th century Spanish Talmudic scholar"
+   },
+   "he": {
+    "language": "he",
+    "value": "דרשן מחכמי ספרד, שחי בראשית המאה ה-14, שכתב את הספר המפורסם \"מנורת המאור\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1673399$9599D561-9543-40ED-BFCF-6B53EBCDC61F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6c32934bf5509685d755fa9f4ffdb0fbeb91e3c7",
+      "datavalue": {
+       "value": {
+        "time": "+1350-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1673399$aee6b38b-d3d2-4826-93e2-2b3afdc2da44",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "82b9aff888a120ecc90e561ddf07fe211aa4d8a7",
+      "datavalue": {
+       "value": {
+        "time": "+1400-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1673399$BBD90B4B-D920-40FE-A179-0D902AB09D1E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1673399$9F36843A-2160-41EE-8239-5B4D969DB781",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1673399$4CA39826-F6B2-4902-AF96-D2D147FD546B",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "7e7e1717e746a564d596e311620cd23392bef75f",
+      "datavalue": {
+       "value": "Menorat ha-Maor",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q1673399$49AA196B-335A-4EAC-9554-95A2D47CCEF0",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "e45d32a1c66ea8b8066b21f1410c166652aeecd9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12409262,
+        "id": "Q12409262"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1673399$7b52e5ee-455a-71ec-f199-1934b78ef0a3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק אבוהב (מנורת המאור)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12409262": "מנורת המאור (אבוהב)",
+  "Q133485": "רב",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1673399.json"
+}

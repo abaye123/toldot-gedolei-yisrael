@@ -1,0 +1,175 @@
+{
+ "id": "Q55651732",
+ "url": "https://www.wikidata.org/wiki/Q55651732",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q55651732",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים יהודה ארנרייך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hayyim Yeudah Ehrenreich"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "1887-1942"
+   },
+   "en": {
+    "language": "en",
+    "value": "1887-"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים יהודה עהרענרייך"
+    },
+    {
+     "language": "he",
+     "value": "ארנריך, חיים יהודה, 1887-1942"
+    },
+    {
+     "language": "he",
+     "value": "ארנרייך, חיים יהודה, 1887-1942"
+    },
+    {
+     "language": "he",
+     "value": "ארנרייך, חיים יהודה בן קלמן קלונימוס"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651732$A00DC588-3824-4458-9200-644ED4056BA8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a147197b488db10a8c96401b4202c9dffe446d4f",
+      "datavalue": {
+       "value": {
+        "time": "+1887-02-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651732$811FE74F-66E6-451A-8FE6-4C3066524FB2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9928ed03bbb5a0135931b55132dfe5b7c94d24de",
+      "datavalue": {
+       "value": {
+        "time": "+1942-05-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q55651732$53E4E6A4-22A0-4CAB-AF5F-0D5F9373BEA8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651732$599F5020-6023-4765-8708-E95654F070A7",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "e85e76b7d37b8b2b00506b202e4e0e9ba01d57f7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12411846,
+        "id": "Q12411846"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q55651732$bfbe0503-402c-91b0-bb05-43749364257c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים יהודה ארנרייך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12411846": "שמחה בונם סופר",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q55651732.json"
+}

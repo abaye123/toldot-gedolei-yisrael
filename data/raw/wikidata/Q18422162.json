@@ -1,0 +1,178 @@
+{
+ "id": "Q18422162",
+ "url": "https://www.wikidata.org/wiki/Q18422162",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18422162",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מוריץ לוי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moric Levi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי ליהודי סרייבו מ-1917 ועד לשואה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422162$B939E452-23B8-4C84-83BA-B16425135422",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422162$75E7EE7C-3532-4E60-952A-13D48DA6531A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1cc49506482a83ff446196474710324553c90682",
+      "datavalue": {
+       "value": {
+        "time": "+1878-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18422162$F90F7716-4617-4FF9-AD5B-0567E8C39CA7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9bddd78433d169aa9382be35a0ee72ffb779e1c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11194,
+        "id": "Q11194"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422162$B918C7A4-85BC-4365-A317-A082CCFEB272",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "13537e967cdae89596f8d0c512b190263e265842",
+      "datavalue": {
+       "value": {
+        "time": "+1941-05-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18422162$E6437393-DC24-454D-92B6-1406B9957845",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8fba3951de16ac9c32c29f1b20129b65a522262f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13298,
+        "id": "Q13298"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422162$59C139E9-F7C2-4F83-95EE-B0EF1F4097C4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מוריץ לוי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11194": "סרייבו",
+  "Q13298": "גראץ",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18422162.json"
+}

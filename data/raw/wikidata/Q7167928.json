@@ -1,0 +1,185 @@
+{
+ "id": "Q7167928",
+ "url": "https://www.wikidata.org/wiki/Q7167928",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7167928",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Perez ben Elijah"
+   },
+   "he": {
+    "language": "he",
+    "value": "פרץ מקורביל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "talmudist"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאחרוני בעלי התוספות"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבנו פרץ"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Perets ben Elijah von Corbeil"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7167928$E35903F2-C0D0-40B3-BEF5-0C76CD20344A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7167928$CD7A98F4-2D95-48C9-A58D-63E88BE56109",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "adb6be5313c8c53c39ce87e0d0e985a35d312cb9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1686108,
+        "id": "Q1686108"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7167928$feaebd3d-41ca-b782-ca3d-77188f4d85bc",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9686e918a7d04d4ee8dd5e6af2f218ce7afce535",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 120653219,
+        "id": "Q120653219"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7167928$0be9ae71-4600-9638-8fa7-fc30d9d25811",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "eed7153fa9aba7e7a058ab18b40f2cc057636ff4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6077408,
+        "id": "Q6077408"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7167928$d499d9a8-4eeb-4bf6-ed3d-18a13086399b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "be8878b2b5a56b11dcf59dc63abd96ea5b34c27d",
+      "datavalue": {
+       "value": {
+        "time": "+1295-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7167928$9528C8DF-C3E0-43C6-9E10-A467D7B60303",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבנו פרץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q120653219": "שמואל מאיוורא",
+  "Q133485": "רב",
+  "Q1686108": "יחיאל מפריז",
+  "Q5": "אדם",
+  "Q6077408": "יצחק מקורביל"
+ },
+ "raw": "data/raw/wikidata/Q7167928.json"
+}

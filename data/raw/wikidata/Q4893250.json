@@ -1,0 +1,163 @@
+{
+ "id": "Q4893250",
+ "url": "https://www.wikidata.org/wiki/Q4893250",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4893250",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Bernard Illowy"
+   },
+   "he": {
+    "language": "he",
+    "value": "יששכר בר אילווי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Bernard (Yissochar Dov) Illowy"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "87a741488c89e40ace9d367639fe71e23c66302e",
+      "datavalue": {
+       "value": {
+        "time": "+1871-06-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4893250$028187A7-7C50-4AE3-B4CA-F93AA9D4070B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4893250$DD85C436-4E7F-4649-881A-52581E480563",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4893250$4E3BEBE8-A7BA-4192-A0F4-F7866ADCD97B",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "25c46c95d327fa0bd1f61f9379414665170a309a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 117604506,
+        "id": "Q117604506"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4893250$a75ce047-2933-459f-8599-6b97a0dd74f2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6072e095abea6c17a74897847b57e20b2faac481",
+      "datavalue": {
+       "value": {
+        "time": "+1814-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4893250$4E3ADB6F-6A04-4A78-AA2B-43CFE52C9F5A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יששכר בר אילווי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q117604506": "Adath Israel Cemetery",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4893250.json"
+}

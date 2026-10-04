@@ -1,0 +1,185 @@
+{
+ "id": "Q6509202",
+ "url": "https://www.wikidata.org/wiki/Q6509202",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6509202",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Leah Horowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "לאה הורוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "מלומדת יהודיה־פולנית"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Sarah Rebecca Rachel Leah Horowitz"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "שרה רבקה רחל לאה הורוביץ"
+    },
+    {
+     "language": "he",
+     "value": "לאה הורוויץ"
+    },
+    {
+     "language": "he",
+     "value": "הורביץ, שרה רבקה רחל לאה בת יוקל, סגל"
+    },
+    {
+     "language": "he",
+     "value": "הורוויץ, לאה בת יעקב יוקיל"
+    },
+    {
+     "language": "he",
+     "value": "הורוביץ, לאה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6509202$D4B36F4F-A084-4DE2-9CD2-E4DF5A551678",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b392a342e48468048bd0dfdf008ae1d260c16b39",
+      "datavalue": {
+       "value": {
+        "time": "+1715-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6509202$EB18F0AD-82D6-44E3-8315-18750C6922A6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c545832ee4558e8087a142c4741675542832a4ba",
+      "datavalue": {
+       "value": {
+        "time": "+1795-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6509202$58AB3F30-B41C-4A61-A64D-98F46AF71EF7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6509202$C3ABF3C4-1575-409B-AA34-23CF1DE620AF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a70d3c96f15fe070462d6b45973d14e580a3f9b7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 146595,
+        "id": "Q146595"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6509202$5f7c4399-202b-4cd1-a1e8-0296818133c8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "לאה הורוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q146595": "בולחוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6509202.json"
+}

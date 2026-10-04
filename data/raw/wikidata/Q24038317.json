@@ -1,0 +1,148 @@
+{
+ "id": "Q24038317",
+ "url": "https://www.wikidata.org/wiki/Q24038317",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q24038317",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "עזריה בסיס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק הלכה, רבה הראשי של ראש העין וחבר מועצת הרבנות הראשית"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038317$8B824116-B98C-444B-B19A-142CF37419F9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "30ee4a52d612b0d6a4a267af9245768687c60571",
+      "datavalue": {
+       "value": {
+        "time": "+1945-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q24038317$3C3A91C6-2D36-407D-AF62-800931095979",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cc84aad0238da075441803ae5389de56649302b1",
+      "datavalue": {
+       "value": {
+        "time": "+2018-12-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q24038317$93191F5A-D636-4157-9E0D-EA9E3891B318",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038317$2861688c-4b05-bed4-7eb6-49f589212f1d",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4111a8acf597555ba991e1e4b0994685d9be7a6e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 136706848,
+        "id": "Q136706848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q24038317$982ff65e-43bb-1b96-c1a8-311132630fc5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עזריה בסיס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q136706848": "יחיאל בסיס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q24038317.json"
+}

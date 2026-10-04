@@ -1,0 +1,170 @@
+{
+ "id": "Q6717760",
+ "url": "https://www.wikidata.org/wiki/Q6717760",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6717760",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף מדמוני"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש הקהילה התימנית בכפר השילוח בסוף המאה ה-19 ותחילת המאה העשרים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6717760$EED3E581-E011-438C-BEBE-82653D570EC7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6717760$BF91FCAF-E122-45E9-A5ED-DE85393F42C2",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b42cb86caca35f6caa0c8b6e918456ee2636858c",
+      "datavalue": {
+       "value": {
+        "time": "+1948-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6717760$AA592951-4FDF-4431-8631-AAB386C0D166",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "11169b1e5ead347b98774dd3357d2a710ec4b326",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 108184668,
+        "id": "Q108184668"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6717760$443eb123-49a2-9d7e-437d-d1bd47bea09f",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f5f8cfbe76ebdeebe92b9d9c1a39a4dff85699b5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12410121,
+        "id": "Q12410121"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6717760$6fb88f15-4e69-ded7-fc0d-7aaf9a39f702",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "23ba4fc11b2e35ba69c416dcbf2aa4550d86d49c",
+      "datavalue": {
+       "value": {
+        "time": "+1872-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6717760$477EFCFB-93AD-4BDF-80C3-288741537E35",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף מדמוני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q108184668": "ברוך מדמוני",
+  "Q12410121": "סעדיה מדמוני",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6717760.json"
+}

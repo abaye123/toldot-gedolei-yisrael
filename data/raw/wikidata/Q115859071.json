@@ -1,0 +1,327 @@
+{
+ "id": "Q115859071",
+ "url": "https://www.wikidata.org/wiki/Q115859071",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q115859071",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם סתהון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Sithon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מורה הוראה"
+   },
+   "en": {
+    "language": "en",
+    "value": "-1815"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "סתיהון, אברהם"
+    },
+    {
+     "language": "he",
+     "value": "סתהון, אברהם בן שלמה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Sithon, Avraham ben Shelomoh"
+    },
+    {
+     "language": "en",
+     "value": "Setihon, Avraham"
+    },
+    {
+     "language": "en",
+     "value": "Sethon, Avraham"
+    },
+    {
+     "language": "en",
+     "value": "Sathun, Abraham b. Solomon"
+    },
+    {
+     "language": "en",
+     "value": "Sathun, Avraham ben Solomon"
+    },
+    {
+     "language": "en",
+     "value": "Sathun, Avraham ben Shelomoh"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115859071$E0FF7A6C-AC9B-4C41-8305-989CA8DC7C89",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cce3fc04b92e1134de79d23ec228fa7aface6632",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115859071$357A1CD3-7F46-4F34-92CA-218533C4EE3F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "720543a91c1c19e16591936858f98c806b5e0627",
+      "datavalue": {
+       "value": {
+        "time": "+1815-12-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "e21c8e3003dda780d0b7fd35c1324b85b3a36c5a",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12407742,
+          "id": "Q12407742"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "42d03e88e3d85bfc7737ec5935e1dec13fc68afd",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406305,
+          "id": "Q12406305"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q115859071$1af7cd2e-404d-471b-a496-b834652f67b2",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "4da7bea41df329e7b8afeb85961c4244610070b1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41183,
+        "id": "Q41183"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115859071$329a880d-4aba-0fb5-8ebc-f300d82d8f32",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115859071$02ae07ed-4c63-8886-4e44-ae785271a260",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "dabae7ab3ae049156e6ce8d6f03089addd659f3f",
+      "datavalue": {
+       "value": {
+        "time": "+1735-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "a3cc9db9ea10704b5b66881a157e2f1a47324bd1",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406247,
+          "id": "Q12406247"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "20989e47fe3d70fdfacfe98e319e8bb14710267b",
+        "datavalue": {
+         "value": {
+          "time": "+1734-09-27T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1326": [
+       {
+        "snaktype": "value",
+        "property": "P1326",
+        "hash": "4593585708f85c8592eb1c1fadabec8620e83a02",
+        "datavalue": {
+         "value": {
+          "time": "+1735-09-16T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480",
+      "P4241",
+      "P1319",
+      "P1326"
+     ],
+     "id": "Q115859071$9845e9ea-435e-6971-af1a-087d85e6c9af",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם סתהון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q41183": "חלב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q115859071.json"
+}

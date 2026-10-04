@@ -1,0 +1,165 @@
+{
+ "id": "Q122026807",
+ "url": "https://www.wikidata.org/wiki/Q122026807",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q122026807",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה חי אהרוני"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q122026807$00ddd8e6-422d-4fc2-ec6c-733d894ce265",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q122026807$0395737b-4a6e-8620-2364-9ed0f9277a36",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4691cbb480ab0f20de36b7aa4e000c3ad6873e88",
+      "datavalue": {
+       "value": {
+        "time": "+1896-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q122026807$185876f0-41af-845f-e03b-e261dcd0c59d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "656558dc9f04b19fca98662d934143777282881a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 180078,
+        "id": "Q180078"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q122026807$1058df6e-494b-bb52-82cc-95235680f181",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ecf122db51a1735852e05dd6286072606cb9f856",
+      "datavalue": {
+       "value": {
+        "time": "+1957-10-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q122026807$3b0a25f3-4969-2af9-ceca-9aa12364f338",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "7043fd1091405064791d657680da5a86891f3e7f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 607817,
+        "id": "Q607817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q122026807$88220df8-4b6c-91ea-3730-ad2a738c4655",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה חי אהרוני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q180078": "כרמאנשאה",
+  "Q5": "אדם",
+  "Q607817": "בית העלמין קריית שאול"
+ },
+ "raw": "data/raw/wikidata/Q122026807.json"
+}

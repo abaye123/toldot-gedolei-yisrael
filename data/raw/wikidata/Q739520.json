@@ -1,0 +1,182 @@
+{
+ "id": "Q739520",
+ "url": "https://www.wikidata.org/wiki/Q739520",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q739520",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eleazar ben Shammua"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבי אלעזר בן שמוע"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "2nd century rabbi and tanna"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא בדור הרביעי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי אלעזר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q739520$94E1A564-ED04-430A-8173-765894121997",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "38edb7bf4f52ccd8431196184197f684b4ffac58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83241,
+        "id": "Q83241"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q739520$23384B00-8C6E-4440-8057-78480D0EBF15",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q739520$12FAC9AD-126F-4E02-8873-97B83488D654",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q739520$9b0a123d-0dfc-4184-8439-c1377bc5da1e",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f453d8a4a755d64b405d46c538d9dc8b56568eef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1669578,
+        "id": "Q1669578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q739520$4B5C48F2-1B68-4567-BF05-6C16FCE596BE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אלעזר בן שמוע",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1669578": "סוריה פלשתינה",
+  "Q5": "אדם",
+  "Q83241": "הגליל"
+ },
+ "raw": "data/raw/wikidata/Q739520.json"
+}

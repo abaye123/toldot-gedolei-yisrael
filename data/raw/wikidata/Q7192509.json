@@ -1,0 +1,191 @@
+{
+ "id": "Q7192509",
+ "url": "https://www.wikidata.org/wiki/Q7192509",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7192509",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד טברסקי מטולנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "David, of Talna"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "First Tolner Rebbe"
+   },
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר הראשון מטאלנא"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Dovid Twersky"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "דוד טברסקי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192509$CA905B25-2CF6-40DF-BED9-790622806D53",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192509$0E2A0856-4703-40CA-85C6-BF6198E7D0F6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d861e15e5ed3eabddc2451e8b165cea9f4355834",
+      "datavalue": {
+       "value": {
+        "time": "+1808-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192509$4b2c4609-4402-1125-af21-9a7ced4fb75c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a6861e3970d71001be9f283782a845457b24887",
+      "datavalue": {
+       "value": {
+        "time": "+1882-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7192509$c2236ff9-44d5-9a02-8b40-116a890dbd72",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "be615234e5649dea8afc339cb51a4f9fd01bdaf8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6261909,
+        "id": "Q6261909"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192509$50418B50-314D-41F3-8C09-C7930EC415E0",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "8e3c7ff91c74c1b6d619397efd816405aa629117",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2898995,
+        "id": "Q2898995"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7192509$986D7D81-F576-42D3-B6AE-95A17632D696",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד טברסקי (טולנה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2898995": "מרדכי טברסקי",
+  "Q5": "אדם",
+  "Q6261909": "יעקב ישראל טברסקי טשערקאס"
+ },
+ "raw": "data/raw/wikidata/Q7192509.json"
+}

@@ -1,0 +1,137 @@
+{
+ "id": "Q6077381",
+ "url": "https://www.wikidata.org/wiki/Q6077381",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6077381",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Isaac bar Judah"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יצחק בריה דרב יהודה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "4th-century Babylonian rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב יצחק בר רב יהודה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Isaac b. Judah"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077381$5C073B87-9D7A-46B7-A15B-596F5D09DA20",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077381$15719D22-D2E0-4B0F-8A1F-B9C67FDF02CC",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077381$885A463D-B31C-4649-8C63-6E8640F7F600",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4b23a2ee032fa61e3b511a95d6a0ccba35b4c563",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 38061333,
+        "id": "Q38061333"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6077381$6da58c56-4ae1-11e1-ceab-1276c76c50de",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יצחק בריה דרב יהודה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q38061333": "איסי",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q6077381.json"
+}

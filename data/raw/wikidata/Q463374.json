@@ -1,0 +1,388 @@
+{
+ "id": "Q463374",
+ "url": "https://www.wikidata.org/wiki/Q463374",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q463374",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליהו מזרחי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elijah Mizrachi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה, איש מדע, ומדינאי יהודי-טורקי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הרא\"ם"
+    },
+    {
+     "language": "he",
+     "value": "מזרחי, אליא"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0c566e5e39b5ef1dd8977334e1b005939a06820",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$916EF66C-1F15-47FF-9C55-484781EE5E8D",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$A09E7C63-1740-470D-BEEF-FFA63FFFF302",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "55971a32755a4fc0689372faf471b3ae0d7efa42",
+      "datavalue": {
+       "value": {
+        "time": "+1455-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q463374$A18D39E1-DE03-485B-AF65-B42A7C1F905B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "41b1cfd9c02231bf9cf71ae29fee10cee0f4f84f",
+      "datavalue": {
+       "value": {
+        "time": "+1450-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q463374$6bd14f57-4a73-93b9-48bf-1c4d87675647",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "413b0693cc503d9f8cf4750aab9d0ea6e12ac4e1",
+      "datavalue": {
+       "value": {
+        "time": "+1526-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q463374$F9B1C579-8552-4620-BE46-E660D76684F2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$FB18770A-5772-4221-AAB1-CEF6F94E7B16",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d4e326526308355e0b0ca12c3222338d6ba65416",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170790,
+        "id": "Q170790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$d1215f1d-48af-25b4-2894-7f3a462acf01",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "fefe49ac70bb3c1d4d676fe184551e9f278b9da4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11063,
+        "id": "Q11063"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$6fa29f4d-4b6a-b048-da47-5cad598c9077",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "efed09951a104d9512b9a9017c3c6647c3909a94",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q463374$45774EC1-4D19-4DA6-B6CA-72434E0FF7A5",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "92736678ba72deab062d6d47a6b860d13b416161",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1568783,
+        "id": "Q1568783"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "5d608859b0df8806c6c52e7293697bb21064098d",
+        "datavalue": {
+         "value": {
+          "time": "+1497-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "d3547b8f10966b09f65555cd535b6d7fbb0b8803",
+        "datavalue": {
+         "value": {
+          "time": "+1526-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P1365": [
+       {
+        "snaktype": "value",
+        "property": "P1365",
+        "hash": "3b388bb7f9d43b89a8ec889137b0ec99ec3ff8f7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 963951,
+          "id": "Q963951"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1545": [
+       {
+        "snaktype": "value",
+        "property": "P1545",
+        "hash": "0e979f28bf306fefdcd352b4eb8dee5da2153a6d",
+        "datavalue": {
+         "value": "3",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582",
+      "P1365",
+      "P1545"
+     ],
+     "id": "Q463374$96ab7b6b-460e-b5b7-7531-d2c6ccfd51d2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו מזרחי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11063": "אסטרונום",
+  "Q133485": "רב",
+  "Q1568783": "חכם באשי",
+  "Q170790": "מתמטיקאי",
+  "Q406": "איסטנבול",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q463374.json"
+}

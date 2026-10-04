@@ -1,0 +1,177 @@
+{
+ "id": "Q101438258",
+ "url": "https://www.wikidata.org/wiki/Q101438258",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q101438258",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל מרציאנו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק הלכה במרוקו"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מארצייאנו, שמואל בן משה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101438258$f8bc2887-430b-463a-b72c-86996a2a2006",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101438258$5516a821-47ac-0d4d-5776-68b7ecefad27",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "89c94604fb45445fba3cf43a13fc9cba7eb309a5",
+      "datavalue": {
+       "value": {
+        "time": "+1962-06-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101438258$6891136f-42d8-eb76-4cd6-0ebbd5f32bdb",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e28101ae37e1e614afe3839ab774da38cf056863",
+      "datavalue": {
+       "value": {
+        "time": "+1881-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101438258$949ac25f-48dd-9b80-c525-0059eef4ea57",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "94358286ee1cf21b469467746de5402894aaa9e3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 654695,
+        "id": "Q654695"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101438258$efe56eff-4ec2-26d9-8c0d-38d38c8a7956",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a686795188e51ad78091a611d4896c30ea121c15",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 207540,
+        "id": "Q207540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101438258$d81f46b4-4b9c-eed1-f45e-0caa1c4c5c1a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מרציאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q207540": "לוד",
+  "Q5": "אדם",
+  "Q654695": "דבדו"
+ },
+ "raw": "data/raw/wikidata/Q101438258.json"
+}

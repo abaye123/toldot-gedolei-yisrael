@@ -1,0 +1,185 @@
+{
+ "id": "Q112191153",
+ "url": "https://www.wikidata.org/wiki/Q112191153",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112191153",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אפרים מונסונייגו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ephraim Monsonego"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "דיין תוניסאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהרא\"ם"
+    },
+    {
+     "language": "he",
+     "value": "מונסונייגו, אפרים בן אברהם"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112191153$65f268ac-4a5a-6268-c560-7d15217cad9d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112191153$665865ae-40e4-f624-b1a5-7b448b324e96",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c3fad98c000b4d535de22a41e1ca0f61697a41ec",
+      "datavalue": {
+       "value": {
+        "time": "+1710-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112191153$e0dfc8df-44b4-735a-197a-03b1d53a10dc",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ee1db324ff28598c96f0ed14274d5995c6041006",
+      "datavalue": {
+       "value": {
+        "time": "+1790-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112191153$d15d4dad-4dbd-c2a1-b190-1f56f14f8cd2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f266894030b5979aa7d65219dd023c8caff2ad5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112191153$375ed0ae-4cd6-c8c3-6476-6bed807b9f7f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "d1a1471f909fde8cf3f06bb422acebd5a40dbaea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 185157,
+        "id": "Q185157"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112191153$c7fd75b9-4312-658b-97cb-673343f276b8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים מונסונייגו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q185157": "תטואן",
+  "Q5": "אדם",
+  "Q80985": "פאס"
+ },
+ "raw": "data/raw/wikidata/Q112191153.json"
+}

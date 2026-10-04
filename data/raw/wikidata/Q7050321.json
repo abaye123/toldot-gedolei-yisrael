@@ -1,0 +1,169 @@
+{
+ "id": "Q7050321",
+ "url": "https://www.wikidata.org/wiki/Q7050321",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7050321",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם מנדל שטיינהארט"
+   },
+   "en": {
+    "language": "en",
+    "value": "Menahem Mendel Steinhardt"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני במאות ה-18-19"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מנחם מנדל שטיינהרט"
+    },
+    {
+     "language": "he",
+     "value": "מנחם מנדל שטינהרט"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Steinhardt, Menahem Mendel ben Simeon"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050321$B1116372-4D10-40EA-B867-D988A94C54D1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050321$FA799653-BD30-4A0D-9AEE-EB4708949295",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "c1cc8477a70a8e5adbe8985466c294f76be8a5e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 98756137,
+        "id": "Q98756137"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050321$f8c15664-4bd6-795f-09f7-62dabdbb6266",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e826cf981d0a5fced62ccb9055962030a260b518",
+      "datavalue": {
+       "value": {
+        "time": "+1768-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7050321$b59aeaa2-4816-e8b7-91f1-d898d5da0012",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9ae3a075e57a717b800ed6be0d3be2ec4c5b314c",
+      "datavalue": {
+       "value": {
+        "time": "+1825-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7050321$d226feb5-40b0-22b4-ea37-ca25db7554ed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם מנדל שטיינהארט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q98756137": "דברי אגרת"
+ },
+ "raw": "data/raw/wikidata/Q7050321.json"
+}

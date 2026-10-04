@@ -1,0 +1,198 @@
+{
+ "id": "Q6689709",
+ "url": "https://www.wikidata.org/wiki/Q6689709",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6689709",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב אלמולי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Iacov Almuly"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Romanian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב רומני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6689709$2B4477FE-1BE4-45A4-AE46-D9C105145D3B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6689709$BD1D758C-3885-4848-B6AB-BA8323F0FE9C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b09222dcd5d9ad7ea03b2bf5d34c856d7a114533",
+      "datavalue": {
+       "value": {
+        "time": "+1874-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6689709$93ed1758-484c-3878-8785-a274de75a974",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f86630256cf94ab81e10dee82aebae3f62a9019f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19660,
+        "id": "Q19660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "734d15110665da613d2114af82d037af8420e76e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 958291,
+          "id": "Q958291"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q6689709$1e299110-4490-0a11-7584-df96221cfff8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bbc9ba6e8a75333bd26a02ca2f47590e98c8eed1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 19660,
+        "id": "Q19660"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6689709$f4591451-4a9a-5f4f-e3dd-c43068c41679",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b46064a5430c80666f28bba46ff0962f6748d7a1",
+      "datavalue": {
+       "value": {
+        "time": "+1966-05-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6689709$74ce3fb4-4ef2-ca31-f205-7963390d19a8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב אלמולי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q19660": "בוקרשט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6689709.json"
+}

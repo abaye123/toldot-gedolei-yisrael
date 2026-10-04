@@ -1,0 +1,153 @@
+{
+ "id": "Q100409642",
+ "url": "https://www.wikidata.org/wiki/Q100409642",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100409642",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי חייא בר גמדא"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בן הדור השני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי חייה בר גמדא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100409642$f70aa82b-4f26-a38b-806a-7db0172e9b2b",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "0b37f03b4c4204798e32abb68aeb5881ea80a41b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12407964,
+        "id": "Q12407964"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100409642$6cafeb80-4643-abb7-6bfb-42a22b22364f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e10268d3abd2589daa72ecf344c62d3b6bde7b74",
+      "datavalue": {
+       "value": {
+        "time": "+0220-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q100409642$203622c0-4b0d-1cbb-5fa7-f280279e126b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1dba68dda7c0bcde737da9ee54495149927148b0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 83891,
+        "id": "Q83891"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100409642$a026b5b1-4e45-e5a4-cd27-f033e57734a5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100409642$EA2428C8-71B6-4A57-8543-4BE5B761B773",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי חייא בר גמדא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12407964": "רבי יוסי בר חנינא",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q83891": "האימפריה הסאסאנית"
+ },
+ "raw": "data/raw/wikidata/Q100409642.json"
+}

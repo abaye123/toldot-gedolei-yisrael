@@ -1,0 +1,167 @@
+{
+ "id": "Q5740428",
+ "url": "https://www.wikidata.org/wiki/Q5740428",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5740428",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Herman van Staveren"
+   },
+   "he": {
+    "language": "he",
+    "value": "הרמן ואן סטברן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "New Zealand rabbi and philanthropist (1849–1930)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "HaRav Menachem ben Yitzhak"
+    },
+    {
+     "language": "en",
+     "value": "Mr Van"
+    },
+    {
+     "language": "en",
+     "value": "Old Van"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5740428$AF107108-D442-48C0-B484-AAB5A6A98032",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "af9bdf244a129e8754729fea956416480a3f4ffc",
+      "datavalue": {
+       "value": {
+        "time": "+1930-01-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5740428$CABC5071-68CF-4B1C-B7B7-586D6E122F1F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5740428$38C133EC-0005-4274-9762-F969AE062CAB",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "06d5ea90b6dd35a63f443e26dae6fe6ae5b248a7",
+      "datavalue": {
+       "value": {
+        "time": "+1849-01-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5740428$17A1F485-3D2E-49A6-933B-B62FF707F8FA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "777403b998a4aa242be84cb066e9956c7974a148",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3291153,
+        "id": "Q3291153"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5740428$8d56de71-46cf-7497-f234-12c989a5389d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הרמן ואן סטברן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3291153": "Bolsward",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5740428.json"
+}

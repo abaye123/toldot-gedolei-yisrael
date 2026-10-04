@@ -1,0 +1,289 @@
+{
+ "id": "Q94617385",
+ "url": "https://www.wikidata.org/wiki/Q94617385",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q94617385",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Victor Schonfeld"
+   },
+   "he": {
+    "language": "he",
+    "value": "אביגדור שנפלד"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בקהילות וינה, בלונדון. בשנים 1922-1920 בארץ ישראל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian-born British Orthodox rabbi and educator (1880–1930)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שעהנפעלד, אביגדור"
+    },
+    {
+     "language": "he",
+     "value": "שענפעלד, אביגדור"
+    },
+    {
+     "language": "he",
+     "value": "שנפלד, אביגדור בן יעקב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Victor Schönfeld"
+    },
+    {
+     "language": "en",
+     "value": "Viktor Schönfeld"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94617385$B8A79176-9115-4CB8-8E51-AB2EE8E0986A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94617385$379DC81D-5845-4BCF-A04D-C70F7EFA4FC8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "12369c753cfadf1504c53914c8018c8178a414d8",
+      "datavalue": {
+       "value": {
+        "time": "+1880-10-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q94617385$0e8dd1bf-4b7e-d8d3-8ad3-6371dfd54e49",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7b8cb1b7b007d1b3204452b949f8c58ee7f5d85a",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94617385$EB4009BF-8864-4165-805D-4A61677C1EAA",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2c8fb1a1625ed7e13ed94af2db9d84e96a08caf3",
+      "datavalue": {
+       "value": {
+        "time": "+1930-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q94617385$10ee0250-422b-8303-c923-265b2d7a71c5",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "80e735a864d580a337cab48324d03d11662a5b75",
+      "datavalue": {
+       "value": {
+        "time": "+1930-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94617385$B9A158E9-3838-4289-AC6F-100627AB2F42",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ec7ec87d59d87e0adf2a8b2ab27438a2b39eaff4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 953690,
+        "id": "Q953690"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94617385$f32297b6-4bd2-21f1-b6eb-9eacde6a9b90",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94617385$c75c952f-4734-f9e5-d0a4-7f6fb5ec556f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אביגדור שנפלד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2796156": "רב",
+  "Q5": "אדם",
+  "Q84": "לונדון",
+  "Q953690": "שיטי"
+ },
+ "raw": "data/raw/wikidata/Q94617385.json"
+}

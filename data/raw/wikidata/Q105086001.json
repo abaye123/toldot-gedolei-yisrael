@@ -1,0 +1,178 @@
+{
+ "id": "Q105086001",
+ "url": "https://www.wikidata.org/wiki/Q105086001",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q105086001",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף באראן"
+   },
+   "en": {
+    "language": "en",
+    "value": "József Bárány"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומחנך הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1856-1916)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105086001$2fec29fc-461f-96ba-2a9b-8638000b6846",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105086001$41f68dd6-4fd4-91a4-32db-48fbfbadad01",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b880c8b4422a2227ada38249918eb609bf34acf1",
+      "datavalue": {
+       "value": {
+        "time": "+1856-12-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105086001$4c2fcdbb-4849-5741-bfda-d6f4b44a070d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9c8987b1b7130a0514d169481932631de8b2b95a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 933389,
+        "id": "Q933389"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105086001$03d919f5-4460-69ba-9469-005f0fa82c5a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4954fc652a01794dc33f14d839f0f7d01e77b128",
+      "datavalue": {
+       "value": {
+        "time": "+1916-04-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105086001$0c4b3a7f-4b0d-2380-a870-897e3cf65f08",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "df1c1891e7c7671c036874abfec003b8d3ec6edd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 697679,
+        "id": "Q697679"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105086001$7191f23c-45ca-7b58-75b9-ea5af0c339bf",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף באראן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q697679": "טרזווארוש (רובע 6)",
+  "Q933389": "נאדאודבר"
+ },
+ "raw": "data/raw/wikidata/Q105086001.json"
+}

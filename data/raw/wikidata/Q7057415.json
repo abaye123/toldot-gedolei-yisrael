@@ -1,0 +1,156 @@
+{
+ "id": "Q7057415",
+ "url": "https://www.wikidata.org/wiki/Q7057415",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7057415",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב מלמד-כהן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaʻaḳov-Ḥayim Melamed-ha-Kohen"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחנך ואיש ציבור ירושלמי, חבר הנהלת הסתדרות המזרחי, וחבר ועד העדה הפרסית, ועד העדה הספרדית בירושלים ועוד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7057415$54E97AA0-5B48-4DE8-8BAC-D266818726F7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7057415$D318E24E-46B6-4F4A-B610-EDA536119C4E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "34eda8a8bb2eeef397a65824f9f87c1428603e38",
+      "datavalue": {
+       "value": {
+        "time": "+1909-09-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7057415$AD34C7F5-F326-425C-BB82-10DB12FB5711",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "af12167b1b4f63359c3dc89cabfc2e53b4c77f42",
+      "datavalue": {
+       "value": {
+        "time": "+1991-09-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7057415$3AF93E97-D20E-4275-BFCE-E6DCB318A178",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2fea61994910a1cf87330ac87122134ddbcf3eef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6996712,
+        "id": "Q6996712"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7057415$AA051B08-357B-4F30-AD1A-0DAFD760DEDE",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב מלמד-כהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6996712": "רחמים מלמד כהן"
+ },
+ "raw": "data/raw/wikidata/Q7057415.json"
+}

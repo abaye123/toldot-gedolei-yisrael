@@ -1,0 +1,163 @@
+{
+ "id": "Q114457185",
+ "url": "https://www.wikidata.org/wiki/Q114457185",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q114457185",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה ניימן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Neumann"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi of Shambakret (1856–1933)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה של ז'מבורקט בהונגריה, פוסק ומחבר תורני (1856–1933)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Moshe Moritz Neumann"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457185$A99527DA-660F-4A6F-B6ED-1A399386DB14",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457185$0C1A314E-A3BD-4EA5-AFFA-3664021D592C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "591187d2242aebe5f7c2c45f4188efc05f8f38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q114457185$027d93b0-4462-46a3-331f-9e23666ab278",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ba35b9cf9cf4186b7b26aa648f332db58536d377",
+      "datavalue": {
+       "value": {
+        "time": "+1856-07-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114457185$7fd26e9b-42f2-cf40-9b1e-5476d976cf27",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e5f2c929cab7db52a33830ee3b9a053a7ea095b",
+      "datavalue": {
+       "value": {
+        "time": "+1933-01-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q114457185$63a95701-4a1a-c99d-0cd9-fe6a9ac3fcf1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה ניימן (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1780": "ברטיסלאבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q114457185.json"
+}

@@ -1,0 +1,150 @@
+{
+ "id": "Q107745368",
+ "url": "https://www.wikidata.org/wiki/Q107745368",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107745368",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ירוחם מאיר ליינר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yeruḥam Meʼir Lainer"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חוקר תורני ומחבר ספרים."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107745368$c03e8f2f-4685-394d-8293-3f40086b9feb",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107745368$3c54200e-4dd9-5534-f11e-68795a94d4ea",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "11125ed7f8125f3375f675dc2f02b8cff0033dee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116236620,
+        "id": "Q116236620"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107745368$5da64816-4340-9ecd-a079-d42353733e90",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "53ac4ef6f8dd578ab62492e7c85cfbba371edfbd",
+      "datavalue": {
+       "value": {
+        "time": "+1874-09-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107745368$302ad05b-4fa6-2863-1a13-e3135c6add5d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b2bda4dc17ea1b3042c7dc00257ef4325fd91411",
+      "datavalue": {
+       "value": {
+        "time": "+1933-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107745368$4cc40dc7-423c-e1d7-a525-b0b1f8f4827b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ירוחם מאיר ליינר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q116236620": "חוקר תורני",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q107745368.json"
+}

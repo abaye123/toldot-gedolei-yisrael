@@ -1,0 +1,187 @@
+{
+ "id": "Q6916016",
+ "url": "https://www.wikidata.org/wiki/Q6916016",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6916016",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses of London"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה בן יום טוב"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פוסק הלכה ומדקדק מן הראשונים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי משה בן יום טוב"
+    },
+    {
+     "language": "he",
+     "value": "משה בן יום טוב מלונדריש‏"
+    },
+    {
+     "language": "he",
+     "value": "משה בן יום טוב‏ מלונדון‏"
+    },
+    {
+     "language": "he",
+     "value": "משה בן יום טוב‏ הנקדן‏"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916016$FDC7171C-55C8-4280-BA1A-DC53819BDECC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f7899e752669af8371d0f5ba7d215a77909fa0d4",
+      "datavalue": {
+       "value": {
+        "time": "+1268-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6916016$7F924647-EAAA-49F9-BBB5-70A82794BFD1",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0ddd845d695a1f16b9caee5bc462c92e96b7fbcf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5638737,
+        "id": "Q5638737"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916016$24eb61a4-4f1d-df01-9167-a63f019bab0e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "57e4848e38d25f3c7de1d411d7679453cb06898d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 78498947,
+        "id": "Q78498947"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916016$a86888c6-4c77-174e-0e40-4151818c93b3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "dac354b4ec3735018c4976442f13aa32ad99e2f4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4891198,
+        "id": "Q4891198"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916016$cb662fbd-4e0e-aaf7-8e43-41408e9ba45b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6916016$c7fe472e-4933-9fcd-3c06-e1769fc3f475",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מלונדריש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4891198": "ברכיה מניקולא",
+  "Q5": "אדם",
+  "Q5638737": "חיים בן משה",
+  "Q78498947": "אליהו מנחם מלונדריש"
+ },
+ "raw": "data/raw/wikidata/Q6916016.json"
+}

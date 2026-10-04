@@ -1,0 +1,162 @@
+{
+ "id": "Q16131175",
+ "url": "https://www.wikidata.org/wiki/Q16131175",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131175",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחזקיה יהושע פייבל תאומים"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131175$892D2560-E34A-44EE-88A9-B060B6D1FFB5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131175$76E8D0AC-7ED3-468E-9B26-1647221C5FF8",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "01e1b06e9de9df3aa3cd64a9de0e457691ec06b3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16132614,
+        "id": "Q16132614"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131175$32dc38b9-4d08-affb-e9ea-adcd14da0ae1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "63eaab2a316d01581bc4cf1ebe3b50a8050a39bd",
+      "datavalue": {
+       "value": {
+        "time": "+1731-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "625b4d68e6fcf265028b79da0551a92a9154ff98",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q16131175$c41600d8-4ecf-cd77-db74-c84c6a2c0765",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f6e8a0e2993d67aa5c8bb5e6ba669188c2aa22b7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6271942,
+        "id": "Q6271942"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131175$9b4c83ea-403d-61d7-6577-cca8a59b70f1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחזקיה יהושע פייבל תאומים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16132614": "חיים יונה תאומים",
+  "Q5": "אדם",
+  "Q6271942": "יונה תאומים-פרנקל"
+ },
+ "raw": "data/raw/wikidata/Q16131175.json"
+}

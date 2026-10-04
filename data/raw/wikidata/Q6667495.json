@@ -1,0 +1,176 @@
+{
+ "id": "Q6667495",
+ "url": "https://www.wikidata.org/wiki/Q6667495",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6667495",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "סלימון ברזאני"
+   },
+   "en": {
+    "language": "en",
+    "value": "Solomon Barzani"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב העיר מוסול בעיראק ואב בית הדין בה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667495$0D07173C-743E-47C9-8A52-D1431FD09B08",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667495$D14E0939-DB71-411C-A50A-D8F6A99DAF82",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "241d6a191b054bb25bec0126595e3afa01732305",
+      "datavalue": {
+       "value": {
+        "time": "+1961-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6667495$BAF9C623-8B5D-4FF0-B72C-C446CCE220A6",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "d3625668b169802665adf6d2e325502751108692",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6773697,
+        "id": "Q6773697"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667495$477013E9-242E-446E-B7F5-F89FEE128816",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "28e00467d4593c26a7298d09954428182d6679c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 796,
+        "id": "Q796"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667495$7491cc36-4ebb-c472-7eb4-4ce522b98269",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "dad2d179e3c46d25e93440df90f9f551963b7c90",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 168215,
+        "id": "Q168215"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6667495$4ea9c205-4ca3-e67d-31d8-d6bae89f82f7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "סלימון ברזאני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q168215": "טירת כרמל",
+  "Q5": "אדם",
+  "Q6773697": "יצחק ברזאני",
+  "Q796": "עיראק"
+ },
+ "raw": "data/raw/wikidata/Q6667495.json"
+}

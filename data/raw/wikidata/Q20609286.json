@@ -1,0 +1,146 @@
+{
+ "id": "Q20609286",
+ "url": "https://www.wikidata.org/wiki/Q20609286",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20609286",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נסים זרחיה אזולאי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מחכמי ירושלים, טורקיה וצפת"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609286$E5A7C1E9-FAEE-4733-A171-716D4B80E7A8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609286$aa8c3e95-0876-4656-b563-9604e392c46c",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "bc4017992c1efd012e90f6d54ccb710b50544eea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 125390817,
+        "id": "Q125390817"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609286$f6a512ff-4bc9-6194-7a4e-d491223055d7",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "760cf3e90a6b2e33b1f997052d0edccdd51d36c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5238372,
+        "id": "Q5238372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609286$34b8d6fa-4758-880a-189e-99918b9096c3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "141758eef0171cfd585453eed0ed7de3dd40e276",
+      "datavalue": {
+       "value": {
+        "time": "+1837-01-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609286$da2411cf-48af-e606-2924-ab347d3a2a0f",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נסים זרחיה אזולאי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q125390817": "אברהם אזולאי (בן החיד\"א)",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5238372": "דוד פארדו"
+ },
+ "raw": "data/raw/wikidata/Q20609286.json"
+}

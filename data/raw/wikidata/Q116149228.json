@@ -1,0 +1,110 @@
+{
+ "id": "Q116149228",
+ "url": "https://www.wikidata.org/wiki/Q116149228",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q116149228",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה בן שמואל אבן עבאס (השני)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah ben Shmuel ibn Abbas (Second)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מרבני ספרד, מחבר ספרי מוסר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi, author of Jewish ethics books"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116149228$9fbca7c2-45aa-8699-ad2b-5407684eeb62",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "59a7552622cbf508ad7bef5375d7db451888d3ca",
+      "datavalue": {
+       "value": {
+        "time": "+1230-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q116149228$207f67c7-4f24-4e25-b3d9-489bc2c8e849",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116149228$6E4E1581-9BE1-4003-A19D-3ABBE668D6EA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה בן שמואל אבן עבאס (השני)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q116149228.json"
+}

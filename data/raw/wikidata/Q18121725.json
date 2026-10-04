@@ -1,0 +1,174 @@
+{
+ "id": "Q18121725",
+ "url": "https://www.wikidata.org/wiki/Q18121725",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18121725",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב רקח"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yaakov Rokach"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Libyan Hakham"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121725$50A3E564-E65C-4F6D-978E-D8EBBD84556C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121725$1529437D-DCEA-4C36-A376-677E496C0F10",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "07117f29ce5931a60192f7ea3be129dfeaaed991",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121725$8D403F25-890F-4536-983A-4BD2084A879C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3a93d61079dc9ff40bc1e8cbaca85b871b2e85f0",
+      "datavalue": {
+       "value": {
+        "time": "+1800-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18121725$AA9A23E5-D9BE-4EE3-88F5-7D38874DD4F3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "63e6fc93863744717a3555c6dad57803ac3c196d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3579,
+        "id": "Q3579"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121725$E8601CC3-3533-4C47-B926-F90D5C815A41",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "bdd4f410b28a9267528b3f5af492220f779a628b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6668669,
+        "id": "Q6668669"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18121725$A36197F4-8D15-4914-BB9B-C61CEDE9784A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב רקח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3579": "טריפולי",
+  "Q5": "אדם",
+  "Q6668669": "מסעוד חי רקח"
+ },
+ "raw": "data/raw/wikidata/Q18121725.json"
+}

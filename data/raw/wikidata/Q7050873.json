@@ -1,0 +1,185 @@
+{
+ "id": "Q7050873",
+ "url": "https://www.wikidata.org/wiki/Q7050873",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7050873",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה רבקש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses Rivkes"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מזרח אירופאי, מפרש על השולחן ערוך"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה רבקה'ס"
+    },
+    {
+     "language": "he",
+     "value": "באר הגולה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050873$2956BBC3-A93B-4E5B-B44B-660D7DE87036",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050873$B543EFCC-6609-4B16-B3CC-71FDE0AB10E9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6b17c33abb5b2a5c0ae4a6072b3c08d6040a2b08",
+      "datavalue": {
+       "value": {
+        "time": "+1600-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7050873$E5B4B59C-D82D-41F0-9466-B51D63960A5F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b144a5234af330ae6ab3223cdeb50c38a4cb8fbd",
+      "datavalue": {
+       "value": {
+        "time": "+1684-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7050873$BA570E9A-E4A8-4C55-BCC8-CC3274DDAF9C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ebf347de5da98912c75a9408181713c7bb9dfccd",
+      "datavalue": {
+       "value": {
+        "time": "+1671-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7050873$d851acc9-4ea0-224d-6b4b-9be1d12e0872",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d7a88bc0a384367c1f57be0f9bfe5b1b8dd68372",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 54810960,
+        "id": "Q54810960"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7050873$9e17873b-47ef-f500-c8b0-7f5ccd1c708a",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה רבקש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q54810960": "באר הגולה"
+ },
+ "raw": "data/raw/wikidata/Q7050873.json"
+}

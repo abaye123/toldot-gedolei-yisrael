@@ -1,0 +1,212 @@
+{
+ "id": "Q124611928",
+ "url": "https://www.wikidata.org/wiki/Q124611928",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q124611928",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hermann Deutsch"
+   },
+   "he": {
+    "language": "he",
+    "value": "הרמן דויטש"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומנהל בית יתומים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמעון צבי דויטש"
+    },
+    {
+     "language": "he",
+     "value": "שמעון צבי הרמן דויטש"
+    },
+    {
+     "language": "he",
+     "value": "דייטש, הרמן שמעון בן לאופר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Daitsh, Shimon Tsevi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124611928$6A814943-B04B-493D-9F20-1B2E925AC3F2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "555f375f4ad1d25c4905b0821ab8eaac363f0710",
+      "datavalue": {
+       "value": {
+        "time": "+1856-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124611928$9C3B575C-1011-4094-AD9C-A1B39A6331E5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6ff9382a41a56a51aa5d086741f824e3d56c9a24",
+      "datavalue": {
+       "value": {
+        "time": "+1932-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q124611928$4C9EC49B-6020-4C8B-8E66-B6BA001E7F28",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124611928$B2615346-2180-4FA5-926F-B4A5AE2E2A7F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "57280a222fc5a756680854a002419a9669d46af5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 660728,
+        "id": "Q660728"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124611928$c356190e-4991-0f2d-72d8-46e13c409ff5",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "5c7a185e5b31598bf5154505971884ee29678f4a",
+      "datavalue": {
+       "value": "הרמן",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q124611928$f9a60baf-4224-fe8a-efa2-6c293ae38693",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "08697488f534802fdd6f1f80465a7919b071f99b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3075,
+        "id": "Q3075"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q124611928$9963a25d-4e2d-aae0-ef12-e2c9d8d40b5c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הרמן דויטש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3075": "פירט",
+  "Q5": "אדם",
+  "Q660728": "פראונקירכן"
+ },
+ "raw": "data/raw/wikidata/Q124611928.json"
+}

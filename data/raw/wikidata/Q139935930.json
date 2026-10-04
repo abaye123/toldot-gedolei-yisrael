@@ -1,0 +1,272 @@
+{
+ "id": "Q139935930",
+ "url": "https://www.wikidata.org/wiki/Q139935930",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q139935930",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם יצחק בלייווייס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בבריסק דליטא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139935930$5d205529-4c98-82d6-a7ca-decc6fb2c028",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b2f27a04d18afba819d5b860acd27b7485107d7d",
+      "datavalue": {
+       "value": {
+        "time": "+1868-06-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "d6097c81234e465c7dc67cf72814e1fc44dacb6a",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2912574,
+          "id": "Q2912574"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q139935930$0541024c-45f2-7da3-26d1-f361d381d199",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139935930$8d652b9d-49fa-64d7-e9a7-d7a5c216ae02",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1e77e31acfc9c8aaeb7d5316c359afd02493bba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139935930$2c52cbd4-489d-c5c9-c3d8-428c535f3bc6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2bf0cec9d7b774a5471b6501dfcd35f17fbdc0ca",
+      "datavalue": {
+       "value": {
+        "time": "+1936-03-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "3b7fccab2764a3434bdd1a15a60ce9742802f4b7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 3594408,
+          "id": "Q3594408"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q139935930$4533c00b-454e-4df4-2322-d0696b6e7f78",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "809f85b6eb05d497f0257ef6e7008bd6f029e73d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 140147,
+        "id": "Q140147"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139935930$79a56152-4ccf-9ffd-da1d-ed32a80536d8",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "b72516ea9a3ba00b83ac10e693d5d136ee738619",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133892156,
+        "id": "Q133892156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "01928ef6d405b6643fdb1e912e2822b941552add",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 140147,
+          "id": "Q140147"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1706": [
+       {
+        "snaktype": "value",
+        "property": "P1706",
+        "hash": "b339639745118963d5436874bdbc53ddcdb25a22",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 7013020,
+          "id": "Q7013020"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001",
+      "P1706"
+     ],
+     "id": "Q139935930$1b5b38fd-460e-4f0c-e193-d3cdc34afe73",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם יצחק בלייווייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133892156": "ראש בית דין",
+  "Q140147": "ברסט",
+  "Q270": "ורשה",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q139935930.json"
+}

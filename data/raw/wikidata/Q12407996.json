@@ -1,0 +1,147 @@
+{
+ "id": "Q12407996",
+ "url": "https://www.wikidata.org/wiki/Q12407996",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12407996",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף זכריה שטרן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joseph Zechariah Stern"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407996$E7B49C0A-D4DD-443F-946E-CBD201709A37",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407996$32C3E853-FA86-4893-A346-06A53E763FAB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "23689e9a55c830c9295648be4674339f5d850001",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134712,
+        "id": "Q134712"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407996$E58E7B7D-10F1-43B3-AD99-E59CBB7D7152",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c9822012b9daef5a34b9ebb2ea080bdd8052a4fb",
+      "datavalue": {
+       "value": {
+        "time": "+1831-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407996$50CE5599-FD63-4974-96AF-26F35087B6A9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bde54959eb4b7b9f463bd2071adc7dcf314b0a64",
+      "datavalue": {
+       "value": {
+        "time": "+1903-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407996$464D0E75-E093-4A1B-B761-EAAE24DA0D89",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף זכריה שטרן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q134712": "שיאוליאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12407996.json"
+}

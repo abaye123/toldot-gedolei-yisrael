@@ -1,0 +1,209 @@
+{
+ "id": "Q12408755",
+ "url": "https://www.wikidata.org/wiki/Q12408755",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12408755",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר חדש"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir Chadash"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Mashgiach of the Hebron Yeshiva and a leading mussar disseminator in the 20th century"
+   },
+   "he": {
+    "language": "he",
+    "value": "משגיח ישיבת חברון במשך למעלה מיובל"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meir Chodosh"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Meir Chadash"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408755$2DEFD66E-F914-40E3-940B-E831D8AEBB6D",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408755$4C47A735-8945-4242-8A5C-D7166344BF1F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408755$C3F16104-5B63-4A81-A97F-3F41B763B26F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e144b3e47101b3fe0af02be88cfc23b7d2d5bd1",
+      "datavalue": {
+       "value": {
+        "time": "+1989-01-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408755$2E112EDE-ADE8-402C-B8DE-CA4E14431855",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4796544b907f7e98f95ac38a8688b6d4c90e921f",
+      "datavalue": {
+       "value": {
+        "time": "+1898-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12408755$09c23075-cca0-492e-8353-2da3175e11b5",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "b43214ce62a55c64a96b240500ce049c663969ad",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6682143,
+        "id": "Q6682143"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408755$a1592d71-4460-60ef-e32f-9dfac1ed1872",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "f6266f8b5413e24a9cf328a604063190fe4431c6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 123485172,
+        "id": "Q123485172"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12408755$fd7cb557-494c-afc6-030f-2f139674f2f2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר חדש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q123485172": "שולמית אזרחי",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6682143": "משה מרדכי חדש"
+ },
+ "raw": "data/raw/wikidata/Q12408755.json"
+}

@@ -1,0 +1,181 @@
+{
+ "id": "Q6950095",
+ "url": "https://www.wikidata.org/wiki/Q6950095",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6950095",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים חייקל מאמדור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chaim Chaika Levin"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי בדור השלישי לחסידות"
+   },
+   "en": {
+    "language": "en",
+    "value": "-1787"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Hayyim Haikel ben Samuel of Indura"
+    },
+    {
+     "language": "en",
+     "value": "Hayyim Haikel ben Samuel, of Indura, d. 1787"
+    },
+    {
+     "language": "en",
+     "value": "Ḥayim Ḥayḳil, mi-ḳ.ḳ. Himdura, -1787"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים חיקא בן שמואל מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "חיים חייקא מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "חיים חייקיל מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "חיים חייקל, מק״ק המדורא"
+    },
+    {
+     "language": "he",
+     "value": "חיים חיקל בן שמואל, מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "חיים חייקל בן שמואל, מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "חיים חייקא בן שמואל, מאמדור"
+    },
+    {
+     "language": "he",
+     "value": "ר' חיים חייקל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6950095$69E7177B-D1FE-4325-8A39-D649E375174A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6950095$EA1B086F-248F-4BD1-A181-286C19FEBACF",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bb3df362e507636f00ed5b960e2aee40c0639918",
+      "datavalue": {
+       "value": {
+        "time": "+1787-03-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6950095$34FE790D-184C-45AE-A237-E7F123CA74D6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "113decf8baf288a158c1b585b1c1e47344434936",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920508,
+        "id": "Q2920508"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6950095$601efc4d-4206-3384-8d64-5000548e0ab3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים חייקל מאמדור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2920508": "אינדורה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6950095.json"
+}

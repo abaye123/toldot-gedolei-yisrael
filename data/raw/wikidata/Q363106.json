@@ -1,0 +1,343 @@
+{
+ "id": "Q363106",
+ "url": "https://www.wikidata.org/wiki/Q363106",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q363106",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אייזיק הירש וייס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Isaac Hirsch Weiss"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austrian Talmudist and historian (1815 – 1905)"
+   },
+   "he": {
+    "language": "he",
+    "value": "היסטוריון וחוקר תלמוד"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק הירש וייס"
+    },
+    {
+     "language": "he",
+     "value": "ראה\"ו"
+    },
+    {
+     "language": "he",
+     "value": "דור דור ודורשיו"
+    },
+    {
+     "language": "he",
+     "value": "ווייס, איזק הירש,"
+    },
+    {
+     "language": "he",
+     "value": "אייזק הרש ווייס"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Isaac (Isaak) Hirsch Weiss"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "eab72088157166db4202fb9aa715103510cc4f9a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 703158,
+        "id": "Q703158"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "88412c29e9a85923fd14e55e6b31a10d011aef04",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2670751,
+          "id": "Q2670751"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "f867c8a9f40f7f3a158e16b97eedf50d2a44bacd",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 533534,
+          "id": "Q533534"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "70d93bd2f063d32bcdb294097b793e4254f636f0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 131964,
+          "id": "Q131964"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "q363106$E7FE919B-CC0B-49B7-B4A6-A8F69C614D32",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c498c5079550a927e1cbe6d5a2bcdbc11cb6f668",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1741,
+        "id": "Q1741"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q363106$9C5C3A9B-3123-46C8-9454-58FB1F1BC44C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "620865e16d08f659474d0d572beca18b6f66e35f",
+      "datavalue": {
+       "value": {
+        "time": "+1815-02-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q363106$8DD0AA40-7040-4A3C-A18D-BB99EBD4197C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5d48c6ae1b61c62bd967d42a868f61c67504caac",
+      "datavalue": {
+       "value": {
+        "time": "+1905-06-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q363106$BC1668A7-D55D-40C5-BF6B-50F032A27821",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f423c8acc9fd1c9cc85aabb5bfb22fcb694b7655",
+      "datavalue": {
+       "value": {
+        "time": "+1905-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q363106$D016B304-A9FA-4894-B84E-9CBCD5F29907",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q363106$7DD3C46C-4B65-4CCD-A76E-094F27B6D9A4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb1fbdd090ef3cb31f51c8348856b9392520e3d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5121550,
+        "id": "Q5121550"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q363106$DDC5E5B4-2499-449D-BAE0-64FE2344C729",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q363106$92CD3FCF-D0ED-44AC-A263-5FE85AC92F0D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q363106$07882a7c-4103-2c36-f42d-786729d3a4e9",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "49d02545caf824dead61b41c52b73e32c18c4983",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 111094887,
+        "id": "Q111094887"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q363106$1620e9e1-4f66-ae5f-a542-9bc98b128ff0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אייזיק הירש וייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q111094887": "Josef Feilbogen",
+  "Q1741": "וינה",
+  "Q201788": "היסטוריון",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם",
+  "Q5121550": "חוקר יהדות",
+  "Q703158": "ולקה מזיז'יצה"
+ },
+ "raw": "data/raw/wikidata/Q363106.json"
+}

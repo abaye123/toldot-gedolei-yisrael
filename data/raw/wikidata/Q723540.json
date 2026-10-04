@@ -1,0 +1,275 @@
+{
+ "id": "Q723540",
+ "url": "https://www.wikidata.org/wiki/Q723540",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q723540",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה קמחי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses Kimhi"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2e8265f078e620056fd60a9190633e4c047c11b5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6555,
+        "id": "Q6555"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q723540$F69890A4-42AE-404F-AF6F-BF7AD7F88E52",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "aeb70ed03e6c23473e762c2ea25cbab46aedc778",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6555,
+        "id": "Q6555"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q723540$D8537A8F-2E5C-4A8E-9B74-945FFB45DBE3",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723540$D0F92BE7-B553-4649-9420-74576B43A1C8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "450da8a4b642f712f3abdbf31cb026c2bc309833",
+      "datavalue": {
+       "value": {
+        "time": "+1127-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q723540$F0B18984-E5F4-49A9-822B-75645DC19FC6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2922f8ada8cc627c5f20d70845f2f13dd5b3f725",
+      "datavalue": {
+       "value": {
+        "time": "+1190-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q723540$CF4A3CD9-964E-4023-BCF2-AF638E8AEE8F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723540$18C64480-C115-49EB-A681-DC43E7782F55",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "eded77de83f29c9b2da86e29c69a28e8a3c2c7d5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14972848,
+        "id": "Q14972848"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723540$22A9FD09-2D9F-4B8A-B6B5-E6F6F0853C65",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "14c7f487da124eb6dfccf59f125d13b689e2bca0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15991187,
+        "id": "Q15991187"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723540$FE02B258-FCC9-4457-AA2D-837F4C570AB6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e708e0753ed9acade20c57547bf1be8063630f13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21185790,
+        "id": "Q21185790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723540$750105F4-EC14-4FCE-8F8F-785D87C6D3D0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה קמחי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14972848": "מילונאי",
+  "Q15991187": "מדקדק",
+  "Q21185790": "exegete",
+  "Q5": "אדם",
+  "Q6555": "נרבון"
+ },
+ "raw": "data/raw/wikidata/Q723540.json"
+}

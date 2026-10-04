@@ -1,0 +1,338 @@
+{
+ "id": "Q723557",
+ "url": "https://www.wikidata.org/wiki/Q723557",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q723557",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel of Nehardea"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Babylonian rabbi (c.165-c.254)"
+   },
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי, דור ראשון, חברו של רב, ראש ישיבת נהרדעא."
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל ירחינאי"
+    },
+    {
+     "language": "he",
+     "value": "שמואל ירחינאה"
+    },
+    {
+     "language": "he",
+     "value": "שמואל, מנהרדעא"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4ee6002fa7de0e02fbef8277a1ccb2bd4b3ad616",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 337751,
+        "id": "Q337751"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q723557$A895151C-B1B8-442A-A24A-D0375F160AB9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5bfc83154ffce26ba8eeaf932dbb481578e58a8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 337751,
+        "id": "Q337751"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q723557$429639A6-D7E8-48CE-862A-B94C395C85C9",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723557$6AE8CF38-BA89-431E-A13B-AAC0E04200CD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4a5918bd3c3a9e5b6de35b3da1b86b23fccd0012",
+      "datavalue": {
+       "value": {
+        "time": "+0160-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q723557$D8F49067-F8CF-4E40-B8C4-84FA9D13ACE6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "061e2911907c955d61078351a5df161bf2727974",
+      "datavalue": {
+       "value": {
+        "time": "+0165-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q723557$2c863858-4e46-2707-ad54-48613a0828e0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f572b912afd482878118217d13741ab298ffc8c5",
+      "datavalue": {
+       "value": {
+        "time": "+0177-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q723557$f6fe48f1-46b5-2d07-a3e1-dd5e2baaba80",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "888f4223ca1675e37c878fa0d0b32fdcf1d4f20f",
+      "datavalue": {
+       "value": {
+        "time": "+0257-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q723557$9C94CCF1-C5B0-4AF2-B00F-64BB1CBFB912",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723557$E09ABF25-BF04-4794-928E-0D5BD7E211E6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723557$FDD45EED-952D-40EF-89A7-E5DBB19B3214",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "696369085b87f191a48a12916e48d297639982e8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16533,
+        "id": "Q16533"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723557$F71B6567-C974-406C-AA73-40E793204BAA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "83c4f58eaff2c3a6b2aff8b88d25091fba1b4ba9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 474035,
+        "id": "Q474035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q723557$1E2F42EC-D506-48C6-BE86-31CBC9E79556",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל (אמורא)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16533": "שופט",
+  "Q337751": "נהרדעא",
+  "Q474035": "אמוראים",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q723557.json"
+}

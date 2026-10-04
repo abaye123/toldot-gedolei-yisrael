@@ -1,0 +1,172 @@
+{
+ "id": "Q2902564",
+ "url": "https://www.wikidata.org/wiki/Q2902564",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2902564",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי יהודה בן בתירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah ben Bathyra"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Mishnah rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "יהודה בן בתירא הראשון"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי יהודה בן בתירה"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בן בתירא"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בן בתירה הראשון"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בן בתירה"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e19b95d34b2ff96a42132b15f1899824de4f818e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1553052,
+        "id": "Q1553052"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902564$D65DB497-E70B-4244-8523-7E570BE77CE2",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902564$4ED26A6B-C816-4DB7-B2F9-22D21E747A8B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f4cdcbde66a8f78ef344b35c5a92c4251d2b6c9c",
+      "datavalue": {
+       "value": {
+        "time": "+0001-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2902564$DAC46A1D-F7FB-45DC-ACB5-E597B9591B0D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902564$49911FC5-D642-4772-869B-2AF975EF265B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יהודה בן בתירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1553052": "נציבין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2902564.json"
+}

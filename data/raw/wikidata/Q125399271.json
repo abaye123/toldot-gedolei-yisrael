@@ -1,0 +1,232 @@
+{
+ "id": "Q125399271",
+ "url": "https://www.wikidata.org/wiki/Q125399271",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q125399271",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי הירש גליקסון"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת תורת חיים בורשה."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125399271$17ab9289-4d5b-01e8-ac4d-c4cd6de67dd5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125399271$cf4653a6-44b7-e9cc-3c9b-f28b5845d5b3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f1e77e31acfc9c8aaeb7d5316c359afd02493bba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 270,
+        "id": "Q270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125399271$9ce41769-46f8-970b-6fa7-db7356282f2b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "63be384910687c41de02d789afe6edf85a8f6228",
+      "datavalue": {
+       "value": {
+        "time": "+1890-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "9ea801d2db4061617d93c6605df0914c2e49cff2",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 122238716,
+          "id": "Q122238716"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q125399271$218ed021-40c6-aab8-d492-e8d4b8db27da",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0e228a3d02cd588648dce95bffb2f96fc123a32b",
+      "datavalue": {
+       "value": {
+        "time": "+1942-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "824772c0cca1ad3d6e391669de146d98b8d64388",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 27058,
+          "id": "Q27058"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q125399271$a8066e5a-4dab-ed94-14b3-e9e38b47b5ba",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "2dca71e7cac6c704ad486136f7a8058a2fa1e8a6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6843886,
+        "id": "Q6843886"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125399271$a90dfecc-4306-f504-9461-9eab63d6ba0d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "8c81f85f57ce3fbbe02741c2b1f3f1a8c49ec4e3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6809305,
+        "id": "Q6809305"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q125399271$50fe1a83-491b-29ec-c616-aaefc1cfa13e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש גליקסון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q270": "ורשה",
+  "Q5": "אדם",
+  "Q6809305": "יהושע הוטנר",
+  "Q6843886": "יצחק הוברמן"
+ },
+ "raw": "data/raw/wikidata/Q125399271.json"
+}

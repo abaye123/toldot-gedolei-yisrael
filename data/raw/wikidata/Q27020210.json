@@ -1,0 +1,174 @@
+{
+ "id": "Q27020210",
+ "url": "https://www.wikidata.org/wiki/Q27020210",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27020210",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה דימנטמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה ור\"מ ישראלי, מעורכי האנציקלופדיה התלמודית"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020210$3CD34B7C-9535-49AB-A851-D1A278A5E235",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "49d8682d858818c66dabbe2ccad7d73b97880bab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2748654,
+        "id": "Q2748654"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020210$9af9dc76-4ca7-11cd-3566-bfb8d6b68436",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020210$9d35419f-45b9-5fa1-59d1-f56b579602f9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "eb86746fe1c596a947fd9a079cc61f7573121fe6",
+      "datavalue": {
+       "value": {
+        "time": "+1931-03-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27020210$b8c7c9c2-44d5-5cd7-639f-b15bf7c3077a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a29102159a7131045f180cf6edf2a82d70baf382",
+      "datavalue": {
+       "value": {
+        "time": "+2025-09-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27020210$60493190-99F8-493A-B5BE-B251D7D72168",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "9bd23eb29604c679fcdd217190bde1ebf4a805a9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 207350,
+        "id": "Q207350"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020210$6C509AB5-A879-4C53-AF02-7FD1CE93D66B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה דימנטמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q207350": "רחובות",
+  "Q2748654": "אברהם אלקנה כהנא שפירא",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27020210.json"
+}

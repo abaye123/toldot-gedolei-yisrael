@@ -1,0 +1,253 @@
+{
+ "id": "Q2902916",
+ "url": "https://www.wikidata.org/wiki/Q2902916",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2902916",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע בועז"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joshua Boaz ben Simon Baruch"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי, מחבר מסורת הש״ס ושלטי הגיבורים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלטי הגיבורים"
+    },
+    {
+     "language": "he",
+     "value": "יהושע בועז ברוך"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "BARUCH, JOSHUA BOAZ BEN SIMON BEN ABRAHAM:"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$C74754F1-1F64-45B0-A439-64C3C9CBF0DF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c17156fbba3d6ef3d2d3bc1568473c4b77c36ba3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43014,
+        "id": "Q43014"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$094D913C-D1B0-4C70-A613-5CB8A259890F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "606152acd9e809f3fdafc3cfd559fbd90899d789",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20489,
+        "id": "Q20489"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$BBE497F1-3F1A-4CD9-8C3F-68A41AF46F57",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "08c5c358e90626c8f0c75772ab2df2c9a052a721",
+      "datavalue": {
+       "value": {
+        "time": "+1557-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2902916$2DEF267B-3886-4DB5-830C-7AE0A6B70761",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$D054B6DB-3D4C-4851-A273-FACBB893702B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "193297d46c91de78dc5d193ffd48b52d27f933f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20826540,
+        "id": "Q20826540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$CE662A5A-2EE7-46B6-8967-D149356950F2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "645b4bccd4c05d8bf4eedcfe43caa50aa1802ea8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 175151,
+        "id": "Q175151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$63EAF49A-F52A-4E26-B8F9-D812662499B7",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "506470bc57de8ad572c892f73470887b54e4d4df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 118780836,
+        "id": "Q118780836"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$928ec15b-4321-100a-0aa4-dcb4b35d0ebd",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "3e2fa5c29670d0148c95344ede8de8d2d0d31a79",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25496830,
+        "id": "Q25496830"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2902916$9ff1f41f-4de0-7ace-a41d-b9e5874a2572",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע בועז",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q118780836": "עין משפט נר מצווה",
+  "Q133485": "רב",
+  "Q175151": "מדפיס",
+  "Q20489": "סאביליאנו",
+  "Q20826540": "מלומד (אדם רב ידע)",
+  "Q25496830": "מסורת הש\"ס",
+  "Q43014": "סביונטה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2902916.json"
+}

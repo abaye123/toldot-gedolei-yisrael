@@ -1,0 +1,178 @@
+{
+ "id": "Q4669158",
+ "url": "https://www.wikidata.org/wiki/Q4669158",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669158",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Rovigo"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם רוויגו"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669158$0E423A39-27CD-41BC-8972-F71ABA4F191D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613dd28988140007c2caeec82e8843a9fa7a605b",
+      "datavalue": {
+       "value": {
+        "time": "+1650-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669158$91B2F0A6-A5AE-462F-83C5-DAAFAC48D821",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "36d490c1bd05c7b6864b2d605c8cbda08314945b",
+      "datavalue": {
+       "value": {
+        "time": "+1713-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669158$93837363-83BF-4C90-9281-0EAADFFAB7D9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669158$FE402FAE-F3AF-41FE-B50F-FF1D827736A1",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "dec2fe8e8e41125b5e3c7c6c572f72d3c02c8b96",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1148266,
+        "id": "Q1148266"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669158$f2400d7a-4ec0-e1e2-6c23-bf5735ff3e8c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0c0110fcb0c96c942a785e60e74dcdb6708443da",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 279,
+        "id": "Q279"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669158$4CB72BF6-5975-4CFA-BBC4-9B8F5AA2626F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם רוויגו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1148266": "משה זכות",
+  "Q133485": "רב",
+  "Q279": "מודנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4669158.json"
+}

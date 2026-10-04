@@ -1,0 +1,169 @@
+{
+ "id": "Q6087391",
+ "url": "https://www.wikidata.org/wiki/Q6087391",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6087391",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Israel ben Meir di Curiel"
+   },
+   "he": {
+    "language": "he",
+    "value": "ישראל די קוריאל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה מגדולי חכמי צפת במאה ה-16"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "קוריאל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Israel de Curiel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6087391$25C21FB3-CD52-4D41-9E16-EF15C5910E3A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2cadacb558a180c0f25ed1b345a835479f5c827e",
+      "datavalue": {
+       "value": {
+        "time": "+1501-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6087391$1A9A0C87-1DB1-4D2A-87C6-D9B2D8AA82F0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "381007c7b6334650e64b1e1fb6a2328005183799",
+      "datavalue": {
+       "value": {
+        "time": "+1573-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6087391$4A62F7B5-D1DE-41C2-9951-4D9B2ADF28BB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6087391$86B207B1-33F8-4CE0-AC88-6CF150811298",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "bad6a896a7e63d81ca92819dd8b51918bb160450",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6909656,
+        "id": "Q6909656"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6087391$c937fd16-46b6-a405-886a-e319759e24d3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל די קוריאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6909656": "מרדכי הכהן (מקובל)"
+ },
+ "raw": "data/raw/wikidata/Q6087391.json"
+}

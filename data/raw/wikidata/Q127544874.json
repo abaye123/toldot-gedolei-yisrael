@@ -1,0 +1,256 @@
+{
+ "id": "Q127544874",
+ "url": "https://www.wikidata.org/wiki/Q127544874",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q127544874",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף שמואל מודיאנו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב סלוניקאי מחבר ספר ראש משביר."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$78f9e98c-4621-142b-cbd4-2c6d1993ae9b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$a7fb2969-475f-73d8-890a-cba9b2277cd4",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$8a714d59-413f-7829-6c68-dd3c659e35b1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1ea88989d1cfc6d9d25b8f87c9f3a130c9f20f08",
+      "datavalue": {
+       "value": {
+        "time": "+1703-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "9ea801d2db4061617d93c6605df0914c2e49cff2",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 122238716,
+          "id": "Q122238716"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q127544874$86900f27-475e-fac8-3ff1-70ddac9ab02a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6d316a1ed8d287714e5315221223c09074d4d60e",
+      "datavalue": {
+       "value": {
+        "time": "+1781-08-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q127544874$a8519d3b-4080-fc74-534d-38aa62965e9e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fbb0305efca83fadfd67c0c7daafc2d2b44745d8",
+      "datavalue": {
+       "value": {
+        "time": "+1781-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q127544874$3CC9C6B3-F808-4C37-A32C-A6B47A5B42AA",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "68b9cb6560a64a33695778b7f595f193d34097a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$8b94717b-476c-0b33-f3a3-41f803c5d205",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "14ebb720884e26fae48b4edb94411611ec0cb725",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2972623,
+        "id": "Q2972623"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$fa1baf95-4312-52f0-96e6-20882a1437de",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "3c7abacf09827902c71530cf2d6a4f8a80fb7041",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25495716,
+        "id": "Q25495716"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q127544874$4d192a04-4f78-fd81-0ef0-b6df7d1bb711",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף שמואל מודיאנו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q25495716": "משה אמריליו",
+  "Q2972623": "בית הקברות היהודי העתיק בסלוניקי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q127544874.json"
+}

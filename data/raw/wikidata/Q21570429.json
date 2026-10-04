@@ -1,0 +1,112 @@
+{
+ "id": "Q21570429",
+ "url": "https://www.wikidata.org/wiki/Q21570429",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q21570429",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל וילנסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Wilensky"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Shemuʼel Ṿilensḳi"
+    },
+    {
+     "language": "en",
+     "value": "Shemuʼel Ḥarḳover"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21570429$323AB1B5-3176-491D-9312-D61E61A98E19",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q21570429$45511D1A-B6B2-474E-944A-84652155F423",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b9c7e30ec3df0c8c6e2c32ac161552097593878d",
+      "datavalue": {
+       "value": {
+        "time": "+1959-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q21570429$2C129350-D428-4CED-9878-ED49725C9B1F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל וילנסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q21570429.json"
+}

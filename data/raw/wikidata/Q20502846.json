@@ -1,0 +1,156 @@
+{
+ "id": "Q20502846",
+ "url": "https://www.wikidata.org/wiki/Q20502846",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20502846",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דב מאיר רובמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Dov Meʼir Robman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מייסד וראש ישיבת תפארת ישראל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502846$A737BB99-1EF6-453C-AFBD-227541C41384",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502846$C3E2F2EF-A8C6-46D7-83C5-7248C64BEC3A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "92260aa99fc1c0a7cfe6ae33fa2128edbe709bf3",
+      "datavalue": {
+       "value": {
+        "time": "+1967-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502846$4FB57B2D-2704-41ED-9678-421D4A0CD70E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "29fbb1532fd64b153291fda98ab1346017f6af09",
+      "datavalue": {
+       "value": {
+        "time": "+1895-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502846$A723CD36-3920-4217-BF4E-285DAFE9DD9E",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b1697c16401fbfacc1869cc19e12bb6ea04c081a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 121463044,
+        "id": "Q121463044"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502846$CC4AD70B-A731-49AE-935F-9C80DDCFAA4C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דב מאיר רובמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q121463044": "בית הקברות היהודי חוף הכרמל",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q20502846.json"
+}

@@ -1,0 +1,220 @@
+{
+ "id": "Q3304735",
+ "url": "https://www.wikidata.org/wiki/Q3304735",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3304735",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Meir Shlomo Yanovsky"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאיר שלמה ינובסקי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi (1850–1933)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Meir Shlomo"
+    },
+    {
+     "language": "en",
+     "value": "Meir Shlomo Yanofsky"
+    },
+    {
+     "language": "en",
+     "value": "Meir Schlomo"
+    },
+    {
+     "language": "en",
+     "value": "Meir Schlomo Yanofsky"
+    },
+    {
+     "language": "en",
+     "value": "Meir Schlomo Yanovsky"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Meir Shlomo Yanovsky"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3304735$77FA289B-2994-48DC-B532-62E0B1978652",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3304735$014F7726-0B6A-4AC2-A324-F67A99E28B92",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "f9297a95dae016a21c3094b33ce10828ad6539e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36834,
+        "id": "Q36834"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3304735$c82a896f-497b-37e0-ad98-52627929fd53",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "29971393c9a132df112f3f4d9fd17ec18c8a7482",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2689951,
+        "id": "Q2689951"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3304735$5E787C82-1A97-41FF-A961-413C5888AE3A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c138afe883421c4d6b92352ee2a95d51de14d4bb",
+      "datavalue": {
+       "value": {
+        "time": "+1933-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P837": [
+       {
+        "snaktype": "value",
+        "property": "P837",
+        "hash": "e8df2973ec39cc3f3f5413c00ecf58d5c7a0cee5",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2911206,
+          "id": "Q2911206"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P837"
+     ],
+     "id": "Q3304735$B5589A45-1383-4216-AF9F-FB24FA5AA980",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0db6e78c472ec8d653e43d6ea33546adea1ccf7e",
+      "datavalue": {
+       "value": {
+        "time": "+1850-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3304735$c6517068-030c-4bdb-b564-1f0795a79763",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר שלמה ינובסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2689951": "חנה שניאורסון",
+  "Q36834": "מלחין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3304735.json"
+}

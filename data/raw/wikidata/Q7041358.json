@@ -1,0 +1,161 @@
+{
+ "id": "Q7041358",
+ "url": "https://www.wikidata.org/wiki/Q7041358",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7041358",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם צוקרמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Zuckerman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומחנך ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli educator"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Tsuḳerman, Avraham"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7041358$6DE7EA10-9C5B-4DD9-B659-C0B4B952F063",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "09a7ce69e3f53e1e0fdcf35ae73b13a3aaf2f850",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 974144,
+        "id": "Q974144"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7041358$0068CE07-DFE1-4226-9739-45B39046AA5F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7041358$c9d4dcb0-456a-d582-6737-05167f537de1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "814d09c463b0a4c940aa5504aa860556f6b6eaed",
+      "datavalue": {
+       "value": {
+        "time": "+1915-10-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7041358$4958961B-46CB-43D5-BD5F-AB7428911204",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "906a0507609fd8937383a63618f33a3157fcf75c",
+      "datavalue": {
+       "value": {
+        "time": "+2013-10-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7041358$0B503E6A-1487-4AEC-8355-C8CF5AFD6245",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם צוקרמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q974144": "מחנך"
+ },
+ "raw": "data/raw/wikidata/Q7041358.json"
+}

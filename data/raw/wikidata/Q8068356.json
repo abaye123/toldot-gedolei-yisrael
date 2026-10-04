@@ -1,0 +1,167 @@
+{
+ "id": "Q8068356",
+ "url": "https://www.wikidata.org/wiki/Q8068356",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8068356",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Zechariah Mendel ben Aryeh Leib of Cracow"
+   },
+   "he": {
+    "language": "he",
+    "value": "זכריה מנדל בן אריה לייב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני, מחבר באר היטב"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Zachariah Mendel ben Aryeh Leib of Belz"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "זכריה מנדל בן אריה ליב מבלז"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8068356$0E28A31A-BDE5-4848-9D18-D438894F0EA9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8068356$1C675442-E586-4C99-8DCE-B2A2BD24794B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2d18eae19c52b15e78a413605cb9dda0370e86c2",
+      "datavalue": {
+       "value": {
+        "time": "+1706-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8068356$EA585876-F0E6-47D1-98C6-60048D766311",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2483da49a21dd004ac3b79a74fa917f1279cac51",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 20501827,
+        "id": "Q20501827"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8068356$3070a37b-4b79-225e-b0c7-e638f559a615",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "d7b5f1b19928540a93e22e710cb52b4217d44dcd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4837028,
+        "id": "Q4837028"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8068356$fbc1a445-4413-b108-ff98-aca97f45594b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זכריה מנדל בן אריה לייב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q20501827": "אריה לייב \"הארוך\" מקראקא",
+  "Q4837028": "באר היטב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8068356.json"
+}

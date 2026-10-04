@@ -1,0 +1,343 @@
+{
+ "id": "Q7558555",
+ "url": "https://www.wikidata.org/wiki/Q7558555",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7558555",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Solomon Almoli"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה אלמולי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב טורקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה בן יעקב אלמולי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$FE68828B-CA23-48CB-A006-5CF2EFB13CE2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$11B8F95F-4083-4A4D-827B-D07AC5840C2D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$0C54DAC5-CDDC-410C-8CF2-E17681CB3D68",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "945f49d22ea581a0427ff28f71a983f84d290027",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4988856,
+        "id": "Q4988856"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$72D95A7E-735C-4C0B-9A80-FD840223474C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$27E19A46-E4DE-4E62-9752-AE6EE107F5C7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9229a01dd8696dde9718183d7d5d10d443cae600",
+      "datavalue": {
+       "value": {
+        "time": "+1515-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558555$1017B0D9-3302-49C5-B342-ED2DFBCF854F",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a17e14b9f3f12a5b33e5f4774543041fd914d650",
+      "datavalue": {
+       "value": {
+        "time": "+1485-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "349868e862468c959736fc62421502829019a5df",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 79030196,
+          "id": "Q79030196"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q7558555$a138efa6-4404-0023-3cdb-61ccb671cb1b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a8bea18fcfc4da8e65ac1e26163e0d2c4e536c20",
+      "datavalue": {
+       "value": {
+        "time": "+1490-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "349868e862468c959736fc62421502829019a5df",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 79030196,
+          "id": "Q79030196"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "846ef9c47d4f968f4009f35b43f865fc99fe77aa",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 60070514,
+          "id": "Q60070514"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q7558555$f852ad8a-419f-1cee-d2c6-d7962aa709db",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a22c227731d08235192c13a4d0327e8ecdfe7157",
+      "datavalue": {
+       "value": {
+        "time": "+1542-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7558555$127D8131-FF3C-4628-B952-AD1E73FE5E21",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0c566e5e39b5ef1dd8977334e1b005939a06820",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$B5507363-D5ED-46C1-8322-0DA0F7C6872C",
+     "rank": "deprecated"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "68f8ed45f482629322911eccae319d5b7dcf3196",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12837,
+        "id": "Q12837"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7558555$94654dfc-4127-f02c-73d5-568cd7bb50c3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה אלמולי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12837": "חצי האי האיברי",
+  "Q133485": "רב",
+  "Q39631": "רופא",
+  "Q406": "איסטנבול",
+  "Q4964182": "פילוסוף",
+  "Q4988856": "הבראיסט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7558555.json"
+}

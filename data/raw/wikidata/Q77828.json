@@ -1,0 +1,198 @@
+{
+ "id": "Q77828",
+ "url": "https://www.wikidata.org/wiki/Q77828",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q77828",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יואכים פרינץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joachim Prinz"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German-American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fabf2f9b45624b844e89f276154bb5a958a72a7d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 589460,
+        "id": "Q589460"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q77828$110EBBF7-8343-4F94-99F9-A99D16D7CC70",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ee601e4a73cb3ffedf011b790aaba9583435a554",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 857808,
+        "id": "Q857808"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q77828$fe9b2528-40c4-5599-e67f-b6534ea2df2d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3cb24918dc5d4ab54986da1098b9fa76e22ce062",
+      "datavalue": {
+       "value": {
+        "time": "+1902-05-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "q77828$10d5191b-49e4-cf82-7be9-6b152e03776f",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "587fe71efd697ae3dbe3c83556e5c506088dbfa4",
+      "datavalue": {
+       "value": {
+        "time": "+1988-09-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "q77828$5381cf14-48f9-0aeb-c22e-6928fe8b3e20",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q77828$9418f667-4737-c0fd-11e1-33572c41231c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q77828$A343E5F3-909E-4ABA-9C12-6D6711531CBD",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q77828$6AB06B47-F372-4C73-831F-6221D2FA5DFF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יואכים פרינץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q589460": "ליווינגסטון",
+  "Q857808": "Bierdzany"
+ },
+ "raw": "data/raw/wikidata/Q77828.json"
+}

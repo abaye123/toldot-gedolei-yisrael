@@ -1,0 +1,338 @@
+{
+ "id": "Q330769",
+ "url": "https://www.wikidata.org/wiki/Q330769",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q330769",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham ben David of Posquières"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם בן דוד מפושקירה"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Provençal rabbi and Talmud commentator (c.1125–1198)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הראב\"ד"
+    },
+    {
+     "language": "he",
+     "value": "ראב\"ד השלישי"
+    },
+    {
+     "language": "he",
+     "value": "בעל ההשגות"
+    },
+    {
+     "language": "he",
+     "value": "ראבד"
+    },
+    {
+     "language": "he",
+     "value": "ראב\"ד"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham ben David"
+    },
+    {
+     "language": "en",
+     "value": "Rabad of Posquières"
+    },
+    {
+     "language": "en",
+     "value": "Abraao Ben David de Posquieres"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2e8265f078e620056fd60a9190633e4c047c11b5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6555,
+        "id": "Q6555"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330769$B1A3873F-03F1-4EBF-971D-4AE54E9EC611",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "70b3a679130678cb593fbe8f1a72d959024bd04a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 268025,
+        "id": "Q268025"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q330769$95EE77A2-70C5-4BF4-813F-C1F0F0B4DBB4",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$61CB5F67-BEB1-40F7-8FBF-BDF8E3F4D85E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "66f26bacf0f8f4850bab7a0ad3efdea56c47ae10",
+      "datavalue": {
+       "value": {
+        "time": "+1198-11-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q330769$F2A08418-6D6D-409E-ACB9-BBBAD2B3B53C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$284EA18A-6DFE-4976-9C14-82A8E4400119",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$ADE881F8-1AF4-4D84-B42E-E220000DB955",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "2df3fbe1cd7f8b1500b7326829033864d00533f9",
+      "datavalue": {
+       "value": {
+        "time": "+1120-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q330769$fa9ba5aa-469d-faed-2cb5-831cb6fbcda3",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "f329c904261a1b3c319cda51f5c988da66ff5949",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 927296,
+        "id": "Q927296"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$586b6323-4719-d34f-1529-df91252cf585",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "152406b4287042ffaba93f687875308b5e1f74fe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404674,
+        "id": "Q12404674"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$269b1eb0-47d9-1cd2-4b65-fecb2ea0835f",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "c969a148022360e5553d8cd38b20c74f5a3423dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6821313,
+        "id": "Q6821313"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$355DE325-B795-4CAC-8CF3-DC777DDB9815",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "2f2a669778372a70d6b1be1f1dd5c62a1edf9571",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2821862,
+        "id": "Q2821862"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q330769$ac3a9a33-437b-01d2-937a-f39b4450439d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם בן דוד מפושקירה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404674": "בעלי הנפש",
+  "Q133485": "רב",
+  "Q268025": "וווה",
+  "Q2821862": "אברהם בן יצחק מנרבונה",
+  "Q4964182": "פילוסוף",
+  "Q5": "אדם",
+  "Q6555": "נרבון",
+  "Q6821313": "משולם בן יעקב מלוניל",
+  "Q927296": "יצחק סגי נהור"
+ },
+ "raw": "data/raw/wikidata/Q330769.json"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "Q6122740",
+ "url": "https://www.wikidata.org/wiki/Q6122740",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6122740",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל צבי מרגליות"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samuel Hirsch Margulies"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ופילוסוף יהודי-איטלקי (1858-1922)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi (1858-1922)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "S. H. Margulies"
+    },
+    {
+     "language": "en",
+     "value": "Margulies, Samuel Hirsch"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6122740$80E1AB6D-D805-43C3-8627-D6C8489DD29E",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6122740$8959BF63-3361-4078-9676-CF1FE338E262",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6f8042a6da54bd9f4ec095e79b2df7750892e7b2",
+      "datavalue": {
+       "value": {
+        "time": "+1922-03-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6122740$B10B0B49-C722-42D4-A896-B2971061D0A5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "124f72a0f0b949915ea1700dbd2308134d5cb861",
+      "datavalue": {
+       "value": {
+        "time": "+1858-10-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6122740$A309F39D-3AB5-42B2-A7BA-6B365967A3AB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "07d27fe913ca37f7e907033b3cb643f889305351",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2044,
+        "id": "Q2044"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6122740$6343B937-2D9C-4684-A600-1F87217C8A68",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d66ea010d59243d8beb805aac0f91ee951b3c741",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 793424,
+        "id": "Q793424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6122740$E13EE846-6EAC-4152-88D9-39946138BB8B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל צבי מרגליות",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2044": "פירנצה",
+  "Q5": "אדם",
+  "Q793424": "בז'ז'ני"
+ },
+ "raw": "data/raw/wikidata/Q6122740.json"
+}

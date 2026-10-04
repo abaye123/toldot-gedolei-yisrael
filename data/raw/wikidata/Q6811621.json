@@ -1,0 +1,152 @@
+{
+ "id": "Q6811621",
+ "url": "https://www.wikidata.org/wiki/Q6811621",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6811621",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף כנאפו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yoseph Knafo"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6811621$A66E8476-4A5B-4827-AE90-83775C535C3A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6811621$A21DB587-1B23-4FA1-85CA-3F2251213586",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7030e4ca9e298b55c8c37cb0d1ce88fe31f53dc1",
+      "datavalue": {
+       "value": {
+        "time": "+1823-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6811621$8BC69C90-79D2-462C-9999-E8B99102E7CB",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "45d9668db3f0d6749447bc6114024baa0ac69524",
+      "datavalue": {
+       "value": {
+        "time": "+1901-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6811621$3B37F116-B343-4E74-B412-61DACCA0270A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "19a8bc5a6c2fc510e398792956c93079563a0581",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216939,
+        "id": "Q216939"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6811621$3E3DA9E8-7D2E-4B31-A32B-4E873D7E950F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף כנאפו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q216939": "אסואירה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6811621.json"
+}

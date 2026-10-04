@@ -1,0 +1,154 @@
+{
+ "id": "Q6119520",
+ "url": "https://www.wikidata.org/wiki/Q6119520",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6119520",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Jacob ben Hayyim Alfandari"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב אליפנדרי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Talmudic writer and rabbi in 17th century Istanbul"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרבני קושטא במאה ה-17"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6119520$90A19160-220D-42D1-935B-2988EDFFD2A3",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "3d4a9610b9a4aeb0076636e71ecbac7239dfeeda",
+      "datavalue": {
+       "value": {
+        "time": "+1620-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6119520$4E67CBD7-A6C1-461A-9B11-E189E3799C1E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d199eeb68a6c70dfc189e914211f2a7760d80aed",
+      "datavalue": {
+       "value": {
+        "time": "+1695-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6119520$D26EBE42-D75F-45C8-86CD-3CEB94E06686",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6119520$EB5A8B0C-6E6A-40AC-A866-4410EE7C9CED",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6119520$3b3f35f4-4a07-989f-a8e2-1484de0ce1e8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב אליפנדרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q6119520.json"
+}

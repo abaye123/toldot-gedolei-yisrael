@@ -1,0 +1,352 @@
+{
+ "id": "Q6989286",
+ "url": "https://www.wikidata.org/wiki/Q6989286",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6989286",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל מזמושץ'"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Zamosz"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בגליציה"
+   },
+   "en": {
+    "language": "en",
+    "value": "talmudist, mathematician, and poet"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Israel ben Moses Halevi Zamosc"
+    },
+    {
+     "language": "en",
+     "value": "Israel of Zamosc"
+    },
+    {
+     "language": "en",
+     "value": "Israel ben Moses Levi‏"
+    },
+    {
+     "language": "en",
+     "value": "Segal, Israel ben Moses‏"
+    },
+    {
+     "language": "en",
+     "value": "Yiśraʾel ben Mošeh Segaʺl"
+    },
+    {
+     "language": "en",
+     "value": "Zamošẕ, Y.ha-Lewi"
+    },
+    {
+     "language": "en",
+     "value": "Israel Zamosc"
+    },
+    {
+     "language": "en",
+     "value": "Zamosc, Israel ben Moses, Halevi"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "ישראל‏ זאמושטש‏"
+    },
+    {
+     "language": "he",
+     "value": "ישראל בן משה סגʺל"
+    },
+    {
+     "language": "he",
+     "value": "ישראל בן משה מזאמשט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$C074B2FA-6001-4D3D-A4C8-12BDF14D09A3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$6EED35F2-C378-4D26-94F2-887675AC18FA",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d4e326526308355e0b0ca12c3222338d6ba65416",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170790,
+        "id": "Q170790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$84D04E11-1BA1-4D15-A59E-FDC0B27B7735",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$D55B95DE-8468-4EC6-ABFD-E7E99603B0DC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0b8df6e6a308c1d03105e0417bf95c1936351d16",
+      "datavalue": {
+       "value": {
+        "time": "+1700-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q6989286$AB2708A0-0AA2-4C1A-8AC4-1F3BBDF05072",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "063f954844baa29a31ca45c8a2b024a1c76c2fb1",
+      "datavalue": {
+       "value": {
+        "time": "+1772-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6989286$0545CDF5-2302-4836-BE4F-BF5915368E32",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "03827a7a68285d018c275997f64ea7e3356a629d",
+      "datavalue": {
+       "value": {
+        "time": "+1772-04-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6989286$4be97b23-448a-22d7-147e-4c19ead46165",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "01f14e02fc383109278c2dbf86373a9f04cf94c7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156808,
+        "id": "Q156808"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$038CB657-E087-484B-96BA-50D150F41045",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2d96c52926b1fbfb6398038705ca06e9105f2c6a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$94016955-4dca-18ea-3435-0669215b1a82",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "e01c2905f0e4c7c051f202655dd9b9f5409c8211",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 76997,
+        "id": "Q76997"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$B66D88FF-B8DB-4259-AE5E-D802C05E408B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "1d061dc6ae581ffceca08482261aa76244b7ae3a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 63242517,
+        "id": "Q63242517"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6989286$9BF45563-4991-48D6-ADB8-7C9D27D9C046",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל מזמושץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156808": "בוברקה",
+  "Q170790": "מתמטיקאי",
+  "Q465104": "ברודי",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q63242517": "ישראל לנדא",
+  "Q76997": "משה מנדלסון"
+ },
+ "raw": "data/raw/wikidata/Q6989286.json"
+}

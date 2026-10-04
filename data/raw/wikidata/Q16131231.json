@@ -1,0 +1,170 @@
+{
+ "id": "Q16131231",
+ "url": "https://www.wikidata.org/wiki/Q16131231",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16131231",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "זבולון גרז"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד רחובות"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131231$3E80E6ED-7500-4A00-BBB0-468280F65C56",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131231$768ba162-45e4-fd92-1150-24f78508be99",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d9469755a0756eb720231783cb13c36306bcdb7b",
+      "datavalue": {
+       "value": {
+        "time": "+1903-09-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131231$a012c623-4e7c-9631-7281-0b66832769dd",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c04456d15c28b15d2353f7d3b491e6d901ed1bac",
+      "datavalue": {
+       "value": {
+        "time": "+1989-07-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16131231$281abf82-4c74-6938-65cd-5fc225f2aa23",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1982f9b41f9cec5051fa8fa66339386a62d0a056",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 977255,
+        "id": "Q977255"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131231$d5c5adea-48af-4ddd-b627-8f9e9cdef0fe",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "05181284d1d1e7560e933e00e23046b2918ca6dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6608024,
+        "id": "Q6608024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16131231$364ed7e5-4aac-4e46-1651-8fad58d62c3e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "זבולון גרז",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6608024": "בית הקברות של נציבי ישיבת פוניבז'",
+  "Q977255": "פלונגה"
+ },
+ "raw": "data/raw/wikidata/Q16131231.json"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "Q41616548",
+ "url": "https://www.wikidata.org/wiki/Q41616548",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q41616548",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Josua Levita"
+   },
+   "he": {
+    "language": "he",
+    "value": "ישועה בן יוסף הלוי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "15th century talmudist"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ר' ישועה בר' יוסף הלוי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41616548$234BFF94-F149-4466-B314-B3CFED333E83",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "60bff374363bd45b67a095195c9e59f6e5e030c7",
+      "datavalue": {
+       "value": {
+        "time": "+1401-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41616548$C8415594-6A62-4703-A116-1D909EAC64F9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "931b8bc93cfda95323431e74a310fe55785e20ee",
+      "datavalue": {
+       "value": {
+        "time": "+1500-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q41616548$48813F07-F697-429F-9BB9-BB1600F02CC9",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "438ccffd8b1d73031627dad12839a8260400fd4f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25489503,
+        "id": "Q25489503"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41616548$2FE318B5-AA8D-4CDA-887D-F3B34A055AA4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q41616548$2f46743e-497f-0ea9-0bd8-72d1eff7375b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישועה בן יוסף הלוי",
+    "badges": [
+     "Q70894304"
+    ]
+   }
+  }
+ },
+ "linked_labels": {
+  "Q21584816": "תלמודאי",
+  "Q25489503": "הליכות עולם",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q41616548.json"
+}

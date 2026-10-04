@@ -1,0 +1,176 @@
+{
+ "id": "Q6088021",
+ "url": "https://www.wikidata.org/wiki/Q6088021",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6088021",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Issachar ben Mordecai ibn Susan"
+   },
+   "he": {
+    "language": "he",
+    "value": "יששכר בן מרדכי אבן סוסאן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Palestinian mathematician"
+   },
+   "he": {
+    "language": "he",
+    "value": "חכם יהודי מן המאה ה-16, תושב צפת."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d4e326526308355e0b0ca12c3222338d6ba65416",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 170790,
+        "id": "Q170790"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q6088021$F07C7898-4DC3-4F55-8F82-3698FD3DF589",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6088021$DFCFC3E7-EDA8-47D9-B1C1-EAD6C324952B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6088021$8E8A5BFD-95C5-4745-B75D-B8BFF157B8D0",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1f266894030b5979aa7d65219dd023c8caff2ad5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 80985,
+        "id": "Q80985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6088021$2F5BA2D2-A7DD-4C77-A5E5-BDB6F5C58953",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28b967a9a01cb2fb6777bcab6c2b42747ac421bf",
+      "datavalue": {
+       "value": {
+        "time": "+1510-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6088021$0113e573-96dc-4978-b549-1c296c7adf8a",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "835abf99d21057c5fdfda83738038b54670eaf8d",
+      "datavalue": {
+       "value": {
+        "time": "+1580-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6088021$18fbacd6-7582-4cbb-b1e8-57f69b4a5e64",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יששכר בן מרדכי אבן סוסאן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q170790": "מתמטיקאי",
+  "Q5": "אדם",
+  "Q80985": "פאס"
+ },
+ "raw": "data/raw/wikidata/Q6088021.json"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "Q7036366",
+ "url": "https://www.wikidata.org/wiki/Q7036366",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7036366",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "הלל פריד"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hillel Fried"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "משנה ראש ישיבת וולוז'ין, אב\"ד בגרודנה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Belarusian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036366$A64F2796-4412-4CDF-BE92-857F1DE2711F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036366$810E8BA5-97EF-4DAA-AED2-6FEE188974C0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5cac6aecabd675e7fe3d6cb526407fa5cba87d39",
+      "datavalue": {
+       "value": {
+        "time": "+1763-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7036366$8a1b4026-40e1-af1a-3d22-778a484d47f8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "721f5e5c31d2e9ddbfb90ec0dab5f0bb1895dc87",
+      "datavalue": {
+       "value": {
+        "time": "+1833-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7036366$72f8102e-4343-95b1-92de-628710c83826",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4c631d8dddc4f07bd53db09a33b41c7911bf4e2c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201230,
+        "id": "Q201230"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036366$61caa1dc-4fce-6d38-5f45-f285675b5b0b",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "2b1ae09b2b4c4bdf3569e71142a1f4043915cc71",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7024451,
+        "id": "Q7024451"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7036366$06744d13-494d-f5a9-5d33-31f3eed82ccf",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הלל פריד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q201230": "ניאסוויז'",
+  "Q5": "אדם",
+  "Q7024451": "אליעזר יצחק פריד"
+ },
+ "raw": "data/raw/wikidata/Q7036366.json"
+}

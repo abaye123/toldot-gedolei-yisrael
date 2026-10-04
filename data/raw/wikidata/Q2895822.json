@@ -1,0 +1,367 @@
+{
+ "id": "Q2895822",
+ "url": "https://www.wikidata.org/wiki/Q2895822",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2895822",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון סופר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Simon Schreiber"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austrian rabbi (1820-1883)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אוסטרי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמעון בן משה סופר"
+    },
+    {
+     "language": "he",
+     "value": "מכתב סופר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shimon Sofer"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "591187d2242aebe5f7c2c45f4188efc05f8f38b2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1780,
+        "id": "Q1780"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$A48B94DF-1486-4D9A-B9FA-02BB94514D90",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "592903f53a436d9dc723e0f31089ff7265a3be8a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$CBA93E95-8117-4F77-AC87-A4C5B38F9A37",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5ba1c310e29cce2ab3eac36e249e3426fc547979",
+      "datavalue": {
+       "value": {
+        "time": "+1883-03-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895822$D674A004-D57D-471A-B98A-6F0187A7A421",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "17d2c166f23c20894f6b405722d96b1091594b56",
+      "datavalue": {
+       "value": {
+        "time": "+1820-12-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2895822$946F38B0-BC8B-4EB8-8BCD-1BA1C9174DFE",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$AA13FDD1-2EA9-4E0B-A5DE-10C5085961B6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$06AA009B-0C54-4AFE-9D96-E873164725F8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 82955,
+        "id": "Q82955"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$e41a9f67-4859-bd8b-e474-4f6501e8cf49",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "b760c8005976ff91d595f0130935a045eeb0a5e0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 707498,
+        "id": "Q707498"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$E8AB0F5C-8305-48FE-8EF5-6AE75D31FAFE",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "802d0e9c99c4e1f51aaaf5f6b2adcea68ad2ef39",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16063101,
+        "id": "Q16063101"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$DC3EF2A0-15CE-4535-BD41-3938780F6E94",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "24c57507f06e621547060a49520cc224268f1c21",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 791779,
+        "id": "Q791779"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$AC41DEBF-F361-4D28-ABDD-2A2F3FE952DA",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "250f56aeb4a77ee6ccf36afad4f457355bdf61b9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 42744067,
+        "id": "Q42744067"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "62a2be5aef7bfc2179b670f66b18f3899904a606",
+        "datavalue": {
+         "value": {
+          "time": "+1879-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ],
+      "P582": [
+       {
+        "snaktype": "value",
+        "property": "P582",
+        "hash": "45f3a131b58633c4e0d054cb2c006214f300dab6",
+        "datavalue": {
+         "value": {
+          "time": "+1883-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580",
+      "P582"
+     ],
+     "id": "Q2895822$554e85e3-2852-4c82-8d3f-9eae8c31c69a",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "0684c92553d35c2f249e67f75f70d510382e40d7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 63216,
+        "id": "Q63216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2895822$F57FA8E3-C8A3-4AD3-898C-26256E88C3A1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון סופר (מכתב סופר)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16063101": "Yozef Yozpa Sofer",
+  "Q1780": "ברטיסלאבה",
+  "Q31487": "קרקוב",
+  "Q42744067": "חבר בית הנציגים",
+  "Q5": "אדם",
+  "Q63216": "בית העלמין היהודי החדש בקרקוב",
+  "Q707498": "החתם סופר",
+  "Q791779": "אברהם שמואל בנימין סופר",
+  "Q82955": "פוליטיקאי"
+ },
+ "raw": "data/raw/wikidata/Q2895822.json"
+}

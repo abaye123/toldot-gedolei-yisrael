@@ -1,0 +1,176 @@
+{
+ "id": "Q6865224",
+ "url": "https://www.wikidata.org/wiki/Q6865224",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6865224",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ראובן אהרונוביץ'"
+   },
+   "en": {
+    "language": "en",
+    "value": "Reuven Aharonovich"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש עיריית בני ברק השלישי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli politician"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6865224$1DBA16F2-9007-43C4-B2B6-89C6067D187D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "184f0573f5828d9b93515be4d4ab85d16151fb6d",
+      "datavalue": {
+       "value": {
+        "time": "+1902-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6865224$52CCCDCE-C416-40FB-A3E8-FC3A7A93C7EC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ec6d0cd0e71f1ccc548b2e2eb9a7e6477c420d63",
+      "datavalue": {
+       "value": {
+        "time": "+1975-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6865224$04306471-5E5F-4258-8FF1-AD51C3A3CE7A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "008e9e11ee900e1aae0523e03f05a18a8b99a14b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 628460,
+        "id": "Q628460"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6865224$02C98249-1301-45E4-8FED-41F25AA8665A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 82955,
+        "id": "Q82955"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6865224$c667a742-ce41-43db-8476-7b0abaea2273",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6865224$aef2d7cf-42f7-ceaf-2c56-b296f53b53e9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ראובן אהרונוביץ'",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q628460": "אוזורקוב",
+  "Q82955": "פוליטיקאי"
+ },
+ "raw": "data/raw/wikidata/Q6865224.json"
+}

@@ -1,0 +1,326 @@
+{
+ "id": "Q4453240",
+ "url": "https://www.wikidata.org/wiki/Q4453240",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4453240",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב יוסף טברסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yakov Yosef Twersky"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מסקווירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Grand Rabbi of Skver (1899-1968)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יעקב יוסף טוורסקי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Rabbi Yakov Yosef Twersky"
+    },
+    {
+     "language": "en",
+     "value": "Yaakov Yoseph Twersky"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$94EC9786-227F-4D94-A153-7E7987D9F7CA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4209cfd919670bfe8b3328b47ae17b36c9af3cfb",
+      "datavalue": {
+       "value": {
+        "time": "+1899-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4453240$DE1CE29C-40D9-430E-9D1F-6ECD4BCBAA27",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a083cd64401dae80bcd07c887ca47eb20378ffe1",
+      "datavalue": {
+       "value": {
+        "time": "+1899-06-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4453240$C99BC847-2A27-487D-99D6-9F211B70E2CD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ee946cf5dc02b8004194e7240eef57edf7eef920",
+      "datavalue": {
+       "value": {
+        "time": "+1968-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4453240$3BE34970-2F8B-46C1-BE1F-345CEB580B68",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "23d6c0716cdcd07594298a8d752a5bb38dca1dac",
+      "datavalue": {
+       "value": {
+        "time": "+1968-03-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q4453240$CE8F398F-E382-44DD-B9F3-54332F08028E",
+     "rank": "preferred"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "cb4af8c88b1b7cdef4909cdb749606c6899cf037",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 70598,
+        "id": "Q70598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$4B6CE0C6-C6F7-4C12-A1AF-7E37365437C0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$1b9d1184-4d80-9026-63ec-cd10a481e5ab",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e015abe83ea90c7ca840d9632ce84ed3e969728b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2917479,
+        "id": "Q2917479"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$a8ce7333-434c-7808-5c21-a07610b3ba46",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "37e295c83b71472f7c4b350042319cbc6e5ea20c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 117644547,
+        "id": "Q117644547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$33ED52CA-5519-4D65-8AF0-45E9DBE2C7A7",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "cd43316d52cd8c4b611927efb84a79b118f34577",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30527654,
+        "id": "Q30527654"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$8eddbb0e-4020-6c07-606a-e6be00634cb2",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3c81e1841043747e99c3064b43a42a4f94bdb095",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1995850,
+        "id": "Q1995850"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4453240$86274596-422c-dc42-0a67-7982b8e5d1a7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב יוסף טברסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q117644547": "New Square Cemetery",
+  "Q133485": "רב",
+  "Q1995850": "דוד טברסקי",
+  "Q2917479": "ניו סקוור",
+  "Q30527654": "דוד טברסקי (סקווירא)",
+  "Q5": "אדם",
+  "Q70598": "סקווירה"
+ },
+ "raw": "data/raw/wikidata/Q4453240.json"
+}

@@ -1,0 +1,141 @@
+{
+ "id": "Q19688010",
+ "url": "https://www.wikidata.org/wiki/Q19688010",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19688010",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים אברהם שפירא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19688010$6c3ba46a-4bf5-ce77-75c4-6b057a8c0d99",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4b146a1f95f162a47f448316d0137af27bfbd759",
+      "datavalue": {
+       "value": {
+        "time": "+1886-05-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19688010$b87beedc-4fd4-c6a6-0502-e98329aaa34a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "dfa53bba51df7f0a65074dcfcb11a875fa5932e3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5213666,
+        "id": "Q5213666"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19688010$07c0162d-4d77-6ba9-b3e5-0804bb363768",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19688010$C80D9393-E517-40AC-A481-00B961895C3B",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "ab28daa393ab692ea83a7afdb0ea5995546c3cce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404252,
+        "id": "Q12404252"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19688010$1b5998c6-43e3-b864-08f6-39fecebde0b8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים אברהם שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404252": "אריה לייב שפירא",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q5213666": "איליה"
+ },
+ "raw": "data/raw/wikidata/Q19688010.json"
+}

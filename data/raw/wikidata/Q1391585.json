@@ -1,0 +1,280 @@
+{
+ "id": "Q1391585",
+ "url": "https://www.wikidata.org/wiki/Q1391585",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1391585",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי יהודה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah bar Ilai"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא בן הדור הרביעי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה בר אילעאי"
+    },
+    {
+     "language": "he",
+     "value": "רבי יהודה בר אלעאי"
+    },
+    {
+     "language": "he",
+     "value": "ר' יהודה"
+    },
+    {
+     "language": "he",
+     "value": "רבי יהודה בר עילאי"
+    },
+    {
+     "language": "he",
+     "value": "רבי יהודה בר אילעאי"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בר אילעי"
+    },
+    {
+     "language": "he",
+     "value": "ראש המדברים בכל מקום"
+    },
+    {
+     "language": "he",
+     "value": "רבי יהודה ברבי אלעאי"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בן אילעאי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$082B5855-647A-4E3D-9B84-6C2DD53F5088",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "40d92c8807465ee9c20652507a4baa676c11de7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2901206,
+        "id": "Q2901206"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$5D68EE38-950E-4610-B478-BDE84564D535",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1391585$613A5183-FA85-4CD1-949D-1A7FF74E79AD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ccaacb9b820cb1b8e1cbdc2f95c5135959d4d390",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 975574,
+        "id": "Q975574"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$11d462a6-4479-b063-7322-0d7641e1b955",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$33f7f572-7f34-4f39-8a29-520f74ac1d55",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "6351a7c51915c4ed0c049a19a8a811d2d94e9dff",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 679634,
+        "id": "Q679634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$b68b171f-4cee-fbc0-08f6-0fbec9b81218",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f453d8a4a755d64b405d46c538d9dc8b56568eef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1669578,
+        "id": "Q1669578"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1391585$48715676-5F63-498C-B5FB-FD76717F3CAC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e0c605e5cc8f3a3b3ab9d88855f5c65410fe7f42",
+      "datavalue": {
+       "value": {
+        "time": "+0200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1391585$cdf6b944-4c13-7262-9c1f-0e07ffe590cc",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי יהודה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1669578": "סוריה פלשתינה",
+  "Q2901206": "אושא",
+  "Q5": "אדם",
+  "Q679634": "רבי אלעאי",
+  "Q975574": "תנאים"
+ },
+ "raw": "data/raw/wikidata/Q1391585.json"
+}

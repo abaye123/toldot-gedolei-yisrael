@@ -1,0 +1,167 @@
+{
+ "id": "Q5361011",
+ "url": "https://www.wikidata.org/wiki/Q5361011",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5361011",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Elijah of Ferrara"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליהו מפרארה"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "נוסע יהודי איטלקי מהמאה ה-15"
+   },
+   "en": {
+    "language": "en",
+    "value": "15th-century Talmudist and traveller"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליהו מפררה"
+    },
+    {
+     "language": "he",
+     "value": "אליהו מפירארא"
+    },
+    {
+     "language": "he",
+     "value": "אליהו מפרארא"
+    }
+   ]
+  },
+  "claims": {
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "2bf8273c509f0a10e46acaa094d74bf3d96bad58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11900058,
+        "id": "Q11900058"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q5361011$9A3B9840-429B-4DE1-89D4-92BD64F9346B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5361011$38FBD999-150B-432F-9A63-0EA649525F99",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5361011$690C7D1F-5537-486F-A820-BA013355EBFE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "eed4ac7f52d33ec501ebbbcb88cd6aca601666f4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13362,
+        "id": "Q13362"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q5361011$ed1518e4-486b-0f94-db04-5ef0b3b644d1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5bf09a355ce2123bc19dfef647f95dc8d33ef7b4",
+      "datavalue": {
+       "value": {
+        "time": "+1400-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5361011$702bba42-4f68-1326-745e-d57724c5156b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליהו מפרארה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11900058": "חוקר ארצות",
+  "Q133485": "רב",
+  "Q13362": "פרארה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5361011.json"
+}

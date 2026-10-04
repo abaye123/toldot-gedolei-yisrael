@@ -1,0 +1,163 @@
+{
+ "id": "Q5529637",
+ "url": "https://www.wikidata.org/wiki/Q5529637",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5529637",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Gedalia Dov Schwartz"
+   },
+   "he": {
+    "language": "he",
+    "value": "גדליה דוב שוורץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American Orthodox Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "פוסק הלכה אמריקאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שווארץ, גדלי׳ דוב"
+    }
+   ]
+  },
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "598aea992c6c28ffd8c895168fe42e24e044bec1",
+      "datavalue": {
+       "value": {
+        "time": "+1925-01-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5529637$E5E6BA8F-DBCD-4DDC-8B2E-49CDBD1BF73A",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5529637$27CC0F86-4574-4D16-AD0B-65179D284658",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5529637$F0A1C7CD-9F42-4AD1-A861-0BB971949852",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f834cb677aedc7e9c098472483ab1b9641e9c81a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25395,
+        "id": "Q25395"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5529637$88C6427C-F782-45B9-9456-E1A43FAB901B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c21cd2e960cdb2ccd76bf6c4453d3c3293f2250c",
+      "datavalue": {
+       "value": {
+        "time": "+2020-12-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5529637$85CEE419-7C22-4336-88DF-50FE56FAC7E9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "גדליה דוב שוורץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q25395": "ניוארק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q5529637.json"
+}

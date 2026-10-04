@@ -1,0 +1,163 @@
+{
+ "id": "Q832567",
+ "url": "https://www.wikidata.org/wiki/Q832567",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q832567",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Blücher Ephraim Izráel"
+   },
+   "he": {
+    "language": "he",
+    "value": "אפרים ישראל בליכר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אוסטרי והונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1813–1882)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ephraim Israel Blücher"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832567$D145C1E2-7478-4A07-BD7D-74C562ABC353",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832567$21C61813-A0E0-4F37-A5CE-DDC137824485",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "047efbfaefa0c6569d29fece45d66c0c7b9180e9",
+      "datavalue": {
+       "value": {
+        "time": "+1813-10-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q832567$69730B93-F680-4AA8-BF32-2FC54A589774",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "02db50c202f6a0d6eaa1013da4539a12ae6ea2d9",
+      "datavalue": {
+       "value": {
+        "time": "+1882-04-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q832567$85340195-AFC9-4264-A734-51E14B79755C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "06a401e44891da7ffc8c0bec6b761eb7912d31b4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1781,
+        "id": "Q1781"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832567$1112C9B6-7E77-4A7C-80EC-D5B6B70E7DD7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אפרים ישראל בליכר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1781": "בודפשט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q832567.json"
+}

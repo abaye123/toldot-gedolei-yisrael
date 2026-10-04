@@ -1,0 +1,285 @@
+{
+ "id": "Q2896999",
+ "url": "https://www.wikidata.org/wiki/Q2896999",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2896999",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Berel Wein"
+   },
+   "he": {
+    "language": "he",
+    "value": "דוב ברל ויין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי-ישראלי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "דוב בערל וויין"
+    },
+    {
+     "language": "he",
+     "value": "דב ווין"
+    },
+    {
+     "language": "he",
+     "value": "דב בערל וויין"
+    },
+    {
+     "language": "he",
+     "value": "דוב בערל ויין"
+    },
+    {
+     "language": "he",
+     "value": "ברל ויין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$E6101A76-B1EF-44DD-82AA-238532BBA4B5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c371c8a5264177bd276773f16ff29eee08ad4141",
+      "datavalue": {
+       "value": {
+        "time": "+1934-03-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2896999$B3B955D7-4459-4F7E-8DE4-41078DCD52F0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$D53D8787-55D8-43BA-AF8D-1AA31D249BD2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e281d3086d6f2dfb71a3e6ecfc2ea13a59f70f88",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 40348,
+        "id": "Q40348"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$8e7c4aad-4650-bc72-054d-110f0b31afff",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "943348a1c561d670ec8f5fab1132465a7c779b55",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1930187,
+        "id": "Q1930187"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$AA250C5C-E6E6-4D34-93B6-B36FA0DF0351",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "12a7da4247d68176cfd069d9471567368ad63713",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1297,
+        "id": "Q1297"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$BB271AEB-4109-4BEE-8958-0AED68ACAB64",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$5bb671b9-98c1-4c9c-840e-e64432b615d5",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "4774d3edb7ac9ab3425f8f22e23db61711c95b68",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 733083,
+        "id": "Q733083"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$eb6f5bca-4534-ed73-e7da-9e27c0f4bc70",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f3e3cdefa9e8e47d2afbba4a9dc8959265ca019a",
+      "datavalue": {
+       "value": {
+        "time": "+2025-08-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2896999$c9d8ba61-4eb0-d4b0-48ab-2f36a0803e41",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2896999$1d13f1a5-44b4-ac23-5463-ceb2a5db3478",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוב ברל ויין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q1297": "שיקגו",
+  "Q133485": "רב",
+  "Q1930187": "עיתונאי",
+  "Q2308372": "ראש ישיבה",
+  "Q40348": "עורך דין",
+  "Q5": "אדם",
+  "Q733083": "חיים קרייזווירט"
+ },
+ "raw": "data/raw/wikidata/Q2896999.json"
+}

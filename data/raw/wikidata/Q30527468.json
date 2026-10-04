@@ -1,0 +1,327 @@
+{
+ "id": "Q30527468",
+ "url": "https://www.wikidata.org/wiki/Q30527468",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30527468",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אריה לייב מאמסטרדם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Aryeh Leib ben Saul"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ותלמיד חכם בולט ומגדולי יהדות אשכנז"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1690–1755)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$0DF3A7AC-D9C1-4C3E-90C7-99BCEF608CBE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d40d08f4f22bc84c1430fea57baf24913152789a",
+      "datavalue": {
+       "value": {
+        "time": "+1755-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30527468$88B01059-0AA3-461A-87CE-AA20F18D30E5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "76767e2f3b971e415e6bf9252da39fb692e384d3",
+      "datavalue": {
+       "value": {
+        "time": "+1755-04-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q30527468$47396943-1B05-407D-AE73-F8D16ED74FCA",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$92F50314-9775-42EC-8B6E-4E3F8336E7C7",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "0328ab4f737bc5a7d3e70184634fb586c486d6ad",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 827707,
+        "id": "Q827707"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$bf82f533-4090-8d20-13d8-b82af99318c0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "e2d7f487545d4cf4641cca63397d7366d7475f82",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30527477,
+        "id": "Q30527477"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$cd8049b0-44cf-4b7f-5346-5956d9ffbee0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "1711dfc8d60059ae2b6cbe201e76cbc65ce63540",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141610283,
+        "id": "Q141610283"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$995380df-40a4-09be-dc03-82660213e2bf",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2411d4de72e191506305eca675e4ac359de0d6a8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 31487,
+        "id": "Q31487"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$F4863C68-EED4-463E-B4C9-E49EE1FAAEFC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "01fceddb0e2f59e7ff4069dc87b1cfcd6e86fd1c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 727,
+        "id": "Q727"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$A967B932-F47E-440F-AE2C-B3205E553AB5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cf9970c878b4023038cb1d4e1f9256e774ada863",
+      "datavalue": {
+       "value": {
+        "time": "+1690-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30527468$7250736C-435C-4D64-B04B-DE12800DF5E1",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "c6c48e5341fabd047a563883cea727a1f9dae00a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141612086,
+        "id": "Q141612086"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$B6EF3FED-8FFD-40B5-ACC3-3B6970A3D791",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "0fb815766856bb77005969c7fa7396291826a517",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30527465,
+        "id": "Q30527465"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30527468$a821ddab-412e-4966-2087-13904306ae8d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אריה לייב מאמסטרדם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q141610283": "נחמה נייטשי אשכנזי",
+  "Q141612086": "מרים שושנה לוין",
+  "Q30527465": "שאול בן רבי העשיל",
+  "Q30527477": "שאול מאמסטרדם",
+  "Q31487": "קרקוב",
+  "Q5": "אדם",
+  "Q727": "אמסטרדם",
+  "Q827707": "צבי הירש לוין"
+ },
+ "raw": "data/raw/wikidata/Q30527468.json"
+}

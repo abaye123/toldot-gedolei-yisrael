@@ -1,0 +1,152 @@
+{
+ "id": "Q15621425",
+ "url": "https://www.wikidata.org/wiki/Q15621425",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q15621425",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יחיאל דנציגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jechiel Danziger"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר הראשון מאלכסנדר"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15621425$d0242d7a-41a3-3210-3e4b-8c0325bccbd5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15621425$9B095720-80BC-4999-9167-D159109B4CA1",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a54aecf940c24341e75c9310b2e06e386e5f7c52",
+      "datavalue": {
+       "value": {
+        "time": "+1828-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15621425$2A268A2E-8D58-4C1B-9518-E06DDFFD01D7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9bdb93d208a3a5dd8cd577ba18cbfecbc9e2c842",
+      "datavalue": {
+       "value": {
+        "time": "+1894-01-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q15621425$EE8F0923-C6E7-4D58-BEE4-6D0B83A026C3",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "28744fe21743ba1b081ceedf9b7d6f3550c5f4df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 664371,
+        "id": "Q664371"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q15621425$5c556dde-ac14-4873-943a-8a6b322167e2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחיאל דנציגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q664371": "אלכסנדר לודז'"
+ },
+ "raw": "data/raw/wikidata/Q15621425.json"
+}

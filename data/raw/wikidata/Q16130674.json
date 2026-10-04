@@ -1,0 +1,345 @@
+{
+ "id": "Q16130674",
+ "url": "https://www.wikidata.org/wiki/Q16130674",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16130674",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "נחום קוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nahum Kook"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב שכונת תל גנים ברמת גן ופעיל בתחומי הדת ושמירה על כבוד המת"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$8AFCD01C-339C-4F9D-A097-2990EE90BA22",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a81f58cf41201f00e9065294be309e5fcaa9ae58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 728973,
+        "id": "Q728973"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$99ed4770-459f-44ad-9376-8ef094cbeb01",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$30f75dfe-41d6-712e-6fbd-764f15b62ef9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5415d97c252dc192ff0acac5e22bfdb9b3b57c27",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 113619171,
+        "id": "Q113619171"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P276": [
+       {
+        "snaktype": "value",
+        "property": "P276",
+        "hash": "73ad6a7c01e9ca4eb2e76b654b0b5145aabe7499",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 112923821,
+          "id": "Q112923821"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P276"
+     ],
+     "id": "Q16130674$00ab4ec7-4a79-a5c6-ba7d-6dabe0848e5a",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "447033e779d5159a9ea627b0b0ce8f755d46e0b0",
+      "datavalue": {
+       "value": {
+        "time": "+1932-04-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130674$3980064B-8FC3-4344-B406-F7C2602442DE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$28C59A4E-F977-4D88-AD46-03BA947F0F07",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e51a5091020258572136f14cc9754d9fea2ea01c",
+      "datavalue": {
+       "value": {
+        "time": "+2010-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16130674$48DE358C-3917-4782-B095-051273DDC4F4",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "05181284d1d1e7560e933e00e23046b2918ca6dd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6608024,
+        "id": "Q6608024"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$ACFE080E-46E9-4D61-B892-2B884F096A40",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "dc620147b8ee38c14a7a2e56b633a14f9c0f05bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7044905,
+        "id": "Q7044905"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$2c822324-4938-c5ea-ae6f-ac21874154bd",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "d72ab2626c8c1a8429495bb4b8b3a54808bc0293",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6973529,
+        "id": "Q6973529"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$11561098-4636-0b2a-64bc-169594487d7c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "137364e051db2698ef331794170df7ad9b659ee2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28874500,
+        "id": "Q28874500"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$2b33b986-470a-f3af-074f-7a2f0cec3221",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "7903f18ab713f2d4cdfb174c221e2ce97b01b8ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6734509,
+        "id": "Q6734509"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$AE95A90D-D87B-49AB-A90C-291C643DFF8A",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "79b889f911b2fface35cdfce62b7da36eb830021",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7006759,
+        "id": "Q7006759"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16130674$d6a929eb-4e0f-468b-6ab6-4b441705e5df",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נחום קוק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q113619171": "רב שכונה",
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q28874500": "אברהם יצחק קוק",
+  "Q5": "אדם",
+  "Q6608024": "בית הקברות של נציבי ישיבת פוניבז'",
+  "Q6734509": "רפאל קוק",
+  "Q6973529": "שמחה הכהן קוק",
+  "Q7006759": "דב קוק",
+  "Q7044905": "שלמה קוק",
+  "Q728973": "כהן"
+ },
+ "raw": "data/raw/wikidata/Q16130674.json"
+}

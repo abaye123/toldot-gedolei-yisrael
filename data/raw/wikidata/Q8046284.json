@@ -1,0 +1,149 @@
+{
+ "id": "Q8046284",
+ "url": "https://www.wikidata.org/wiki/Q8046284",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q8046284",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yaakov Ben Zion Mendelson"
+   },
+   "he": {
+    "language": "he",
+    "value": "יעקב בן ציון מנדלסון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Orthodox communal rabbi, Talmudist, Halachist, rabbinical author and scholar"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yaakov Ben Zion Mendelsohn"
+    },
+    {
+     "language": "en",
+     "value": "Jacob Ben Zion Mendelson"
+    },
+    {
+     "language": "en",
+     "value": "Jacob Ben-Zion Mendelson"
+    },
+    {
+     "language": "en",
+     "value": "Yaakov Ben Tzion Mendelson"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046284$57690B9D-EE05-4472-9CBD-177CC125FE77",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1fe7978d08f67f0541cb43130f8eda4fa5bdd64e",
+      "datavalue": {
+       "value": {
+        "time": "+1941-08-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046284$9C4D6827-DDBD-47A9-B55A-A8D44681FAA1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q8046284$E639E2BF-943E-46BC-BC6C-FDAFA9673B83",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7103adafba31f76239a78ae943e2d73e59706760",
+      "datavalue": {
+       "value": {
+        "time": "+1875-10-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q8046284$C68022AE-A6B3-419C-9DFC-A67856AFFE0B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב בן ציון מנדלסון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q8046284.json"
+}

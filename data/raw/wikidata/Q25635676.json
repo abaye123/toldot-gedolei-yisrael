@@ -1,0 +1,191 @@
+{
+ "id": "Q25635676",
+ "url": "https://www.wikidata.org/wiki/Q25635676",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25635676",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב שמשון הגר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר השלישי מקוסוב"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25635676$AB14D1BC-2CBD-40AC-AF0C-05DFB4969CF3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25635676$cb00b3d4-41ef-40cd-d2c3-3e9d16911eb3",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f18a7d967a123b0020e20cd1d467d8882c7a0bc3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7212245,
+        "id": "Q7212245"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25635676$7bb9e0a1-45a0-92f0-3230-628c38ec3c13",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8785c63c1b697a738806cee8e0b4ac6b2f3d11e3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157461,
+        "id": "Q157461"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25635676$208D7F67-1E48-468A-8107-2477DCBB554F",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02b148ed7ee2b6adf637b1dd5bc5b90c77fb1871",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157461,
+        "id": "Q157461"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25635676$1B564840-5244-4F90-BC7C-274C612A9E11",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7ad942587e0a90c83e2120ea30cfa6746799e514",
+      "datavalue": {
+       "value": {
+        "time": "+1813-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25635676$14a5513e-4b0e-81bc-7c81-659bbceac659",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "35ec2eb54ee743106112273ade497b13a7b8e561",
+      "datavalue": {
+       "value": {
+        "time": "+1880-03-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25635676$b9552919-41ca-a332-8d64-de6be85c8703",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב שמשון הגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q157461": "קוסוב",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q7212245": "חיים הגר מקוסוב"
+ },
+ "raw": "data/raw/wikidata/Q25635676.json"
+}

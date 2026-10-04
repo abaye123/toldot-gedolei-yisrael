@@ -1,0 +1,302 @@
+{
+ "id": "Q101426116",
+ "url": "https://www.wikidata.org/wiki/Q101426116",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q101426116",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Bernhard Löwenstein"
+   },
+   "he": {
+    "language": "he",
+    "value": "ברנהרד לוונשטיין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi and preacher"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Bernhard Loewenstein"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "יששכר בריש לווינשטיין"
+    },
+    {
+     "language": "he",
+     "value": "ישכר בעריש לעווענשטיין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101426116$6C3D26A8-FE85-4957-AA26-105EDB66F57D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a5a212d20f3a3fad5964af0e01e4d6712b39747c",
+      "datavalue": {
+       "value": {
+        "time": "+1821-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101426116$70102E73-4674-4125-88B4-FC023BE82C22",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b91251b29992ed37c7c0b42d13258dedad74916e",
+      "datavalue": {
+       "value": {
+        "time": "+1821-02-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101426116$EC465E92-1FC0-4878-8233-E5087DDB15CD",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ab01cffe3eb1a6d5b12b288f21db85fb6a886fd4",
+      "datavalue": {
+       "value": {
+        "time": "+1889-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101426116$A1BB26DD-EFEA-45E6-A082-993E025F25E3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "63f64ade68d10001c91c6c927e215e734e26ed28",
+      "datavalue": {
+       "value": {
+        "time": "+1889-02-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q101426116$4C80F7AB-85E7-4B4B-A89E-F35EFA186797",
+     "rank": "preferred"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f0bf8f509cc632680b23936d9cb58faeaed4af5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q101426116$b6a18253-4a56-3a1d-08c1-77f66e96cb23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q101426116$99c20120-4178-dcf0-c162-172f3337ee8e",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d026163f3967272c5c8b824a55a1f371450eef54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 432386,
+        "id": "Q432386"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q101426116$140d5bdb-4d5c-dbce-b8b0-9d25afa96cc1",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "5c23cccb2265ee2da5a194c33f189235ccc98b58",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15677872,
+        "id": "Q15677872"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101426116$99f0066f-4d43-4b70-ff8e-9709e5729ad5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1a7c0d7044a72c4018743ab9c9781c844b85b2bc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 34267,
+        "id": "Q34267"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101426116$193214c4-4940-057d-d80d-fd67816aea55",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברנהרד לוונשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15677872": "נתן לוונשטיין פון אופוקה",
+  "Q34267": "מיינדזיז'ץ פודלסקי",
+  "Q36036": "לבוב",
+  "Q432386": "דרשן",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q101426116.json"
+}

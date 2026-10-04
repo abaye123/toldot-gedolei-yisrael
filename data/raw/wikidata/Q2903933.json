@@ -1,0 +1,200 @@
+{
+ "id": "Q2903933",
+ "url": "https://www.wikidata.org/wiki/Q2903933",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2903933",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים מרדכי מרגליות"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hayyim Mordecai Margolioth"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1780–1823)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903933$9E7CFB1A-8D62-4B5B-92F5-C6DE456D793F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b177ec90e0365da4d9fd9fccbc8e8d4c76fc92e1",
+      "datavalue": {
+       "value": {
+        "time": "+1823-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2903933$F61900B2-F8BF-41A0-AEE1-D2384DF24DCF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903933$a13b88a4-46f1-e631-ee8a-e8789ffa348b",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e78185369218c0c26254db615f4b056bd1ecf1c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 219767,
+        "id": "Q219767"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903933$8a25a2c5-4762-51eb-57fd-98b4e0bc75cf",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "5a1b2d9594325ee207c0e072b12a356bdd970f35",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5382355,
+        "id": "Q5382355"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903933$873516BE-80A4-419A-A6D7-995456DEF474",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "66ecdf6e6d959cbabc0956dce848d8090b3367cd",
+      "datavalue": {
+       "value": {
+        "time": "+1780-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2903933$DEDA3DAA-F2ED-4CA4-BC13-7C117C616F5C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5957cd903c1de6ffe39a36d5421c5b1e09d4f756",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2903933$16663B86-FD8D-4F70-89BD-44E70AFC2318",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים מרדכי מרגליות",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q219767": "דונייבצי",
+  "Q465104": "ברודי",
+  "Q5": "אדם",
+  "Q5382355": "אפרים זלמן מרגליות"
+ },
+ "raw": "data/raw/wikidata/Q2903933.json"
+}

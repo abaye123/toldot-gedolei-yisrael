@@ -1,0 +1,130 @@
+{
+ "id": "Q139311060",
+ "url": "https://www.wikidata.org/wiki/Q139311060",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q139311060",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "גדליה משה מלאשיץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Gedalyah Mošeh ben Ẕevi Hirš ha-Lewi"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בליטא ובצ'כיה מחבר הספר חמד משה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139311060$5c9c1dde-4fbf-505a-ca10-1c637497cec6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q139311060$d46e4adb-440a-5199-e721-86070326d4eb",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "959f5a19f4e66ccf478bb446868b2651084067df",
+      "datavalue": {
+       "value": {
+        "time": "+1690-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q139311060$95548e87-4fa0-caa6-703b-5ffd8d4d3eef",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c4571f1d55272457a0c1e166795d366e65046ceb",
+      "datavalue": {
+       "value": {
+        "time": "+1773-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q139311060$e9a34d88-4bd1-3bdb-476a-da6fec8bdd93",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "גדליה משה מלאשיץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q139311060.json"
+}

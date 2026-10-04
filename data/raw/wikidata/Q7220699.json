@@ -1,0 +1,316 @@
+{
+ "id": "Q7220699",
+ "url": "https://www.wikidata.org/wiki/Q7220699",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7220699",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי אלימלך שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zevi Elimelech Dynow"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר מדינוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hasidic rabbi in Poland (1783/85–1841)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "צבי אלימלך בן פסח שפירא"
+    },
+    {
+     "language": "he",
+     "value": "צבי אלימלך מדינוב"
+    },
+    {
+     "language": "he",
+     "value": "צבי אלימלך שפירא מדינוב"
+    },
+    {
+     "language": "he",
+     "value": "הבני יששכר"
+    },
+    {
+     "language": "he",
+     "value": "מהרצ\"א"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Tzvi Elimelech Spira of Dinov"
+    },
+    {
+     "language": "en",
+     "value": "Tsevi Elimelekh of Dinov"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$801bebfb-4ca3-737c-8f9d-3c77cac1874e",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "96ca4dfd1992482a871484faca660b58f09698c1",
+      "datavalue": {
+       "value": {
+        "time": "+1783-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7220699$2DA51168-DAB1-49B7-AE2D-700176C1FDBC",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cb0308355a4e9d61cfb14930a5ce7262990a6b94",
+      "datavalue": {
+       "value": {
+        "time": "+1785-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7220699$36015571-3FAF-438A-B2FE-D929D0CEFBAE",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cf2cc3bcf839919a8b1b3388d6755aefa9a33bb8",
+      "datavalue": {
+       "value": {
+        "time": "+1841-01-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7220699$02782CD2-806D-40DC-8605-64A53F85E814",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c5ab33a790c1e49a29dc4814f6a2e408b4dd82c5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2149342,
+        "id": "Q2149342"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$716AABCF-E4CE-46E5-B3E5-4966F54CB134",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "73c5a396508edc70cd3c7eabf2369caaa764d605",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 910985,
+        "id": "Q910985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$A33E3825-A12C-4C03-9D83-2A8D26EA481B",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "1d338eed1dc4fcd65eabbc5ef0ffd4ee8b3e0ebd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 910985,
+        "id": "Q910985"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$0DE33D92-BCA3-4227-BECA-E66E3AC8A898",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$ECDCC220-0D4D-497E-A450-64832A80D449",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "bf78a7b26f4e318d77de3f661b7f6c49d2076bd4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25496854,
+        "id": "Q25496854"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$2495a66b-47f7-946a-8170-082d86425c1b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "5f49d92d96efcff1710d1b337b4659751555b497",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12259270,
+        "id": "Q12259270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$3f6467cc-4c39-2a37-3533-13dcc64c8fc3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4ef6348abef5c4f0d00b172078cc96a4b0eaa34f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 65409485,
+        "id": "Q65409485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7220699$82ceb19e-49f5-3672-0d18-540a5fe7d956",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי אלימלך שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12259270": "אלעזר שפירא",
+  "Q133485": "רב",
+  "Q2149342": "יאבורניק פולסקי",
+  "Q25496854": "דוד שפירא",
+  "Q5": "אדם",
+  "Q65409485": "שמואל שפירא",
+  "Q910985": "דינוב"
+ },
+ "raw": "data/raw/wikidata/Q7220699.json"
+}

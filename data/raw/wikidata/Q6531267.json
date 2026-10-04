@@ -1,0 +1,106 @@
+{
+ "id": "Q6531267",
+ "url": "https://www.wikidata.org/wiki/Q6531267",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6531267",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ברוך מקוסוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Baruch of Ḳosov"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מתלמידי המגיד ממזריטש ומתלמידי רבי מנחם מנדל מפרמישלן"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6531267$43D891C5-32C3-4DCD-9ED6-F676AF7E8853",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6531267$84C75D6C-1581-42F5-8D52-BB53C7474D27",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bb540de6f3c8ca2d738d15c4eb176857554bd1ae",
+      "datavalue": {
+       "value": {
+        "time": "+1725-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6531267$AEC08111-CC15-4CD1-8A22-F1A5A861ACE7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ברוך מקוסוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6531267.json"
+}

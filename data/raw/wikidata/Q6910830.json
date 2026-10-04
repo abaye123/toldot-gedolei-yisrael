@@ -1,0 +1,190 @@
+{
+ "id": "Q6910830",
+ "url": "https://www.wikidata.org/wiki/Q6910830",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6910830",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל עוזרי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב העיירה בית עד'אקה בתימן"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6910830$FFE9AA84-2B28-48EE-B8DC-4D5DDE0D667C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6910830$4FA33DE4-C1E0-4550-9412-E93C4187A32A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "66d9499aa94b973f2a8e267f162a9cc2a2d09ba3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6910830$0A56495E-DCAC-494F-BF69-23BF2774D286",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "89aaf0ca8f7b156ccac3d3ca55d4e9a0da0e14f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P2241": [
+       {
+        "snaktype": "value",
+        "property": "P2241",
+        "hash": "04889e20f933fef9290dfede77f392dda3cfe610",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 189203,
+          "id": "Q189203"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P2241"
+     ],
+     "id": "Q6910830$C8DDF699-D8A0-42A4-B814-49190CBA7FDF",
+     "rank": "deprecated"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b558ed6c16f77e697dca5b2e602d837d4dc33b94",
+      "datavalue": {
+       "value": {
+        "time": "+1943-04-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6910830$f94c9565-4db3-cdfb-e3ce-53dd1aa055c9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fba2fff7d75d4a1f0dc50f194a4b26741c245b0b",
+      "datavalue": {
+       "value": {
+        "time": "+1901-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6910830$9604edcb-4e76-d390-57b6-4cad32834706",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל עוזרי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q805": "תימן"
+ },
+ "raw": "data/raw/wikidata/Q6910830.json"
+}

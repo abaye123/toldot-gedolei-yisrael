@@ -1,0 +1,285 @@
+{
+ "id": "Q4669260",
+ "url": "https://www.wikidata.org/wiki/Q4669260",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669260",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham ben Judah Minz"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם מינץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$292DF43F-AA6B-436B-B814-EE514EC116EA",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b50d845b4494d7ab1dfa1f30ba7cdd9d3672666c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 617,
+        "id": "Q617"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$A940FC79-26C5-4F8C-B9D5-D3D753E32D69",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a9f46ca22b30aaa3ccc568e1563e84318cc1c9b7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 617,
+        "id": "Q617"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$12CF4BEC-FC81-483C-A0C7-412DD7B9E153",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$5C8623E0-817E-4186-A07D-A85DC81EB9C3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "65ee93b84e65a6fbfa0c0a65d590be3a50f410b9",
+      "datavalue": {
+       "value": {
+        "time": "+1525-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q4669260$3DDF38E2-9B09-4E5A-9BAF-D2FD276AAE4F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d62d1642fa38b4179e0a72f7ec2b07dead059ef6",
+      "datavalue": {
+       "value": {
+        "time": "+1440-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q4669260$1093F4F4-F1EB-478A-BD14-C5452642C858",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "6491989a11be88ffca0d15d3230ad8d8c555b34d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6302161,
+        "id": "Q6302161"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$850001ae-4a2c-4eaf-5127-3757d195d568",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "0cf1dfbc8f1e4713e27f6f73ed8ef05c16aa3d34",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141614141,
+        "id": "Q141614141"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$2ED249A1-BA33-4B13-A2AC-9083DAFF43EA",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "587f8f002980e2d98bdefb9c56ba841356aa59fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 141612131,
+        "id": "Q141612131"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669260$6C09C60F-E3F1-4BED-97D4-B071A931F87A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם מינץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q141612131": "Hanna Mintz",
+  "Q141614141": "Livo Liwa",
+  "Q5": "אדם",
+  "Q617": "פדובה",
+  "Q6302161": "מהר\"י מינץ"
+ },
+ "raw": "data/raw/wikidata/Q4669260.json"
+}

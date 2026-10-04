@@ -1,0 +1,184 @@
+{
+ "id": "Q215173",
+ "url": "https://www.wikidata.org/wiki/Q215173",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q215173",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Salomon Formstecher"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה פורמשטכר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1808-1889)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Solomon Formstecher"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "98a8dcd9350b30e5fce2bfe362b55221b2baf372",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3042,
+        "id": "Q3042"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q215173$904AFC71-D300-470E-B340-239780404903",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f05b1dd00eb75ea082f61b41c6796999ffcb8932",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3042,
+        "id": "Q3042"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q215173$449D5688-B776-46B1-A83A-D50CE4A13752",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q215173$B053B2B1-21D2-4903-971B-A4A72A8C30EA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5aad24daa16f31ba09914afeee81e111d0259d19",
+      "datavalue": {
+       "value": {
+        "time": "+1808-07-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q215173$FDC40088-206F-4D93-AE46-6797B483958B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2915ee64caa8dc4f2226d4b6e79b1fdc27f1e6d1",
+      "datavalue": {
+       "value": {
+        "time": "+1889-04-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q215173$C34A0220-1A17-4018-AFE0-045860CE80C9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q215173$248B9D7D-7819-454F-AC25-6FAE9729D333",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה פורמשטכר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3042": "אופנבך",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q215173.json"
+}

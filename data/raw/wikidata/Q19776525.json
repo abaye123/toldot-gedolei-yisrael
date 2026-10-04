@@ -1,0 +1,258 @@
+{
+ "id": "Q19776525",
+ "url": "https://www.wikidata.org/wiki/Q19776525",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q19776525",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליקים גצל שלזינגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Gottschalk Schlesinger"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אליקים שלזינגר"
+    },
+    {
+     "language": "he",
+     "value": "אליקים געץ שלזינגר"
+    },
+    {
+     "language": "he",
+     "value": "אליקום שלזינגר"
+    },
+    {
+     "language": "he",
+     "value": "אליקים שעלזינגער"
+    },
+    {
+     "language": "he",
+     "value": "אליקים געצל שלזינגר"
+    },
+    {
+     "language": "he",
+     "value": "שלעזינגער, אליקים געטשליק"
+    },
+    {
+     "language": "he",
+     "value": "שלעזינגער, אליקים געטשליק בן דוד (מהמבורג)"
+    },
+    {
+     "language": "he",
+     "value": "שלעזינגער, אליקים געטשליק בן טעבלי (מהמבורג)"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Elyaḳim Geṭshliḳ Shlezinger"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19776525$8531638e-4ec7-edbc-f1a0-5d2924b02ed8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "075fd50d5b4acec00ad6b34713181d6767322f92",
+      "datavalue": {
+       "value": {
+        "time": "+1813-08-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q19776525$a2beeabb-42b1-41e6-40b1-442f37fe95e6",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7ad942587e0a90c83e2120ea30cfa6746799e514",
+      "datavalue": {
+       "value": {
+        "time": "+1813-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19776525$9068D1BF-43AD-446D-BFEB-68ADA054D979",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cba4a3802ecb1c834761f330b7295a71a461325b",
+      "datavalue": {
+       "value": {
+        "time": "+1900-09-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19776525$5821175b-4035-ccab-b465-59b4f4f971ab",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f6fd6c55152d00dc5bc8522c4cf47b57ca0deb37",
+      "datavalue": {
+       "value": {
+        "time": "+1880-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q19776525$FAE97F31-894B-42DF-BF08-31F299D66CE9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19776525$6ADE3B87-D196-44ED-AA35-9D15A5D4ED48",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "b140988b14e1b813bd0b8f2b169ede43e73ff2a2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 102243200,
+        "id": "Q102243200"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q19776525$ab5c7b63-4fce-d79c-460f-7c00390cca27",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליקים גצל שלזינגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q102243200": "אליעזר ליפמן שלזינגר",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q19776525.json"
+}

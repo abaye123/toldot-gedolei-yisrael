@@ -1,0 +1,197 @@
+{
+ "id": "Q6968384",
+ "url": "https://www.wikidata.org/wiki/Q6968384",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6968384",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Natan'el al-Fayyumi"
+   },
+   "he": {
+    "language": "he",
+    "value": "נתנאל בירב פיומי"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish writer"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Natanel Al-Fayyumi"
+    },
+    {
+     "language": "en",
+     "value": "Netan’el Beirav Fayyumi"
+    },
+    {
+     "language": "en",
+     "value": "Nathanael ben Fayyumi"
+    },
+    {
+     "language": "en",
+     "value": "Netanʾēl Ben-al-Fayyûmî"
+    },
+    {
+     "language": "en",
+     "value": "Nathanael ibn al Fayyumi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6968384$92D4B0A9-4372-4276-9D7D-59A0D0F4C32C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6968384$26CA8BB9-053F-4BE0-BC05-CB0F4A6EEC22",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "acf6eeff327cf5d5a19e99acd37b41d822b93f4e",
+      "datavalue": {
+       "value": {
+        "time": "+1090-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6968384$BAEB8EB3-7A59-4862-BB67-042BB9D59079",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c12ed9feb9f1f021904c5580e85b55913828b64f",
+      "datavalue": {
+       "value": {
+        "time": "+1165-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6968384$C7273978-A8C1-462C-A19A-4DD9BAC0835D",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "b1b97fd3d512390151016ddebf82374ade833bac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 140376540,
+        "id": "Q140376540"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6968384$e96da775-4199-aef6-f36a-d6401e4024ad",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "89aaf0ca8f7b156ccac3d3ca55d4e9a0da0e14f3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 805,
+        "id": "Q805"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6968384$31B0AB75-2FB5-4208-AB11-33813F21F09C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "נתנאל בירב פיומי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q140376540": "Bustan al-Ukul",
+  "Q5": "אדם",
+  "Q805": "תימן"
+ },
+ "raw": "data/raw/wikidata/Q6968384.json"
+}

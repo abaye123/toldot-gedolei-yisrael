@@ -1,0 +1,143 @@
+{
+ "id": "Q106602287",
+ "url": "https://www.wikidata.org/wiki/Q106602287",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q106602287",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בן ציון אברהם שפירא"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106602287$A03170CE-B981-41FA-B8E1-65B71EFC9789",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d55b215061cd214684c4087017d4b2c869e9901a",
+      "datavalue": {
+       "value": {
+        "time": "+1873-09-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106602287$1dc0cec0-bead-4920-9c15-5875c93b7aa0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6c84f26d10d92155001f4182596a3edd499906c7",
+      "datavalue": {
+       "value": {
+        "time": "+1947-02-03T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106602287$7befd0fa-9f0a-4ecb-ab83-7e5aa90a817a",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106602287$fcdfe327-4c34-2cd1-e8c4-08cbe31ce0c3",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9fdb4d94014e151694b647a5000c327c579168ea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404756,
+        "id": "Q12404756"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106602287$11e7bed1-4dcf-053f-fb7f-6804a557033e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בן ציון אברהם שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q12404756": "בתי מחסה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q106602287.json"
+}

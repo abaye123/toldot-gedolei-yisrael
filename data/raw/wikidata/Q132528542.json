@@ -1,0 +1,170 @@
+{
+ "id": "Q132528542",
+ "url": "https://www.wikidata.org/wiki/Q132528542",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q132528542",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בנימין זאב וולף ברייער"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד רוגנדורף וטאב שבהונגריה, מחבר שו\"ת \"נחלת בנימין\""
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132528542$076b0de6-4898-0371-c609-eb45f8d35f6e",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "52713b29d7b80a4abd4ef4ecc8fd8277bb449a41",
+      "datavalue": {
+       "value": {
+        "time": "+1830-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q132528542$7c5ba766-44d5-2bdd-7c91-27049d1eec1d",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ed7fdcc6f50a04816f64cdb30bc2b91bdde85699",
+      "datavalue": {
+       "value": {
+        "time": "+1893-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q132528542$6b0fc459-4e6f-36f7-9f60-aad31cc9cf8d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6cc5d08cbd3ff38332256e8dd778c2cb16c7e679",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 250832,
+        "id": "Q250832"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132528542$59f0dcf5-4c80-b811-24b0-723fc47c6218",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132528542$070c91be-4057-92d6-76be-7b6d54659197",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "43ca40cf0e0cf3a77b28ea0daf671592c73b38f1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 791779,
+        "id": "Q791779"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132528542$c222ab4f-413a-082d-b3db-63efd7474ccd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בנימין זאב וולף ברייער",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q250832": "מטרסבורג",
+  "Q5": "אדם",
+  "Q791779": "אברהם שמואל בנימין סופר"
+ },
+ "raw": "data/raw/wikidata/Q132528542.json"
+}

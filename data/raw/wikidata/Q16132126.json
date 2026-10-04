@@ -1,0 +1,178 @@
+{
+ "id": "Q16132126",
+ "url": "https://www.wikidata.org/wiki/Q16132126",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16132126",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק גרודזינסקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzhak Grodzinski"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב חרדי־ישראלי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israeli rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132126$58C00719-1734-4001-A8CC-36D2CDEA4622",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132126$c5dbe713-5b8b-4407-ab47-77c9de7bc690",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "163c248ef3ae4a528108154f42c4492f70d3d660",
+      "datavalue": {
+       "value": {
+        "time": "+1929-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132126$6d32c54b-4c45-8218-7a34-dec13b99fdd3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a7747b15f27e7f8a6906e38464970dd6a4130382",
+      "datavalue": {
+       "value": {
+        "time": "+2019-12-31T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132126$2bc7c7a2-45ea-1779-0b93-df23550eb328",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "479e53dcbfd6c84689e66cd3c1aeeef07ca1e387",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4115712,
+        "id": "Q4115712"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132126$b1f73993-424a-cb20-b84c-2a01068ecbbe",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0a2fd26ceb7c7b6866701f29bb64e8b45bb256a3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152467,
+        "id": "Q152467"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132126$78a9376a-4556-eaa8-31f7-e3317e2b7c25",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק גרודזינסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q152467": "בני ברק",
+  "Q4115712": "קובנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16132126.json"
+}

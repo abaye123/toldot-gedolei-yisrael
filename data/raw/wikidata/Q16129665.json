@@ -1,0 +1,307 @@
+{
+ "id": "Q16129665",
+ "url": "https://www.wikidata.org/wiki/Q16129665",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16129665",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע אבן שועיב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joshua ibn Shuaib"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "1280-1340 Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב שחי בספרד. מתלמידי הרשב\"א"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהרי״ן שועיב"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehoshua ibn Shuaib"
+    },
+    {
+     "language": "en",
+     "value": "Joshua ibn Shuav"
+    },
+    {
+     "language": "en",
+     "value": "Yehoshua ibn Shuav"
+    },
+    {
+     "language": "en",
+     "value": "Josua Ibn-Schueib"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$ED6C3B29-9DE6-4283-8B93-8EA258D46296",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "1fdf6008d5c4f13bf53f066a57419346bd5a502d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982170,
+        "id": "Q982170"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$88429f91-45bc-d8b2-e1bc-a265a3806dad",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$ED3D44ED-7E8F-463E-9A2D-0BCE20EB132C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$E0850EC8-273B-44D3-B924-EC6FC1952092",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f3230751864029b72e7c9ae96b7022d4c2d6bdf7",
+      "datavalue": {
+       "value": {
+        "time": "+1280-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q16129665$EC11D525-290D-4EF9-ACC1-1D1E95CD8617",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ea35e95189517b94566b64e3876ecc4948c59d70",
+      "datavalue": {
+       "value": {
+        "time": "+1340-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q16129665$DA004F37-AB6F-470D-944E-A3B7EE965C82",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "18204895a7ea17c05d10f0d70ee37d4738222c34",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 244747,
+        "id": "Q244747"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$abd4a30b-4bec-350a-10d6-01d0dee698d0",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "33f7737d3ec41b03d30ff5e950f1217fb0ab64de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6816412,
+        "id": "Q6816412"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$C7DB5B39-2092-4C19-93B9-E258DB4E43C7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "367ebe733b56f11deb748631f78c1b88d119bb4b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16130600,
+        "id": "Q16130600"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16129665$475da2f5-423e-6117-fda0-1e72669c6484",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע אבן שועיב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q16130600": "יוסף בן שלום אשכנזי",
+  "Q244747": "טודלה",
+  "Q5": "אדם",
+  "Q6816412": "מנחם בן זרח",
+  "Q982170": "רשב\"א"
+ },
+ "raw": "data/raw/wikidata/Q16129665.json"
+}

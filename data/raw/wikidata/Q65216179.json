@@ -1,0 +1,145 @@
+{
+ "id": "Q65216179",
+ "url": "https://www.wikidata.org/wiki/Q65216179",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q65216179",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דז'ה קליין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Dezső Klein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1874–?)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216179$5d1f005e-4bb9-93e3-437f-43c4eb9f855e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216179$d20fc3e1-4557-885a-e237-7057e49824a4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fde326252f77dfe6245b704cf42652760f418a0f",
+      "datavalue": {
+       "value": {
+        "time": "+1874-02-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q65216179$4887d942-48d5-0ec3-115d-8f8cdc6beab5",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "8bfeb6a1fb7681b23fec14460d42d53720907e5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 209983,
+        "id": "Q209983"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q65216179$faffe249-4644-d59c-8d33-a1dcbd2caa0c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P570",
+      "hash": "47120b7358ae3d3ae5f0762e83028363c1caef4a",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q65216179$92765566-4943-084c-70d7-0ad7ffbccfd1",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דז'ה קליין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q209983": "ג'נג'ש",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q65216179.json"
+}

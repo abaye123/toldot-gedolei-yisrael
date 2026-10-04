@@ -1,0 +1,278 @@
+{
+ "id": "Q4662589",
+ "url": "https://www.wikidata.org/wiki/Q4662589",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4662589",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Menahem Mendel ben Aaron Boim, of Kamieniec"
+   },
+   "he": {
+    "language": "he",
+    "value": "מנחם מנדל מקאמיניץ"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מנחם מנדל קמניץ"
+    },
+    {
+     "language": "he",
+     "value": "מנחם מנדל מקמיניץ"
+    },
+    {
+     "language": "he",
+     "value": "מנחם מנדל בוים, מקאמיניץ"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Menahem Mendel ben Aaron Boym, of Kamieniec"
+    },
+    {
+     "language": "en",
+     "value": "Mendel ben Aaron"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$E89C259D-A057-4C6C-ACDC-F60D86D7FE3A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bbb685208d77a19da801928d514c6fa7c6672203",
+      "datavalue": {
+       "value": {
+        "time": "+1800-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662589$DFCB2360-AEC6-4F51-9E4C-E40B9737FC42",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3a91d5cefc3a083fa1b8b0f46b2d4431a3fba203",
+      "datavalue": {
+       "value": {
+        "time": "+1873-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662589$CA8CCDD0-79BE-45B8-82C5-21B8B932195C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c450c395a86bd12632e2be0b6fd6f08c3ecb7784",
+      "datavalue": {
+       "value": {
+        "time": "+1873-05-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4662589$73F5B208-267E-4D33-9FDF-C090C747C747",
+     "rank": "preferred"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$E77EA28E-778C-4921-A1F0-8D652B90391D",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$C71DEEC1-8F87-4FA7-8D50-1DEC2496E23A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "89eba494a1878e4b9db92111c980da52ae5939ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1631120,
+        "id": "Q1631120"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$742de4e6-41a2-09bc-70bd-e57756396749",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$6600D02C-428B-4160-BEFF-539E0FDD59D9",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "67a30946c3182921e493e3c3703a74c18419cf5e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 106924717,
+        "id": "Q106924717"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$0b51aeab-4302-fc09-76eb-51f1c8fe34fe",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3e216cf6b4e1a833a6ee4bb555bce5b6fa044759",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 956614,
+        "id": "Q956614"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4662589$7a938ada-4016-4075-6e1d-6d482b62b46b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם מנדל מקאמיניץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q106924717": "אהרן בן מנחם מנדל",
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q1631120": "מלונאי",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q956614": "קמניץ"
+ },
+ "raw": "data/raw/wikidata/Q4662589.json"
+}

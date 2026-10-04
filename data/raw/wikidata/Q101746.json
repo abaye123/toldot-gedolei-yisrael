@@ -1,0 +1,181 @@
+{
+ "id": "Q101746",
+ "url": "https://www.wikidata.org/wiki/Q101746",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q101746",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Herman N. Neuberger"
+   },
+   "he": {
+    "language": "he",
+    "value": "הרמן נויברגר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Orthodox rabbi (1918–2005)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Herman Naftali Neuberger"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "730db428d6b86016448e549e267b0c859ad0d41a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 492659,
+        "id": "Q492659"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q101746$002718E4-84DD-425A-8BC6-F38AF579C0B1",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fba3e0680bf1b6a7dcae65340b95a8156584860a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5092,
+        "id": "Q5092"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q101746$27E23A5E-3A2B-453A-9F2D-5695C6E860D7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "756ec7034a41bfe4a8f3860798d8dc1a5cfbf014",
+      "datavalue": {
+       "value": {
+        "time": "+1918-06-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "q101746$88F21E9F-C11B-41B3-8426-8F45CAAE84D0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "351c6c34772d39b8606a26e74985ff37c807091e",
+      "datavalue": {
+       "value": {
+        "time": "+2005-10-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "q101746$761F63F5-E004-4610-AC38-522A62C46E87",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101746$C21AF289-9F2B-4928-8562-8D2C62C7E487",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q101746$4B927029-DFFC-421F-AC7A-44C76D4D33BA",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הרמן נויברגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q492659": "האספורט",
+  "Q5": "אדם",
+  "Q5092": "בולטימור"
+ },
+ "raw": "data/raw/wikidata/Q101746.json"
+}

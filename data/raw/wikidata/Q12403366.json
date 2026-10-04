@@ -1,0 +1,258 @@
+{
+ "id": "Q12403366",
+ "url": "https://www.wikidata.org/wiki/Q12403366",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12403366",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם ברון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Brun"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חזן ומלחין מוזיקה ליטורגית יהודית - חזנות"
+   },
+   "en": {
+    "language": "en",
+    "value": "American poet (1909–1998)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$027DD195-DAD0-41F7-A46F-19FC52FBF2B3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$0405CBC5-08B9-45E6-BDC2-AA29D214EF6B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$4320B463-915E-40F1-8029-4D2B4F1065B2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8ab436fd91163c6651521e06b530d3d8ab33a1f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1067977,
+        "id": "Q1067977"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$6A160AA9-E975-4E89-AB32-8280557CA626",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "013eb2ae1cc057e54af4b64a83b838ae1623fedd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 330679,
+        "id": "Q330679"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$614B5B42-6C12-49F5-85E1-DD078DE751B0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "7263b8947456c9026f1e8726c6773eb2ec39db24",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 639669,
+        "id": "Q639669"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$2B8F0E1E-28EA-400E-B580-D8CBFD27B124",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "22681f47e380695ae11e311de1ca6a2608482fb9",
+      "datavalue": {
+       "value": {
+        "time": "+1909-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403366$eddd28cb-462d-be97-ac72-8a1db59a8e3b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9ee1127729574ecb1452499cd6bdb6d0c06ac50b",
+      "datavalue": {
+       "value": {
+        "time": "+1998-01-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403366$05121c0c-4aad-edc8-e38e-9baf256d782f",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1f927f01f7858434dedc1c0906f836090be1c2fc",
+      "datavalue": {
+       "value": {
+        "time": "+1998-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403366$B94D3818-BC13-4FE6-AC0F-9A8F2B35B528",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "51d36cfa1320493a450fdf6b4535304484b40424",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 580,
+        "id": "Q580"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403366$cd4c1b92-44ab-368d-d55c-25c9a4ccc42d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם ברון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1067977": "חזן",
+  "Q133485": "רב",
+  "Q330679": "קנטור (נצרות)",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q580": "לודז'",
+  "Q639669": "מוזיקאי"
+ },
+ "raw": "data/raw/wikidata/Q12403366.json"
+}

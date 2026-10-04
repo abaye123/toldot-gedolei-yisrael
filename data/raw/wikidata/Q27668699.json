@@ -1,0 +1,171 @@
+{
+ "id": "Q27668699",
+ "url": "https://www.wikidata.org/wiki/Q27668699",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27668699",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses Avigdor Chaikin"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה אביגדור חייקין"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian-British rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Moses Chaikin"
+    },
+    {
+     "language": "en",
+     "value": "Mosheh Avigdor Ḥaiḳin"
+    },
+    {
+     "language": "en",
+     "value": "Mosheh Avigdor Haikin"
+    },
+    {
+     "language": "en",
+     "value": "Moishe Avigdor Chaikin"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27668699$e5021668-4b82-09a7-4d21-a9820e7b3eba",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "96becf6e330bc48e8cee987577835b2aa4df9c93",
+      "datavalue": {
+       "value": {
+        "time": "+1852-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27668699$76608114-4a4f-6e78-6733-9a7a1cd794eb",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fbca96b9ac2698509cce78298c3900f0ce62c7bd",
+      "datavalue": {
+       "value": {
+        "time": "+1928-06-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27668699$51c30a27-4469-01f9-2138-cb1c89ff4edb",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27668699$ce3d0f6a-4d7d-739c-72a9-34b0cafe7d38",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3cf000cea3f6aaf623d4975a0722db598e47e124",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2597530,
+        "id": "Q2597530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27668699$7df8f4e6-803f-49a3-adc7-baf24e2cc446",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה אביגדור חייקין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2597530": "בית הקברות טרומפלדור",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27668699.json"
+}

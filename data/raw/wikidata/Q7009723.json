@@ -1,0 +1,199 @@
+{
+ "id": "Q7009723",
+ "url": "https://www.wikidata.org/wiki/Q7009723",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7009723",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יעקב הורוביץ (רב)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Horovits, Yaʻaḳov"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rosh Yeshiva of Ofakim (Israel)"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבת אופקים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009723$9C23CA24-E68C-4CBD-A175-7AF499C762E6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "966e49ba796565f952042447735f78b020874192",
+      "datavalue": {
+       "value": {
+        "time": "+1943-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7009723$FC8C5098-B9F9-48BE-A561-CBB0E257484B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5dc4e823ff85b37faa48b1d45468aef3b32cbf53",
+      "datavalue": {
+       "value": {
+        "time": "+2009-11-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7009723$92A819A6-8370-4B0B-BF9A-C416C91774D7",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "d3f50f991764274c950b3484faca19b8f59ab052",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 335336,
+        "id": "Q335336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009723$FF832F0D-2F75-4822-920D-EA95836F3C35",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P108": [
+       {
+        "snaktype": "value",
+        "property": "P108",
+        "hash": "e915fca113b822ec209a5e7bcb555a2b00b57449",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 6987407,
+          "id": "Q6987407"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P108"
+     ],
+     "id": "Q7009723$c9112d62-476e-8493-90dd-e303fdc573dd",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "f15f384059db6ef21485ec1d881abafe6d142a5f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 33935,
+        "id": "Q33935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7009723$B41BA935-1B1E-4DC4-AF45-177F70DEDF8A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יעקב הורוביץ (ראש ישיבה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q2308372": "ראש ישיבה",
+  "Q335336": "הר המנוחות",
+  "Q33935": "תל אביב-יפו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7009723.json"
+}

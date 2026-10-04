@@ -1,0 +1,181 @@
+{
+ "id": "Q136532047",
+ "url": "https://www.wikidata.org/wiki/Q136532047",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q136532047",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Salamon Deutsch"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלמה דייטש"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה סערדאהעל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136532047$30fa075a-4979-001f-b208-8c59c64274c4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136532047$22bbcc86-4dc0-3a56-8254-41b67064f7de",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "8ec95de3aa4b075e22f6c3ac1e88961189865cea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 707498,
+        "id": "Q707498"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136532047$400322f3-4eb7-0c40-f153-4ac6e28fd123",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7ad942587e0a90c83e2120ea30cfa6746799e514",
+      "datavalue": {
+       "value": {
+        "time": "+1813-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q136532047$2e3929c9-4318-6bed-5c91-d56f12b306e7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f378aedc9938142a86f44e2d4f10720ecf45491e",
+      "datavalue": {
+       "value": {
+        "time": "+1880-01-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q136532047$01d08a88-4285-fce0-86aa-168d10886869",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3a27e14b94cc82cf308851ab6854958c29ce2cbd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26397,
+        "id": "Q26397"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q136532047$3e8a54c7-4e29-a621-588f-c6bfeda33003",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה דייטש",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q26397": "ניטרה",
+  "Q5": "אדם",
+  "Q707498": "החתם סופר"
+ },
+ "raw": "data/raw/wikidata/Q136532047.json"
+}

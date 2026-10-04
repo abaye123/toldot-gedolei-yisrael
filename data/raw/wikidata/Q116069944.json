@@ -1,0 +1,107 @@
+{
+ "id": "Q116069944",
+ "url": "https://www.wikidata.org/wiki/Q116069944",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q116069944",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבנאי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם בדור השלישי לאמוראי בבל, אחיו של רבי חייא בר אבא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רַבָּנַאי אֲחוּהָ דרבי חייא בר אבא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116069944$041c5622-4007-2897-c853-8d8743b4e975",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116069944$7ff8553d-4546-79d7-0c08-3f54799ec59f",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "056db6b4a19c6ff3b741b4e848cef19ac8194af7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1072589,
+        "id": "Q1072589"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q116069944$dd023b69-4c17-ecfa-9e70-0ce3e8384771",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבנאי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1072589": "רבי חייא בר אבא",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q116069944.json"
+}

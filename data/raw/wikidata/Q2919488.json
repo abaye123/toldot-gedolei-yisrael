@@ -1,0 +1,280 @@
+{
+ "id": "Q2919488",
+ "url": "https://www.wikidata.org/wiki/Q2919488",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2919488",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חנוך הניך הכהן לוין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Chanokh Heynekh HaKohen Levin"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר פולני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חנוך העניך הכהן מאלכסנדר"
+    },
+    {
+     "language": "he",
+     "value": "חנוך העניך מאלכסנדר"
+    },
+    {
+     "language": "he",
+     "value": "חנוך העניך הכהן לוין"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4a095c33b31e8f37166f48d989688881f01bdd7a",
+      "datavalue": {
+       "value": {
+        "time": "+1870-03-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2919488$C8034B65-5A38-4DDD-9CDC-452273240F57",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3c6f60ff5f72b06ae1a7d960eb9cc7acca4a2ffd",
+      "datavalue": {
+       "value": {
+        "time": "+1870-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2919488$DAE1C29D-3894-4B07-915E-72334859ADE7",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$15BDC37F-D17A-4EE7-B37B-B30B73C91CD7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a581cbb10ea9d9fb3f1c6e006baa1a4814601e9e",
+      "datavalue": {
+       "value": {
+        "time": "+1798-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2919488$029FBF63-FC45-46E9-9F1C-6D747A5EEF65",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$9068C12E-3158-4DFE-925D-E4A514576E23",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "e748bd314b7143320ec2011939cc5ab0c8fc3da5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1810688,
+        "id": "Q1810688"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$CE1BF41C-EA9B-47EA-AFE7-505AFED1F594",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "3598c639e0aedd1831df995428a8eea0c43d32da",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11690895,
+        "id": "Q11690895"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$f99d9d10-3fdd-42c9-9535-b62a080cecb7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b1b84b67ba7a48e757f95b89371176f87d06e6f4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1006764,
+        "id": "Q1006764"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$D33CDBD5-E131-4808-B93B-093B61E4968E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a159e3a77e9764eb2735d4b7978cd50e3f53c1d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 664371,
+        "id": "Q664371"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2919488$A42E2D55-5A49-42F7-8614-24C247498FB3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חנוך הניך הכהן לוין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1006764": "לוטומיירסק",
+  "Q11690895": "בית הקברות היהודי של אלכסנדר לודז'",
+  "Q133485": "רב",
+  "Q1810688": "יצחק מאיר אלתר",
+  "Q5": "אדם",
+  "Q664371": "אלכסנדר לודז'"
+ },
+ "raw": "data/raw/wikidata/Q2919488.json"
+}

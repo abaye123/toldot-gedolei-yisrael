@@ -1,0 +1,181 @@
+{
+ "id": "Q816598",
+ "url": "https://www.wikidata.org/wiki/Q816598",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q816598",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Simeon ben Zoma"
+   },
+   "he": {
+    "language": "he",
+    "value": "בן זומא"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Late 1st / early 2nd century tanna"
+   },
+   "he": {
+    "language": "he",
+    "value": "תנא יהודי שחי בישראל במאה ה-2 לספירה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמעון בן זומא"
+    },
+    {
+     "language": "he",
+     "value": "שמעון בן זומה"
+    },
+    {
+     "language": "he",
+     "value": "בן זומה"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q816598$F4C8C308-8634-4D5B-9EB7-1E99D6BA2555",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d3885656ef24d3928774e5fcd8b23e43fe42d7fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q816598$87B92093-9687-4DE9-B7C4-6AAFC0847503",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7388395e2d336b3acfd9413d3b09fa6ece6bde71",
+      "datavalue": {
+       "value": {
+        "time": "+0200-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q816598$8FA039E1-24F7-4CA6-BE62-B7FE67C88D74",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q816598$BCC5C023-E881-4862-A554-A4A76A880E0B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q816598$5BAE7DC9-A9ED-4823-A7B7-5DA36474F856",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בן זומא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q23792": "ארץ ישראל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q816598.json"
+}

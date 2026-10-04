@@ -1,0 +1,185 @@
+{
+ "id": "Q2898967",
+ "url": "https://www.wikidata.org/wiki/Q2898967",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2898967",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל דוד אונגר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shmuel Dovid Ungar"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב סלובקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Slovak rabbi (1886–1945)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל דוד הלוי אונגר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2898967$44D1EAAD-408E-444F-8019-B18F90EC59C4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e8a61b773c60091ce00d44b15bf1d6fb155d6e16",
+      "datavalue": {
+       "value": {
+        "time": "+1945-02-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2898967$23E3E96A-1749-4595-927C-2235A894ED33",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d7aa7456b291d77246fe74571b9c0282dd91407e",
+      "datavalue": {
+       "value": {
+        "time": "+1886-11-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2898967$56BED62B-6748-46BD-B32E-AEE3B5DE1291",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2898967$13BE9F65-D3F1-40D9-B30B-847A7555077C",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ddb41bbbeb4b82d5dec54ae8694f5b70cdb6a2fe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 321074,
+        "id": "Q321074"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2898967$D4246A4A-94D1-4E5A-A858-1608D6AA7FEE",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "f8e6dfc2ada14c2e1cd5fe24f85f28aa045608bf",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2898967$6830eaaa-e4e0-47b7-b8e5-86ffba22f760",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל דוד אונגר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q321074": "פיישטיאני",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2898967.json"
+}

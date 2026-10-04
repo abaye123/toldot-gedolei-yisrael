@@ -1,0 +1,198 @@
+{
+ "id": "Q1912514",
+ "url": "https://www.wikidata.org/wiki/Q1912514",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1912514",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Max Freudenthal"
+   },
+   "he": {
+    "language": "he",
+    "value": "מקס פרוידנטל"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1868–1937)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7697e804b0503b4011ec8179946375935f257cd6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 554089,
+        "id": "Q554089"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1912514$296DF806-F7C2-40A3-96D1-35A87C816B2A",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e5b37e4b9dd5d2f8507c6a68dac98e3e1146de78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1726,
+        "id": "Q1726"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1912514$3C205EB1-E785-4EC6-A553-4BEC71547271",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1912514$7A9DC0A3-27B1-4D43-9528-281EB596816A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a699b8fdc41631c7bf469c4fb00a8048d5daf5db",
+      "datavalue": {
+       "value": {
+        "time": "+1868-06-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1912514$65C017F4-9FAF-4F66-8CD9-FEEE8A5C58F1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "81cb15318b8a0ab9c40b3aa32dd363c103833cc0",
+      "datavalue": {
+       "value": {
+        "time": "+1937-07-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1912514$8FA88D46-BE50-4BEB-9DBE-480DD255FC04",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1912514$706BE19D-6613-4021-8CC5-EB4488857CC3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1912514$ae0daf28-8c65-4f11-a38d-24ce91eecdbd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מקס פרוידנטל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1726": "מינכן",
+  "Q201788": "היסטוריון",
+  "Q5": "אדם",
+  "Q554089": "Neuhaus an der Pegnitz"
+ },
+ "raw": "data/raw/wikidata/Q1912514.json"
+}

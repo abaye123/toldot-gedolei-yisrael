@@ -1,0 +1,190 @@
+{
+ "id": "Q1003920",
+ "url": "https://www.wikidata.org/wiki/Q1003920",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1003920",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Áron Fried"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרן פריד"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי (1812-1891)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1812-1891)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Aron Fried"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "פריעד, אהרן בן אלימלך"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003920$0549FF09-05F6-49AA-B7B6-D2E3795D58A2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cc624ca54e748007bb0ad613a2717fe81ea21e3d",
+      "datavalue": {
+       "value": {
+        "time": "+1812-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003920$8B734199-B48A-4F6F-B30F-C111C05A7004",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "06828cd6e8e0f7a19bc1a74b0bc4924b891acef3",
+      "datavalue": {
+       "value": {
+        "time": "+1891-06-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1003920$99587E37-AE9E-4589-A3FA-9EA25AF670E6",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003920$a653c302-5de9-4e52-adc0-73087f1885ed",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "898f617ddbc9ad851729c26307f77092b84afa13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 679224,
+        "id": "Q679224"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003920$c2ca15c4-4c6a-70c2-3391-34db72633b08",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c1a6ad82663137ae2a21714756e0bd42d4ceb614",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 679224,
+        "id": "Q679224"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1003920$41412f0f-4916-8508-8907-4b9ef81d8aed",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרן פריד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q679224": "היידובסרמן"
+ },
+ "raw": "data/raw/wikidata/Q1003920.json"
+}

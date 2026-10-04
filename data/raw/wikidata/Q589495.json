@@ -1,0 +1,189 @@
+{
+ "id": "Q589495",
+ "url": "https://www.wikidata.org/wiki/Q589495",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q589495",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צבי הירש פרידמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Zevi Hirsch Friedman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי"
+   },
+   "en": {
+    "language": "en",
+    "value": "= Q118384402 — Hungarian Hasidic Rebbe (1808–1874)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ẓevi Hirsch Friedman"
+    },
+    {
+     "language": "en",
+     "value": "Tsevi Hirsh Friedman"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q589495$2EC96888-E4F9-455E-B1B2-897E4BAE0627",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q589495$FCC6EB26-B7EE-4167-B0EA-52327E4BA6F4",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b60143751e86c299e75bae649a6ca719942c3b3f",
+      "datavalue": {
+       "value": {
+        "time": "+1808-05-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q589495$752ECC1B-D8CE-4D1E-BBBA-E380334ACC94",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0343994682af5f5401b7154a7766fc7bef0b9e91",
+      "datavalue": {
+       "value": {
+        "time": "+1808-05-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q589495$0d7b5603-4298-4f3d-b364-44289ea1fb73",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c2a329c886ee157fa1f48678978a50e09e89013f",
+      "datavalue": {
+       "value": {
+        "time": "+1874-07-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q589495$509D7EFC-87EA-4CDE-8E5F-84B30DE9DEFB",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "9a1e0a9b9f260a43d36c3aee4d202b9d7b82892a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 28819528,
+        "id": "Q28819528"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q589495$C44DCB0E-D897-4FCE-A9E3-D515D90693BB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש פרידמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q28819528": "צבי הירש הלר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q589495.json"
+}

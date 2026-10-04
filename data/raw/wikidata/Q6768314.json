@@ -1,0 +1,222 @@
+{
+ "id": "Q6768314",
+ "url": "https://www.wikidata.org/wiki/Q6768314",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6768314",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שאול בראך"
+   },
+   "en": {
+    "language": "en",
+    "value": "Šaul Barach"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "פוסק ואב בית דין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian and Czech rabbi (1865–1940)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6768314$5F139D4F-E129-41E8-B51A-0DD344B66FE0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6768314$CBA4C69C-1D1B-4332-AF97-F546A7213DC5",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "f86a3693aa7095a81d65453375c779becca6ed17",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2903959,
+        "id": "Q2903959"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6768314$E50AED05-AB19-4EB7-89F3-3D4FAA0F75B8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6466573467a6082c9166a8c3d6038e24d2f48065",
+      "datavalue": {
+       "value": {
+        "time": "+1865-02-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6768314$1ead0128-47ec-bd81-441f-c4be054d3b55",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4ffd9053384e6ae73410347db65809788c3019f1",
+      "datavalue": {
+       "value": {
+        "time": "+1865-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6768314$F6157B42-F2A6-4276-A8CA-FB3D3F2769DC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "420b856ea968ed6cf4b02106d34959b104f6b0a9",
+      "datavalue": {
+       "value": {
+        "time": "+1940-02-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6768314$c7ccf63a-4c29-2953-d40c-8abac8c5def5",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "39524d336a420d48da3b923ba7a66ae7457a8161",
+      "datavalue": {
+       "value": {
+        "time": "+1940-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6768314$2A4B5524-152F-49D2-86B8-806785C828B9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "44ae0eedec8d67d67652e7e4229b0561c17402e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25409,
+        "id": "Q25409"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6768314$51a2b92f-401c-835a-e053-377e28a30c9d",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאול בראך",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q25409": "קושיצה",
+  "Q2903959": "משה שיק",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6768314.json"
+}

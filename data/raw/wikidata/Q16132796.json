@@ -1,0 +1,178 @@
+{
+ "id": "Q16132796",
+ "url": "https://www.wikidata.org/wiki/Q16132796",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16132796",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל זאב הלוי הורביץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yiśraʼel Zeʼev Horovits"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi (1777-1861)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב (1777–1861), נפטר בטבריה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132796$42E1D244-9FD6-4A52-A7C8-0FAB28393994",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132796$2EC41801-018A-411E-AD71-0E37EC5A4D1F",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d80247aef374e715b49072b8ae841c6433efa997",
+      "datavalue": {
+       "value": {
+        "time": "+1777-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132796$896b2f39-40bf-5afc-6167-e48b505bb119",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2b2952396f832a9ac9bcaeb118cdbbde3ec0c3a6",
+      "datavalue": {
+       "value": {
+        "time": "+1861-05-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16132796$46d515d2-4c8b-013a-ac0b-0f7fa3943ada",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a55e68aa0f776e353d5f8d11fb3e1c0d87efc715",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 151920,
+        "id": "Q151920"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132796$fcbe0373-4233-632b-d21a-7760f6538090",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c671b33b65282c789f948d688b8a597b1f741a16",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 116417,
+        "id": "Q116417"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16132796$eb9f14f5-4a81-c9bb-24ef-532ae885e003",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל זאב הלוי הורביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q116417": "שאטוראליאויהיי",
+  "Q133485": "רב",
+  "Q151920": "טבריה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q16132796.json"
+}

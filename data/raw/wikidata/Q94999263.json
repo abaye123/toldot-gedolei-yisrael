@@ -1,0 +1,159 @@
+{
+ "id": "Q94999263",
+ "url": "https://www.wikidata.org/wiki/Q94999263",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q94999263",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה הכהן אבן סוסאן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehuda Ha-Cohen Ibn Susan"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ודיין בפאס שבמרוקו במאה ה-12"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi and Dayan in Pass in Morocco in the 12th Century. According to some opinions he was a rabbi of Maimonides."
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Judah HaCohen ibn Shoshan"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94999263$c3a859be-4a8f-34ef-d9ae-b731fb587445",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94999263$e110ea69-4a6c-48bb-6f55-d94e45f1badf",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "183725d2b59db1533d025e75725f85318ffc0f25",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94999263$e6fec6dc-4cae-c621-09a9-690d8cde25a0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c47ab162ed362e273f6f420d785af04b92ef20f8",
+      "datavalue": {
+       "value": {
+        "time": "+1165-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q94999263$44b3d544-4a33-0456-ae6d-5f26a7180484",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "35fa47439a5887fca778b6b53bd1b3a19ad3b622",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 127398,
+        "id": "Q127398"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q94999263$97b62999-4a4f-27a4-dc4e-35975406523b",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה הכהן אבן סוסאן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q127398": "רמב\"ם",
+  "Q133485": "רב",
+  "Q3570351": "דיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q94999263.json"
+}

@@ -1,0 +1,191 @@
+{
+ "id": "Q6805598",
+ "url": "https://www.wikidata.org/wiki/Q6805598",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6805598",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליעזר ניצברג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Nitsberg, Eliʻezer, approximately 1855-1935"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב מהזרם הליטאי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ניצברג, אליעזר בן דוד יהודה"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן דוד יהודה"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בר דוד יהודה, אבד דקק קאוולא"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן דוד יהודא"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן דוד יהודא, 1849-1935 בערך"
+    },
+    {
+     "language": "he",
+     "value": "ניצר, אליעזר בן דוד יהודה"
+    },
+    {
+     "language": "he",
+     "value": "ניצבערג, אליעזר"
+    },
+    {
+     "language": "he",
+     "value": "ניצבערג, אליעזר, 1845-1935 בערך"
+    },
+    {
+     "language": "he",
+     "value": "ניצברג, אליעזר בן דוד יהודא"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliʻezer ben Daṿid Yehuda, approximately 1855-1935"
+    },
+    {
+     "language": "en",
+     "value": "Nicberg, Eliezer, approximately 1855-1935"
+    },
+    {
+     "language": "en",
+     "value": "Nicberg, L., approximately 1855-1935"
+    },
+    {
+     "language": "en",
+     "value": "Nit︠s︡berg, Ė., approximately 1855-1935"
+    },
+    {
+     "language": "en",
+     "value": "Nitsberg, Eliʻezer, ca. 1855-1935"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805598$CA22759B-1708-414B-BCBF-858CF955B3D8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6805598$82F491F2-CF78-4419-BB3D-656533623389",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "daee5832eab756b80182ad3f064569de364c752b",
+      "datavalue": {
+       "value": {
+        "time": "+1849-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805598$F8A83A50-CEEC-4814-93A3-7BB213AD3559",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "26f14134174c8dba26746d4cb46f64a6631e2881",
+      "datavalue": {
+       "value": {
+        "time": "+1935-01-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6805598$39124A6B-0B1F-4A7C-9CDB-195121710E46",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר ניצברג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6805598.json"
+}

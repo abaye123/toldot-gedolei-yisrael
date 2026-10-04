@@ -1,0 +1,185 @@
+{
+ "id": "Q7811629",
+ "url": "https://www.wikidata.org/wiki/Q7811629",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7811629",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Tobias Geffen"
+   },
+   "he": {
+    "language": "he",
+    "value": "טוביה גפן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1870–1970)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "גפן, טוביץ"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "35257993f9181492e98eab74586864e7e48ce36a",
+      "datavalue": {
+       "value": {
+        "time": "+1970-02-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7811629$D81F84E7-460C-4EC4-B926-54701A33AE7B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b4e1461184e2879b148ce9b7675589639a523827",
+      "datavalue": {
+       "value": {
+        "time": "+1870-08-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7811629$74E1EF59-59D5-4BFF-8A41-9240FB611E3B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7811629$26925887-9EAE-4BAA-93D0-D27B20560A22",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7811629$987556A5-C415-436A-8877-C1F3FEE0F938",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "479e53dcbfd6c84689e66cd3c1aeeef07ca1e387",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4115712,
+        "id": "Q4115712"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7811629$CC91F6A3-DB75-4B02-A079-44EEDBFFEF81",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b3207fdf60f1f715814d2343fb39173d2530de70",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23556,
+        "id": "Q23556"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7811629$AA2218CC-A41D-4B6C-BF23-0A2BDA589CFD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "טוביה גפן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q23556": "אטלנטה",
+  "Q4115712": "קובנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7811629.json"
+}

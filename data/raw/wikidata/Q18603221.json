@@ -1,0 +1,204 @@
+{
+ "id": "Q18603221",
+ "url": "https://www.wikidata.org/wiki/Q18603221",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18603221",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק שטרנהל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchok Sternhell"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי-אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian-American rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יצחק שטערנהעלל"
+    },
+    {
+     "language": "he",
+     "value": "יצחק שטערנהעל"
+    },
+    {
+     "language": "he",
+     "value": "יצחק שטערנהלל"
+    },
+    {
+     "language": "he",
+     "value": "יצחק שטערנהל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yitsḥaḳ Shṭernhell"
+    },
+    {
+     "language": "en",
+     "value": "Isaac Sternhell"
+    },
+    {
+     "language": "en",
+     "value": "Yizchok Sternhell"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P965": [
+       {
+        "snaktype": "value",
+        "property": "P965",
+        "hash": "ef34f7849e145967ac0afb001016992d7ebd5c69",
+        "datavalue": {
+         "value": "חלקה גליציה ב, שורה 16, מספר קבר 65",
+         "type": "string"
+        },
+        "datatype": "string"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P965"
+     ],
+     "id": "Q18603221$1b98b00d-4579-35f4-35e2-27ad1293d9c3",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603221$cc724b35-46b1-c24e-5f69-7bf64cd0ed60",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "713b848962a16a44fc2dae6babd1fcbec5f4f5c0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 947521,
+        "id": "Q947521"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603221$ABA54365-D5A4-49D7-9D42-C56660FAD199",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18603221$c0014ba5-49f8-3e94-e032-bc48b55b8ff7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "93ce18894ff2c4c3151400a526f6605dbf5b1f13",
+      "datavalue": {
+       "value": {
+        "time": "+1980-04-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18603221$c7e3206d-4281-3224-574c-1913e37339b8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק שטרנהל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q947521": "גורליצה"
+ },
+ "raw": "data/raw/wikidata/Q18603221.json"
+}

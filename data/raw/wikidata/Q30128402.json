@@ -1,0 +1,189 @@
+{
+ "id": "Q30128402",
+ "url": "https://www.wikidata.org/wiki/Q30128402",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30128402",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע הלר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yehoshuʻa Helir"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Lithuanian rabbi and follower of Mussar movement"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ליטאי ודרשן ברוח תנועת המוסר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהושע העליר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehoshuʻa Heler"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30128402$224f6296-4997-299d-c6f8-cd5a8e6db4fa",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c7d00ecd7425063aeddd3785e52715d36dd997c6",
+      "datavalue": {
+       "value": {
+        "time": "+1814-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30128402$3a54825e-4b4f-8919-d2c0-899dc995075c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "36df02a654a4b1710d7edcc0b115cad6a9a323f0",
+      "datavalue": {
+       "value": {
+        "time": "+1880-06-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30128402$f7af0387-421c-6ebc-cf02-320a1bdf7880",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "ceba8e74ad46f3a6dd432a8606ba8bbe1f7780d1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1674629,
+        "id": "Q1674629"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30128402$895bb040-4d8c-c4ff-f7db-4dbb3c703c17",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "d95c51890e3111e8d30bd35f053ac60e7e85653d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6579777,
+        "id": "Q6579777"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30128402$450951f6-4795-ab73-f0bf-5d2c1f3f847b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30128402$EB88B6D3-0952-43DB-B82B-33EB14A2D825",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע הלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1674629": "ישראל מסלנט",
+  "Q5": "אדם",
+  "Q6579777": "דוד טביל ממינסק"
+ },
+ "raw": "data/raw/wikidata/Q30128402.json"
+}

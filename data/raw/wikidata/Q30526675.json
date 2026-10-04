@@ -1,0 +1,186 @@
+{
+ "id": "Q30526675",
+ "url": "https://www.wikidata.org/wiki/Q30526675",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q30526675",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם בן אביגדור"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Ben Avigdor"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וראש ישיבה באימפריה העות'מאנית (~1715–1786)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi and rosh yeshiva in the Ottoman Empire (~1715–1786)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם בכ\"ר אביגדור"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אביגדור"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526675$DB2C5DEA-5823-4F50-ADAB-0457FF70E9F8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526675$c34279e9-42de-865f-ee32-31b1e51f483a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b7329732cf14d0cff3604c1f9ce30432c0bb0f61",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2308372,
+        "id": "Q2308372"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q30526675$25bde4e7-4595-2475-ca01-a5d837aaf685",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "be90aa8a17f0d1933a344a91dacfc457a0bf2c96",
+      "datavalue": {
+       "value": {
+        "time": "+1715-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P459": [
+       {
+        "snaktype": "value",
+        "property": "P459",
+        "hash": "59e16663852542d613c363dbd575ca58fff3b6e7",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 791801,
+          "id": "Q791801"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P459"
+     ],
+     "id": "Q30526675$79650180-418b-c267-c021-4b884012774c",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cb7714908fddf05228b032d98dc39701f41b6f36",
+      "datavalue": {
+       "value": {
+        "time": "+1786-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q30526675$f9030ab9-482d-37f4-293d-1e1b191ae422",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם בן אביגדור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2308372": "ראש ישיבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q30526675.json"
+}

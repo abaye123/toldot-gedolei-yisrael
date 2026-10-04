@@ -1,0 +1,316 @@
+{
+ "id": "Q832201",
+ "url": "https://www.wikidata.org/wiki/Q832201",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q832201",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Bezalel Ashkenazi"
+   },
+   "he": {
+    "language": "he",
+    "value": "בצלאל אשכנזי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשוני האחרונים, מחבר ה\"שיטה מקובצת\""
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi and Talmudic scholar (1520-1591)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Bezalel ben Abraham Ashkenazi"
+    },
+    {
+     "language": "en",
+     "value": "Betsal’el Ashkenazi"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$61711DC7-7929-4A72-ACC5-9A2E7AD4C386",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$DA6F3FE6-09C9-4AA6-8E00-31D8E824686B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$68bcfc7e-46fc-7a27-caaa-ec3e75acf430",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b8fe41707d7f744637e0713e8589a05d9b143a57",
+      "datavalue": {
+       "value": {
+        "time": "+1520-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q832201$DC91624A-28E0-489A-ADCC-707682B9936E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "77af9358e6e8e23d4fdb5e6ca535a1f96070978f",
+      "datavalue": {
+       "value": {
+        "time": "+1592-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q832201$07318E2A-C38C-47B3-A683-8F60F8AEC1D3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "50a7ae8a3cf0513d6f3f800b3909daa1118d4e3c",
+      "datavalue": {
+       "value": {
+        "time": "+1594-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q832201$0593107f-45b2-d6c3-34e4-9388cb717e47",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "0d6e19f9182ea040da2a8080cebb310b134de963",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 339509,
+        "id": "Q339509"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$44f75c51-4c0d-c120-0341-a67e34780500",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "01d5c39cf34e57fb42132ca63c179f8de10ea8fd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 114038729,
+        "id": "Q114038729"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$f561395d-404e-9a2b-2665-6f60b27ebf6e",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "8bce1a91388b63f20bdef48f44200d92e3b70b05",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12411626,
+        "id": "Q12411626"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$6ef4de8b-4727-997c-4eb7-064f62f9a253",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$626DCB53-3332-4A3F-9831-9E1A8CF13142",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5f78741dc3a80a53e2a584f9bfc7434a5e1484db",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 188336,
+        "id": "Q188336"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q832201$0FFDBBB1-8536-48CF-857B-CB25B02A374B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בצלאל אשכנזי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q114038729": "מונסון, אברהם,",
+  "Q1218": "ירושלים",
+  "Q12411626": "שיטה מקובצת",
+  "Q133485": "רב",
+  "Q188336": "צפת",
+  "Q339509": "האר\"י",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q832201.json"
+}

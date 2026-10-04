@@ -1,0 +1,169 @@
+{
+ "id": "Q2346533",
+ "url": "https://www.wikidata.org/wiki/Q2346533",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2346533",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אשר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Asscher"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2346533$A2B56B8B-2F79-4791-B044-B620AE541842",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "9a74106c9d2186ab624dc71a54c8c93743074bd1",
+      "datavalue": {
+       "value": {
+        "time": "+1884-06-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2346533$951240C1-D1AF-4E97-A593-FFA6E7392AB5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "27b0a730b878404fa082258b71bab9dd04ba3155",
+      "datavalue": {
+       "value": {
+        "time": "+1926-05-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2346533$31882864-AE10-4E4C-8EF3-1C706F8245CF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2346533$26E1FB78-C961-487D-87BD-4D3773CF811F",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "e0b8181ea7cf451ea9af5321c1f3cee2ae0d3ea8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1095150,
+        "id": "Q1095150"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2346533$c9e0b7b6-486d-a042-a31d-a46cca57994e",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "f59ac7826ef241f1bf262ed2cf7c2a0f19caf7ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 62862200,
+        "id": "Q62862200"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2346533$a5451169-4eed-91f6-d664-d69eea90fea3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אשר (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1095150": "קלרה אשר-פינקהוף",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q62862200": "Fieke Asscher"
+ },
+ "raw": "data/raw/wikidata/Q2346533.json"
+}

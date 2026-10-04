@@ -1,0 +1,156 @@
+{
+ "id": "Q106409702",
+ "url": "https://www.wikidata.org/wiki/Q106409702",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q106409702",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנו לנקה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Manó Lenke"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי וסופר קהילתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106409702$73ffbf68-49e2-6430-2fd8-681f10072cf9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106409702$ce5264c7-4471-0c98-8be5-623004ec8ac5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "678795b4adc43dbc0ebc92ff02cde0ed79934e18",
+      "datavalue": {
+       "value": {
+        "time": "+1868-11-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106409702$881196cd-4da2-245a-c42d-a93b1d2c66f7",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2a5e8d36fa33a201535738ff6438563adb1095f5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 26175,
+        "id": "Q26175"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q106409702$02b35a9d-4bd9-8cdf-1c1a-2b575e146034",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "af8ea350bdbab436a74060db134d54dc754c473f",
+      "datavalue": {
+       "value": {
+        "time": "+1940-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q106409702$ac0772fa-450e-0503-1e18-84d586789f56",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנו לנקה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q26175": "טרנבה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q106409702.json"
+}

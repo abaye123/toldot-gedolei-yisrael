@@ -1,0 +1,187 @@
+{
+ "id": "Q12407861",
+ "url": "https://www.wikidata.org/wiki/Q12407861",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12407861",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהושע אייזיק שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Joshua Isaac ben Jehiel Shapira"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב יהודי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אייזל חריף"
+    },
+    {
+     "language": "he",
+     "value": "אייזיל חריף"
+    },
+    {
+     "language": "he",
+     "value": "יהושע יצחק שפירא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407861$080B0D53-9A45-4164-BA94-31401EA1F2A5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407861$B02FF73B-01F6-44A4-9B31-F613154DD4F2",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407861$41C3B776-B8F7-4948-B4B1-04997CDB44F8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "27786dc1f0c98d9e5d9bede4f94497ccc488f705",
+      "datavalue": {
+       "value": {
+        "time": "+1801-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407861$1939300B-ADF6-455C-BCF1-9B128C377FE4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3a91d5cefc3a083fa1b8b0f46b2d4431a3fba203",
+      "datavalue": {
+       "value": {
+        "time": "+1873-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407861$4B717192-F9C5-4B60-99C2-FE69FDF26B11",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0a9b202cea74216a681a8fce97c170a7f159ce2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 954114,
+        "id": "Q954114"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407861$1273e0dc-45b9-4dd0-5d00-2445e79ddf47",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהושע אייזיק שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q21584816": "תלמודאי",
+  "Q5": "אדם",
+  "Q954114": "גלובוקי"
+ },
+ "raw": "data/raw/wikidata/Q12407861.json"
+}

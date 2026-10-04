@@ -1,0 +1,278 @@
+{
+ "id": "Q57175938",
+ "url": "https://www.wikidata.org/wiki/Q57175938",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q57175938",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Albert Katz"
+   },
+   "he": {
+    "language": "he",
+    "value": "אלברט כ״ץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "סופר יהודי-גרמני (1858 –  1923)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם אלברט כץ"
+    },
+    {
+     "language": "he",
+     "value": "אברהם אלברט כ״ץ"
+    },
+    {
+     "language": "he",
+     "value": "אלברט כץ"
+    },
+    {
+     "language": "he",
+     "value": "א. כ\"ץ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$040534E1-ACC5-4653-BA3F-21E9C06942B9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$f97e65a0-dd76-4641-b48a-eaba7b15702d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$9d03c57d-5684-4c33-bc24-d5b460e6cff0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "db0b81abd5c336f839b298c3c1ec3765435de195",
+      "datavalue": {
+       "value": {
+        "time": "+1858-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q57175938$15663a87-15c9-427c-ae28-60c7795c0e2b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f677562a988db61ac7bfbb2297037670a200b64a",
+      "datavalue": {
+       "value": {
+        "time": "+1858-07-17T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q57175938$98095fc7-4eec-9420-751f-875f4d0abfba",
+     "rank": "preferred"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1c73c385e769ced7c8256764a7834cee635b8fa7",
+      "datavalue": {
+       "value": {
+        "time": "+1923-12-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q57175938$0AD181EB-6494-4549-A9BC-74DF6A5C77FF",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "51d36cfa1320493a450fdf6b4535304484b40424",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 580,
+        "id": "Q580"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$6ECCE1CE-9BFF-4A4E-9CFA-51D86BE07A60",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "353773fafc33fa38af83afc667553d3328c2714c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 64,
+        "id": "Q64"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$c5b8a989-4c0e-d6ae-7e09-5086dd2f38b1",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "719c4c49f916ff2f0f03d85d9984d0ee794a674e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 675174,
+        "id": "Q675174"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q57175938$B439975C-1290-4DF9-AD63-7FDC5DA398F1",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "ecaf237c8bcf35313b4208ba169708a5f399ee53",
+      "datavalue": {
+       "value": "איש הרוח",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q57175938$b1881be8-476d-f9fe-7659-5e73fa76c1b0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלברט כ\"ץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q5": "אדם",
+  "Q580": "לודז'",
+  "Q64": "ברלין",
+  "Q675174": "בית הקברות היהודי בווייסנזה"
+ },
+ "raw": "data/raw/wikidata/Q57175938.json"
+}

@@ -1,0 +1,296 @@
+{
+ "id": "Q12403958",
+ "url": "https://www.wikidata.org/wiki/Q12403958",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12403958",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליעזר אליהו איגל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliezer Elias Igel"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Austrian Galiczian Rabbi, of the town of Czernowitz and of province of Bukowina"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ראשי של צ'רנוביץ"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Lazar Elias Igel"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "Abraham Eliezer Eliyahu Ha-Levi Igel"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$261400AB-5A5D-4DED-BC54-21A70A4DE0DB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$FD6ED973-D29E-4BAD-B180-9023C5D428D5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b60efa159831e9f44b52ba51ad19c36f8e3bb11e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5758653,
+        "id": "Q5758653"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$E0645C6D-40D2-4387-A30C-8FE43B8C1A1E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "a10534963529635b239839e93f896122c96c08ac",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1622272,
+        "id": "Q1622272"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$29BC6B77-156E-40F9-9B76-0F204948CD3D",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "08a1d6ad07b3bf135c9430cf91b44be93c6c189c",
+      "datavalue": {
+       "value": {
+        "time": "+1825-02-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q12403958$15155535-282f-4a0a-b5a6-3e49f1fcf2dd",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f63f38dfb01f8d878c7c8dc633d9202f65a48f88",
+      "datavalue": {
+       "value": {
+        "time": "+1825-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403958$D3E30D99-E470-4D53-BD62-09090A0F0B42",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0f3ab9afe242346b06d28746052984acc688bfdf",
+      "datavalue": {
+       "value": {
+        "time": "+1892-03-26T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403958$7bfe32b2-4621-ab99-1f27-b83fdbbca8b3",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a9ca2142d896967f752280138946c7e6160dffd",
+      "datavalue": {
+       "value": {
+        "time": "+1892-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12403958$5FDE686D-4DC0-4625-B7A7-3EA569F3CC4A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7eb2953936669f86f833c2b0ed80dc34a95ec03a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$d0c775e1-4f97-17c4-620d-1ceef29c4ff3",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "2b83f848e0c5c6364ef6f698a8a7d9adab0e5405",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 157725,
+        "id": "Q157725"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12403958$aaa43f02-469e-6aa8-c397-992a7cb1df10",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר אליהו איגל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q157725": "צ'רנוביץ",
+  "Q1622272": "מרצה באוניברסיטה",
+  "Q36036": "לבוב",
+  "Q5": "אדם",
+  "Q5758653": "מורה בתיכון"
+ },
+ "raw": "data/raw/wikidata/Q12403958.json"
+}

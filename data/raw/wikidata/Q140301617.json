@@ -1,0 +1,165 @@
+{
+ "id": "Q140301617",
+ "url": "https://www.wikidata.org/wiki/Q140301617",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q140301617",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמואל מאמדור"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140301617$206c82a1-46d8-cf68-aada-85381da3086d",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140301617$0c0ff71f-469f-34c6-a0c7-e2eb977ff43f",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "e81cacf01effc48a5040d0cb6465cb5ad9517aa4",
+      "datavalue": {
+       "value": {
+        "time": "+1718-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q140301617$3f8bcecf-4cf3-abf1-4931-11f65068c16c",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "007d9014543f122d697d82fb1d0d314f9b5d9c9c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2920508,
+        "id": "Q2920508"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140301617$63b484df-4e26-525e-6c6d-8d558194f4d9",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "42eaccee64ffac863c2c0890f64de9cf35d9a7d8",
+      "datavalue": {
+       "value": {
+        "time": "+1777-05-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q140301617$5e8015ad-436f-d105-6655-cec78ef61155",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "98d4deb611b6c474551df7bf00f8617c3b0a7b26",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2500789,
+        "id": "Q2500789"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q140301617$51d8ad2a-4008-cf53-5aa3-b98ab430ed57",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמואל מאמדור",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2500789": "ראקאב",
+  "Q2920508": "אינדורה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q140301617.json"
+}

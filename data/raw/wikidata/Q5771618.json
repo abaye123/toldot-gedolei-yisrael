@@ -1,0 +1,197 @@
+{
+ "id": "Q5771618",
+ "url": "https://www.wikidata.org/wiki/Q5771618",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5771618",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hirsch Janow"
+   },
+   "he": {
+    "language": "he",
+    "value": "צבי הירש יאנוב"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "יוסף הירש יאנוב"
+    },
+    {
+     "language": "en",
+     "value": "צבי הירש יאנוב"
+    },
+    {
+     "language": "en",
+     "value": "ינוב, צבי הירש"
+    },
+    {
+     "language": "en",
+     "value": "צבי הירש ינוב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5771618$5A3AF611-43B7-4120-B096-CFEF98CEC96E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8c66b9da5c16536a7cb843d5aa0d65e2f10d5f81",
+      "datavalue": {
+       "value": {
+        "time": "+1733-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5771618$BBAE7146-F9CC-40B5-80E9-4B0C97AB5513",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4308949545508f9fd246507fb972878da53ab59c",
+      "datavalue": {
+       "value": {
+        "time": "+1785-11-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5771618$3E8153C2-296E-448F-A14C-14DC2BD978C5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5771618$31ACB557-8BB4-4CD2-87EE-2D7D3E50E146",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2c95b82cb1aca3c77b39f3fd18a04682a0974453",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 52892,
+        "id": "Q52892"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5771618$b2f40db9-41ef-b806-f5c0-131a6e896257",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "08697488f534802fdd6f1f80465a7919b071f99b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3075,
+        "id": "Q3075"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5771618$80DF3FE6-3CAA-480E-9F77-5CEA65184FAF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צבי הירש יאנוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3075": "פירט",
+  "Q5": "אדם",
+  "Q52892": "לשנו"
+ },
+ "raw": "data/raw/wikidata/Q5771618.json"
+}

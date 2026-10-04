@@ -1,0 +1,151 @@
+{
+ "id": "Q2905222",
+ "url": "https://www.wikidata.org/wiki/Q2905222",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2905222",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב נטרונאי גאון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Natronai ben Hilai"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מגאוני סורא"
+   },
+   "en": {
+    "language": "en",
+    "value": "9th century rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רב נטרונאי"
+    },
+    {
+     "language": "he",
+     "value": "נטרונאי בר רב הילאי"
+    },
+    {
+     "language": "he",
+     "value": "רב נטרונאי בר רב הילאי"
+    },
+    {
+     "language": "he",
+     "value": "נטרונאי גאון"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905222$9ED69F73-F2AF-4ED8-BC41-A53772F5DAD8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905222$2DA0DC2A-C6F3-4CFB-90A8-72D64880DCC0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6eec7a64568876d9440486ed6677604d6e533cb2",
+      "datavalue": {
+       "value": {
+        "time": "+0858-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2905222$382ac0c4-4122-b35e-e7af-e91741a33e0c",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "4e3758157621049a0e2659736290c30c068a3229",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 125973293,
+        "id": "Q125973293"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2905222$318fdd93-48e0-ec90-da12-b80457922c97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב נטרונאי גאון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q125973293": "רב הילאי גאון",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2905222.json"
+}

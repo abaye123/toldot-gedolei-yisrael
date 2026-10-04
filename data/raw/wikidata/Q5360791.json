@@ -1,0 +1,259 @@
+{
+ "id": "Q5360791",
+ "url": "https://www.wikidata.org/wiki/Q5360791",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q5360791",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Eliezer ben Joel HaLevi"
+   },
+   "he": {
+    "language": "he",
+    "value": "אליעזר בן יואל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German Rabbinic scholar"
+   },
+   "he": {
+    "language": "he",
+    "value": "מהראשונים, מחבר ספר אבי העזרי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ראבי\"ה"
+    },
+    {
+     "language": "he",
+     "value": "אליעזר בן יואל הלוי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Eliezer ben Yoel HaLevi of Bonn"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360791$B884DCAA-1196-4D5A-9854-767436A92EE8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cf4a135f172da324dde578b971f6a7591247e82c",
+      "datavalue": {
+       "value": {
+        "time": "+1140-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q5360791$313DBEB6-311D-4F04-A78A-AFF5E7432B39",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "beaf0adf80e71b03379e68a8dd3e11baed0ae675",
+      "datavalue": {
+       "value": {
+        "time": "+1225-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q5360791$D42E4E40-BD17-46C4-A79A-AC208027E255",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7bc11c1166bfb90ec241e1330abb9bd4edab6140",
+      "datavalue": {
+       "value": {
+        "time": "+1220-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q5360791$154608ca-4634-35c5-a51d-86c2c99ca028",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360791$AB28D1EC-BFCC-45F7-94EF-A99A98D98073",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "40148590eb4d2d70dd6b3755f5e51e75f399da71",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1720,
+        "id": "Q1720"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360791$A9FEFE36-84F6-4556-8DDC-103556D7065E",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "3084565e258072b94da1d4c26ce19bf8a11cc319",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 96064770,
+        "id": "Q96064770"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q5360791$3EFDDE21-6EB4-43E4-95B4-70A976F91571",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר בן יואל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1720": "מיינץ",
+  "Q5": "אדם",
+  "Q96064770": "יואל הלוי מבונא"
+ },
+ "raw": "data/raw/wikidata/Q5360791.json"
+}

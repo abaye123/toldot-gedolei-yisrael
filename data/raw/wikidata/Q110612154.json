@@ -1,0 +1,177 @@
+{
+ "id": "Q110612154",
+ "url": "https://www.wikidata.org/wiki/Q110612154",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q110612154",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים ישכר גרוס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Gros, Ḥayim Yiśakhar"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב, סופר ועורך"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חיים יששכר גרוס"
+    },
+    {
+     "language": "he",
+     "value": "גראס, חיים יששכר דב"
+    },
+    {
+     "language": "he",
+     "value": "גראסס, חיים יששכר דב"
+    },
+    {
+     "language": "he",
+     "value": "גראס, חיים ישכר"
+    },
+    {
+     "language": "he",
+     "value": "גראס, חיים יששכר"
+    },
+    {
+     "language": "he",
+     "value": "גרוס, חיים דוב"
+    },
+    {
+     "language": "he",
+     "value": "גרוס, חיים יששכר דוב בן בנימין צבי"
+    },
+    {
+     "language": "he",
+     "value": "שבחי, -1938"
+    },
+    {
+     "language": "he",
+     "value": "גרוס, חיים יששכר דב בן בנימין צבי"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Gross, Ḥayyim Issachar"
+    },
+    {
+     "language": "en",
+     "value": "Ize'r ʻIlui"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110612154$56364588-4B0D-42C0-923E-88B43C8F37A4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b39391cfd1e1b9d915d1a2b5455e546ac8dd4450",
+      "datavalue": {
+       "value": {
+        "time": "+1938-07-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q110612154$79A50EA4-C98A-45A1-8DA4-42301B8DA5A4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "689a2094460d5b4d326fab3e2ab286037ee46f97",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 146456,
+        "id": "Q146456"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110612154$E155E55E-04DD-4D5E-8BB7-01E29D68D9B7",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q110612154$7C0AD984-EBA1-4118-B713-7DE627182361",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים ישכר גרוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q146456": "מוקצ'בו",
+  "Q2796156": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q110612154.json"
+}

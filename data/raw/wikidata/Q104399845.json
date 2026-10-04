@@ -1,0 +1,168 @@
+{
+ "id": "Q104399845",
+ "url": "https://www.wikidata.org/wiki/Q104399845",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q104399845",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי אבין נגרא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rabbi Abin Naggara"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אביהם של רב חייא בר אבין ורב אידי בר אבין"
+   },
+   "en": {
+    "language": "en",
+    "value": "3rd generation Babylonian Amora"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "54522a90e7e912f6c0abe5fd4c2111ee1fce159a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10971640,
+        "id": "Q10971640"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$98b62130-4132-cbb1-cc90-dafba9fca6a9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "b0b4fb70b13dcaacd18326c0ed15b418fade735d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5872982,
+        "id": "Q5872982"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$1f19ff6d-4689-62c5-b8fa-10dcafc5b0cb",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$6ac75d3c-41a6-bc1b-b877-e3f9389134d4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$68994375-4a8d-eb38-2cb5-6020bd62f69c",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "dee89cd68bf738a992500ea5ef1ab8d707b1630e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 154549,
+        "id": "Q154549"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$85bae339-4966-0965-8fcd-f565a1ccce24",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q104399845$D8329435-BDF4-4E2B-869A-A72E070CD7CB",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי אבין נגרא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10971640": "רב אידי בר אבין",
+  "Q133485": "רב",
+  "Q154549": "נגר",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5872982": "רב חייא בר אבין"
+ },
+ "raw": "data/raw/wikidata/Q104399845.json"
+}

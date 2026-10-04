@@ -1,0 +1,237 @@
+{
+ "id": "Q4668912",
+ "url": "https://www.wikidata.org/wiki/Q4668912",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4668912",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Hirsch ben Jacob Eisenstadt of Byelostok"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם צבי הירש אייזנשטט"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Russian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומחבר ספר פתחי תשובה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אברהם אייזנשטט"
+    },
+    {
+     "language": "he",
+     "value": "פתחי תשובה"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Tzvi Hirsch ben Jacob Eisenstadt of Byelostok"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668912$10507B56-86AD-4224-BA4F-4A7746C6BC93",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "caee974043859102654566ed2ecdcd3045dd6647",
+      "datavalue": {
+       "value": {
+        "time": "+1812-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668912$55336772-FF44-43E8-A9B0-3765B9FA430C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6a91fd5254b42fa1bd787ff058d2536825974c50",
+      "datavalue": {
+       "value": {
+        "time": "+1813-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668912$E07BAA41-C44A-4554-AE58-1E957A2EF7E8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668912$23956CD8-037C-4504-8D69-62CB4E3D015E",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668912$117db2ed-4978-faca-ffb5-d70782c53bcd",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "67e1688d1ba4bccce128fb4572096307e6a28a53",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 761,
+        "id": "Q761"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668912$fd94f207-4f36-b133-08f8-dbaed5186886",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "78ff5bb37649b931ca2f68afd14c5b7903b62b60",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1829,
+        "id": "Q1829"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4668912$ef54e312-46ad-5365-8865-aaedcd0f69f3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b205f1833fbb0a0299e436023aaac2aced3f6ab9",
+      "datavalue": {
+       "value": {
+        "time": "+1868-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4668912$A297E387-790A-4CE8-AA4B-FDEF6ACC819E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם צבי הירש אייזנשטט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1829": "קלינינגרד",
+  "Q5": "אדם",
+  "Q761": "ביאליסטוק",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q4668912.json"
+}

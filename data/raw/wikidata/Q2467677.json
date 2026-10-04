@@ -1,0 +1,260 @@
+{
+ "id": "Q2467677",
+ "url": "https://www.wikidata.org/wiki/Q2467677",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2467677",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Aaron Alexandre"
+   },
+   "he": {
+    "language": "he",
+    "value": "אהרון אלכסנדר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Jewish German–French–English chess player and writer"
+   },
+   "he": {
+    "language": "he",
+    "value": "שחמטאי גרמני-צרפתי-אנגלי-יהודי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2467677$0F10DBF7-6807-469E-B78F-4D8D1276C222",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "db8f1adaf09f4c16cdfa4e93b511f231191fe423",
+      "datavalue": {
+       "value": {
+        "time": "+1850-11-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2467677$6632C62E-8FA5-437E-939E-5A9EE6126776",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a42602746a76c74cdd35910764ab20777f071aae",
+      "datavalue": {
+       "value": {
+        "time": "+1766-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q2467677$FE0B9DDE-06B9-4E55-A35B-CD1A8AE8A6C8",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "960ba6b41036ee739b5d75b131c27ca444470972",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 387497,
+        "id": "Q387497"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "1a3215f93c2ae7d06f17c76aa960547bbd849ffb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12548,
+          "id": "Q12548"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q2467677$74558144-FFCC-49A9-816A-083CC127CC35",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8f7dda3f7c5342d3203628895572d7542dc92f86",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10873124,
+        "id": "Q10873124"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2467677$6E007480-72A6-4521-B7B7-BE1EBF3D4366",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "145a99b3206147698f56b5b8297bf8d8e2643472",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2627699,
+        "id": "Q2627699"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2467677$53C854D0-CA3C-41EA-A3AD-108002A00E75",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "74d310e184cdabe461f5619bd4785b5d0b2e6941",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2796156,
+        "id": "Q2796156"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2467677$8A415585-B496-4893-9802-81025F864616",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa5d2d94a735557e557df0dc68c3480147d26d1a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 84,
+        "id": "Q84"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2467677$33a960d7-448b-0381-7ead-dc8f97717254",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אהרון אלכסנדר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10873124": "שחמטאי",
+  "Q2627699": "פרובלמאי",
+  "Q2796156": "רב",
+  "Q387497": "Hohenfeld",
+  "Q5": "אדם",
+  "Q84": "לונדון"
+ },
+ "raw": "data/raw/wikidata/Q2467677.json"
+}

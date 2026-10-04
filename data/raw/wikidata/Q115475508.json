@@ -1,0 +1,178 @@
+{
+ "id": "Q115475508",
+ "url": "https://www.wikidata.org/wiki/Q115475508",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q115475508",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham de Wolff"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם דה-וולף"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Dutch Rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב יהודי הולנדי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115475508$B56F5F38-4261-494A-938E-563D6BC58374",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1cc49506482a83ff446196474710324553c90682",
+      "datavalue": {
+       "value": {
+        "time": "+1878-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q115475508$879c3288-4de2-1cfc-1545-438e4a1df6f6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9732958000667267c57abc6d4134e2bffdb79adb",
+      "datavalue": {
+       "value": {
+        "time": "+1943-07-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q115475508$0ff1ebce-4bb6-1fd5-0ef5-d8f698dbcd92",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115475508$4af5c18b-404a-ea05-3869-21a763e4aa1e",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "e148f32931c9ac1920718c8fd5528f256c11b92f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1007172,
+        "id": "Q1007172"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115475508$41f09918-4615-68cc-0f4c-0c549880a6fb",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5c5a2d97767485d7166d98508d69fc79468bf767",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 152658,
+        "id": "Q152658"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q115475508$e576741d-4329-c614-634d-5444da36c066",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם דה-וולף",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1007172": "דלדן",
+  "Q133485": "רב",
+  "Q152658": "סוביבור",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q115475508.json"
+}

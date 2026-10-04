@@ -1,0 +1,334 @@
+{
+ "id": "Q1949234",
+ "url": "https://www.wikidata.org/wiki/Q1949234",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1949234",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moses ben Joseph di Trani"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה מטראני"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ottoman rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש ישיבה ופוסק בתחילת תקופת האחרונים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "המבי\"ט"
+    },
+    {
+     "language": "he",
+     "value": "מבי\"ט"
+    },
+    {
+     "language": "he",
+     "value": "משה מיטראני"
+    },
+    {
+     "language": "he",
+     "value": "טראני, משה בן יוסף,"
+    },
+    {
+     "language": "he",
+     "value": "משה,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Mabit"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0d96bf3782cae72f4524bbd75e01279c8090dbea",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1949234$D7D92A33-60F3-4412-808F-88AED4D5FF27",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fa3bcecab1c42d927fd7bfe4268e6f3d4861f555",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1949234$982205D6-81AE-4FB6-94F2-31082F6541A5",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$C01FCC6E-5127-4C83-AE1E-DD5775A1DA9C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6026c7c2ddc21bbaaa72ebc308422255cf488d25",
+      "datavalue": {
+       "value": {
+        "time": "+1505-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q1949234$46C3692F-A430-49BC-ADBC-1A31A5278C44",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1d75e2eec58434379fe6fb1e56959e97130219d3",
+      "datavalue": {
+       "value": {
+        "time": "+1585-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1949234$D8A0F85A-6C09-46F6-8CCA-427900ED61CA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$B21976CC-E00A-48C3-880B-E433A7E5D169",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6e06e16c6c1694dcfff0f3da9804529e9cbe0b82",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7061378,
+        "id": "Q7061378"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$2a6e99f2-5768-4c25-b018-c7ac803ae9d5",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "46e64eb30db0873115c47e9361c54993e221287f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 100115210,
+        "id": "Q100115210"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$1b94b16a-45d8-c07a-0046-b507b21956ce",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "a71fd0f1150d9d7117372413e939b52bed8b826e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 100135300,
+        "id": "Q100135300"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$e4322fc9-48c7-c496-eaa4-adf0a70c726d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "eada0e8aeb748270720384217a53996b8d2cfce4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134624390,
+        "id": "Q134624390"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$b0b88956-4918-e4d8-05d7-f6bbf63ec9ae",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "33b3b27841a42eabe7a349a36d875190f47e1142",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 633076,
+        "id": "Q633076"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1949234$f5aeae61-45fa-950c-c771-223a82f7e804",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מטראני",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q100115210": "בית אלהים",
+  "Q100135300": "שו\"ת המבי\"ט",
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q134624390": "קרית ספר (חיבור הלכתי)",
+  "Q17151": "סלוניקי",
+  "Q5": "אדם",
+  "Q633076": "טרני, יוסף בן משה די",
+  "Q7061378": "בית הקברות היהודי העתיק בצפת"
+ },
+ "raw": "data/raw/wikidata/Q1949234.json"
+}

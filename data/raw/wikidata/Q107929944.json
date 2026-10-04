@@ -1,0 +1,172 @@
+{
+ "id": "Q107929944",
+ "url": "https://www.wikidata.org/wiki/Q107929944",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q107929944",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד בן יהודה החסיד"
+   },
+   "en": {
+    "language": "en",
+    "value": "David ben Judah, he-Ḥasid"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מראשוני המקובלים בימי הביניים, ומחבר ספרי הקבלה - מראות הצובאות, ספר הגבול, אור זרוע, ועוד."
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107929944$5ee9028c-4a92-c1b2-fec5-6028c14650c8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "843a0e295d299075554609bbc5359fcd12aa7c57",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12350380,
+        "id": "Q12350380"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107929944$8be92135-4ac8-0490-db9a-a40648cf870a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107929944$C2F6FA03-9FDA-48AF-8A26-8FE5E226381C",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "5c0ed72582477c7a7243fe9a6472d89bec3ee5f8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16130600,
+        "id": "Q16130600"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q107929944$5cf3fb85-42d3-1d95-6f93-aee85f6b8fa1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "de51fc55d819e9cbef55c9ed6ae50c372c555113",
+      "datavalue": {
+       "value": {
+        "time": "+1320-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107929944$615CD9EF-D78A-480A-8649-1A02A4E1B811",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ffe7c02046971a9126b1da475c827046c012dc4f",
+      "datavalue": {
+       "value": {
+        "time": "+1240-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q107929944$8DBC6761-658C-4583-BB4B-FB7645B8B94E",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד בן יהודה החסיד",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12350380": "מקובל",
+  "Q133485": "רב",
+  "Q16130600": "יוסף בן שלום אשכנזי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q107929944.json"
+}

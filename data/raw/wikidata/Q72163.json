@@ -1,0 +1,371 @@
+{
+ "id": "Q72163",
+ "url": "https://www.wikidata.org/wiki/Q72163",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q72163",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מהר\"ם מרוטנבורג"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir ben Baruch"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi and poet (c.1215–1293)"
+   },
+   "he": {
+    "language": "he",
+    "value": "תלמיד חכם מתקופת הראשונים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר בן ברוך מרוטנברג"
+    },
+    {
+     "language": "he",
+     "value": "מאיר בן ברוך"
+    },
+    {
+     "language": "he",
+     "value": "מאיר מרוטנבורג"
+    },
+    {
+     "language": "he",
+     "value": "מהר\"ם בן ברוך"
+    },
+    {
+     "language": "he",
+     "value": "המהר\"ם מרוטנבורג"
+    },
+    {
+     "language": "he",
+     "value": "מהר\"ם מרוטנברג"
+    },
+    {
+     "language": "he",
+     "value": "מאיר,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Meir ben Baruch of Rothenburg"
+    },
+    {
+     "language": "en",
+     "value": "Rabbi Meir Ben Baruch"
+    },
+    {
+     "language": "en",
+     "value": "Maharam of Rothenburg"
+    },
+    {
+     "language": "en",
+     "value": "Meir of Rothenburg"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1ac0c331d95da3c504d90a11404fa61b170e826d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3852,
+        "id": "Q3852"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q72163$CB9CA3D1-B8E1-4F3B-92DF-B08AFD0F9862",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "60c2473bb58a4057664baa4b326313c0dd5cf2d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 259617,
+        "id": "Q259617"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q72163$DB0FF7C5-2FDE-4B39-AD89-AEE35F1636B0",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$BAE5B845-BE64-4353-91D6-92B3CE144DAC",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a1ff56d36dab97cd122a3acbc92ed21b1084546e",
+      "datavalue": {
+       "value": {
+        "time": "+1215-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31",
+      "P1480"
+     ],
+     "id": "Q72163$0C6A1115-2A88-4331-ACDD-7ED2BBD09C75",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4496eda50d8829db9882dc0eb6fcb359e34db6f3",
+      "datavalue": {
+       "value": {
+        "time": "+1293-04-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q72163$42D20EE2-233E-4197-9C12-BC2A08697B7F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$431FAD4F-FC02-40DA-AB09-FEC7A0B4658A",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$FFD69620-E7FE-40CF-B0A8-CBA81131B976",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6d056136b41f211db22d9dcc518af7c672554ef3",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 21584816,
+        "id": "Q21584816"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$F56C68CE-0423-4127-A91F-4C33D4A8AB98",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "0ae026591c1f9200e20b00d205538c971c699398",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 722525,
+        "id": "Q722525"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$981bf995-425d-3e0e-886f-0ac45dc111e4",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "adb6be5313c8c53c39ce87e0d0e985a35d312cb9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1686108,
+        "id": "Q1686108"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$8a232ff4-478d-506f-0af1-afaf5a342aad",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "72bf94da2aa3b9d90281dd579ea9022cb578339e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 573209,
+        "id": "Q573209"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q72163$ce0606f8-4de6-e70f-25bb-06917bca4825",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מהר\"ם מרוטנבורג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q1686108": "יחיאל מפריז",
+  "Q21584816": "תלמודאי",
+  "Q259617": "ווסרבורג שעל האין",
+  "Q3852": "וורמס",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q573209": "בית העלמין היהודי העתיק בוורמס",
+  "Q722525": "רא\"ש"
+ },
+ "raw": "data/raw/wikidata/Q72163.json"
+}

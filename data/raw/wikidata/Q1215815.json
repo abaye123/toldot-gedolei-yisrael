@@ -1,0 +1,239 @@
+{
+ "id": "Q1215815",
+ "url": "https://www.wikidata.org/wiki/Q1215815",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1215815",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "József Natonek"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף נטונק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב ואיש חינוך יהודי-הונגרי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Jozsef Natonek"
+    },
+    {
+     "language": "en",
+     "value": "Josef Natonek"
+    },
+    {
+     "language": "en",
+     "value": "Yosef Natonek"
+    },
+    {
+     "language": "en",
+     "value": "Joseph Natonek"
+    },
+    {
+     "language": "en",
+     "value": "Natonek, Yosef"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1215815$42FC6E61-113C-4AD0-99AD-7B4206A431B0",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1215815$FC9A6EDD-23AE-45E4-A3D2-98CE2A4B9931",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "9c59ad7a126450bda41d4a1313fdbc435ed76ac7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12718299,
+        "id": "Q12718299"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1215815$662BE752-7A7D-44FB-9548-C0FF82DDDFED",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7ad942587e0a90c83e2120ea30cfa6746799e514",
+      "datavalue": {
+       "value": {
+        "time": "+1813-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1215815$DF9AC396-2269-4C93-9B8C-4F6F115805D1",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9f8982653239fe6a75aa020c91087723d16bf6f6",
+      "datavalue": {
+       "value": {
+        "time": "+1892-11-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1215815$cdc630a7-451e-702a-a3cd-bd79c53adb62",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2a9ca2142d896967f752280138946c7e6160dffd",
+      "datavalue": {
+       "value": {
+        "time": "+1892-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1215815$D64E25A6-FFEF-4C77-A2F2-1C6CC7A57121",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "6cf9041a3a4a3954e3df65e866ffefaf5111316e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1125268,
+        "id": "Q1125268"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1215815$02f320ba-4d4f-7896-76e9-1e8397bbd906",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "fdd98daba55a279dafd371f3e636fbd109de427d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 831118,
+        "id": "Q831118"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1215815$6555c9a8-4c71-92bf-bd48-0a965857d4e2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף נטונק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1125268": "Kömlőd",
+  "Q12718299": "ציוני",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q831118": "באטור"
+ },
+ "raw": "data/raw/wikidata/Q1215815.json"
+}

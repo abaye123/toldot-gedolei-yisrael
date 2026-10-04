@@ -1,0 +1,177 @@
+{
+ "id": "Q12234803",
+ "url": "https://www.wikidata.org/wiki/Q12234803",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12234803",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה טברסקי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אדמו\"ר חסידי, מייסד חסידות קוריסטשוב"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "המגיד מקוריסטשוב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234803$C5455926-C8E5-48A5-A79E-24ECB2E3DD07",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234803$610CA965-2D02-4B80-9193-8E28F99B1D26",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "5dbf5176c5fa15543ff7a96b6ea4bd93a8527d5d",
+      "datavalue": {
+       "value": {
+        "time": "+1788-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12234803$51AFB751-A098-4165-AAE5-7EF27B7F8D3D",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1e20ae2576c3eec2f171f2ec2b8242cb008e4f85",
+      "datavalue": {
+       "value": {
+        "time": "+1866-01-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12234803$880A09F8-500D-4562-AAF1-78864881359D",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "be615234e5649dea8afc339cb51a4f9fd01bdaf8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6261909,
+        "id": "Q6261909"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234803$B0EC9828-AB66-4458-A3F4-019E0F9E46F7",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "8e3c7ff91c74c1b6d619397efd816405aa629117",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2898995,
+        "id": "Q2898995"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12234803$646f1c5c-49a5-b1ee-cbf0-327dd4ab5641",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה טברסקי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2898995": "מרדכי טברסקי",
+  "Q5": "אדם",
+  "Q6261909": "יעקב ישראל טברסקי טשערקאס"
+ },
+ "raw": "data/raw/wikidata/Q12234803.json"
+}

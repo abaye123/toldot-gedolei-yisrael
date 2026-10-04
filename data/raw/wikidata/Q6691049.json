@@ -1,0 +1,180 @@
+{
+ "id": "Q6691049",
+ "url": "https://www.wikidata.org/wiki/Q6691049",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6691049",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בנימין אהרן סלניק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Binyamin Aharon ben Avraham Slonik"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Binyamin Aharon Slonik"
+    },
+    {
+     "language": "en",
+     "value": "Binyamin Aharon ben Avraham Seloniḳ"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6691049$507A9217-360B-4BB5-A716-26F253996424",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6691049$9C1B9449-7750-40C4-98F0-AF096C37D38C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b0da60851044e73a3e1329918641add96f912c1d",
+      "datavalue": {
+       "value": {
+        "time": "+1550-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6691049$3DA38E2E-2E68-4995-BA67-2C85C76035BD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "5c2adc221826acd0319fdf0d66c2f7ce696d7553",
+      "datavalue": {
+       "value": {
+        "time": "+1620-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6691049$75B7DF62-1B7B-440C-8FD0-F56A1606ED69",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e73846aa9e6830318ed720f8a45e0788da7e2702",
+      "datavalue": {
+       "value": {
+        "time": "+1619-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6691049$79F4DD72-C132-47D3-B4D7-3B88C5D6B495",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "13d78fe1481777d47503cd32698d0e3aeb7be96d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 181376,
+        "id": "Q181376"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6691049$1d109947-4ae4-e4df-fe55-413fe29eec97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בנימין אהרן סלניק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q181376": "גרודנו",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6691049.json"
+}

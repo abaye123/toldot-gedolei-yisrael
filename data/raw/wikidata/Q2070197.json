@@ -1,0 +1,160 @@
+{
+ "id": "Q2070197",
+ "url": "https://www.wikidata.org/wiki/Q2070197",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2070197",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בבא בן בוטא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Baba ben Buta"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Mishnah rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "בבא בן בוטי"
+    },
+    {
+     "language": "he",
+     "value": "בבא בר בוטא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2070197$C6F80A67-7CF6-4145-84A1-9E7F6D624690",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2070197$48154FF2-03F8-4F06-9A18-A4921B40C02C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "48b6bf52235456d0e51415752f4c57c346362ab2",
+      "datavalue": {
+       "value": {
+        "time": "-0100-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2070197$C697803C-B92D-4B5A-BB00-C52C7749C2F1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d3885656ef24d3928774e5fcd8b23e43fe42d7fc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 23792,
+        "id": "Q23792"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "9fa4604cca77d964bc7d9f3d0b1df625cac7b164",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 10359001,
+          "id": "Q10359001"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q2070197$BDC5C312-2D8C-4654-AF1F-0927327C84C0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בבא בן בוטא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q23792": "ארץ ישראל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2070197.json"
+}

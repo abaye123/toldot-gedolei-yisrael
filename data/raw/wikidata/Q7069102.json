@@ -1,0 +1,189 @@
+{
+ "id": "Q7069102",
+ "url": "https://www.wikidata.org/wiki/Q7069102",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7069102",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מאיר יחיאל הולשטוק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Meir Yechiel Halevi Halstock"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "האדמו\"ר מאוסטרובצה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Ostrowcier Rebbe"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מאיר יחיאל האלשטוק"
+    },
+    {
+     "language": "he",
+     "value": "האלשטוק, מאיר יחיאל בן אברהם יצחק"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7069102$5F7C553C-3FA1-4461-A8A5-554CAB12C5D9",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7069102$5B56D70A-979B-4B59-878D-0A657B954E19",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "7cc422c0723b9724b94c3647457db610b0ee7a7a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 730929,
+        "id": "Q730929"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7069102$BACD5BA2-5997-4146-8F21-705AA3A00458",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7db7181ea246b2c51ee7266db66478ec4e72d951",
+      "datavalue": {
+       "value": {
+        "time": "+1851-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7069102$35F99A00-CC41-4DA2-A218-86941630D558",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "04fd398ae7285858155067bd3a428c3bf8b78b5d",
+      "datavalue": {
+       "value": {
+        "time": "+1928-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7069102$42FDC75E-10FD-4A26-8548-02C3E467990E",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "d33a7f39dce97a4378f4a3996573719d09820a4d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7011844,
+        "id": "Q7011844"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7069102$186ab85a-4da6-81e8-cc72-a5f9b4b7f9b7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר יחיאל הולשטוק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7011844": "ישראל יהושע מקוטנא",
+  "Q730929": "אוסטרובייץ שוויינטוקז'יסקי"
+ },
+ "raw": "data/raw/wikidata/Q7069102.json"
+}

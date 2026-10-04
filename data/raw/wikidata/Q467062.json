@@ -1,0 +1,441 @@
+{
+ "id": "Q467062",
+ "url": "https://www.wikidata.org/wiki/Q467062",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q467062",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה אברבנאל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah Leon Abravanel"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Portuguese Jewish philosopher, physician and poet"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, רופא, פילוסוף יהודי ומשורר"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה בן יצחק אברבנאל"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Leo the Hebrew"
+    },
+    {
+     "language": "en",
+     "value": "Leon Abravanel"
+    }
+   ]
+  },
+  "claims": {
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "989195b044156fa59fc307a261f418493c249911",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2634,
+        "id": "Q2634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q467062$6D92C4B7-AEEA-4C53-ADA4-0BD3AED89040",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$DD53F26F-5539-4E4E-B92F-2A1B7DC732CD",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "c84ac90c2c983620c04ed3e74f4cdca0d7ea4c24",
+      "datavalue": {
+       "value": {
+        "time": "+1460-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q467062$C532E9E1-A7B2-439F-B9FA-7D76D6F02379",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1e5aa420ad30c37968c9a52030599f8e4ae75dd7",
+      "datavalue": {
+       "value": {
+        "time": "+1530-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q467062$119B5E6B-858D-4D14-B874-F532410D0980",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6e098d35cccb93f882dc83bf56ef43d192ca40cc",
+      "datavalue": {
+       "value": {
+        "time": "+1521-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q467062$3c6f7a12-4734-6943-d95d-dad2bf5dfbcb",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "03c4c77883f6374542e7bd29d4f84c79f66d58a4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4964182,
+        "id": "Q4964182"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$860C6BB9-3F1D-4821-83B0-75EC07B63BA0",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$F1052EAC-29E3-422B-BA03-A3AF5E5BD1AE",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6f3176aa7019356d10e93c9a8a22ad52df896d5b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 39631,
+        "id": "Q39631"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$4D3BE791-DAB6-4A72-A793-287467C9485C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$24D09111-EDF7-46F1-9A3A-B8C2F39AC42B",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$35069A00-C187-48DA-8343-85D833DC1385",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e118a53c94a9ebfb705eb2128a792b68e378d208",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10527030,
+        "id": "Q10527030"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$59a77909-4890-33b3-8b67-736912a4b3a7",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "6eb9586c1ffe5c9f64fb47b6cfce19dc245be926",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 319902,
+        "id": "Q319902"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$7D65FB91-BD97-4DDC-987E-3DF4D4A91111",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "36cdb68c3906cdd1a6c8c2b694525211e1f08c36",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6118100,
+        "id": "Q6118100"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$0236b4a0-4419-2296-d99a-322c968591e9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0f0114e6e8f0d52577096184ca97cc16f8e8e255",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 597,
+        "id": "Q597"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q467062$0E7129A4-AF50-486D-BFA4-6945D4318524",
+     "rank": "normal"
+    }
+   ],
+   "P742": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P742",
+      "hash": "567002d953d6969bcbad65913d4abe20fd295353",
+      "datavalue": {
+       "value": "Leão Hebreu",
+       "type": "string"
+      },
+      "datatype": "string"
+     },
+     "type": "statement",
+     "id": "Q467062$4F132A2C-566B-45E7-8D5F-9C0FD63F4022",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה אברבנאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q10527030": "אנושן",
+  "Q133485": "רב",
+  "Q2634": "נאפולי",
+  "Q319902": "יצחק אברבנאל",
+  "Q36180": "סופר",
+  "Q39631": "רופא",
+  "Q4964182": "פילוסוף",
+  "Q49757": "משורר",
+  "Q5": "אדם",
+  "Q597": "ליסבון",
+  "Q6118100": "שמואל אברבנאל"
+ },
+ "raw": "data/raw/wikidata/Q467062.json"
+}

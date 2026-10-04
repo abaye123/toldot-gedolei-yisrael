@@ -1,0 +1,211 @@
+{
+ "id": "Q3866108",
+ "url": "https://www.wikidata.org/wiki/Q3866108",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3866108",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה לייב מסאסוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Leib of Sassov"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Moses Leib of Sasov"
+    },
+    {
+     "language": "en",
+     "value": "Mosheh Leib of Sasov"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3866108$B17F8E98-A9D3-4937-8604-4C6DF71AD2BE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bb79a13c9267ab80cf6932e7ede30ea8e755eb11",
+      "datavalue": {
+       "value": {
+        "time": "+1745-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3866108$EF75883A-379E-46CF-B331-2EC1F5EA5821",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3866108$B0D811FB-82E7-4C7B-B714-0C30FB330440",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5957cd903c1de6ffe39a36d5421c5b1e09d4f756",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 465104,
+        "id": "Q465104"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3866108$F16B5E2A-0D6E-455C-B5BD-8D1C61830380",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "27fa258dc699cd6ef7dad0b1a8b964ca2b09864e",
+      "datavalue": {
+       "value": {
+        "time": "+1807-01-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3866108$240DF44C-D8AA-4CF2-86C7-EC9E0E352E76",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "19dbb507e212091170fff7f4906425706c7026b5",
+      "datavalue": {
+       "value": {
+        "time": "+1807-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3866108$AF7BFB84-52F5-4768-82E6-35A0EEC114D7",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "86b57fd72050c16ca0612f8c7faada0e800fa167",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4408930,
+        "id": "Q4408930"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3866108$FA2D94AB-FCB2-479F-B6B9-0AD053B5A0C3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה לייב מסאסוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q4408930": "סאסוב",
+  "Q465104": "ברודי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3866108.json"
+}

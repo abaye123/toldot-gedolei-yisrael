@@ -1,0 +1,311 @@
+{
+ "id": "Q18192688",
+ "url": "https://www.wikidata.org/wiki/Q18192688",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18192688",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלעזר משה הורוויץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Elʻazar Mosheh Hurvits"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב (1817-1890)"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1817-1890)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הורוויץ, אלעזר משה בן צבי הירש"
+    },
+    {
+     "language": "he",
+     "value": "אלעזר משה הורוויץ, מפינסק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Hurṿits, Elʻazar Mosheh, ha-Leṿi"
+    },
+    {
+     "language": "en",
+     "value": "Ish Hurṿits, Elʻazar Mosheh, ha-Leṿi."
+    },
+    {
+     "language": "en",
+     "value": "Gurvich, L. M"
+    },
+    {
+     "language": "en",
+     "value": "Hurwitz, Eleazar Moses"
+    },
+    {
+     "language": "en",
+     "value": "nne Hurṿits, Elʻazar Mosheh, ha-Leṿi"
+    },
+    {
+     "language": "en",
+     "value": "Hurvits, Elazar Mosheh, ha-Levi"
+    },
+    {
+     "language": "en",
+     "value": "Elʻazar Mosheh Hurṿits"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18192688$F0D97CB7-088F-483B-A67E-5EBC8F278ADF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18192688$498992EE-7A82-45F8-8B8A-5D2D82F18AEE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a67c0b3f09f5a5795952746d0c9eacd6c55f7578",
+      "datavalue": {
+       "value": {
+        "time": "+1817-09-12T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "dc0f217e35cef0f2398869379a61694365f90924",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406307,
+          "id": "Q12406307"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "deec6f097dfbac528fe8bf7d582b74fcffbbf1d6",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2912315,
+          "id": "Q2912315"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q18192688$2829e26a-41f3-4672-659a-63c9b123c364",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "301d218fa2be8ba52f15d9262a5625855a219a8e",
+      "datavalue": {
+       "value": {
+        "time": "+1890-07-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "12b2e72c67f91da446ba78ddfbbdc5f5ab200418",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2817561,
+          "id": "Q2817561"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "d18bcbd54d75521967cae94339e81203d94fc093",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 2911945,
+          "id": "Q2911945"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q18192688$F79792FC-9956-4E46-B3AD-38A060F6EEE9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d27ee77672972a11af28824175b1eb907d985388",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 955126,
+        "id": "Q955126"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18192688$62c41857-4438-c0d4-ef85-5a9f96bb54c0",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "782d4f46e4fdf5f26d060de2dce3566029d04323",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 204150,
+        "id": "Q204150"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q18192688$83a045f2-4c3d-f951-6a8b-cbc7e62a458b",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "ecffc784b431e7cf9c9029e854271cc4a4ec2c4d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134027641,
+        "id": "Q134027641"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18192688$3dfef478-47eb-48c7-b64c-10f7ae7a6105",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלעזר משה הורוויץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q134027641": "יהושע הלוי הורביץ",
+  "Q204150": "פינסק",
+  "Q5": "אדם",
+  "Q955126": "צ'ריקאו"
+ },
+ "raw": "data/raw/wikidata/Q18192688.json"
+}

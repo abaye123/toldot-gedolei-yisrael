@@ -1,0 +1,242 @@
+{
+ "id": "Q131452790",
+ "url": "https://www.wikidata.org/wiki/Q131452790",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q131452790",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף הלוי נזיר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef ha-Levi nazir"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בקהיר (1660?–1713)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף בן חיים משה הלוי נזיר"
+    },
+    {
+     "language": "he",
+     "value": "יוסף נזיר"
+    },
+    {
+     "language": "he",
+     "value": "יוסף הנזיר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yosef ha-Leṿi ha-nazir"
+    },
+    {
+     "language": "en",
+     "value": "Joseph ha-Levi Nazir"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131452790$9e917c0b-42c4-a19a-d4c8-4ccc8915f789",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131452790$e429adc2-4e9f-4840-43fa-15eb42fdddf6",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "6ef5bf19b9cf63c5896df1bcb5d24b76642ac8fc",
+      "datavalue": {
+       "value": {
+        "time": "+1660-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q131452790$1f3aba51-40e3-8867-b51b-8c08983c790b",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c04528d78fedf787b8925f9971af736e1422bb41",
+      "datavalue": {
+       "value": {
+        "time": "+1713-09-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q131452790$61e276a4-4986-dae9-ecca-33dd124efd64",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "e126067cc365afd6e3c7f443eeddbc68ae7fe115",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6916009,
+        "id": "Q6916009"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131452790$381d638c-4d7d-f511-1ac9-1eb444516c58",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d0c566e5e39b5ef1dd8977334e1b005939a06820",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 406,
+        "id": "Q406"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131452790$A041EA1C-6906-49D6-8569-FCE30D913FB9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5787f7f9305a899326a1500dc3112998309f372c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 491507,
+        "id": "Q491507"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q131452790$FF6A162C-3081-4DB9-A597-A8D0292C0209",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף הלוי נזיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q406": "איסטנבול",
+  "Q491507": "איילט מצרים",
+  "Q5": "אדם",
+  "Q6916009": "משה הלוי הנזיר"
+ },
+ "raw": "data/raw/wikidata/Q131452790.json"
+}

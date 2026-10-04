@@ -1,0 +1,84 @@
+{
+ "id": "Q18422795",
+ "url": "https://www.wikidata.org/wiki/Q18422795",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18422795",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אבימי בריה דרבי אבהו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abbahu"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אבהו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422795$62a52c7d-49e4-ba9a-fdc2-92338cefe082",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "83c4f58eaff2c3a6b2aff8b88d25091fba1b4ba9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 474035,
+        "id": "Q474035"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18422795$31de4e1b-46d4-fbfd-7345-cd956b634a56",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבימי בריה דרבי אבהו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q474035": "אמוראים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18422795.json"
+}

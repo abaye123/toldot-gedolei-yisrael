@@ -1,0 +1,206 @@
+{
+ "id": "Q2897331",
+ "url": "https://www.wikidata.org/wiki/Q2897331",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2897331",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי חלפתא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Halafta"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Mishnah rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב, שמוזכר במשנה; תנא"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חלפתא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897331$22C51EC3-2BDA-45E9-B944-6794F7AEFA51",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7d8724e1782496319d41246cb3708b150ebf2312",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1132798,
+        "id": "Q1132798"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897331$8F02CB6E-243F-48F5-AEF7-86068236FD6C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897331$D5418C3F-F861-48E8-9854-216EE3DBC588",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "69d6038f7636ab6893fba875b9cabcbca1b94d06",
+      "datavalue": {
+       "value": {
+        "time": "+0101-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2897331$7BE1293A-40A4-4EA9-B8AB-F61890B66B21",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "86cee3a8a3bc6073d7851f94daf590d1729a630e",
+      "datavalue": {
+       "value": {
+        "time": "+0101-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2897331$06A13B54-DDC8-412E-B81E-5DD80165DB92",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "de20e5bd02da2d29706c6567d84aa009c657fc7b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 982075,
+        "id": "Q982075"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2897331$10b04b23-4165-609b-1e89-080588f5133c",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי חלפתא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1132798": "ציפורי",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q982075": "רבי יוסי"
+ },
+ "raw": "data/raw/wikidata/Q2897331.json"
+}

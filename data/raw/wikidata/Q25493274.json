@@ -1,0 +1,177 @@
+{
+ "id": "Q25493274",
+ "url": "https://www.wikidata.org/wiki/Q25493274",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25493274",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה בריאל"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah ben Eliezer Briel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב איטלקי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Italian rabbi (1643–1722)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25493274$A3A4DDFC-C710-4B84-A3D2-D20F212374DF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q25493274$b67e1689-4bcc-db29-7664-4f333a0315a9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "083741480739987947d9cc7c1e6a7ec9309d1024",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25493274$87EC1580-2C2B-4501-88F2-47CCC38F0085",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "02c4293090969a756e0ad4be463d2b53af260194",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6247,
+        "id": "Q6247"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25493274$5DD5B054-25C7-4D2E-A7EA-C90D7A76E198",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "03a3a7a55833da1c4182112ef136197585dcf3d3",
+      "datavalue": {
+       "value": {
+        "time": "+1643-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25493274$6F765BFC-6C83-4E3C-833B-0E687B329A08",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "dfa95a587ee72731ee3a24d4e41bf4297ee310a7",
+      "datavalue": {
+       "value": {
+        "time": "+1722-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25493274$2178E2AA-618E-4173-A0EF-B280B9AFD984",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה בריאל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q6247": "מנטובה"
+ },
+ "raw": "data/raw/wikidata/Q25493274.json"
+}

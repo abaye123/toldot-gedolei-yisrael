@@ -1,0 +1,173 @@
+{
+ "id": "Q4669161",
+ "url": "https://www.wikidata.org/wiki/Q4669161",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4669161",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abraham Saba"
+   },
+   "he": {
+    "language": "he",
+    "value": "אברהם סבע"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Spanish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ספרדי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "סבא, אברהם,"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Avraham Ben Yaʿaqov Saba"
+    },
+    {
+     "language": "en",
+     "value": "Abraham Ben-Jakob Saba"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669161$197B631C-74C3-48AE-9E4F-EFBB865338EE",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4446255259392085fd84b04dcad5eec1aabd9856",
+      "datavalue": {
+       "value": {
+        "time": "+1440-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669161$5735E0DC-A0AF-4F5A-8A1E-F6D0AC718F00",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c42bb0e614340a09b3a5e4512ac8f1d31cd512d0",
+      "datavalue": {
+       "value": {
+        "time": "+1508-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4669161$5AF5C0BB-2DBD-4180-B115-315C6C04A2A2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669161$9E71BBFC-3EF2-4DE5-A9CA-7CA7B8244529",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "6de91c6974363e9d28db32f9d74c6b777f1f0ec7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12408246,
+        "id": "Q12408246"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4669161$2efcfc4f-4857-a453-fac2-06b40f3b2c46",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם סבע",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12408246": "יצחק די ליאון",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4669161.json"
+}

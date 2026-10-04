@@ -1,0 +1,200 @@
+{
+ "id": "Q16508882",
+ "url": "https://www.wikidata.org/wiki/Q16508882",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q16508882",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Raphael Breuer"
+   },
+   "he": {
+    "language": "he",
+    "value": "רפאל ברויאר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1881-1932)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה של אשפנבורג שבגרמניה ופרשן תנ\"ך"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16508882$833B0CCA-6A7C-4235-8515-6B6304157584",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a3750bb9626c5426b4d98a2f94ac934ae8a3ebb0",
+      "datavalue": {
+       "value": {
+        "time": "+1881-02-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16508882$3DB8F42F-41DB-4FC0-9CC6-BACFE23EF18A",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "d585f26fe25e3564616c68c2ff98b36731a133ab",
+      "datavalue": {
+       "value": {
+        "time": "+1932-01-09T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q16508882$0EB79BC3-2174-4470-A981-D88B6DECA69E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "84ce722281995e6043507f3ecfbb01cde1fc4264",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3942,
+        "id": "Q3942"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16508882$61D865A9-8620-4486-B71C-8E52A3E58E41",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16508882$43259D77-45AC-444F-90F3-AECAC0593A05",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "de27e129fcd5dfee16dbcc953380655cfd7a39cd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 214945,
+        "id": "Q214945"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16508882$AB58CE93-EDA4-4A8B-BA86-B4B952FD5D92",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "f44562d161b8e26d74f261ae18eadafce80738d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 849455,
+        "id": "Q849455"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q16508882$C12DEA2C-6A12-43E9-BF0C-A17796EB2A23",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רפאל ברויאר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q214945": "פאפה",
+  "Q3942": "אשפנבורג",
+  "Q5": "אדם",
+  "Q849455": "שלמה זלמן ברויאר"
+ },
+ "raw": "data/raw/wikidata/Q16508882.json"
+}

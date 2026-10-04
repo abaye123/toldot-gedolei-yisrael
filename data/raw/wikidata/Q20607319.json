@@ -1,0 +1,132 @@
+{
+ "id": "Q20607319",
+ "url": "https://www.wikidata.org/wiki/Q20607319",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20607319",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמחה ישכר בער הלברשטאם"
+   },
+   "en": {
+    "language": "en",
+    "value": "Simcha Yissachar Ber Halberstam"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בעיירה צ'שאנוב בין סוף המאה ה-19"
+   },
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi (1869–1914)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607319$D87E6A94-F682-4AF8-83E0-C38DDAC53E23",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607319$907156D2-6ACF-47EA-A596-F30D3CA498C1",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "730f4e532b483f374da710dc817de90a5fa05eef",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 653855,
+        "id": "Q653855"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20607319$89D65166-81F1-4B72-BC79-42D2C855DC09",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "77ec8370dafd608fd71bb5bbb87e42316bcd09cd",
+      "datavalue": {
+       "value": {
+        "time": "+1919-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20607319$7DB25869-D441-49F5-B250-AA74D1C7263B",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמחה ישכר בער הלברשטאם",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q653855": "צ'שאנוב"
+ },
+ "raw": "data/raw/wikidata/Q20607319.json"
+}

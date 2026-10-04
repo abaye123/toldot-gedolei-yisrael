@@ -1,0 +1,169 @@
+{
+ "id": "Q27020227",
+ "url": "https://www.wikidata.org/wiki/Q27020227",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q27020227",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם יצחק גליק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Abraham Isaac Glueck"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "(1826-1909)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020227$D8D59683-03FF-47AC-B9BF-02C8090EDAB9",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "0302bf4efd0aa05fbf1b621bc956396a2118eefb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1008032,
+        "id": "Q1008032"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020227$135750fb-4689-1e02-39f4-0094f13c9a06",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0c123b29fe33f85e696ca6dfdc0d3380fe479124",
+      "datavalue": {
+       "value": {
+        "time": "+1826-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27020227$DAFE1AB3-E30E-4C11-82CB-B896FD1F7560",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P19",
+      "hash": "075f6bd3c5b1dc67d84dec842e29629072949889",
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020227$F57EE258-0709-4BB9-9B75-8E0ABF07125B",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e74754b60ac01d9e5968c70dae933a620d9b1708",
+      "datavalue": {
+       "value": {
+        "time": "+1909-04-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q27020227$88492301-ED45-462C-906C-408621A0343D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q27020227$BF317499-154B-463C-8451-4608C4DB974C",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם יצחק גליק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1008032": "טולצ'ווה",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q27020227.json"
+}

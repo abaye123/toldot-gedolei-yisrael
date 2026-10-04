@@ -1,0 +1,169 @@
+{
+ "id": "Q6920683",
+ "url": "https://www.wikidata.org/wiki/Q6920683",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6920683",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה יעקב רביקוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Mosheh Yaʻaḳov Rabiḳov"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920683$79855B9A-DE5A-42E8-9506-A856FAA4896B",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a9147799c9eaf8945928bad2beb5b2cf92f6c447",
+      "datavalue": {
+       "value": {
+        "time": "+1873-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6920683$678428A1-CE81-482B-8B37-10CBA296C811",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8da9bdb18f9e9bbdaa83a6ebea67792896399211",
+      "datavalue": {
+       "value": {
+        "time": "+1966-10-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6920683$A88F2E74-FA3B-47DB-9F8A-10E2E02B1326",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920683$EC04BFF3-45E5-4AB7-8A73-6ED4F40A7147",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "a2abed3e875a1cce920bbc31f5c48d44eb7a77f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6983913,
+        "id": "Q6983913"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920683$315ebd7a-4eb6-4062-ef74-01c97772cf50",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9d0174a0d8c2a77f536857f1f50fc310b803ca45",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3917746,
+        "id": "Q3917746"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920683$d027009c-4ace-81bb-5f09-f906c4c2a790",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה יעקב רביקוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q3917746": "יז'יורי",
+  "Q5": "אדם",
+  "Q6983913": "בית הקברות שומרי שבת"
+ },
+ "raw": "data/raw/wikidata/Q6920683.json"
+}

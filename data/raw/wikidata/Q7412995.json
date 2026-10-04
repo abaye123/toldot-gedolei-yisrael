@@ -1,0 +1,150 @@
+{
+ "id": "Q7412995",
+ "url": "https://www.wikidata.org/wiki/Q7412995",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7412995",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Samuel b. Abbahu"
+   },
+   "he": {
+    "language": "he",
+    "value": "שמואל בריה דרב אבהו"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שמואל בריה דרבי אבהו"
+    },
+    {
+     "language": "he",
+     "value": "רב שמואל בריה דרב אבהו"
+    },
+    {
+     "language": "he",
+     "value": "שמואל בר רבא"
+    },
+    {
+     "language": "he",
+     "value": "שמואל בר רבבהו"
+    },
+    {
+     "language": "he",
+     "value": "שמואל בריה דרבא"
+    },
+    {
+     "language": "he",
+     "value": "שמואל בר אבהו"
+    },
+    {
+     "language": "he",
+     "value": "רב שמואל בר רבא"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7412995$679187E9-9A88-408F-B767-9C8E3306B1E3",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7412995$6F45BABB-EEB2-4AC5-90C9-5EE4BD77BB66",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7412995$6B2A7BC6-CFB5-45A7-9A3E-C84AD9358725",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7412995$F18A8F9B-111F-49A8-AF69-C351E55C8DD8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב שמואל בריה דרב אבהו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל"
+ },
+ "raw": "data/raw/wikidata/Q7412995.json"
+}

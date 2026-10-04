@@ -1,0 +1,178 @@
+{
+ "id": "Q1380436",
+ "url": "https://www.wikidata.org/wiki/Q1380436",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1380436",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Aub"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף אווב"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1804–1880)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2385ddf76196988a3ebc749ffd3c094fd59539be",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 163423,
+        "id": "Q163423"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1380436$9D624D51-BD9A-430D-9745-56B687803851",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "353773fafc33fa38af83afc667553d3328c2714c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 64,
+        "id": "Q64"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1380436$E9D69891-5DF9-4F5F-9F93-8169D2DC92E7",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1380436$C53B9CB6-8516-4CE0-BCA1-8636B1B0C530",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "b3691d59613bed8e25370dc73c2ace601bbf0f06",
+      "datavalue": {
+       "value": {
+        "time": "+1804-12-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1380436$A6B3F28B-86BE-4867-A389-38DC5679A085",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "44fcbe10a58c95604ccbcd47d8c18fcc859f6b4f",
+      "datavalue": {
+       "value": {
+        "time": "+1880-05-22T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1380436$B30A9C0C-7482-4ADE-8345-61EBE9016BE8",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1380436$3D91E89C-E5B9-4213-B0CE-35DDAC3DB86A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף אוב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q163423": "באיירסדורף",
+  "Q5": "אדם",
+  "Q64": "ברלין"
+ },
+ "raw": "data/raw/wikidata/Q1380436.json"
+}

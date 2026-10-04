@@ -1,0 +1,207 @@
+{
+ "id": "Q111802630",
+ "url": "https://www.wikidata.org/wiki/Q111802630",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q111802630",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "ישראל אלעזר הופשטיין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Israel Eleazar Hofstein"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב חסידי, אדמו\"ר בקוז'ניץ וחלוץ-מייסד בארץ ישראל (1898–1966)"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hassidic Rebbi (1898–1966)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ישראל אלעזר הופשטין"
+    },
+    {
+     "language": "he",
+     "value": "ישראל אלעזר בן ירחמיאל משה"
+    },
+    {
+     "language": "he",
+     "value": "ישראל אלעזר,‏ מקוז׳ניץ"
+    },
+    {
+     "language": "he",
+     "value": "מגיד‏ מקאזניץ"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Yisra'el El'azar ben Yerahmiel Mosheh"
+    },
+    {
+     "language": "en",
+     "value": "Magid mi-Ḳoznits"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111802630$6b5428a7-4e2c-07a7-72fd-825dff57136e",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bd4d7d3845230271ff9e29ae9dbd450d81177f63",
+      "datavalue": {
+       "value": {
+        "time": "+1898-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111802630$8bef7ac6-4f11-f609-d80f-bdfee0e30202",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4c9cc18d2b702af066fb29e8824276ce333e64f3",
+      "datavalue": {
+       "value": {
+        "time": "+1966-08-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q111802630$362eb2db-4a2b-0510-9a0f-f640f460bdad",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111802630$DC70A125-8F36-4F0F-A0A0-469CB967341A",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111802630$c0ec3e96-49e3-8aee-b46f-e82501497265",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "716d5b2a390a96417e201a32d143c53b609f9c77",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 86005583,
+        "id": "Q86005583"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q111802630$521698fb-4e26-fff5-44c9-e50241839543",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ישראל אלעזר הופשטיין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q7418236": "בית הקברות סנהדריה",
+  "Q86005583": "ירחמיאל משה הופשטיין"
+ },
+ "raw": "data/raw/wikidata/Q111802630.json"
+}

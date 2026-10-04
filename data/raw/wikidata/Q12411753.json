@@ -1,0 +1,153 @@
+{
+ "id": "Q12411753",
+ "url": "https://www.wikidata.org/wiki/Q12411753",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12411753",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלמה הכהן (מהרש\"ך)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב,  מראשוני האחרונים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהרש\"ך"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411753$31E321DA-E66D-4ABF-A155-C878249C2B77",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411753$872E9B04-D9A4-4ECD-88D5-E633B70B48C4",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "68b9cb6560a64a33695778b7f595f193d34097a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 17151,
+        "id": "Q17151"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411753$fdfabca0-0b7b-40be-9899-eccd229a46ac",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "40be50784ed20fb8a6dbae9c212d4811e15bd74d",
+      "datavalue": {
+       "value": {
+        "time": "+1520-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411753$4f0925e2-dde6-4c57-821f-60c1b90db2d9",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "1b8981f5e3890062a52c9a66c64de783bc2a1c29",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 25488598,
+        "id": "Q25488598"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411753$a4e1cb83-48c3-e914-223f-0c481ff93b3e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלמה הכהן (מהרש\"ך)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q17151": "סלוניקי",
+  "Q25488598": "אישטרוק אבן שאנג'י",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12411753.json"
+}

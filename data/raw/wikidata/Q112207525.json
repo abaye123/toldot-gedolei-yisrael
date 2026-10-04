@@ -1,0 +1,186 @@
+{
+ "id": "Q112207525",
+ "url": "https://www.wikidata.org/wiki/Q112207525",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q112207525",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אליעזר נחמן פואה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Eliezer Nachman Foa"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "חכם איטלקי, תלמיד הרמ\"ע מפאנו"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ארנ\"ן"
+    },
+    {
+     "language": "he",
+     "value": "פואה, אליעזר נחמן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Foʼah, Eliʻezer Naḥman ben Shemuʼel"
+    },
+    {
+     "language": "en",
+     "value": "Foa, Eliezer Naḥman"
+    },
+    {
+     "language": "en",
+     "value": "Foʼah, Eliʻezer Naḥman"
+    },
+    {
+     "language": "en",
+     "value": "Poʼah, Eliʻezer Naḥman"
+    },
+    {
+     "language": "en",
+     "value": "FOA, ELIEZER NACHMAN"
+    },
+    {
+     "language": "en",
+     "value": "Eliezer Nahman Foa"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112207525$07C83DCA-4FEE-4AB1-9DD1-D807B5F9144C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112207525$A4F091F6-32CF-47F1-8A27-FB755D8EFD63",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "1bde5d79a54f93b5af945d8e5e849db7f92cf7ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13360,
+        "id": "Q13360"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112207525$15f3407c-4a48-c9ef-8208-e877c219b190",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3f563aac3d5d196530b91844f21e7366cf9b2c2c",
+      "datavalue": {
+       "value": {
+        "time": "+1659-06-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q112207525$2cc0f29a-408f-5f24-594f-40e298eebd7f",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1daefad97ce85f4630b4bd4e2ce7eeb6b4cd072f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13360,
+        "id": "Q13360"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q112207525$ae068c78-481d-3dd8-fd79-37c4c5dcd4b3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אליעזר נחמן פואה",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13360": "רג'ו אמיליה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q112207525.json"
+}

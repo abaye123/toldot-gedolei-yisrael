@@ -1,0 +1,169 @@
+{
+ "id": "Q1001741",
+ "url": "https://www.wikidata.org/wiki/Q1001741",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1001741",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ezékiel Mózes Lipsitz Fischmann"
+   },
+   "he": {
+    "language": "he",
+    "value": "יחזקאל משה פישמן"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Ezekiel Mozes Lipsitz Fischmann"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "יחזקאל משה ליפשיץ פישמן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1001741$B5D11AC1-D38C-406D-B1DD-0DDDE756F17D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1001741$407CD338-62F1-49D6-82FB-4837EA7C580F",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6b62a1a4879871708ce9538f4afcf33191aec7f3",
+      "datavalue": {
+       "value": {
+        "time": "+1874-12-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1001741$2fa8a067-4534-215d-4674-d081c8c1ff7b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "86b3bb3681272da31cbab7e8c3c95c5743749eb3",
+      "datavalue": {
+       "value": {
+        "time": "+1795-03-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1001741$8a60203f-467d-1cd3-6163-63c685847685",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "a0dbf7cd71c644079a671011af76f88bcd7ff891",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 102397,
+        "id": "Q102397"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1001741$ca0a5d38-49d4-5361-934b-4c1ead449bc4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יחזקאל משה פישמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q102397": "מישקולץ",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q1001741.json"
+}

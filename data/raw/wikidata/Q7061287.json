@@ -1,0 +1,156 @@
+{
+ "id": "Q7061287",
+ "url": "https://www.wikidata.org/wiki/Q7061287",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7061287",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק מאיר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitsḥaḳ Meʼir"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Mayor of Bnei Brak"
+   },
+   "he": {
+    "language": "he",
+    "value": "ראש עירית בני ברק"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7061287$C20E68AB-1B7C-4D5C-BF52-2BA31FF24D80",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fb6be4c73f93264e76b36952f0f41a9c387b44e2",
+      "datavalue": {
+       "value": {
+        "time": "+1918-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7061287$C78C424B-64D1-40A7-8C8E-9D45F159FF67",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "79cc59139705bc1b62f3237afc94862c6440f1a8",
+      "datavalue": {
+       "value": {
+        "time": "+2015-04-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7061287$4C07D745-4D2D-49C2-9956-F192151468BA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7061287$f117c03b-fae3-47b5-b81e-16da928346bf",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "143091a0289986012612bd3c0c1109ed6f6b06d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 189273,
+        "id": "Q189273"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7061287$59F64839-EB5D-4784-83D5-B775D337C4F5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק מאיר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q189273": "זלוב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7061287.json"
+}

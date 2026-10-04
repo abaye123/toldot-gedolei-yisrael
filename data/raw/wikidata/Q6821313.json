@@ -1,0 +1,177 @@
+{
+ "id": "Q6821313",
+ "url": "https://www.wikidata.org/wiki/Q6821313",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6821313",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Meshullam ben Jacob"
+   },
+   "he": {
+    "language": "he",
+    "value": "משולם בן יעקב מלוניל"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "12th-century Franco-Jewish Talmudist"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משולם בן יעקב"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6821313$19F9EB48-7B2B-4131-8249-97400D2AA3D7",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b08b5e2483571be3fc92d54a46b1288f5aabaef0",
+      "datavalue": {
+       "value": {
+        "time": "+1170-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6821313$32D6BF58-6994-4F6B-BE6A-4DA4328A55A5",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6821313$6AB035DE-75E8-438E-B2F6-3884DE308D9B",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "5a2aaeae42eda31921c280e46134a78fa53861ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 330769,
+        "id": "Q330769"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6821313$F4EBE2B4-9DB3-4283-B305-1498920EA20C",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ecc352e35de2ae6f062096a2749c89c0288583de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 4804863,
+        "id": "Q4804863"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6821313$da18fc30-446a-ad2e-ccff-54339b1bb8e5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "e7dc08687fd828d71e943e13dd85adc078dcbea6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16200917,
+        "id": "Q16200917"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6821313$18d2e1bb-4b28-1ef2-8189-833d59387885",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משולם בן יעקב מלוניל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16200917": "אהרן בן משולם מלוניל",
+  "Q330769": "אברהם בן דוד מפושקירה",
+  "Q4804863": "אשר בן משולם מלוניל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6821313.json"
+}

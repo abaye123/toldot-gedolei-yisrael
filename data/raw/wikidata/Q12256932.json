@@ -1,0 +1,165 @@
+{
+ "id": "Q12256932",
+ "url": "https://www.wikidata.org/wiki/Q12256932",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12256932",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוחנן טברסקי (רחמסטריווקה)"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256932$33365A82-E674-4361-9F00-83E13C31659D",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256932$EBB4FD56-3111-4395-91D2-DE7AB01FBAD9",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "8e3c7ff91c74c1b6d619397efd816405aa629117",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2898995,
+        "id": "Q2898995"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256932$8222aa24-4110-ead3-a33b-2b0cee6aaa7b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "edde9b5717afceef2b0e3d6cfcedff2b1309033d",
+      "datavalue": {
+       "value": {
+        "time": "+1816-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12256932$e8bd6164-4072-1292-6c65-791bc9296e05",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bb6bf9e3bbc0a8cee246eff4e06afcb1d9d606f4",
+      "datavalue": {
+       "value": {
+        "time": "+1895-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12256932$a8661180-4406-834d-1286-bfcf6a388932",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "be615234e5649dea8afc339cb51a4f9fd01bdaf8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6261909,
+        "id": "Q6261909"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12256932$951FA30C-C317-4265-B0ED-A4E91AD6401F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוחנן טברסקי (רחמסטריווקה)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2898995": "מרדכי טברסקי",
+  "Q5": "אדם",
+  "Q6261909": "יעקב ישראל טברסקי טשערקאס"
+ },
+ "raw": "data/raw/wikidata/Q12256932.json"
+}

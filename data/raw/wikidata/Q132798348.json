@@ -1,0 +1,334 @@
+{
+ "id": "Q132798348",
+ "url": "https://www.wikidata.org/wiki/Q132798348",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q132798348",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Yosef Pinto"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף פינטו"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב במרקש (–1820)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yosef ben Yaʻaḳov Pinṭo"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "יוסף בן יעקב פינטו"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$c9f0bc34-47a9-2f59-f5c4-15080b8117d7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "28352a9984c8ef2b3ca3ec4487a30ce71353fb32",
+      "datavalue": {
+       "value": {
+        "time": "+1750-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q132798348$5d5049ec-49a4-39d0-3499-f26b2bba4704",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$95be2936-419e-a062-e5c3-47f922f30be8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d026163f3967272c5c8b824a55a1f371450eef54",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 432386,
+        "id": "Q432386"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$83695e67-4b6b-ebca-8b60-bf576fea6027",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$2868d9d5-4607-fb23-9eb3-e147fbc3f67e",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a598bf0e14caac622dde00a3fab2405c5babd18d",
+      "datavalue": {
+       "value": {
+        "time": "+1820-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P4241": [
+       {
+        "snaktype": "value",
+        "property": "P4241",
+        "hash": "22a64a3db5fa22c566a1524f9deec7a894ad5afc",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 12406262,
+          "id": "Q12406262"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P4241"
+     ],
+     "id": "Q132798348$23d96f2e-4139-0b6c-9f4a-e1439b2d2518",
+     "rank": "normal"
+    }
+   ],
+   "P39": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P39",
+      "hash": "447c380e339c455fb16b73317b23bdd4060b7a31",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3570351,
+        "id": "Q3570351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1001": [
+       {
+        "snaktype": "value",
+        "property": "P1001",
+        "hash": "1cc72dfadabfba491d93199764860dd12567777b",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 101625,
+          "id": "Q101625"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1001"
+     ],
+     "id": "Q132798348$7018b173-4f73-2340-da64-c61b7b71e13b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "b7e802ac27e747020032ce87ee7fd4dd757cdf78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 101625,
+        "id": "Q101625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$274fc079-41a6-6e8e-f077-43bcea85aca1",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "b85377f1cee04916eb2dc3f1e2cafa99efcefa48",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 109659821,
+        "id": "Q109659821"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$fd853587-4238-6f00-ec37-5d826780834b",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "779c23d982fc3b16916d69ac933e011ea4e43348",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 104763966,
+        "id": "Q104763966"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q132798348$8c3f4cbb-434a-efbb-82a0-22b4fadd8430",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף פינטו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q101625": "מרקש",
+  "Q104763966": "אברהם פינטו",
+  "Q109659821": "יעקב פינטו",
+  "Q133485": "רב",
+  "Q3570351": "דיין",
+  "Q432386": "דרשן",
+  "Q5": "אדם",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q132798348.json"
+}

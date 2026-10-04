@@ -1,0 +1,179 @@
+{
+ "id": "Q134719507",
+ "url": "https://www.wikidata.org/wiki/Q134719507",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q134719507",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמעון כץ מפרנקפורט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד פרנקפורט במאה ה-15"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מהר\"ש כץ"
+    },
+    {
+     "language": "he",
+     "value": "שמעון כ\"ץ מפרנקפורט"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134719507$05d84e53-44df-09bf-e15a-6d7656bc4897",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134719507$85cee988-4798-71bd-ff60-eb58c0d128e4",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ae1732f0281b30891b737c1230be088e01c75494",
+      "datavalue": {
+       "value": {
+        "time": "+1477-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q134719507$0cc3b8c5-4bb3-f625-a6a3-08eabba008c2",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "b07d53356075d10b57abe7e175f906201ebf1114",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 134485960,
+        "id": "Q134485960"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134719507$23ed8486-4d6f-1408-0e2e-a5693d9cee2a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "40148590eb4d2d70dd6b3755f5e51e75f399da71",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1720,
+        "id": "Q1720"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134719507$E006A4AC-2691-4C98-9CE1-28B18A5AB3DD",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "52ba4275425663e3259c07a54ccdfa6f9ef11c3d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794,
+        "id": "Q1794"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q134719507$32638E5A-93A7-4D8B-A59C-1B273BF5C78A",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמעון כץ מפרנקפורט",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q134485960": "זלמן שטן",
+  "Q1720": "מיינץ",
+  "Q1794": "פרנקפורט על המיין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q134719507.json"
+}

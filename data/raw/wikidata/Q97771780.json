@@ -1,0 +1,173 @@
+{
+ "id": "Q97771780",
+ "url": "https://www.wikidata.org/wiki/Q97771780",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q97771780",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף מפוזנא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yosef ben Mosheh Pinḥas, mi-Poznah"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של יאברוב וחתנו של הנודע ביהודה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q97771780$1cc53c51-4a67-882b-da81-1ab12aad3070",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q97771780$08901844-4b44-dcd4-946d-3f8d66381703",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "355722205297afe4e426073631403b2843174fc3",
+      "datavalue": {
+       "value": {
+        "time": "+1736-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q97771780$2c3e629c-4328-0ce5-d045-7b6a787ef027",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "30737b53ed69c44af884fab6f013e846fa352e32",
+      "datavalue": {
+       "value": {
+        "time": "+1801-02-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P459": [
+       {
+        "snaktype": "value",
+        "property": "P459",
+        "hash": "333bcf94d5ccd3c3b6c06bd84ed8fe21edbc25af",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 199913,
+          "id": "Q199913"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P459"
+     ],
+     "id": "Q97771780$0155bb23-45e2-c54d-f1ce-5146899cfc47",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "e06e11dc1027bcdf6386824d9992666ea53073de",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 97771935,
+        "id": "Q97771935"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q97771780$ffccf821-4180-4567-25b7-4edeec191174",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף מפוזנא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q97771935": "ספר זכרון שארית יוסף"
+ },
+ "raw": "data/raw/wikidata/Q97771780.json"
+}

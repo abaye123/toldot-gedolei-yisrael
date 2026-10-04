@@ -1,0 +1,285 @@
+{
+ "id": "Q790956",
+ "url": "https://www.wikidata.org/wiki/Q790956",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q790956",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אביגדור קרא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avigdor Kara"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Czech rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צ'כי"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Avigdor ben Isaac Kara"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "419b30b9e90bc11c6a90bd69eb8e74c4d1958a4c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2978,
+        "id": "Q2978"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q790956$41DA0EB8-5926-4A4B-8828-9E3727964F06",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "13631789d24c1fccf45d1ce3d730515340d14d8e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1085,
+        "id": "Q1085"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q790956$227CF2FB-169B-4F67-9932-8B9D1A57F16E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "0463c9063d8b07aeda44b63f53f3a7ca8b98f2dd",
+      "datavalue": {
+       "value": {
+        "time": "+1439-04-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "62f1252885a9d15ff75599ca20ca3ce39388586c",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26877143,
+          "id": "Q26877143"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "5539d72946d7d148a4372b3b865f7a60f397a94e",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 18912752,
+          "id": "Q18912752"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q790956$c95a38ba-476c-0172-3bcc-a43c68c12591",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q790956$d636dd8f-4892-2d57-7b63-7365574e8b0e",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "6650bb22bab6f6e5844595fd20ddcec6163cc6a5",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 49757,
+        "id": "Q49757"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q790956$573283C0-8A6B-4033-9CCF-D4EAE6A80B94",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q790956$0d3e9ad2-490c-473c-8de9-f7528ff51dea",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "9088df2ec2a4a0d5345fd5d7bf6b328c77ffb054",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 438026,
+        "id": "Q438026"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P625": [
+       {
+        "snaktype": "value",
+        "property": "P625",
+        "hash": "77a918bdd35fe513dfae45eb9d1eeb05be94ff24",
+        "datavalue": {
+         "value": {
+          "latitude": 50.0894953,
+          "longitude": 14.4177228,
+          "altitude": null,
+          "precision": 1e-07,
+          "globe": "http://www.wikidata.org/entity/Q2"
+         },
+         "type": "globecoordinate"
+        },
+        "datatype": "globe-coordinate"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P625"
+     ],
+     "id": "Q790956$386FBD4C-290D-4928-ADD8-9F95BBCA059E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7b8e462cb4dfac2595285b8257948cfde26925d7",
+      "datavalue": {
+       "value": {
+        "time": "+1350-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 7,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q790956$62c05f44-6efa-4e0a-83b8-214633fd7dbb",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אביגדור קרא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1085": "פראג",
+  "Q133485": "רב",
+  "Q2978": "רגנסבורג",
+  "Q438026": "בית הקברות היהודי העתיק בפראג",
+  "Q49757": "משורר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q790956.json"
+}

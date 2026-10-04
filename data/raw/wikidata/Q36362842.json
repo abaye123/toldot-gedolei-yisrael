@@ -1,0 +1,178 @@
+{
+ "id": "Q36362842",
+ "url": "https://www.wikidata.org/wiki/Q36362842",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q36362842",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק אייזיק טויב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yitzchak Isaac Taub"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של קאלוב ואדמו\"ר חסידי, מייסד חסידות קאלוב"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi and composer (1751–1821)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q36362842$ae3ace7b-4184-aeca-839b-a000afde870c",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "802b5d999bef02c9f32f8a1522f089ce70a12043",
+      "datavalue": {
+       "value": {
+        "time": "+1751-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q36362842$2df8f92a-4d7d-a940-5931-b28c43eeeef2",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "49a8316830993fa0f54c198739c56215eafdecf4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 854996,
+        "id": "Q854996"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q36362842$ae164659-4f79-9671-9473-e5b5a4284d0b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q36362842$6a536b43-4899-635a-8480-401435ab70ca",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e3cb22c965fe4d9a0c0395444af92a0338c16388",
+      "datavalue": {
+       "value": {
+        "time": "+1821-03-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q36362842$8b71af23-4969-8118-fee2-add27dd777c8",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "ca1e9f63cd6036686b9b41beb35683475f402fbd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 137911381,
+        "id": "Q137911381"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q36362842$2361149a-48e3-af60-d479-0476e8f5c6c7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק אייזיק טויב",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q137911381": "שרגא פייבל הלוי הורביץ",
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q854996": "סרנץ'"
+ },
+ "raw": "data/raw/wikidata/Q36362842.json"
+}

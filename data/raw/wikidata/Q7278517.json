@@ -1,0 +1,161 @@
+{
+ "id": "Q7278517",
+ "url": "https://www.wikidata.org/wiki/Q7278517",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7278517",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Rabbah Jose"
+   },
+   "he": {
+    "language": "he",
+    "value": "רבה יוסי"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ראש הדור הראשון של הסבוראים"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבה יוסף"
+    },
+    {
+     "language": "he",
+     "value": "רב יוסי"
+    },
+    {
+     "language": "he",
+     "value": "רב יוסף מבי חתים"
+    },
+    {
+     "language": "he",
+     "value": "יוסף מבי חתום"
+    },
+    {
+     "language": "he",
+     "value": "יוסף מבי חתים"
+    },
+    {
+     "language": "he",
+     "value": "רבה בר יוסף"
+    },
+    {
+     "language": "he",
+     "value": "רבה בר יוסי"
+    },
+    {
+     "language": "he",
+     "value": "אבא יוסי"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278517$12C5994A-44C0-4AF5-A28A-4AE8330847ED",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278517$E3ABF54B-0CF4-4E03-956E-8744C6BF3F55",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7278517$BE375088-5A52-4256-86A2-61EFA9F7BE83",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "b790e4c479e0417d0a8b0f7912c9fa16bf3e2a8b",
+      "datavalue": {
+       "value": {
+        "time": "+0514-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7278517$03406fdc-4241-2fd3-28a8-139825f488a9",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבה יוסי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q7278517.json"
+}

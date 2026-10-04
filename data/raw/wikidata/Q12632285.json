@@ -1,0 +1,156 @@
+{
+ "id": "Q12632285",
+ "url": "https://www.wikidata.org/wiki/Q12632285",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12632285",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hyle Wechsler"
+   },
+   "he": {
+    "language": "he",
+    "value": "הילה וכסלר"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi, kabbalist"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ומקובל יהודי גרמני במאה ה-19"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12632285$372065c1-4356-bd3c-f62e-40c46c935129",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4de0abf04396487a0d4bca7addbb2aada89b3c90",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14889,
+        "id": "Q14889"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12632285$14C2D201-9D4D-4D13-9A5E-2CE4CAE21D84",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0aa06a8a1425faa6e4d1f04263375479ce554396",
+      "datavalue": {
+       "value": {
+        "time": "+1843-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12632285$838ef4a8-448c-cf1e-1b90-9817b7c5eb28",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "6901fd71960a00560ac2feadf62f4f58e4ee973c",
+      "datavalue": {
+       "value": {
+        "time": "+1894-07-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12632285$62b10975-4b5d-3c77-5ab0-4e66ca3eb279",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12632285$3fe8f01e-47b4-bea9-0941-a3c1ed17e803",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "הילה וכסלר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q14889": "שוואבך",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12632285.json"
+}

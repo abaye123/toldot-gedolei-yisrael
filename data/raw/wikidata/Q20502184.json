@@ -1,0 +1,229 @@
+{
+ "id": "Q20502184",
+ "url": "https://www.wikidata.org/wiki/Q20502184",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20502184",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אלכסנדר סנדר מרגליות"
+   },
+   "en": {
+    "language": "en",
+    "value": "Alexander Sender Margolioth"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רבה של סטאנוב ופוסק הלכה בולט בתקופתו"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (died 1802)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$50997D03-6D98-4F39-BC52-D9D7EFBAC7AA",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$F767B189-AD30-4F39-881D-B94606DF8827",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1ffeb8f17ac19a6734a153a54ab65f0aeddbf2c3",
+      "datavalue": {
+       "value": {
+        "time": "+1802-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20502184$c85faf36-4fa2-c57c-895b-a0207c2aaf44",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "somevalue",
+      "property": "P569",
+      "hash": "106ae1709778d107bb140cc83cfae29cd126b470",
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1319": [
+       {
+        "snaktype": "value",
+        "property": "P1319",
+        "hash": "2ed27db7d7ff0a43d6be2fbecbd3f43715089765",
+        "datavalue": {
+         "value": {
+          "time": "+1737-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1319"
+     ],
+     "id": "Q20502184$f7592d41-4e51-ddd6-8574-964e8a265496",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "5888b8d3ce82842da0611007a3c306d7bea6af34",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5382355,
+        "id": "Q5382355"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$8ef6389b-4361-8eda-141c-e94f96382d3a",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "776a057bdadf78cc07cb7239bb79db84a56cf461",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2903933,
+        "id": "Q2903933"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$e7af2549-4642-eabf-ad62-d72433f7472b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "1b471ba0d4501d4f82193007a527bddd72d71335",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 60819503,
+        "id": "Q60819503"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$ff3ad27b-4672-626d-fe6a-4ae1329c4d01",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "8e03f9c78212fd579ce4862f38b335146ed78e2f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16067037,
+        "id": "Q16067037"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20502184$8634f7af-4bc5-ffc9-8c6e-f101f677d7d7",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אלכסנדר סנדר מרגליות",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16067037": "משה יהושע העשיל אורנשטיין",
+  "Q2903933": "חיים מרדכי מרגליות",
+  "Q5": "אדם",
+  "Q5382355": "אפרים זלמן מרגליות",
+  "Q60819503": "יעקב משולם אורנשטיין"
+ },
+ "raw": "data/raw/wikidata/Q20502184.json"
+}

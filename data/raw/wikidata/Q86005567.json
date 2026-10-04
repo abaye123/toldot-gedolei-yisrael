@@ -1,0 +1,147 @@
+{
+ "id": "Q86005567",
+ "url": "https://www.wikidata.org/wiki/Q86005567",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q86005567",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "אברהם אלימלך שפירא"
+   },
+   "en": {
+    "language": "en",
+    "value": "Avraham Elimelekh Shapira"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005567$0e2b44be-493f-16fa-ad73-248c032eea55",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "f8783567fbc7433118e951224c8d29db5b3bb834",
+      "datavalue": {
+       "value": {
+        "time": "+1966-12-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q86005567$b9b69058-4f0d-947b-8c51-3d81639f1d39",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "333f162eeae9648ab99a3eb43aa959a595b5660a",
+      "datavalue": {
+       "value": {
+        "time": "+1894-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q86005567$9fd5c78d-43c8-0d43-ab4f-ba849501c1e4",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "22f277dcea6a93177ac6f977c598b564efdad17f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 359351,
+        "id": "Q359351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005567$a459c6b2-4637-0e59-55d5-018b69e2cdc6",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "6cda77476785c1385733d4c08a13c7d4c3c8330f",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 7418236,
+        "id": "Q7418236"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86005567$6d8761c5-4772-39e5-96b1-31bc38dbea97",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אברהם אלימלך שפירא",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q359351": "אדמו\"ר",
+  "Q5": "אדם",
+  "Q7418236": "בית הקברות סנהדריה"
+ },
+ "raw": "data/raw/wikidata/Q86005567.json"
+}

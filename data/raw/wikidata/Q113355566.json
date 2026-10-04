@@ -1,0 +1,196 @@
+{
+ "id": "Q113355566",
+ "url": "https://www.wikidata.org/wiki/Q113355566",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q113355566",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "מנחם פולק"
+   },
+   "en": {
+    "language": "en",
+    "value": "Menaḥem Segal Pollaḳ"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "מנחם בן אברהם פאללאק"
+    },
+    {
+     "language": "he",
+     "value": "מנחם פולק"
+    },
+    {
+     "language": "he",
+     "value": "מנחם סגל פאללאק"
+    },
+    {
+     "language": "he",
+     "value": "מנחם בן אברהם, הלוי פולאק"
+    },
+    {
+     "language": "he",
+     "value": "מנחם המכנה מענדל בן אברהם ולאה, סגל פאללאק"
+    },
+    {
+     "language": "he",
+     "value": "מנחם סגל פאללק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Baʻal ha-Ḥeleḳ Leṿi"
+    },
+    {
+     "language": "en",
+     "value": "Emanuel Pollak"
+    },
+    {
+     "language": "en",
+     "value": "Immanuel Pollak"
+    },
+    {
+     "language": "en",
+     "value": "Menaḥem Segal Pollaḳ"
+    },
+    {
+     "language": "en",
+     "value": "Menaḥem Segal Pollack"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355566$3A1FF3A0-A4D8-4970-874B-CB5339EE5C0F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q113355566$FB7E76E2-A28B-43EA-A845-D84975C8661E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "9e93a0fa3df19438effb7f4938ce5ad461f6dbbd",
+      "datavalue": {
+       "value": {
+        "time": "+1952-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355566$8D753CF8-E218-4142-BF1E-5236AD8D5D5C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "63be384910687c41de02d789afe6edf85a8f6228",
+      "datavalue": {
+       "value": {
+        "time": "+1890-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355566$73FBFAEF-A794-4CDE-8943-00E31CB2A855",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "639d71984ee5ce51923f250cf8af3b02eee75d79",
+      "datavalue": {
+       "value": {
+        "time": "+1891-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q113355566$457AAE27-C4F3-487E-9E24-F436EB6E5BC3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מנחם פולק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q113355566.json"
+}

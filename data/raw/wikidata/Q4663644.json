@@ -1,0 +1,269 @@
+{
+ "id": "Q4663644",
+ "url": "https://www.wikidata.org/wiki/Q4663644",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4663644",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Abba Hillel Silver"
+   },
+   "he": {
+    "language": "he",
+    "value": "אבא הלל סילבר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1893–1963)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "אבא הלל"
+    },
+    {
+     "language": "he",
+     "value": "אבא הילל סילבר"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Abraham Silver"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "da069fe054155bcfbb655132adf866c4db36b477",
+      "datavalue": {
+       "value": {
+        "time": "+1963-11-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4663644$B6498BF2-EBFB-4FB0-9819-BA0FEF8B6ED5",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0f2b7a86e6cf538a1ceb1618b59f045ce2084cf0",
+      "datavalue": {
+       "value": {
+        "time": "+1893-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4663644$9EB1A6E8-E45D-4925-93BE-CE0ECE5775A6",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4663644$2026A16D-C01B-4120-8830-9A38CE57072B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4663644$4F4769B1-EEEB-48FF-8932-8E4A757128EC",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "68cd369e519862f384b966ac27870864fa076c81",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 37320,
+        "id": "Q37320"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4663644$72d5c2fc-4437-7a9c-4835-5c29961b541a",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5a492291d1a931922abc6f981480825868fc60cb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 277936,
+        "id": "Q277936"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "dc1a9d253768e4b8b1e3d401f5b07f232ed6bc49",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 1525048,
+          "id": "Q1525048"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       },
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "4ec33d97c2e8f50a04e5341972ed505186c4dbfe",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 221457,
+          "id": "Q221457"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "e64bc21e5649b2265a5047822c9b3f580989c9eb",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 34266,
+          "id": "Q34266"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q4663644$3448048f-4441-5bac-3cb7-4fac318e3a49",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "520938a7b773846ee7597da02ce97e1c8f7cd347",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 24964734,
+        "id": "Q24964734"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4663644$912ac8cb-0ebe-4720-8bf7-b51f5c705ab0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אבא הלל סילבר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q24964734": "בית הקברות מייפילד",
+  "Q277936": "קודירקוס נאומייסטיס",
+  "Q37320": "קליבלנד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4663644.json"
+}

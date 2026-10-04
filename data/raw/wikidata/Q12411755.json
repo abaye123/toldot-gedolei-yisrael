@@ -1,0 +1,152 @@
+{
+ "id": "Q12411755",
+ "url": "https://www.wikidata.org/wiki/Q12411755",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12411755",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שלום הלפרין"
+   },
+   "en": {
+    "language": "en",
+    "value": "Shalom Halperin"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלמה הלפרין"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411755$C8F932F2-A39C-45EB-9444-C0E7E9017B45",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411755$0DE207E8-E90C-4976-AF1A-C0DA395C272E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "8f94c5d7d85e45048b2f5860abd6e5e0eb592b60",
+      "datavalue": {
+       "value": {
+        "time": "+1939-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12411755$C6FE17CD-E003-4C07-9E59-3E0CDB33B9A9",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "840b3692651a99c64c9ccdc3470f4c85fe54b63b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 158799,
+        "id": "Q158799"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411755$C1E80A3C-9672-47E4-9192-78005C6BBFF6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "146cd7df98376824b3183933bbc80669af00a7fd",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 192269,
+        "id": "Q192269"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12411755$A69AD58F-C048-46A0-B757-91B002ABA5DC",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום הלפרין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q158799": "ברדיצ'ב",
+  "Q192269": "וסלוי",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12411755.json"
+}

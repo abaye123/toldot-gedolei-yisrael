@@ -1,0 +1,216 @@
+{
+ "id": "Q2907021",
+ "url": "https://www.wikidata.org/wiki/Q2907021",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2907021",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמשון מאוסטרופולי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Samson ben Pesah Ostropoli"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Polish rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב פולני"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Samson ben Pesaḥ Ostropoler"
+    },
+    {
+     "language": "en",
+     "value": "Shimshon ben Pesah of Ostropolye"
+    }
+   ],
+   "he": [
+    {
+     "language": "he",
+     "value": "שמשון בן פסח מאוסטרופולי"
+    }
+   ]
+  },
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "2e1b5816bdcdb641e16db960fcad97722b1430ce",
+      "datavalue": {
+       "value": {
+        "time": "+1648-07-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2907021$E1CF0AA0-E851-4F9E-8CE8-146EC43AF2FA",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907021$7D6E3ED2-17E2-4820-BA3B-FAB308D4A20B",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907021$F4B55FC2-03E4-4A9E-B7FE-140016C77ECE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "7cb3aef9e2eeb2c30f2c86b2b34b80b1453ed8e6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 997398,
+        "id": "Q997398"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907021$EEA7727A-7B99-4BB3-8A86-89AA58F1CB7E",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "c50c66e9795b2809f8980962448b6a38a3e95a09",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 997351,
+        "id": "Q997351"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907021$6F2C7558-8360-4A80-9634-6387D03732C2",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cde235fac8352823b62c3256330100235b019e9d",
+      "datavalue": {
+       "value": {
+        "time": "+1600-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P1480": [
+       {
+        "snaktype": "value",
+        "property": "P1480",
+        "hash": "cb40f2027a88b8d23735681aaccba1069a574f54",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 5727902,
+          "id": "Q5727902"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P1480"
+     ],
+     "id": "Q2907021$2600a16a-4b0b-9209-7ebb-58df851ec1db",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמשון מאוסטרופולי",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q997351": "פולונה",
+  "Q997398": "קורץ"
+ },
+ "raw": "data/raw/wikidata/Q2907021.json"
+}

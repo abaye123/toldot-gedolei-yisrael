@@ -1,0 +1,323 @@
+{
+ "id": "Q359777",
+ "url": "https://www.wikidata.org/wiki/Q359777",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q359777",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב יהודה"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah ben Ezekiel"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי, דור שני, חברו של רב הונא, מייסד ישיבת פומבדיתא."
+   },
+   "en": {
+    "language": "en",
+    "value": "Babylonian rabbi and amora (220–299)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "יהודה בר יחזקאל"
+    },
+    {
+     "language": "he",
+     "value": "רב יהודה בר יחזקאל"
+    },
+    {
+     "language": "he",
+     "value": "יהודה בר יחזקל"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$1C68D076-37C6-4074-84C3-0F3C7B77F194",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4f388b5d6557fe15bda3f3d37754c99de0315ae8",
+      "datavalue": {
+       "value": {
+        "time": "+0220-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q359777$2D0F96A0-76DD-4F3B-8CEE-8C597DD5815E",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "48d56a2f0b01fec326641382639d95750fe733f6",
+      "datavalue": {
+       "value": {
+        "time": "+0299-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q359777$975FD384-014B-40EC-8A4E-EC760F0B6E87",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$37DCE3D4-5F18-4626-A259-99E9E859C0E5",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$332F7EC8-6FD5-4B0E-942D-D4FE074A5AEC",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "a7d630db62ee6c7f0c31daf286183ca2578ec4d8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 16133521,
+        "id": "Q16133521"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$E4C1A0F9-09C8-4741-B605-9881D11542E2",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "a93f93d5b5f44c7a72b1aef29227120541d1db4b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 305760,
+        "id": "Q305760"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$A224B606-387B-45DD-BB14-E72F24C9520B",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "33cdeeac86ecadf961a55c1472d1ff1706fa8ef0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5684,
+        "id": "Q5684"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$C2DF7C38-DCFB-41FC-8ABD-FAC3A3EDF426",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "228a2bb02a1798cb24c151fc2e04549d47452457",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6603176,
+        "id": "Q6603176"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$b7a89dd8-4f80-81fe-0c1d-678d1f6f2c60",
+     "rank": "normal"
+    }
+   ],
+   "P3373": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P3373",
+      "hash": "f816f33a57eeb8eb58ec55beb73d3628be059873",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6587609,
+        "id": "Q6587609"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q359777$eefd001d-4f6f-c40b-ab53-bf3a1bceb0a3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יהודה",
+    "badges": [
+     "Q17437798"
+    ]
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q16133521": "רבין בר רב אדא",
+  "Q305760": "רב",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל",
+  "Q5684": "בבל",
+  "Q6587609": "רמי בר יחזקאל",
+  "Q6603176": "רב יחזקאל"
+ },
+ "raw": "data/raw/wikidata/Q359777.json"
+}

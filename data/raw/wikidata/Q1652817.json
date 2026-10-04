@@ -1,0 +1,257 @@
+{
+ "id": "Q1652817",
+ "url": "https://www.wikidata.org/wiki/Q1652817",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q1652817",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Leopold Rosenak"
+   },
+   "he": {
+    "language": "he",
+    "value": "מרדכי יהודה רוזנק"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1868–1923)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "לאופולד רוזנק"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Lipót Rosenák"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c9b37c2d1d37e00b7fc70104f2c6c14c42840d5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 735510,
+        "id": "Q735510"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q1652817$291D60A4-D25A-466C-8A95-3A05413354DD",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1652817$9AE212DD-EF5C-4AE2-B39C-8476E1C04467",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "ea44ca294e832c68ab14a9ec6b765f9ccac8bff3",
+      "datavalue": {
+       "value": {
+        "time": "+1868-09-11T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1652817$5277D7B1-F5F9-47C5-8500-2FB00D6F178B",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7eb91ff4ce8f690c8d66f78d0b9d4cdc467b3800",
+      "datavalue": {
+       "value": {
+        "time": "+1868-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1652817$CB9C9581-A787-493F-970F-062CC6309163",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1b2c5f35376e663e67f96ad2b73e684a65ef74b4",
+      "datavalue": {
+       "value": {
+        "time": "+1923-08-15T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1652817$D4C905B1-FDB5-4565-A962-4B916783E9A9",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4819fb42657505fc33fd1e908e532db1e1740117",
+      "datavalue": {
+       "value": {
+        "time": "+1923-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q1652817$E6B6DBE0-FA4B-491B-AD13-04D2B00E86AF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1652817$879486FC-7EDC-4742-B50F-6454006D92C2",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "13f4c0cf4eab7b02d50745e43f299326f56291f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1589975,
+        "id": "Q1589975"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1652817$BFC33F3B-A27B-41D6-8593-676892A226FD",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "ee9ddebccfa16a20415942d36a4a0b09d6d49d87",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 110584008,
+        "id": "Q110584008"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q1652817$878463BB-C554-44AD-95F2-736FEB272A55",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מרדכי יהודה רוזנק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q110584008": "בלה רוזנק",
+  "Q133485": "רב",
+  "Q1589975": "איגנאץ רוזנק",
+  "Q5": "אדם",
+  "Q735510": "נאדאש"
+ },
+ "raw": "data/raw/wikidata/Q1652817.json"
+}

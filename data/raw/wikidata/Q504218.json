@@ -1,0 +1,184 @@
+{
+ "id": "Q504218",
+ "url": "https://www.wikidata.org/wiki/Q504218",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q504218",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Sándor Adler"
+   },
+   "he": {
+    "language": "he",
+    "value": "שאנדור אדלר"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1846–1894)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Sandor Adler"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q504218$7EED5CC8-29B1-4262-BF61-0BC7C2C124F1",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q504218$963e0df9-e842-44ca-a328-8fd2973b608b",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "99b364e1d86ebdb3ab2b24c37ecddc5fcad11b8d",
+      "datavalue": {
+       "value": {
+        "time": "+1846-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q504218$14187f6d-e42e-4a8a-8c6c-ff06e91779a8",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "de2fb934f0a848497b04b14647c60d00c54e0379",
+      "datavalue": {
+       "value": {
+        "time": "+1894-09-05T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q504218$d7a94404-4280-9a8f-0aae-f41f81763cdc",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "b9f2365a094dc88891848c8bb2f4adffa5aa5dee",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 740800,
+        "id": "Q740800"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q504218$f9a37f14-4963-4246-f4ac-7a2101598df3",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "2c307f68962eabc0c5e282e4598e54bd2267eaad",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 740800,
+        "id": "Q740800"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q504218$caca3a66-4dd3-32ec-cd77-8ad8daf7f6dd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאנדור אדלר (רב)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q740800": "פקש"
+ },
+ "raw": "data/raw/wikidata/Q504218.json"
+}

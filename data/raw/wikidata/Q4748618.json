@@ -1,0 +1,178 @@
+{
+ "id": "Q4748618",
+ "url": "https://www.wikidata.org/wiki/Q4748618",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4748618",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Amram ben Diwan"
+   },
+   "he": {
+    "language": "he",
+    "value": "עמרם בן דיוואן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Moroccan rabbi (1743-1782)"
+   },
+   "he": {
+    "language": "he",
+    "value": "שד\"ר ומקובל יליד ירושלים"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "7fc04ed9784e462a4401b9bef9d0c382e736efde",
+      "datavalue": {
+       "value": {
+        "time": "+1782-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4748618$e4070d8f-4b75-ad88-0e4e-2fc895ae9004",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "77f18901e563a9f6575fea52498f105869a985c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1218,
+        "id": "Q1218"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4748618$1e1db6d9-4c8d-21a1-fbe0-cdf37e8e79dc",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4748618$E56D3193-E104-405F-867E-CFFE7A8D0367",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4748618$DDDC3A50-D4C5-44DB-BDE5-B5E55CE69EB6",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3b82958fb3a1aec10ee36910bf06490a3e2a607a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 602426,
+        "id": "Q602426"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4748618$55b2fe7d-4b3a-123b-881f-7ec6a0551178",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "613a34c9ce20bd7f68458602dfeec4facc05b7f1",
+      "datavalue": {
+       "value": {
+        "time": "+1743-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4748618$C7776D52-DA60-4F89-A523-EE38780665C3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "עמרם בן דיוואן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1218": "ירושלים",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q602426": "וזאן"
+ },
+ "raw": "data/raw/wikidata/Q4748618.json"
+}

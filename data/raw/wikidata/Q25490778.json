@@ -1,0 +1,124 @@
+{
+ "id": "Q25490778",
+ "url": "https://www.wikidata.org/wiki/Q25490778",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25490778",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "חיים הכהן רפפורט"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב פולני, רבה של אוסטרהא"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490778$39193B3A-7C00-418F-828B-9C5DD8027302",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "94f7d44f990ed7a164f65e7a74fe3eb0c3db4d4c",
+      "datavalue": {
+       "value": {
+        "time": "+1839-11-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25490778$b3321991-4ec6-a9bf-8bc7-2e7bf8d73d3a",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490778$179d5f67-4b45-d39e-ea31-ccac59bf3275",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "2a0d21e12258a55963e82b5d9f3e2ac5925ef1d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 139619636,
+        "id": "Q139619636"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25490778$2a4710db-4e9e-d5f2-d020-e1542fe874b2",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חיים הכהן רפפורט (אוסטרהא)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q139619636": "דב בריש רפפורט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25490778.json"
+}

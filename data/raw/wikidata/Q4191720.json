@@ -1,0 +1,169 @@
+{
+ "id": "Q4191720",
+ "url": "https://www.wikidata.org/wiki/Q4191720",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4191720",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Uszer Zibes"
+   },
+   "he": {
+    "language": "he",
+    "value": "אשר ציבעס"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4191720$7A7BB428-07F9-4225-8CCF-1D944034C1DA",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0e2f73453929ae046218da8964831c2e60769fa8",
+      "datavalue": {
+       "value": {
+        "time": "+1912-05-07T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4191720$50E19C4E-C609-4A25-9F6E-D43578E37209",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "e334430e919650a8880cc388240f2586481e848d",
+      "datavalue": {
+       "value": {
+        "time": "+1992-07-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4191720$38D131FF-67F9-4B03-9AEC-0D37B413C899",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "0247a7452bf8834925b4b716ac6dfa80379e4283",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 156739,
+        "id": "Q156739"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4191720$210ACA91-FC32-4C12-A695-2DF3DBDE9B48",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "bf23c35593b7821ffcded057c614b2c7d51b51e9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 30,
+        "id": "Q30"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4191720$10AB50CF-E3AF-4E02-8E1F-E2F4F34FE441",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4191720$b5231116-a843-416c-9e6f-d21d2ff3ae98",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "אשר ציבעס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q156739": "רובנו",
+  "Q30": "ארצות הברית",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4191720.json"
+}

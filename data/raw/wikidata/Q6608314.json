@@ -1,0 +1,154 @@
+{
+ "id": "Q6608314",
+ "url": "https://www.wikidata.org/wiki/Q6608314",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6608314",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שאול חיים הלוי הורוויץ"
+   },
+   "en": {
+    "language": "en",
+    "value": "Saul Chajim Hurwitz"
+   }
+  },
+  "descriptions": {},
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "הורוויץ, שאול חיים, הלוי, 1820-1916"
+    },
+    {
+     "language": "he",
+     "value": "הורביץ, שאול חיים בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "שאול חיים בן אברהם, הלוי"
+    },
+    {
+     "language": "he",
+     "value": "הורוויטש, שאול חיים בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "הורוויץ, שאול חיים בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "הורויץ, שאול חיים בן אברהם"
+    },
+    {
+     "language": "he",
+     "value": "הורוויץ, שאול חיים בן אברהם, הלוי"
+    }
+   ]
+  },
+  "claims": {
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "cda50cdf8ee8d51d9d54e7187ca3936b08e8c0b6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12404547,
+        "id": "Q12404547"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6608314$85F12ED7-2E6F-4988-B720-C04366CB1067",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6608314$F8F2C3E5-4BC3-4E91-B1CD-C296725750D2",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6608314$C17C4736-6A44-4EE8-80E6-164D5A1CD079",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "73fcb680012ba6ff292aa17238c88404dc0b2636",
+      "datavalue": {
+       "value": {
+        "time": "+1915-12-10T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6608314$9CA07A38-7B56-4885-B0E9-82AF3BCFD2C4",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שאול חיים הלוי הורוויץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12404547": "בית הקברות היהודי בהר הזיתים",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6608314.json"
+}

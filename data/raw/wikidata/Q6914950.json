@@ -1,0 +1,170 @@
+{
+ "id": "Q6914950",
+ "url": "https://www.wikidata.org/wiki/Q6914950",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6914950",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "שמריהו יוסף קרליץ (כולל חזון איש)"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "ממייסדי כולל חזון איש"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6914950$E152A147-31BD-4792-A31D-28402AD07447",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6914950$80DFF0B2-59BA-498F-98D6-07F025D358D9",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "fb6be4c73f93264e76b36952f0f41a9c387b44e2",
+      "datavalue": {
+       "value": {
+        "time": "+1918-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6914950$5877187c-4c86-5ba5-5308-d81aaa0fe9ae",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1384191df04b32284ced5fb04bc5e055dd3e81be",
+      "datavalue": {
+       "value": {
+        "time": "+2001-02-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6914950$0d72c238-4530-264f-1b8c-093b2499967d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "2cbcae56003056fe73b7bfc8e1d9110cdb128155",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 216,
+        "id": "Q216"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6914950$45c2066d-4129-4fb0-bb20-8c2f5b00b558",
+     "rank": "normal"
+    }
+   ],
+   "P22": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P22",
+      "hash": "b6a04b22345a66ccdf771c897b6de83353046543",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 6828189,
+        "id": "Q6828189"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6914950$2ae4df74-4795-0875-304c-9426461ccfb3",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שמריהו יוסף קרליץ (כולל חזון איש)",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q216": "וילנה",
+  "Q5": "אדם",
+  "Q6828189": "מאיר קרליץ"
+ },
+ "raw": "data/raw/wikidata/Q6914950.json"
+}

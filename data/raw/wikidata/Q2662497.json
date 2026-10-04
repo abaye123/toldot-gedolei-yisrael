@@ -1,0 +1,185 @@
+{
+ "id": "Q2662497",
+ "url": "https://www.wikidata.org/wiki/Q2662497",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2662497",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Sherwin Wine"
+   },
+   "he": {
+    "language": "he",
+    "value": "שרווין ויין"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   },
+   "en": {
+    "language": "en",
+    "value": "American rabbi (1928–2007)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Sherwin Theodore Wine"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2662497$BAFA4E5B-F63B-474A-BA8B-469C0B6EB757",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "1786ea3c26d1cf792b7002852e9138c6a7fabba4",
+      "datavalue": {
+       "value": {
+        "time": "+1928-01-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2662497$1E709007-216F-48E6-A1AE-1541D3EA06F6",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1f46eb90ae13f3a7b16c9329eb31d48dd86586a8",
+      "datavalue": {
+       "value": {
+        "time": "+2007-07-21T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2662497$C5D0C7E0-2322-43AD-83BE-1DA9FFDAC3FD",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "3225bc7321fbbb2a706920ab2cb8bfc3c3192735",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12439,
+        "id": "Q12439"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2662497$0BB02883-667F-41FB-AE81-98596B6FC3DB",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "8edaaa1b01cc15e34f8feed739afcff6675a1ad7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1028,
+        "id": "Q1028"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2662497$2DBD2970-E78D-4DC5-B332-73FDE2EE2C0C",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2662497$DEC7F2B4-8374-4A6A-B2E7-9EB2E78F83C8",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שרווין ויין",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1028": "מרוקו",
+  "Q12439": "דטרויט",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2662497.json"
+}

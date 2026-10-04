@@ -1,0 +1,299 @@
+{
+ "id": "Q317517",
+ "url": "https://www.wikidata.org/wiki/Q317517",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q317517",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יוסף איש רוסהיים"
+   },
+   "en": {
+    "language": "en",
+    "value": "Josel of Rosheim"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "German rabbi and community leader (c.1480–1554)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "רבי יוסלמן"
+    },
+    {
+     "language": "he",
+     "value": "יוסף לואנץ"
+    },
+    {
+     "language": "he",
+     "value": "יוסף מרוסהיים"
+    },
+    {
+     "language": "he",
+     "value": "יוסף בן גרשון מרוסהיים"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d38035f2bf6f04941390813d6158fd7a7d3fc24d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22730,
+        "id": "Q22730"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q317517$04FAE9AD-7E2E-4AB0-913D-7F9126CA7517",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5d68e941d7eeec6b8394dfb3627ca494d462fac1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 22990,
+        "id": "Q22990"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q317517$CFADB0CB-B8F3-4292-85C0-B09AF9D1FA9B",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q317517$37F33CE4-F68E-47CF-9004-C703AAF3B80A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "4e88622c99fcdcc6bb2069ea139fc201f6c430a4",
+      "datavalue": {
+       "value": {
+        "time": "+1476-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q317517$E5D2BEA9-FC2B-40F5-94E1-2D3C1C279835",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "3739c3e17f19aedef3170776bfcf977b8e71a87d",
+      "datavalue": {
+       "value": {
+        "time": "+1554-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q317517$78AB260D-B392-4A80-9304-2A18AACEB19F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q317517$876C8F8A-B44B-44FB-875B-EDA15D3FF338",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "24f692693a97b5f655ffeb0faf26870f8d4dc434",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2038339,
+        "id": "Q2038339"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q317517$69778479-4d7b-b4c3-d094-96847a31f397",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "80c04ccd382055affc5b50e152ce7d4fb5a6d2f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2135469,
+        "id": "Q2135469"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q317517$246b7865-c32b-440e-b664-c20900bc20e9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "cb5daf02b5943bc2f5f297329263bc9a7de33ec6",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 215536,
+        "id": "Q215536"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q317517$2de09b5f-b76b-4864-8ac1-e164ea8ffe12",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף איש רוסהיים",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q2038339": "שתדלן",
+  "Q2135469": "יועץ משפטי",
+  "Q215536": "סוחר",
+  "Q22730": "אגנו",
+  "Q22990": "רוסהיים",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q317517.json"
+}

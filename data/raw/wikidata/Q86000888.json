@@ -1,0 +1,156 @@
+{
+ "id": "Q86000888",
+ "url": "https://www.wikidata.org/wiki/Q86000888",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q86000888",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "בנימין אריה וייס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Benjamin Aryeh Weiss"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב\"ד צ'רנוביץ לשעבר"
+   },
+   "en": {
+    "language": "en",
+    "value": "former Rabbi In Chernivtsi"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "128ea054d2a05112e5c03666bbce72851995e62c",
+      "datavalue": {
+       "value": {
+        "time": "+1842-01-14T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q86000888$08f8e9e6-4318-bd00-e4fd-a8c3509deacc",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "cffea4a5d38be1e7aedff1bc4672a649208cd6f8",
+      "datavalue": {
+       "value": {
+        "time": "+1912-12-18T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q86000888$f30fc0e0-44e5-c1f9-25b1-bfb33fa2731a",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86000888$09bd02b9-4176-1851-f3ab-70c4b956b27b",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86000888$b0af2d40-4506-2a97-6aa4-502847a39d21",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "a505e0972186541d181f616ab04b1dcfe2effaf4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1019884,
+        "id": "Q1019884"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q86000888$039d88bc-4a44-7a09-dda4-e87b61ef73fd",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "בנימין אריה וייס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1019884": "איוונו-פרנקובה",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q86000888.json"
+}

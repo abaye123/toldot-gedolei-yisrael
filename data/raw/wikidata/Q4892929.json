@@ -1,0 +1,156 @@
+{
+ "id": "Q4892929",
+ "url": "https://www.wikidata.org/wiki/Q4892929",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q4892929",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Bernard Bergman"
+   },
+   "he": {
+    "language": "he",
+    "value": "יששכר דב ברגמן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "American rabbi and businessman (1911–1984)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב אמריקאי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "24d3304f0374fc06afdd0684313b193289ece2c0",
+      "datavalue": {
+       "value": {
+        "time": "+1984-06-16T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4892929$B10AC029-E532-40FC-8291-694E0D6A341C",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "82ef96a2cbb7c8367b2667ce7a72a5043c7eda22",
+      "datavalue": {
+       "value": {
+        "time": "+1911-09-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q4892929$13059B5B-BD4F-46BE-B5B7-82B61E9B8AF3",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4892929$69ADBADB-7754-466D-BF19-A80993EDAD4F",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4892929$E19C9EDC-EB80-4717-ABA8-A55D40999C99",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "88f550cb348d7d213fb1ba685f8c9a99a7e93dda",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1093421,
+        "id": "Q1093421"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q4892929$815b6781-49dc-ddd0-a47c-5ecabde2ebee",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יששכר דב ברגמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1093421": "יאסינה",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q4892929.json"
+}

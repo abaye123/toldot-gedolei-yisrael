@@ -1,0 +1,193 @@
+{
+ "id": "Q2907627",
+ "url": "https://www.wikidata.org/wiki/Q2907627",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2907627",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רבי ישבב הסופר"
+   },
+   "en": {
+    "language": "en",
+    "value": "Jeshbab the Scribe"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "2nd century Jewish Tanna sage"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "ישבב הסופר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907627$691C8639-9C79-4FB3-97DF-7B406E8DFD75",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "05e0a7c49d6dc7738231a551bc169bfc0d344aff",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 155321,
+        "id": "Q155321"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907627$D0A78819-1637-4057-A294-87746CAFD41E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "8e4293c260e37d7d57a813e86243adb29409a381",
+      "datavalue": {
+       "value": {
+        "time": "+0040-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P31": [
+       {
+        "snaktype": "value",
+        "property": "P31",
+        "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 26961029,
+          "id": "Q26961029"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P31"
+     ],
+     "id": "Q2907627$5DD5FF6B-969D-4CFD-940E-62D75672B167",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907627$faa57db3-4525-40dd-b648-f206b8939830",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c0591c7c6d3fc36bb01d4e58eff9143d985a9bad",
+      "datavalue": {
+       "value": {
+        "time": "+0135-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 8,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2907627$fcab7686-4dd0-b302-e9b8-fe954bcff580",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "novalue",
+      "property": "P119",
+      "hash": "63aee437356adce5965512b53d1243bbfdaec4f9",
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2907627$ce8601bd-4c11-58f7-b6e8-ace075540423",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רבי ישבב הסופר",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q155321": "ארץ ישראל",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2907627.json"
+}

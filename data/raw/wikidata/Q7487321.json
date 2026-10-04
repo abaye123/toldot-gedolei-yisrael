@@ -1,0 +1,195 @@
+{
+ "id": "Q7487321",
+ "url": "https://www.wikidata.org/wiki/Q7487321",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7487321",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Shalom Ullmann"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלום אולמן"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "= Q124599098 — German-Hungarian rabbi (1755–1825)"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב גרמני-הונגרי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלום חריף"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shalom Charif Ullmann"
+    },
+    {
+     "language": "en",
+     "value": "Salomon-Schalom Ullmann"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7487321$54baec32-4ff6-b1df-435c-216817d4a791",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ad769db96268f22e566c6b677f1b28bc4942341d",
+      "datavalue": {
+       "value": {
+        "time": "+1825-03-06T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7487321$CC7FEF78-FCBB-4057-959E-60A960717321",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d39fbc431df22922e71eb0eee76ed07bd99d909e",
+      "datavalue": {
+       "value": {
+        "time": "+1755-02-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7487321$9EFCA898-8FE1-4A93-A7E3-BF28D76B8BBB",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7487321$255749E8-44FF-4689-AED2-5EC2CABD11FE",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d8db1cc5e6a287d78acf16011e2713428491bf37",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3075,
+        "id": "Q3075"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7487321$3AEBE104-E58D-4CF4-829E-9F5AAD9C429D",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "9fc26037df66e5c93a9439da60af4c508ff31203",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 15120991,
+        "id": "Q15120991"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7487321$09CEE183-3B1F-4A7B-8536-8E0259264B8F",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום אולמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q15120991": "שלמה זלמן אולמן",
+  "Q3075": "פירט",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q7487321.json"
+}

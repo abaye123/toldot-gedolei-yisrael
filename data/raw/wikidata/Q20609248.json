@@ -1,0 +1,143 @@
+{
+ "id": "Q20609248",
+ "url": "https://www.wikidata.org/wiki/Q20609248",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q20609248",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Moshe Halevi"
+   },
+   "he": {
+    "language": "he",
+    "value": "משה מפשוורסק"
+   }
+  },
+  "descriptions": {},
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609248$7C2D7A6D-80C1-4917-8FC5-6F5310200AEF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609248$d1273ebf-4399-64b5-1406-ed9a6467d105",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "75d93c1ecf66796fe314d13a54b665ba6342cfbe",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12336287,
+        "id": "Q12336287"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609248$8ed26a00-4656-8721-4593-98f71efd44a0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "26fe341546e00a54f64eb04bec6677327315ac0e",
+      "datavalue": {
+       "value": {
+        "time": "+1806-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q20609248$6a17550c-432d-c310-ed1b-c6356355fb59",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "b9b9bd8581741399a515af567cbd2ddf95763699",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 983875,
+        "id": "Q983875"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q20609248$062F3125-04E9-4F86-9F7B-6AD75F89E559",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה מפשוורסק",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12336287": "סופר",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q983875": "פשבורסק"
+ },
+ "raw": "data/raw/wikidata/Q20609248.json"
+}

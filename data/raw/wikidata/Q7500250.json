@@ -1,0 +1,197 @@
+{
+ "id": "Q7500250",
+ "url": "https://www.wikidata.org/wiki/Q7500250",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q7500250",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Sholom Mordechai Schwadron"
+   },
+   "he": {
+    "language": "he",
+    "value": "שלום מרדכי שבדרון"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "Ukrainian rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב ופוסק מגליציה"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "שלום מרדכי שוודרון"
+    },
+    {
+     "language": "he",
+     "value": "שלום מרדכי הכהן שבדרון"
+    },
+    {
+     "language": "he",
+     "value": "שלום מרדכי הכהן שוודרון"
+    },
+    {
+     "language": "he",
+     "value": "שלום מרדכי הכהן"
+    },
+    {
+     "language": "he",
+     "value": "מהרש\"ם"
+    },
+    {
+     "language": "he",
+     "value": "מהרש\"ם מברז'אן"
+    },
+    {
+     "language": "he",
+     "value": "המהרש\"ם מברז'אן"
+    },
+    {
+     "language": "he",
+     "value": "מהרש\"ם מברעז'אן"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Shalom Mordecai Shvadron"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7500250$DFFB2140-27A3-4475-99E6-E03F7F14BE6E",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "0b241ed5b6646e1b9d73b23360266c61c4af1019",
+      "datavalue": {
+       "value": {
+        "time": "+1835-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7500250$F991DA64-88F8-4612-A028-5DD67AAEAB9C",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "95c8d14f7df6d888445522ce8f2570277413c1f1",
+      "datavalue": {
+       "value": {
+        "time": "+1911-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q7500250$B0E0BD0D-2775-4009-9E9B-943B88AF5585",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b063e21c634e4645b772e9ce9f9b99730b2e08ce",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 931732,
+        "id": "Q931732"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7500250$7588E72F-C17D-4AFF-A64F-A25F075A8A0C",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e637be780784094bfdba903683b80ce973b6579d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 793424,
+        "id": "Q793424"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q7500250$458266F3-CA48-4DD8-A17E-8BC503318562",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "שלום מרדכי שבדרון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q5": "אדם",
+  "Q793424": "בז'ז'ני",
+  "Q931732": "פוסק"
+ },
+ "raw": "data/raw/wikidata/Q7500250.json"
+}

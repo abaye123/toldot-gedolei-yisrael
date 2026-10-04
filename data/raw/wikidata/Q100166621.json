@@ -1,0 +1,146 @@
+{
+ "id": "Q100166621",
+ "url": "https://www.wikidata.org/wiki/Q100166621",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q100166621",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "רב יצחק בר אשיאן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Rav Itzhak Bar Ashian"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אמורא בבלי בן הדור השלישי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100166621$1a10ceeb-4861-cb28-662c-2ba80cb06cd3",
+     "rank": "normal"
+    }
+   ],
+   "P1066": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P1066",
+      "hash": "f4075645941639e18fd9f5a808c171d38fcae12b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1794530,
+        "id": "Q1794530"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100166621$f622b168-4060-668a-35c3-4ec4fa03bca9",
+     "rank": "normal"
+    }
+   ],
+   "P802": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "9861ce7a07f1129e4d022b3885908239148db00d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 10971640,
+        "id": "Q10971640"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100166621$ff051561-46b2-62ff-8a90-44dee93dce2d",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P802",
+      "hash": "1d6bc246063dfa308730b79276194a3d4d497888",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 100154111,
+        "id": "Q100154111"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100166621$565870f0-487b-7069-e3cd-6a4b62f27442",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "62ad329a1711054bc2a65131301107758ada824e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55649849,
+        "id": "Q55649849"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q100166621$D9A45D9F-8D21-4F82-B6C4-43F6B1FFD2CF",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "רב יצחק בר אשיאן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q100154111": "רב המנונא סבא",
+  "Q10971640": "רב אידי בר אבין",
+  "Q1794530": "רב הונא",
+  "Q5": "אדם",
+  "Q55649849": "אמוראי בבל"
+ },
+ "raw": "data/raw/wikidata/Q100166621.json"
+}

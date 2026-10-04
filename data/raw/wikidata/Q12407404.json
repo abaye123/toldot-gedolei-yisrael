@@ -1,0 +1,261 @@
+{
+ "id": "Q12407404",
+ "url": "https://www.wikidata.org/wiki/Q12407404",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12407404",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Hezekiah ben Manoah"
+   },
+   "he": {
+    "language": "he",
+    "value": "חזקיה בן מנוח"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "French rabbi"
+   },
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "חזקוני"
+    }
+   ],
+   "en": [
+    {
+     "language": "en",
+     "value": "Chizkuni"
+    },
+    {
+     "language": "en",
+     "value": "Hizkuni"
+    },
+    {
+     "language": "en",
+     "value": "Hezekiah bar Manoah"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407404$2E9B8D0B-BD73-4F40-91D8-2E42659B7C84",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407404$575598D8-0DBA-4B0A-84DB-77248B54E246",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407404$275ed59b-4bc7-fa1e-9a28-94d030ba4ba9",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8b66c7ce66a7fd1b1f741f8106ac894b95778908",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 50108322,
+        "id": "Q50108322"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407404$45626d46-4ec6-984e-e555-cd3db5d823c8",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "59b658476b36c5f904b5c9df1d15d347855e117b",
+      "datavalue": {
+       "value": {
+        "time": "+1250-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407404$33FFA501-C8C2-49E3-8130-51146CEF2DDD",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "cec73f4a4d0dc451e407fc86b58fabbec18129d1",
+      "datavalue": {
+       "value": {
+        "time": "+1200-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407404$bc114edb-4c13-30d2-ef29-70e6adb3f565",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a66b0eed833563f163c6955217ad4add59eac22e",
+      "datavalue": {
+       "value": {
+        "time": "+1310-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407404$F74C0234-8361-4FE6-B929-3B01F6BD3186",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "fadca96b584de177d4a09a416e0f15f38ee6e47b",
+      "datavalue": {
+       "value": {
+        "time": "+1299-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12407404$4ac381e2-49be-7dbd-9781-c24dadf584fb",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "257b7e467c04f012b06d970e78913a9cdc09581d",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 43375857,
+        "id": "Q43375857"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12407404$aada6f41-4bd0-8432-b96b-fbf4798d89ff",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "חזקיה בן מנוח",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q36180": "סופר",
+  "Q43375857": "חזקוני על המקרא",
+  "Q5": "אדם",
+  "Q50108322": "פרשן המקרא"
+ },
+ "raw": "data/raw/wikidata/Q12407404.json"
+}

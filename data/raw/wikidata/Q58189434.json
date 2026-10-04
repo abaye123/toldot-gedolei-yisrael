@@ -1,0 +1,249 @@
+{
+ "id": "Q58189434",
+ "url": "https://www.wikidata.org/wiki/Q58189434",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q58189434",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יצחק הכהן שלאנג"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי האשכנזי של יהודי בלגרד עד לשואה"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q58189434$c0302ce3-448d-e6c8-7891-24b7184b5e3d",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "7ed9f7fab00c8f03310fb5059afd10eeba32d802",
+      "datavalue": {
+       "value": {
+        "time": "+1873-10-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q58189434$eb82f49e-434a-c9e0-2014-73ef63b5b8cf",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "bb0096fc1c52acfa6e75eab12f422f89a9e4aa86",
+      "datavalue": {
+       "value": {
+        "time": "+1942-03-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q58189434$01ec6093-4bd1-f84c-580e-9c014358cc1b",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "172d68ec27c35f6091616c7283f9a4ef4f60c9fb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11739677,
+        "id": "Q11739677"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q58189434$a0cad2f0-4c51-86a9-8220-aa83cc865635",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f47b21d79c986b637077a53b72d16088489a6cf7",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 698270,
+        "id": "Q698270"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "7af6152da091a72047a489255f2fc75a7dfd50b0",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 3711,
+          "id": "Q3711"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "3bc217529d42b13ca9aa76e7b6725f3fcb098153",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 191077,
+          "id": "Q191077"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q58189434$a394775b-4f2c-58cb-0b4f-ab43d94919bf",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q58189434$260debd0-4b41-ee20-bccd-c6cbaaf5fa2b",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8ab436fd91163c6651521e06b530d3d8ab33a1f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1067977,
+        "id": "Q1067977"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q58189434$d0899969-4b60-1370-c593-40876c6aeb80",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יצחק הכהן שלאנג",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1067977": "חזן",
+  "Q11739677": "קלאסנו",
+  "Q133485": "רב",
+  "Q5": "אדם",
+  "Q698270": "מחנה הריכוז באנייצה"
+ },
+ "raw": "data/raw/wikidata/Q58189434.json"
+}

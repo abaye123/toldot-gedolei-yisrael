@@ -1,0 +1,233 @@
+{
+ "id": "Q6920823",
+ "url": "https://www.wikidata.org/wiki/Q6920823",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6920823",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יהודה ליב מיזס"
+   },
+   "en": {
+    "language": "en",
+    "value": "Judah Löb Mieses"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "(1798–1831), Galician maskil"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאנשי תנועת ההשכלה היהודית בגליציה"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Yehudah Leib Mieses"
+    },
+    {
+     "language": "en",
+     "value": "Judah Leib Mieses"
+    },
+    {
+     "language": "en",
+     "value": "Judah Leib Miesis"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$7A90ECFD-91D2-4AB5-ABF5-309FA01B49BF",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$F8C5BEA7-8DA2-4869-8C16-58B04B9106ED",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "70541c2eb72d85fa5f74008b4ee33b004a1ff7eb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36180,
+        "id": "Q36180"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$50953323-CA11-4922-B6BE-4FE85C53DA4F",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "4fc8c3e1a1313b9ed8568b68eb9f74463cbfd6c4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 115793173,
+        "id": "Q115793173"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$A8688730-7649-45AE-AC0D-B399D1911784",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "647d52b8d432be2562e414f7d23020b47a0b0a7a",
+      "datavalue": {
+       "value": {
+        "time": "+1831-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6920823$48E6B475-32D2-41E7-A9DE-67E899563C61",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f0bf8f509cc632680b23936d9cb58faeaed4af5c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36036,
+        "id": "Q36036"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$F2C8D66A-2620-455D-81DE-B2189B8A739A",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "a581cbb10ea9d9fb3f1c6e006baa1a4814601e9e",
+      "datavalue": {
+       "value": {
+        "time": "+1798-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6920823$E2A7239B-A4FA-4FA6-8C55-F307C90C3447",
+     "rank": "normal"
+    }
+   ],
+   "P800": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P800",
+      "hash": "76ce8877d9335fbde8302dbfe2c5e0f40687354e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 125857680,
+        "id": "Q125857680"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6920823$8df625f8-4c0a-2359-5e00-71b3ef1676a5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יהודה ליב מיזס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q115793173": null,
+  "Q125857680": "קנאת האמת",
+  "Q133485": "רב",
+  "Q36036": "לבוב",
+  "Q36180": "סופר",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6920823.json"
+}

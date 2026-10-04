@@ -1,0 +1,233 @@
+{
+ "id": "Q105094685",
+ "url": "https://www.wikidata.org/wiki/Q105094685",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q105094685",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Ármin Spiegel"
+   },
+   "he": {
+    "language": "he",
+    "value": "ארמין שפיגל"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב הונגרי"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105094685$4b61edb5-4ad1-14ff-b187-0da9e653b9bc",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q105094685$7608ac67-4bb8-2f1f-4bd4-ea233fffde06",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "71b9b307a504fb5a4c6c57689db48d64ba483863",
+      "datavalue": {
+       "value": {
+        "time": "+1883-01-28T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105094685$b5bda45b-4d74-68e5-e879-3ce7499a8649",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "c992e32fb8c5f773820f2353f85f4455923b901e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 659841,
+        "id": "Q659841"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q105094685$2cb7fa71-4b3f-7175-0f28-b05f0b9c0ed3",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ce24c115bc0ad07d762f5f85a66c911b6e9a8cc4",
+      "datavalue": {
+       "value": {
+        "time": "+1945-03-27T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q105094685$eb328837-4c6f-5ee2-eaee-9e5c591e9240",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "5963774d9fad3f1f56286dc7993c45eb5ee98346",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 160139,
+        "id": "Q160139"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P131": [
+       {
+        "snaktype": "value",
+        "property": "P131",
+        "hash": "b99a7057ef968336063993583b0e66bddd0d3fc3",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 41967,
+          "id": "Q41967"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ],
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "06f100f42eca9d3df6297b1648c73462578ce58a",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 7318,
+          "id": "Q7318"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P131",
+      "P17"
+     ],
+     "id": "Q105094685$6a0c887d-44da-3bf1-0bc5-273097184d66",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "ארמין שפיגל",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q160139": "מאוטהאוזן",
+  "Q5": "אדם",
+  "Q659841": "קורנויבורג"
+ },
+ "raw": "data/raw/wikidata/Q105094685.json"
+}

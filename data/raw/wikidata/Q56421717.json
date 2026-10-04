@@ -1,0 +1,194 @@
+{
+ "id": "Q56421717",
+ "url": "https://www.wikidata.org/wiki/Q56421717",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q56421717",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "יקותיאל בירדוגו"
+   },
+   "en": {
+    "language": "en",
+    "value": "Yékoutiel Berdugo"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "אב בית דין מקנס"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421717$A659BF9A-FB51-46AF-9857-11BA8FB01081",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421717$2706D3A5-F9F6-44F2-BA9F-5787926AEE23",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "355722205297afe4e426073631403b2843174fc3",
+      "datavalue": {
+       "value": {
+        "time": "+1736-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q56421717$A73F1798-5E11-41AC-8F74-9BBC7B216519",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "1ffeb8f17ac19a6734a153a54ab65f0aeddbf2c3",
+      "datavalue": {
+       "value": {
+        "time": "+1802-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q56421717$9865C587-3790-47C6-B965-CCCC9A75CA48",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "5d548d723266dda3cf99925f0d7fe9a163462f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 178663,
+        "id": "Q178663"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421717$0FB30454-58CD-4CC5-922F-887FF15F7E72",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "3688ee467084084e16c45b7f20e4751e3b6245d4",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 178663,
+        "id": "Q178663"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421717$E6638D99-105E-4D9B-88AD-C1AFB95A1613",
+     "rank": "normal"
+    }
+   ],
+   "P119": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P119",
+      "hash": "e7aaaf51af8446d7f381213be422b2d1ceee8e93",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 178663,
+        "id": "Q178663"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q56421717$803E193D-6612-4836-91D0-2C128DB199BD",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יקותיאל בירדוגו",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q178663": "מקנס",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q56421717.json"
+}

@@ -1,0 +1,357 @@
+{
+ "id": "Q96699",
+ "url": "https://www.wikidata.org/wiki/Q96699",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q96699",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Joseph Perles"
+   },
+   "he": {
+    "language": "he",
+    "value": "יוסף פרלס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב וחוקר הונגרי"
+   },
+   "en": {
+    "language": "en",
+    "value": "Hungarian rabbi (1835–1894)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "פרץ פרלס"
+    },
+    {
+     "language": "he",
+     "value": "יוסף פרלס"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "75921b576d87e4a3f5d30302121b0b7b8a9ee9cb",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 203344,
+        "id": "Q203344"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q96699$23D3C69A-FCAF-4218-8B83-B9D5B085DB6B",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "e5b37e4b9dd5d2f8507c6a68dac98e3e1146de78",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1726,
+        "id": "Q1726"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q96699$BDB3D6B8-EB3E-4AF6-BCDA-D227847D7CE5",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$7F266031-B515-439D-ABEF-2B319C93BF79",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "bf0c33c5627d7a341dd61dcea935c764f5b93d59",
+      "datavalue": {
+       "value": {
+        "time": "+1835-11-25T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96699$7AC8461E-8E77-4E2A-A94F-FF2111D54837",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "a5560d584e77fff1de7a2f36fc421b40c4ec5d9b",
+      "datavalue": {
+       "value": {
+        "time": "+1894-03-04T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q96699$7C5D91C7-B08B-44C0-B3C8-4A750731B379",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$473C7FF5-2518-4612-B994-5D140506A0A7",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "20aba2ceef849b9dab2648e7ecb1a73fe01af26b",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 201788,
+        "id": "Q201788"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$5c75cd51-62f7-4ff5-a3b0-3037deea3c56",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "54108c96412a0f146fdfd1b896e62f46b33f11b9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 13570226,
+        "id": "Q13570226"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$9e14bba1-e5e3-4425-8664-b445de726598",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "d960110a68428bc64079910bfb1386f05c05aa65",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3621491,
+        "id": "Q3621491"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$9b5f4da1-feb5-4121-b29f-af9dfd350071",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "b570478599879aba363e5158e03210bc4e4976e1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 14467526,
+        "id": "Q14467526"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$858fe5d2-0186-4379-a11b-1b4e945a76df",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3d268f5bb954932b3fe5f1c268ddd65ab7f67042",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1403719,
+        "id": "Q1403719"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$d3550fe6-49cf-2bac-1bfc-0c3e969ecf19",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "2a477a667c37395b34e7da8059d1ca207d2117ba",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55858622,
+        "id": "Q55858622"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q96699$bb6dc4da-4db1-0612-7f54-38a555987926",
+     "rank": "normal"
+    }
+   ],
+   "P26": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P26",
+      "hash": "314355db0d3d750f9fa6dfed88f64a6621131e40",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 55858625,
+        "id": "Q55858625"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P580": [
+       {
+        "snaktype": "value",
+        "property": "P580",
+        "hash": "fef77737dd9350f7d5c2097e4d1c0c9ed839eac4",
+        "datavalue": {
+         "value": {
+          "time": "+1863-06-02T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+         },
+         "type": "time"
+        },
+        "datatype": "time"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P580"
+     ],
+     "id": "Q96699$0691b4a1-483f-4162-b84e-be2028234b47",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "יוסף פרלס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q13570226": "היסטוריון של הספרות",
+  "Q1403719": "פליקס פרלס",
+  "Q14467526": "בלשן",
+  "Q1726": "מינכן",
+  "Q201788": "היסטוריון",
+  "Q203344": "באיה",
+  "Q3621491": "ארכאולוג",
+  "Q5": "אדם",
+  "Q55858622": "מקס פרלס",
+  "Q55858625": "רוזאלי פרלס"
+ },
+ "raw": "data/raw/wikidata/Q96699.json"
+}

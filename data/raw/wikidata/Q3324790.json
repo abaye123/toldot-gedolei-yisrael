@@ -1,0 +1,189 @@
+{
+ "id": "Q3324790",
+ "url": "https://www.wikidata.org/wiki/Q3324790",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q3324790",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה יצחק גווירצמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moshe Yitzchok Gewirtzman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב צרפתי"
+   },
+   "en": {
+    "language": "en",
+    "value": "French rabbi (1882–1976)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה יצחק גגעווירצמאן"
+    },
+    {
+     "language": "he",
+     "value": "משה יצחק גבירצמן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3324790$C26E0743-02B7-4A50-99DD-6C47450A810A",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3324790$9F038984-A729-4012-8C44-A3E0C5494CCF",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "f8f868507f65bbcfddfac168270c6541b3fd9d3b",
+      "datavalue": {
+       "value": {
+        "time": "+1882-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3324790$A1DE711F-4B8A-48BF-950C-EE5841094E73",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "c0c459f47df926c99b213b87454364b9f445534c",
+      "datavalue": {
+       "value": {
+        "time": "+1976-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q3324790$1DA90582-3A30-4733-B598-7478F532A6B8",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "59d7bdf285790bd68e868e68b3de03c39939ad13",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12892,
+        "id": "Q12892"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3324790$B081DB51-0093-4049-83DB-C81E10492E6A",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "ef725ea3b33391b966dc9c043065e3382ace9cc8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 36,
+        "id": "Q36"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q3324790$b727d8bd-3307-487d-8b99-9ea9a054ac0e",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה יצחק גווירצמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12892": "אנטוורפן",
+  "Q133485": "רב",
+  "Q36": "פולין",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q3324790.json"
+}

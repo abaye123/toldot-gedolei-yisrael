@@ -1,0 +1,276 @@
+{
+ "id": "Q2060878",
+ "url": "https://www.wikidata.org/wiki/Q2060878",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q2060878",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Paul Lazarus"
+   },
+   "he": {
+    "language": "he",
+    "value": "פנחס לצרוס"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב גרמני"
+   },
+   "en": {
+    "language": "en",
+    "value": "German rabbi (1888–1951)"
+   }
+  },
+  "aliases": {
+   "en": [
+    {
+     "language": "en",
+     "value": "Paul-Pinhas Lazarus"
+    },
+    {
+     "language": "en",
+     "value": "Paul Pinchas Lazarus"
+    }
+   ]
+  },
+  "claims": {
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "4d24a210a1bf5a7bbec085e82a71aefced1229df",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2100,
+        "id": "Q2100"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2060878$935D1247-797B-47A7-8001-6507997C773F",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "f842a5c154d8131ae1b9e05230422f25c20a91c9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 41621,
+        "id": "Q41621"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "q2060878$2B9DD08F-8FA9-46C5-891E-443FB255A59E",
+     "rank": "normal"
+    }
+   ],
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2060878$F60F7DDB-7FA0-4363-8593-F65E4EEF07B7",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "72f007794fed037a99d2cdd6683d4401202699cf",
+      "datavalue": {
+       "value": {
+        "time": "+1888-10-30T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "f9f842b41f249e5504d48025c7ad6d7b5bfc7496",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 71536040,
+          "id": "Q71536040"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q2060878$77D26B97-8DD0-4B20-A74C-60601D4D036F",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "dd000eedcea419c48d9453d71448ff29ff69e11f",
+      "datavalue": {
+       "value": {
+        "time": "+1888-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2060878$9C43C93D-98E5-434F-AA82-61C2ADCB4FFD",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "ff069d14bd57bea1c6d200f07c1ea3f92ce5e510",
+      "datavalue": {
+       "value": {
+        "time": "+1951-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2060878$F5B19288-03CC-4942-907E-64C0DC0B8508",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "13ec75864bdd2468d776d0102d503ea3db0781ca",
+      "datavalue": {
+       "value": {
+        "time": "+1951-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q2060878$0B30EE38-12E6-45F0-B8FA-DA0E90D04686",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2060878$5E089178-D1C0-4B21-B953-DD59DC67AE78",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "3d0096657cae073dfb3270b5d183226605d19bda",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 12407317,
+        "id": "Q12407317"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q2060878$900a1947-42af-ffdf-6c30-922cd0e08854",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "פנחס לצרוס",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q12407317": "חוה לצרוס-יפה",
+  "Q133485": "רב",
+  "Q2100": "דיסבורג",
+  "Q41621": "חיפה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q2060878.json"
+}

@@ -1,0 +1,240 @@
+{
+ "id": "Q12744890",
+ "url": "https://www.wikidata.org/wiki/Q12744890",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q12744890",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "צדיק דאנון"
+   },
+   "en": {
+    "language": "en",
+    "value": "Cadik Danon"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "הרב הראשי ליהודי יוגוסלביה (1998-1972)"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1918-2005)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12744890$DCBAAAFC-4DD2-4820-9DF1-237C3B904FF5",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "946d5c9376257954dfc31fd2460c345d7f8e6b71",
+      "datavalue": {
+       "value": {
+        "time": "+2005-03-02T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12744890$07638616-E1A0-414C-A02D-7D1E90FD07B0",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "db5e548748bf68c7e5f93a8d4d6e5085ef4808f8",
+      "datavalue": {
+       "value": {
+        "time": "+1918-04-20T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q12744890$74498FA9-023F-425C-BD28-C4B8B36EDA39",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "e7ea5ccd569016f7f6767a58519e933b8a01634e",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 193391,
+        "id": "Q193391"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12744890$10af3154-3956-4364-ab7d-69ac3076c0a8",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q12744890$3e427f5c-45d0-23e1-348a-1fb4215c157d",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "9bddd78433d169aa9382be35a0ee72ffb779e1c1",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11194,
+        "id": "Q11194"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "f1104d128fcb224d67a8747320cea52c55bac51f",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 28513,
+          "id": "Q28513"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q12744890$c4c6c1fc-40ad-f677-ba47-a81fbbab5120",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "30ac0457c00e8eb111a5616a5aeb6bbf34d4d2f2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 3711,
+        "id": "Q3711"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P17": [
+       {
+        "snaktype": "value",
+        "property": "P17",
+        "hash": "c93f45dc8ed2c6af0d2ee025325cc99f64bf8390",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 37024,
+          "id": "Q37024"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P17"
+     ],
+     "id": "Q12744890$428ae276-4903-4ea3-b773-0b15fdc119e5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "צדיק דאנון",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11194": "סרייבו",
+  "Q133485": "רב",
+  "Q193391": "דיפלומט",
+  "Q3711": "בלגרד",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q12744890.json"
+}

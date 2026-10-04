@@ -1,0 +1,200 @@
+{
+ "id": "Q18145504",
+ "url": "https://www.wikidata.org/wiki/Q18145504",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q18145504",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "דוד פלדמן"
+   },
+   "en": {
+    "language": "en",
+    "value": "David Feldman"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "רב בריטי"
+   },
+   "en": {
+    "language": "en",
+    "value": "rabbi (1884-1955)"
+   }
+  },
+  "aliases": {},
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18145504$369d796a-4766-b9be-3400-e7cae809ab09",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "30bb1f39b6aee0c295e5658e684bffe5344fb8cc",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 219593,
+        "id": "Q219593"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18145504$76daae1c-4ddb-2eea-ea7e-d8d2a6f3e387",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "455a9305def9942f2d257b3cb5f60f889a4c521e",
+      "datavalue": {
+       "value": {
+        "time": "+1884-01-01T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18145504$adfd1df7-40c1-d435-1e74-f11ffe3c3bf6",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "30b80167d7acb27aed3e50f894029a241f68fe16",
+      "datavalue": {
+       "value": {
+        "time": "+1885-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18145504$d03c07f7-4e67-02b7-61b5-90f0dff72d80",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18145504$B0AEA368-F73E-4D8A-86EE-951E0BAA59BC",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "36d16d476bd5501f729ee67453fe6782bb341699",
+      "datavalue": {
+       "value": {
+        "time": "+1955-05-08T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q18145504$D91EF0F0-900A-4326-BC82-ADDB2598CB31",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "076fbd9d43afd4f0186eb7ce38feafe0a33ae02a",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18125,
+        "id": "Q18125"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q18145504$4BF44E08-D4C6-4177-8FCC-54FFF0F9BD86",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "דוד פלדמן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q133485": "רב",
+  "Q18125": "מנצ'סטר",
+  "Q219593": "טאלנה",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q18145504.json"
+}

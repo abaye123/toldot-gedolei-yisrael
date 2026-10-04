@@ -1,0 +1,161 @@
+{
+ "id": "Q25975250",
+ "url": "https://www.wikidata.org/wiki/Q25975250",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q25975250",
+  "labels": {
+   "he": {
+    "language": "he",
+    "value": "משה אשקר הכהן"
+   },
+   "en": {
+    "language": "en",
+    "value": "Moses Ashear"
+   }
+  },
+  "descriptions": {
+   "he": {
+    "language": "he",
+    "value": "מפייטני יהדות חלב במאה ה-19 וה-20"
+   },
+   "en": {
+    "language": "en",
+    "value": "hazzan (1877–1940)"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "משה יוסף אשקר הכהן"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25975250$26E4882B-5AB3-46D1-929D-9351E05B5051",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25975250$A870BC8E-EC2C-4F6C-98B9-7CAC29165575",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "8ab436fd91163c6651521e06b530d3d8ab33a1f9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1067977,
+        "id": "Q1067977"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q25975250$604f553f-4433-4281-a5c5-ec401696e054",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "d7fdfdbc1e645834507286139a8cec674351bd33",
+      "datavalue": {
+       "value": {
+        "time": "+1877-00-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 9,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25975250$C0A9B289-3C1B-4607-B29F-1F5004E83BA0",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "02162bd7807a98b3c8538ff5c4314d493a37bbf1",
+      "datavalue": {
+       "value": {
+        "time": "+1940-10-00T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 10,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q25975250$E805B6AE-B3D7-49A4-9968-473B1D749FE5",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "משה אשקר הכהן",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q1067977": "חזן",
+  "Q133485": "רב",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q25975250.json"
+}

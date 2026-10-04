@@ -1,0 +1,306 @@
+{
+ "id": "Q6810270",
+ "url": "https://www.wikidata.org/wiki/Q6810270",
+ "retrieved": "2026-10-04",
+ "entity": {
+  "type": "item",
+  "id": "Q6810270",
+  "labels": {
+   "en": {
+    "language": "en",
+    "value": "Meir Zlotowitz"
+   },
+   "he": {
+    "language": "he",
+    "value": "מאיר זלוטוביץ"
+   }
+  },
+  "descriptions": {
+   "en": {
+    "language": "en",
+    "value": "rabbi"
+   }
+  },
+  "aliases": {
+   "he": [
+    {
+     "language": "he",
+     "value": "זלוטוביץ, מאיר"
+    }
+   ]
+  },
+  "claims": {
+   "P31": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P31",
+      "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 5,
+        "id": "Q5"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$65BD9452-AAF5-4B07-BF2E-81B56AB5B2CD",
+     "rank": "normal"
+    }
+   ],
+   "P106": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "5c86b289f92763dfe7ad972b03cb0524898a0f01",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 133485,
+        "id": "Q133485"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$2ECA7D8B-0EAB-4BBC-B5E2-90923008A04C",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "948a5ee823b2028b5e0fcbb0f462be223920eaf8",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 1607826,
+        "id": "Q1607826"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$b14352c3-4d94-f1f7-08c7-637ba49cc958",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "788d702ab6de98397237c2cbcab07498f83b887c",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 333634,
+        "id": "Q333634"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$A88D1BAE-1662-4C38-B990-62C1859F54BD",
+     "rank": "normal"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P106",
+      "hash": "ec77091eaa2eb211c58a580744688a48166905f0",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 2516866,
+        "id": "Q2516866"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$00505e9c-40b1-4378-9957-2b61704a1414",
+     "rank": "normal"
+    }
+   ],
+   "P570": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "4c3c5e02aef64b0e29bde1ade0baa65c75d818e1",
+      "datavalue": {
+       "value": {
+        "time": "+2017-06-23T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "qualifiers": {
+      "P7452": [
+       {
+        "snaktype": "value",
+        "property": "P7452",
+        "hash": "2ac5dea245f7e025415b34879bbe73844a754747",
+        "datavalue": {
+         "value": {
+          "entity-type": "item",
+          "numeric-id": 98386534,
+          "id": "Q98386534"
+         },
+         "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+       }
+      ]
+     },
+     "qualifiers-order": [
+      "P7452"
+     ],
+     "id": "Q6810270$DE7B203D-CC4C-47EB-A7EE-3B3C7C9CFF51",
+     "rank": "preferred"
+    },
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P570",
+      "hash": "849266a5e27558029c3855ece9d46b0000ba9a48",
+      "datavalue": {
+       "value": {
+        "time": "+2017-06-24T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6810270$15071fbc-f219-4f78-ac5f-9b8686d760ab",
+     "rank": "normal"
+    }
+   ],
+   "P569": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P569",
+      "hash": "343da74da925aeeb681c8abc3441ff03608e6a14",
+      "datavalue": {
+       "value": {
+        "time": "+1943-07-13T00:00:00Z",
+        "timezone": 0,
+        "before": 0,
+        "after": 0,
+        "precision": 11,
+        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+       },
+       "type": "time"
+      },
+      "datatype": "time"
+     },
+     "type": "statement",
+     "id": "Q6810270$67F5E4C5-DE27-4C9D-9600-1D7BD9C8F737",
+     "rank": "normal"
+    }
+   ],
+   "P19": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P19",
+      "hash": "d03fc3b3ff7501a6aec03ca4f7d0066b36b0bb00",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 11299,
+        "id": "Q11299"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$3B349B03-ED78-4C76-899E-890CCF148621",
+     "rank": "normal"
+    }
+   ],
+   "P20": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P20",
+      "hash": "1b36837ec0a677efe0cd9da6f9376469cff530d2",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 18419,
+        "id": "Q18419"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$9ad36d43-484f-e472-d47a-34fb9b465f67",
+     "rank": "normal"
+    }
+   ],
+   "P40": [
+    {
+     "mainsnak": {
+      "snaktype": "value",
+      "property": "P40",
+      "hash": "ca7c3883ab5b79b7c77d842d9576ae771d16b791",
+      "datavalue": {
+       "value": {
+        "entity-type": "item",
+        "numeric-id": 120963019,
+        "id": "Q120963019"
+       },
+       "type": "wikibase-entityid"
+      },
+      "datatype": "wikibase-item"
+     },
+     "type": "statement",
+     "id": "Q6810270$35348bf1-48db-cdef-6688-75d2ab8fcbf0",
+     "rank": "normal"
+    }
+   ]
+  },
+  "sitelinks": {
+   "hewiki": {
+    "site": "hewiki",
+    "title": "מאיר זלוטוביץ",
+    "badges": []
+   }
+  }
+ },
+ "linked_labels": {
+  "Q11299": "מנהטן",
+  "Q120963019": "Gedaliah Zlotowitz",
+  "Q133485": "רב",
+  "Q1607826": "עורך",
+  "Q18419": "ברוקלין",
+  "Q2516866": "מוציא לאור",
+  "Q333634": "מתרגם",
+  "Q5": "אדם"
+ },
+ "raw": "data/raw/wikidata/Q6810270.json"
+}
