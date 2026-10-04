@@ -1,0 +1,292 @@
+{
+ "id": "Q723531",
+ "sources": {
+  "wikipedia": {
+   "title": "ר\"ן",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%22%D7%9F",
+   "revid": 43805157,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q723531.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q723531",
+   "url": "https://www.wikidata.org/wiki/Q723531",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q723531.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    407,
+    409,
+    410,
+    411
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "rishonim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבינו נסים בן ראובן גירונדי",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הר\"ן",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "הרנב\"ר",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "ספרד",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ה'ע\"ה",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'פ'",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1315",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "1310",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ט' בשבט ה'קל\"ו",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'ק\"נ",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1376",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "1380",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "ברצלונה",
+    "src": [
+     "wikidata"
+    ]
+   }
+  },
+  "buried": null,
+  "roles": [
+   {
+    "value": "רבה ודיינה של ברצלונה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "ראש ישיבה בברצלונה",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רבי ראובן בן נסים",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "רבי פרץ הכהן",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "students": [
+   {
+    "value": "הריב\"ש רבי יצחק בר ששת",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבי חסדאי קרשקש",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבי יוסף חביבא בעל נימוקי יוסף",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי ראובן בן נסים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "פירוש הר\"ן על הלכות הרי\"ף",
+     "description": "נדפס לצד הלכות הרי\"ף, מסכם שיטות הקודמים ומכריע להלכה"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "חידושי הר\"ן",
+     "description": "חידושים על כמה ממסכתות התלמוד"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירוש הר\"ן למסכת נדרים",
+     "description": "הפירוש המרכזי הנדפס בש\"ס לצד הגמרא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "דרשות הר\"ן",
+     "description": "שלוש עשרה דרשות בעיון ובמחשבה"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "שו\"ת הר\"ן",
+     "description": "מעט מתשובותיו שנשתמרו"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירוש על התורה",
+     "description": "נשתמר על פרשות בראשית עד חיי שרה ותחילת ויקרא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי הראשונים בספרד, רבה ודיינה של ברצלונה וראש ישיבה בה. פירושו להלכות הרי\"ף נדפס לצידן מן הדפוס הראשון ונעשה לפירוש המקובל עליהן, וחידושיו על הש\"ס הם אבן יסוד בלימוד העיון; מרן הבית יוסף מנאו בין הפוסקים שעליהם סמך. העמיד תלמידים גדולים, ובראשם הריב\"ש.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "תלמידו הריב\"ש כתב עליו: \"אין ערוך אליו בכל חכמי ישראל... כולם לפניו כקליפת השום\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנות חייו: במאמר ה'ע\"ה - ט' בשבט ה'קל\"ו (1375 או 1376), בסדר הדורות ה'פ' - ה'ק\"נ, בוויקינתונים 1310 - 1380. נבחר נוסח המאמר.",
+   "מקום הלידה אינו ידוע לפי המאמר (אולי גירונה); בוויקינתונים גירונה או ברצלונה. לא נכלל.",
+   "מקום הפטירה (ברצלונה) מוויקינתונים בלבד."
+  ],
+  "written": "2026-10-05"
+ }
+}
