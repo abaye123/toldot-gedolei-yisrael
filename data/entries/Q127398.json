@@ -1,0 +1,286 @@
+{
+ "id": "Q127398",
+ "sources": {
+  "wikipedia": {
+   "title": "רמב\"ם",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%91%22%D7%9D",
+   "revid": 44008434,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q127398.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q127398",
+   "url": "https://www.wikidata.org/wiki/Q127398",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q127398.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    367,
+    359
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "rishonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבינו משה בן מימון",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הרמב\"ם",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "הנשר הגדול",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "ספרד",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "מצרים",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ד'תתצ\"ח",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ד'תתצ\"ה",
+      "src": [
+       "wikipedia",
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1138",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "קורדובה",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "כ' בטבת ד'תתקס\"ה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "1204",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "פוסטאט שבמצרים",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  },
+  "buried": {
+   "value": "טבריה",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "נגיד יהודי מצרים",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "רופא בחצר המלכות במצרים",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רבי מימון הדיין",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ],
+    "ref": "Q3303401"
+   },
+   {
+    "value": "רבי יוסף אבן מיגאש (מתוך כתביו)",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q958361"
+   },
+   {
+    "value": "רבי יהודה הכהן אבן סוסאן",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q94999263"
+   }
+  ],
+  "students": [
+   {
+    "value": "בנו רבי אברהם בן הרמב\"ם",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2874503"
+   },
+   {
+    "value": "רבי יוסף בן יהודה אבן שמעון",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי מימון הדיין"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ],
+    "ref": "Q3303401"
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי אברהם בן הרמב\"ם, שמילא את מקומו בהנהגת יהודי מצרים"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2874503"
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "משנה תורה (היד החזקה)",
+     "description": "חיבור הלכתי המקיף את כל דיני התורה, בארבעה עשר ספרים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירוש המשנה",
+     "description": "פירוש על כל ששה סדרי משנה, ובו הקדמות ושלושה עשר עיקרים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "ספר המצוות",
+     "description": "מניין תרי\"ג המצוות וכללי מנייתן"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "מורה נבוכים",
+     "description": "ספר ביסודות האמונה וההשקפה"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי הפוסקים בכל הדורות. חיבר את \"משנה תורה\" הכולל את כל דיני התורה, ועליו נתחברו פירושים לאין מספר; מרן הבית יוסף מנאו כאחד משלושת עמודי ההוראה שעליהם השתית את השולחן ערוך. נולד בקורדובה, ונדד עם משפחתו מפני הגזירות דרך פאס וארץ ישראל עד שהשתקע במצרים, ושם עמד בראש הקהילה ושימש רופא בחצר המלכות.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "עליו נאמר: \"ממשה עד משה לא קם כמשה\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקום הפטירה: בוויקינתונים 'קהיר', במאמר 'פוסטאט (כיום חלק מקהיר)' - נבחר נוסח המאמר.",
+   "התקופה (ראשונים) נקבעה לפי רשימת הפיילוט; המקורות אינם אומרים זאת במפורש."
+  ],
+  "written": "2026-10-04"
+ }
+}

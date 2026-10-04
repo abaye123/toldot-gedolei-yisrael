@@ -1,0 +1,271 @@
+{
+ "id": "Q1304973",
+ "sources": {
+  "wikipedia": {
+   "title": "רבא",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%90",
+   "revid": 43196225,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q1304973.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q1304973",
+   "url": "https://www.wikidata.org/wiki/Q1304973",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q1304973.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    321
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/ר/רבא (סתם)",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%A8%2F%D7%A8%D7%91%D7%90_%28%D7%A1%D7%AA%D7%9D%29",
+     "revid": 2807016,
+     "raw": "data/raw/toldot_tannaim/1709735.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבא",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "toldot_tannaim"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא בבל בדור הרביעי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": {
+    "value": "278",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "280",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "מחוזא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'קי\"א",
+    "src": [
+     "seder_hadorot_segron"
+    ],
+    "alt": [
+     {
+      "value": "ד'קי\"ב",
+      "src": [
+       "wikipedia"
+      ]
+     }
+    ]
+   },
+   "gregorian": null,
+   "place": {
+    "value": "מחוזא",
+    "src": [
+     "wikidata"
+    ]
+   }
+  },
+  "buried": null,
+  "roles": [
+   {
+    "value": "ראש ישיבת פומבדיתא, שעברה בימיו למחוזא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רב נחמן",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q2124832"
+   },
+   {
+    "value": "רב חסדא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1391057"
+   },
+   {
+    "value": "רב יוסף",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q359768"
+   }
+  ],
+  "students": [
+   {
+    "value": "רב פפא",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q742636"
+   },
+   {
+    "value": "רב הונא בריה דרב יהושע",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1637336"
+   },
+   {
+    "value": "רב נחמן בר יצחק",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2124834"
+   },
+   {
+    "value": "רב אשי",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q742620"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רב יוסף בר חמא"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q6288179"
+   },
+   {
+    "value": {
+     "relation": "אשתו",
+     "name": "בת רב חסדא"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רב סמא בריה דרבא, ראש ישיבת פומבדיתא"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6539008"
+   },
+   {
+    "value": {
+     "relation": "אחיו",
+     "name": "רב שעורים"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "מוזכר רבות בתלמוד הבבלי, ובפרט בהוויות אביי ורבא",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "summary": {
+   "value": "מראשי אמוראי בבל בדור הרביעי, בן העיר מחוזא, שאביו רב יוסף בר חמא היה ראשה. רבותיו המובהקים היו רב נחמן ורב חסדא, ושימש את רב יוסף גם כשנתעוור. מחלוקותיו עם חברו אביי, \"הוויות דאביי ורבא\", הן משיאי העיון בתלמוד, והלכה כמותו בכולן חוץ משש. לאחר פטירת אביי באו כל תלמידי הישיבה אליו למחוזא, ועמד בראש הישיבה היחידה שבדור ארבע עשרה שנה עד פטירתו. נודע בחריפותו ובכבוד שנהג בתלמידי חכמים, וכמה ממאמריו נעשו כללים בהלכה, כגון \"דברים שבלב אינם דברים\".",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "אמר על עצמו: שלושה דברים ביקשתי מן השמים; חכמתו של רב הונא ועושרו של רב חסדא ניתנו לי, וענוותנותו של רבה בר רב הונא לא ניתנה לי.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה ד'קי\"א מסדר הדורות (שורה 321); המאמר מביא בשם אגרת רב שרירא גאון ד'קי\"ב (352), ונרשם כחלופה. השנה הלועזית 352 שייכת לנוסח ד'קי\"ב ולכן לא נרשמה לצד ד'קי\"א.",
+   "שנת הלידה: במאמר 278, בוויקינתונים עשור 280 ו-299.",
+   "רב אשי כתלמידו: בוויקינתונים, ובתיבת המידע של המאמר 'לפי הרמב\"ם'.",
+   "מקום הפטירה (מחוזא) מוויקינתונים בלבד.",
+   "דף 'רבא' בתולדות תנאים ואמוראים הוא רשימת חכמים בשם 'בריה דרבא' בלי זיהוי האב, ולא שימש (גם לא לבנו רב סמא).",
+   "לפי תולדות תנאים ואמוראים נולד לערך תקפ\"ט לשטרות, ולפי אגרת רב שרירא גאון נפטר תרס\"ג לשטרות; לא הומרו לשנים מבריאת העולם ולא נרשמו.",
+   "תולדות תנאים ואמוראים מכריע שרבא לא היה כהן, ושהגרסה 'מבית עלי' שייכת לרבה ולאביי.",
+   "תפקידו: לפי תולדות תנאים ואמוראים לא מלך בפומבדיתא אלא קבע את הישיבה הגדולה במחוזא, ותלמידי אביי באו אליו; תואם את הניסוח 'עברה בימיו למחוזא'.",
+   "רב הונא בריה דרב יהושע ורב אשי מנויים בתולדות תנאים ואמוראים תחת 'תלמידיו הגדולים ואומרי מאמריו'."
+  ],
+  "written": "2026-10-04"
+ }
+}

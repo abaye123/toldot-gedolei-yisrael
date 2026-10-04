@@ -1,0 +1,279 @@
+{
+ "id": "Q1397565",
+ "sources": {
+  "wikipedia": {
+   "title": "רבי יוחנן",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%97%D7%A0%D7%9F",
+   "revid": 43469608,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q1397565.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q1397565",
+   "url": "https://www.wikidata.org/wiki/Q1397565",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q1397565.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    309
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/ב/בר נפחא",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%91%2F%D7%91%D7%A8_%D7%A0%D7%A4%D7%97%D7%90",
+     "revid": 995126,
+     "raw": "data/raw/toldot_tannaim/381350.html"
+    },
+    {
+     "title": "תולדות תנאים ואמוראים/י/ר' יוחנן",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%99%2F%D7%A8%27_%D7%99%D7%95%D7%97%D7%A0%D7%9F",
+     "revid": 2780622,
+     "raw": "data/raw/toldot_tannaim/1706759.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי יוחנן",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "בר נפחא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא ארץ ישראל בדור הראשון",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "ארץ ישראל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": {
+    "value": "180",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "alt": [
+     {
+      "value": "199",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "ציפורי",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'ל\"ט",
+    "src": [
+     "seder_hadorot_segron",
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "279",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": null
+  },
+  "buried": {
+   "value": "טבריה, על פי המסורת",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ראש הישיבה בטבריה",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "ראש בית הדין בטבריה",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רבי ינאי",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q2124910"
+   },
+   {
+    "value": "רבי אושעיא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "tta-333448"
+   },
+   {
+    "value": "רבי חנינא בר חמא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "חזקיה בן רבי חייא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "רבי יהודה הנשיא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q380427"
+   }
+  ],
+  "students": [
+   {
+    "value": "ריש לקיש",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q1391489"
+   },
+   {
+    "value": "רבי אלעזר בן פדת",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1325773"
+   },
+   {
+    "value": "רבי אבהו",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבי חייא בר אבא",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "tta-1716876"
+   },
+   {
+    "value": "רבי אמי ורבי אסי",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "גיסו",
+     "name": "ריש לקיש, שנשא את אחותו"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q1391489"
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "מוזכר רבות בתלמוד הבבלי ובתלמוד הירושלמי ובמדרשים",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "summary": {
+   "value": "גדול אמוראי ארץ ישראל בדור הראשון, ואחר פטירת רב ושמואל ראש הדור כולו. נולד בציפורי יתום מאביו ומאמו, ורבי יהודה הנשיא קירבו לישיבתו בילדותו, אך עיקר תורתו קיבל מתלמידי רבי: רבי אושעיא, רבי ינאי ורבי חנינא. ייסד את ישיבתו הגדולה בטבריה ועמד בראשה ובראש בית הדין עשרות שנים. מסורת בידי הראשונים שהוא סידר את התלמוד הירושלמי, וגם התלמוד הבבלי מלא מתורתו. האריך ימים והעמיד תלמידים הרבה, והחברותא שלו היה ריש לקיש, שנעשה גם גיסו.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "מכר את שדותיו וכרמיו כדי לעסוק בתורה, ואמר שאין להצטער על כך, שהעולם נברא בששה ימים והתורה ניתנה בארבעים יום.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה ד'ל\"ט מסדר הדורות (שורה 309) ומהמאמר (לפי ספר הקבלה). השנה הלועזית: בפתיחת המאמר ובוויקינתונים 279, ובגוף המאמר 'בסביבות שנת 280'.",
+   "שורה 303 בסדר הדורות ('רבי יוחנן נהיה לראש ישיבה בארץ ישראל', ג'תתק\"צ) לא שימשה.",
+   "מקום הקבורה: המאמר מציין שאינו נזכר בחז\"ל, ומסורות מאוחרות מצביעות על טבריה.",
+   "ריש לקיש מופיע בוויקינתונים כתלמידו ובמאמר כ'תלמידו והחברותא שלו'.",
+   "דף 'ר' יוחנן (תנא)' בתולדות תנאים ואמוראים עוסק בתנא אחר ולא שימש.",
+   "רבי יהודה הנשיא כרבו: לפי תולדות תנאים ואמוראים ישב בישיבתו בילדותו ולא קיבל ממנו אלא מעט, כדברי הרמב\"ם שמנהו כקטן שבתלמידיו.",
+   "לפי תולדות תנאים ואמוראים נולד לערך ת\"צ לשטרות (כבן ט\"ו בפטירת רבי); לא הומר לשנה מבריאת העולם ולא נרשם.",
+   "ריש לקיש כתלמידו אינו נזכר בפירוש בחלק דף תולדות תנאים ואמוראים שבתקציר (הדף קטוע)."
+  ],
+  "written": "2026-10-04"
+ }
+}

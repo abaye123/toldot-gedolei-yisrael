@@ -1,0 +1,300 @@
+{
+ "id": "Q1949189",
+ "sources": {
+  "wikipedia": {
+   "title": "משה איסרליש",
+   "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%94_%D7%90%D7%99%D7%A1%D7%A8%D7%9C%D7%99%D7%A9",
+   "revid": 43693104,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q1949189.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q1949189",
+   "url": "https://www.wikidata.org/wiki/Q1949189",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q1949189.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    454
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "acharonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי משה איסרליש",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הרמ\"א",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "פולין",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "אדר א' ה'ר\"צ",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "1530",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "1520",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "קרקוב",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "י\"ח באייר ה'של\"ב",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'של\"ג",
+      "src": [
+       "wikipedia",
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1572",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "קרקוב",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "בית הקברות היהודי העתיק בקרקוב",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ראש ישיבה בקרקוב",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "ראש בית הדין של קרקוב",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבה של קרקוב",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רבי שלום שכנא מלובלין",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q93487"
+   }
+  ],
+  "students": [
+   {
+    "value": "רבי יהושע ולק בעל הסמ\"ע",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבי מרדכי יפה בעל הלבושים",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q982189"
+   },
+   {
+    "value": "רבי בנימין אהרן סלניק בעל משאת בנימין",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6691049"
+   },
+   {
+    "value": "רבי דוד גנז בעל צמח דוד",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבי אברהם הורוביץ אבי השל\"ה",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי ישראל איסרל, מראשי הקהילה בקרקוב"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "חותנו ורבו",
+     "name": "רבי שלום שכנא מלובלין"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q93487"
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "המפה (הגהות הרמ\"א על השולחן ערוך)",
+     "description": "הגהות המביאות את פסקי ומנהגי אשכנז על השולחן ערוך"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "דרכי משה",
+     "description": "חיבור על הטור, ובו קיצור הבית יוסף ותוספת פוסקים והכרעות"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "תורת חטאת",
+     "description": "בדיני איסור והיתר"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "שו\"ת הרמ\"א",
+     "description": "תשובותיו בענייני הלכה"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "תורת העולה",
+     "description": "בטעמי בית המקדש והקרבנות"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "מחיר יין",
+     "description": "פירוש על מגילת אסתר"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי הפוסקים, ראש ישיבה ודיין בקרקוב, שפסקיו נתקבלו להלכה בכל קהילות אשכנז ופולין. היה תלמידו המובהק של רבי שלום שכנא מלובלין, ובקרקוב העמיד ישיבה גדולה שאליה נהרו תלמידים מכל קצוות אירופה, ועמד בראשה כעשרים שנה. מפעלו הגדול הוא הגהותיו על השולחן ערוך של מרן הבית יוסף, הנקראות \"המפה\", שבהן הוסיף את פסקי ומנהגי אשכנז. עסק גם בקבלה ובחכמות.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "על קבלת פסקיו בקהילות אשכנז אמר החתם סופר: \"ובני ישראל יוצאים ביד רמ\"א\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הלידה: במאמר 1530 (ה'ר\"צ), בוויקינתונים 1520 - הובא כחלופה.",
+   "שנת הפטירה: המאמר מעדיף ה'של\"ב לפי המצבה ותלמידו בעל צמח דוד; הט\"ז וסדר הדורות (שורה 454) גורסים ה'של\"ג - הובא כחלופה.",
+   "תאריך הלידה העברי המלא (אדר א') מהמאמר בלבד; סדר הדורות נותן את השנה ה'ר\"צ בלבד, ולכן אינו מצוין בטענה זו.",
+   "התקופה (אחרונים) עריכתית; המקורות אינם אומרים זאת במפורש.",
+   "הושמטו המסורת על 33 שנות חייו, הביקורת שספג וויכוחיו עם בני דורו, כנדרש במדריך."
+  ],
+  "written": "2026-10-04"
+ }
+}

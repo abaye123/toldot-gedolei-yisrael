@@ -1,0 +1,231 @@
+{
+ "id": "Q319219",
+ "sources": {
+  "wikipedia": {
+   "title": "הלל הזקן",
+   "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%9C_%D7%94%D7%96%D7%A7%D7%9F",
+   "revid": 44003809,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q319219.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q319219",
+   "url": "https://www.wikidata.org/wiki/Q319219",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q319219.json",
+   "credit": "wikidata"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/ה/הלל הבבלי",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%94%2F%D7%94%D7%9C%D7%9C_%D7%94%D7%91%D7%91%D7%9C%D7%99",
+     "revid": 1076092,
+     "raw": "data/raw/toldot_tannaim/399553.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "zugot",
+  "src": [
+   "wikipedia"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "הלל הזקן",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "toldot_tannaim"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הלל הבבלי",
+    "src": [
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": null,
+  "region": [
+   {
+    "value": "ארץ ישראל",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ג'תר\"ן או ג'תרנ\"א",
+    "src": [
+     "toldot_tannaim"
+    ]
+   },
+   "gregorian": null,
+   "place": {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": null,
+   "gregorian": null,
+   "place": {
+    "value": "ירושלים",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "מירון (מערה המיוחסת לו ולתלמידיו)",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "נשיא הסנהדרין",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "שמעיה",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "sh-268"
+   },
+   {
+    "value": "אבטליון",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "sh-268b"
+   }
+  ],
+  "students": [
+   {
+    "value": "יונתן בן עוזיאל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "רבן יוחנן בן זכאי",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q733660"
+   },
+   {
+    "value": "בית הלל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "שמעון בן הלל"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q733042"
+   },
+   {
+    "value": {
+     "relation": "אחיו",
+     "name": "שבנא"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": {
+     "relation": "ייחוסו",
+     "name": "מבית דוד המלך"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "מוזכר רבות במשנה ובתלמוד, ומאמריו שנויים במסכת אבות",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "summary": {
+   "value": "נשיא ישראל בדור האחרון של הזוגות, ואבי בית הלל; עליו אמרו חז\"ל שכשנשתכחה תורה מישראל עלה הלל הבבלי ויסדה. נולד בבבל למשפחה מבית דוד, ועלה לארץ ישראל בן ארבעים. בעניותו נתן מחצית שכרו לשומר בית המדרש כדי לשמוע תורה מפי שמעיה ואבטליון, ופעם עלה לגג להאזין מבעד לארובה ונתכסה בשלג. נתמנה לנשיא לאחר שהורה שקרבן פסח דוחה שבת, ותיקן את הפרוזבול. חי מאה ועשרים שנה, נודע בענוותנותו ובאהבת הבריות, והעמיד שמונים תלמידים גדולים.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "לגר שביקש ללמוד את כל התורה על רגל אחת אמר: \"דעלך סני לחברך לא תעביד - זו היא כל התורה כולה, ואידך פירושה הוא, זיל גמור\".",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "אין בסדר הדורות שורה ללידתו ולפטירתו (שורה 276 עוסקת בבנו) - לא נעשה שימוש בסדר הדורות.",
+   "המאמר נותן שנים לועזיות משוערות בלבד (111 לפני הספירה - 10 לספירה); שנת הלידה העברית לפי חשבונו של בעל תולדות תנאים ואמוראים (\"ג' אלפים תרנ-א, רב לשטרות\", מתוך ק\"כ שנות חייו ופטירתו ששים שנה לפני החורבן). שנת הפטירה לא נכתבה, שאינה מפורשת בדבריו.",
+   "מקום הקבורה במירון מבוסס על מסורת מימי הביניים, כמובא במאמר.",
+   "ויקינתונים מתאר אותו כ'תנא'; המאמר ממקם אותו בדור האחרון של הזוגות.",
+   "תולדות תנאים ואמוראים: נעשה שימוש בדף 'הלל הבבלי' (הדף 'הלל הזקן' הוא הפניה אליו).",
+   "תולדות תנאים ואמוראים כותב שבני בתירא מינוהו לנשיא בשעה שכוחה של הסנהדרין נחלש, ולא בלשכת הגזית; התפקיד 'נשיא הסנהדרין' נשאר לפי המאמר בלבד.",
+   "ייחוסו לבית דוד: לפי הירושלמי שמביא בעל תולדות תנאים ואמוראים היה מבית דוד מצד הנקבות וממשפחת בנימין מצד הזכרים; גם המאמר מביא זאת."
+  ],
+  "written": "2026-10-04"
+ }
+}

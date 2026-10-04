@@ -1,0 +1,320 @@
+{
+ "id": "Q722525",
+ "sources": {
+  "wikipedia": {
+   "title": "רא\"ש",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%90%22%D7%A9",
+   "revid": 44000608,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q722525.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q722525",
+   "url": "https://www.wikidata.org/wiki/Q722525",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q722525.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    398,
+    388,
+    403
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "rishonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבינו אשר בן יחיאל",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הרא\"ש",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "אשכנז",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "ספרד",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ה'י'",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": {
+    "value": "1250",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "קלן שבאשכנז",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ט' בחשוון ה'פ\"ח",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'פ\"א",
+      "src": [
+       "wikipedia"
+      ]
+     },
+     {
+      "value": "ה'פ\"ה",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1327",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "טולדו שבספרד",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "טולדו",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ממלא מקום רבו המהר\"ם בהנהגה בוורמס",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "ראש הישיבה ואב בית הדין בטולדו",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רבי יחיאל",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "המהר\"ם מרוטנבורג",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ],
+    "ref": "Q72163"
+   },
+   {
+    "value": "אחיו רבי חיים",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q5687507"
+   }
+  ],
+  "students": [
+   {
+    "value": "בנו רבי יעקב בעל הטורים",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "בנו רבי יהודה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "בן אחותו רבי משה בן אלעזר הכהן",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבנו ירוחם",
+    "src": [
+     "seder_hadorot_segron"
+    ],
+    "ref": "Q2907087"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי יחיאל בן אורי"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי יעקב בעל הטורים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי יהודה, שמילא את מקומו בטולדו"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "relation": "מאבות אבותיו",
+     "name": "הראב\"ן"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q827736"
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "פסקי הרא\"ש",
+     "description": "פסקים על מסכתות הש\"ס, על יסוד הרי\"ף בתוספת דברי התוספות"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "תוספות הרא\"ש",
+     "description": "תוספות על התלמוד על יסוד בעלי התוספות הקדמונים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "שו\"ת הרא\"ש",
+     "description": "תשובותיו בהלכה, מסודרות בכללים לפי נושאים"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירוש על מסכתות נדרים ונזיר",
+     "description": "נדפס בש\"ס וילנא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "אורחות חיים",
+     "description": "הנהגות במוסר וביראת שמים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי מפרשי התלמוד והפוסקים, שהכריע את דרך ההלכה לדורות. תלמידו המובהק של המהר\"ם מרוטנבורג, ואחר מאסרו של רבו עמד בהנהגת יהדות אשכנז. מפני הגזירות יצא לספרד, ושם עמד בראש הישיבה ובית הדין בטולדו, וחיבר בה מסורת אשכנז ומסורת ספרד. חיבורו \"פסקי הרא\"ש\" היה ליסוד לספר הטורים של בנו, ומרן הבית יוסף מנאו כאחד משלושת עמודי ההוראה.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "בוויכוח הלכה כתב: \"תורתנו תורת אמת, ואין אדם רשאי להחניף בה\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה: במאמר ט' בחשוון ה'פ\"ח, ומובאת גם השנה ה'פ\"א (רבי מנחם בן זרח); סדר הדורות (שורה 398) - ה'פ\"ה.",
+   "שורה 388 (מהר\"ם מרוטנבורג רבו של הרא\"ש) שימשה לרבו; שורה 403 (רבנו ירוחם תלמיד הרא\"ש) לתלמיד.",
+   "התקופה (ראשונים) לא נאמרה במפורש במקורות; נקבעה עריכתית."
+  ],
+  "written": "2026-10-04"
+ }
+}

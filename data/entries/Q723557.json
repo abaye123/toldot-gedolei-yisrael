@@ -1,0 +1,256 @@
+{
+ "id": "Q723557",
+ "sources": {
+  "wikipedia": {
+   "title": "שמואל (אמורא)",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%28%D7%90%D7%9E%D7%95%D7%A8%D7%90%29",
+   "revid": 43547754,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q723557.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q723557",
+   "url": "https://www.wikidata.org/wiki/Q723557",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q723557.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    305
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "שמואל",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "שמואל ירחינאה",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "מר שמואל",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "אריוך",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא בבל בדור הראשון",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": {
+    "value": "165",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "alt": [
+     {
+      "value": "160",
+      "src": [
+       "wikidata"
+      ]
+     },
+     {
+      "value": "177",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "נהרדעא",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'י'",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": {
+    "value": "נהרדעא",
+    "src": [
+     "wikidata"
+    ]
+   }
+  },
+  "buried": null,
+  "roles": [
+   {
+    "value": "ראש ישיבת נהרדעא",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "דיין",
+    "src": [
+     "wikidata"
+    ]
+   },
+   {
+    "value": "רופאו של רבי יהודה הנשיא",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו, אבוה דשמואל",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "לוי בר סיסי",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2897998"
+   },
+   {
+    "value": "רבי יהודה הנשיא",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q380427"
+   }
+  ],
+  "students": [
+   {
+    "value": "רב נחמן",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2124832"
+   },
+   {
+    "value": "רב יהודה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "מר עוקבא (תלמיד חבר)",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6754446"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "אבא בר אבא, הנקרא \"אבוה דשמואל\""
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q305784"
+   },
+   {
+    "value": {
+     "relation": "אחיו",
+     "name": "פנחס"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6554215"
+   },
+   {
+    "value": {
+     "relation": "נכדו",
+     "name": "רב מרי בר רחל, בן בתו"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2899673"
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "מוזכר רבות בתלמוד, ובפרט במחלוקותיו עם רב",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "summary": {
+   "value": "מגדולי אמוראי בבל בדור הראשון, כהן ומנהיג הקהילה בנהרדעא, ובימיו נעשתה הישיבה שם מרכז תורה לכל האזור. היה חברו של רב ובר פלוגתיה, ומחלוקותיהם מצויות בכל התלמוד. ממנו יצאו כללים יסודיים בדיני ממונות, כגון \"דינא דמלכותא דינא\" ו\"המוציא מחבירו עליו הראיה\". היה בקי גדול ברפואה ובמהלכי הירח והכוכבים, ושימש רופאו של רבי יהודה הנשיא.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "אמר על עצמו: \"נהירין לי שבילי דשמיא כשבילי דנהרדעא\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה ד'י' לפי סדר הדורות (שורה 305: 'נהג שמואל שררה ז' שנים ונפטר והיתה מדינת נהרדעא בישובה בימיו'). במאמר ובוויקינתונים הפטירה בשנת 257 לערך, שאינה תואמת את ד'י'; לכן לא נרשמה שנה לועזית לפטירה.",
+   "שנת הלידה: במאמר 165 (לערך), בוויקינתונים 160, 165 ו-177.",
+   "מקום הפטירה (נהרדעא) מוויקינתונים בלבד; התפקיד 'דיין' מוויקינתונים (occupation: שופט).",
+   "המאמר מייחס את ניסוח 'דינא דמלכותא דינא' לשמואל בלשון 'יש הטוענים' לגבי הרקע; הכלל עצמו מיוחס לו.",
+   "הדף היחיד שהוצע מתולדות תנאים ואמוראים ('ר' תחליפא בר שאול או שמואל') עוסק בחכם אחר; לא נעשה בו שימוש."
+  ],
+  "written": "2026-10-04"
+ }
+}

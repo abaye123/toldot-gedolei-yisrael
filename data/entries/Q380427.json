@@ -1,0 +1,302 @@
+{
+ "id": "Q380427",
+ "sources": {
+  "wikipedia": {
+   "title": "רבי יהודה הנשיא",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A0%D7%A9%D7%99%D7%90",
+   "revid": 43947145,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q380427.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q380427",
+   "url": "https://www.wikidata.org/wiki/Q380427",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q380427.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    297,
+    294
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/י/ר' יהודה הנשיא - רבי - רבינו הקדוש",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%99%2F%D7%A8%27_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A0%D7%A9%D7%99%D7%90_-_%D7%A8%D7%91%D7%99_-_%D7%A8%D7%91%D7%99%D7%A0%D7%95_%D7%94%D7%A7%D7%93%D7%95%D7%A9",
+     "revid": 974197,
+     "raw": "data/raw/toldot_tannaim/375287.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "tannaim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי יהודה הנשיא",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "seder_hadorot_segron",
+    "toldot_tannaim"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "רבי",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "רבינו הקדוש",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "תנא בדור החמישי",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "region": [
+   {
+    "value": "ארץ ישראל",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ג'תתפ\"ב",
+    "src": [
+     "toldot_tannaim"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ג'תתקע\"ט",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": {
+    "value": "ציפורי",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "בית שערים",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "נשיא הסנהדרין",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רבן שמעון בן גמליאל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1400135"
+   },
+   {
+    "value": "רבי שמעון בר יוחאי",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q557405"
+   },
+   {
+    "value": "רבי יהודה בר אילעאי",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q1391585"
+   },
+   {
+    "value": "רבי אלעזר בן שמוע",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q739520"
+   },
+   {
+    "value": "רבי מאיר",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1621623"
+   }
+  ],
+  "students": [
+   {
+    "value": "רב",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "רבי חייא",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2904193"
+   },
+   {
+    "value": "רבי יהושע בן לוי",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q359782"
+   },
+   {
+    "value": "רבי ינאי",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "בר קפרא",
+    "src": [
+     "wikidata"
+    ],
+    "ref": "Q449117"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבן שמעון בן גמליאל"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1400135"
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבן גמליאל ברבי, נשיא אחריו"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q357157"
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי שמעון ברבי"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "relation": "ייחוסו",
+     "name": "מצאצאי הלל הזקן"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "המשנה",
+     "description": "עריכת התורה שבעל פה וחתימתה בששה סדרים"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "mentioned_in": {
+   "value": "מוזכר רבות במשנה ובתלמודים, ובפי חז\"ל נקרא \"רבי\" סתם",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "summary": {
+   "value": "תנא בדור החמישי והאחרון, נשיא הסנהדרין ועורך המשנה, בנו בכורו של רבן שמעון בן גמליאל ודור שביעי לבית הלל הזקן. לפי חז\"ל, כשנפטר רבי עקיבא נולד רבי, בימי השמד שאחר חורבן ביתר. למד מאביו ומגדולי תלמידי רבי עקיבא, ואת חריפותו תלה בכך שישב בבית המדרש מאחורי רבי מאיר. ערך וחתם את ששה סדרי משנה, וכינס בהם את התורה שבעל פה. אמרו חז\"ל שכל המעלות שנמנו בצדיקים נתקיימו בו. ישב בבית שערים, בציפורי ובטבריה.",
+   "src": [
+    "wikipedia",
+    "seder_hadorot_segron",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "במשנה נאמר עליו: \"משמת רבי בטלה ענוה ויראת חטא\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה ג'תתקע\"ט לפי סדר הדורות (שורה 297); המאמר מביא ט\"ו בכסלו ושנה לועזית משוערת (בסביבות 220) בלי שנה עברית - היום לא הובא כדי שלא לערב מקורות.",
+   "שורה 294 (ג'תתק\"י-ג'תתקע\"ט, 'סנהדרין בבית שערים, צפורי, טבריה') שימשה לסיכום על מקומות מושבו; אינה מוגדרת כשנת לידה ולכן שנת הלידה ריקה.",
+   "המאמר מביא דעות רבות ושונות על שנות חייו; לא הובאה שנה לועזית.",
+   "קבורה: בית שערים לפי חז\"ל; מסורות מאוחרות בציפורי.",
+   "בר קפרא כתלמידו מוויקינתונים בלבד.",
+   "שנת הלידה ג'תתפ\"ב לפי חשבונו של בעל תולדות תנאים ואמוראים (תל\"ד לשטרות, 'ולא מאוחר מזה'); המאמר מביא כמה דעות, ובהן דעה זו. לא נרשמה שנה לועזית.",
+   "תולדות תנאים ואמוראים מונה גם את רבי יעקב בן קורשאי כרבו; לא נוסף משום מגבלת חמישה רבותיו.",
+   "תולדות תנאים ואמוראים מכריע כגרסת הרמב\"ם 'עד שלא מת רבי עקיבא נולד רבי'; בסיכום נשאר לשון הגמרא כפי שבמאמר.",
+   "דף תולדות תנאים ואמוראים בוויקיטקסט (וגם בעותק הגולמי) מכיל רק את פתיחת הערך; שאר הערך מופיע שם כהפניות לעמודי הסריקה (עמ' 160-189) בלי טקסט. נבדק כל הטקסט הקיים ולא נמצא בו מידע נוסף על תלמידיו, תפקידיו, פטירתו או קבורתו.",
+   "לפי תולדות תנאים ואמוראים נפטר רבי לפני אנטונינוס בנו של אוהבו, שמת בשנת תק\"ה לשטרות (198 לספירה), ולפי המאמר היימן מקדים את פטירתו לשנים 189-194; זה חולק על סדר הדורות (ג'תתקע\"ט) ועל הדעה הרווחת (220). שנת הפטירה נשארה לפי סדר הדורות, ושנה לועזית לא נכתבה."
+  ],
+  "written": "2026-10-04"
+ }
+}

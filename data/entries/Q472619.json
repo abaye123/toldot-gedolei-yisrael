@@ -1,0 +1,321 @@
+{
+ "id": "Q472619",
+ "sources": {
+  "wikipedia": {
+   "title": "שבתי הכהן",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%AA%D7%99_%D7%94%D7%9B%D7%94%D7%9F",
+   "revid": 43380662,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q472619.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q472619",
+   "url": "https://www.wikidata.org/wiki/Q472619",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q472619.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    497
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "acharonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי שבתי הכהן",
+   "src": [
+    "wikipedia",
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הש\"ך",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "פולין-ליטא",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ה'שפ\"ב",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'שפ\"ג",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1622",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "1621",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "מסטיבובה",
+    "src": [
+     "wikidata"
+    ],
+    "alt": [
+     {
+      "value": "וילנה",
+      "src": [
+       "wikipedia"
+      ]
+     }
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "א' באדר א' ה'תכ\"ג",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "א' באדר ה'תכ\"ב",
+      "src": [
+       "wikipedia"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1663",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "alt": [
+     {
+      "value": "1662",
+      "src": [
+       "wikipedia"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "הולשוב",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "בית הקברות היהודי בהולשוב",
+   "src": [
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "חבר בית הדין בווילנה",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבה של הולשוב",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רבי מאיר הכהן",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6639878"
+   },
+   {
+    "value": "בעל מגלה עמוקות",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q2899392"
+   },
+   {
+    "value": "רבי יהושע העשיל בעל מגיני שלמה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבי נפתלי כץ",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q6964871"
+   }
+  ],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי מאיר הכהן"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q6639878"
+   },
+   {
+    "value": {
+     "relation": "חותנו",
+     "name": "רבי שמעון וולף, מעשירי וילנה ונכד בתו של הרמ\"א"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "אחיו",
+     "name": "רבי יונה נחום הכהן, אב\"ד סוכטשוב"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי משה, רבה של קרוטושין"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "שפתי כהן (ש\"ך)",
+     "description": "פירוש על השולחן ערוך יורה דעה וחושן משפט"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "נקודות הכסף",
+     "description": "השגות על ספר טורי זהב (הט\"ז)"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "תקפו כהן",
+     "description": "ספר למדני בדיני תפיסה, הנלמד הרבה בישיבות"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "גבורת אנשים",
+     "description": "על אבן העזר סימן קנ\"ד"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פועל צדק",
+     "description": "מניין המצוות לפי סדר ימות השבוע"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "מגילת עיפה",
+     "description": "קינה על חורבן הקהילות בגזירות ת\"ח ות\"ט"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי פוסקי ההלכה ומעיקרי נושאי הכלים על השולחן ערוך. כבר בילדותו נודע כעילוי, ולמד תורה מפי אביו ומפי גדולי פולין. בצעירותו חיבר את \"שפתי כהן\" על יורה דעה, ונתמנה לחבר בית הדין של וילנה. בגזירות שבאו על וילנה גלה ממנה ונדד, עד שנתקבל לרב בהולשוב ונפטר שם לאחר זמן קצר. פירושו נדפס לצד השולחן ערוך בכל המהדורות, ובהרבה מקומות נוהגים לפסוק כמותו.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "על השגותיו על בעל טורי זהב כתב שאין בלבו כל טינה עליו, שהרי הט\"ז התארח בביתו שלושה ימים ונשקו על ראשו, וכל חיבורו לא נכתב אלא לשם שמים.",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקום הלידה: בתיבת המידע של המאמר 'וילנה', בגוף המאמר שם העיירה חסר (קישור שנשמט), ובוויקינתונים 'מסטיבובה'. המאמר מזכיר שסבו היה אב\"ד אמסטיבובה. נבחר נוסח ויקינתונים, ווילנה כחלופה - יש לבדוק.",
+   "שנת הלידה: במאמר ה'שפ\"ב (1622); בסדר הדורות (שורה 497) ה'שפ\"ג; בוויקינתונים 1621 - הובאו כחלופות.",
+   "תאריך הפטירה: המאמר מעדיף א' באדר א' ה'תכ\"ג (1663, כוויקינתונים ותואם לשנת סדר הדורות), ומביא גרסה של א' באדר ה'תכ\"ב (1662) - הובאה כחלופה.",
+   "התקופה (אחרונים) עריכתית.",
+   "הושמטו ויכוחו עם הט\"ז (מלבד הזיכרון) והסיפור על בתו שאבדה."
+  ],
+  "written": "2026-10-04"
+ }
+}

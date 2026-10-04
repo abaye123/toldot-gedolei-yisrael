@@ -1,0 +1,167 @@
+{
+ "id": "Q2664632",
+ "sources": {
+  "wikipedia": {
+   "title": "שמעון הצדיק",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%94%D7%A6%D7%93%D7%99%D7%A7",
+   "revid": 42633759,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q2664632.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q2664632",
+   "url": "https://www.wikidata.org/wiki/Q2664632",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q2664632.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    231,
+    237
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "zugot",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "שמעון הצדיק",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": null,
+  "region": [
+   {
+    "value": "ארץ ישראל",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": null,
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "כ\"ט בתשרי",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": {
+   "value": "מערת שמעון הצדיק בירושלים",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "כהן גדול",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "משיירי אנשי כנסת הגדולה",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "עזרא הסופר",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q191787"
+   }
+  ],
+  "students": [
+   {
+    "value": "אנטיגנוס איש סוכו",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q2590159"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "חוניו בן ידוע"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בניו",
+     "name": "שמעי וחוניו"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "משנה, מסכת אבות פרק א', ומוזכר בתלמוד ובמדרשים",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "summary": {
+   "value": "כהן גדול בבית שני ומאחרוני אנשי כנסת הגדולה, הראשון מן החכמים הנזכרים בשמם במשנה, וחוליה בשלשלת מסירת התורה מעזרא הסופר אל אנטיגנוס איש סוכו. שימש בכהונה גדולה ארבעים שנה, ובכל ימיו נראו סימני ברכה במקדש: הגורל עלה בימין, נר מערבי דלק ולשון של זהורית הלבין. מסופר בחז\"ל שיצא בבגדי כהונה לקראת אלכסנדר מוקדון, והמלך ירד ממרכבתו והשתחווה לפניו.",
+   "src": [
+    "wikipedia",
+    "seder_hadorot_segron"
+   ]
+  },
+  "remember": {
+   "value": "הוא היה אומר: \"על שלשה דברים העולם עומד: על התורה ועל העבודה ועל גמילות חסדים\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "סדר הדורות נותן את שנות כהונתו (ג'תי\"ב-ג'תס\"ב, שורה 231) ואת המפגש עם אלכסנדר (ג'תמ\"ב, שורה 237), אך לא שנות לידה ופטירה; לכן שדות הלידה ושנת הפטירה ריקים.",
+   "יום הפטירה כ\"ט בתשרי נקבע לפי המסורת (שבעה ימים אחר הרגל), כמובא במאמר.",
+   "המאמר מביא דיון אקדמי על זהותו ועל ייחוס מעשה אלכסנדר לידוע סבו - לא הובא.",
+   "ויקינתונים מתאר אותו גם כ'תנא'; התקופה נקבעה לאנשי כנסת הגדולה והזוגות.",
+   "יש אומרים שגם יוסי בן יועזר ויוסי בן יוחנן קיבלו ממנו - לא הובא בתלמידים."
+  ],
+  "written": "2026-10-04"
+ }
+}

@@ -1,0 +1,284 @@
+{
+ "id": "Q982194",
+ "sources": {
+  "wikipedia": {
+   "title": "רב האי גאון",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%94%D7%90%D7%99_%D7%92%D7%90%D7%95%D7%9F",
+   "revid": 43930664,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q982194.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q982194",
+   "url": "https://www.wikidata.org/wiki/Q982194",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q982194.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    338
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "geonim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רב האי גאון",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "הגאון",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רה\"ג",
+    "src": [
+     "wikidata"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "גאון ישיבת פומבדיתא",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ד'תרצ\"ט",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ד'תשכ\"ט",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "939",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'תשצ\"ח",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": {
+    "value": "1038",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": null
+  },
+  "buried": {
+   "value": "סורא",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "אב בית הדין בישיבת פומבדיתא, משנת ד'תשמ\"ו (986)",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "ראש ישיבת פומבדיתא",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו רב שרירא גאון",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q356149"
+   }
+  ],
+  "students": [
+   {
+    "value": "רבי שמואל הנגיד",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "sh-341"
+   },
+   {
+    "value": "רב ניסים גאון",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q690381"
+   },
+   {
+    "value": "רב יעקב בן נסים",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q3157606"
+   },
+   {
+    "value": "רבי חננאל בן חושיאל",
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q1061624"
+   },
+   {
+    "value": "רב אלחנן בן שמריה",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רב שרירא גאון"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q356149"
+   },
+   {
+    "value": {
+     "relation": "חותנו",
+     "name": "רב שמואל בן חפני, גאון ישיבת סורא"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q457187"
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "ספר המקח והממכר",
+     "description": "חיבור מקיף ומסודר בדיני מקח וממכר"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "ספר משפטי שבועות",
+     "description": "חיבור בדיני שבועות"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "תשובות",
+     "description": "אלפי תשובות בכל מקצועות התורה, כשליש מתשובות הגאונים שבידינו"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירושים לתלמוד",
+     "description": "נשתמרו פירושיו לכמה מסכתות"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "פירוש לסדר טהרות",
+     "description": "פירוש למשניות סדר טהרות, המיוחס לו"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "שירים ופיוטים",
+     "description": "ובהם \"שירי מוסר השכל\" והבקשה \"שמע קולי\""
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי הגאונים ואחרונם, בנו של רב שרירא גאון וממלא מקומו בראשות ישיבת פומבדיתא, שבזכותו חזרה הישיבה להיות מרכז לתלמידים מכל הארצות. השיב אלפי תשובות לשואלים מאסיה, מאירופה ומצפון אפריקה, וחיבר ספרי הלכה מסודרים, כל אחד בנושא אחד, ופירושים למקרא, למשנה ולתלמוד, וכן שירים ופיוטים. עם פטירתו נחתמה תקופת הגאונים, ותורתו עברה לחכמי הראשונים.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "בשבת שבה נפטר אביו שינו את לשון ההפטרה ואמרו: \"והאי ישב על כסא שרירא אביו ותכון מלכותו מאד\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הלידה: המאמר ותיבת המידע ד'תרצ\"ט (939), ובוויקינתונים 939; בסדר הדורות (שורה 338) ד'תשכ\"ט. בניגוד להנחיה להעדיף את סדר הדורות, נבחר נוסח המאמר, משום שד'תשכ\"ט סותר את דברי המאמר שנפטר בן תשעים ותשע ונתמנה לאב בית דין בד'תשמ\"ו; נוסח סדר הדורות נרשם כחלופה. יש לבדוק.",
+   "שנת הפטירה ד'תשצ\"ח מוסכמת על המאמר ועל סדר הדורות; המאמר מוסיף 'בערב שביעי של פסח'.",
+   "סתירה בין המאמרים: במאמר על רב שרירא נאמר שהתפטר בד'תשנ\"ח (998) ומינה את בנו, ובמאמר זה שרב האי נתמנה לגאון במות אביו (תשרי ד'תשס\"ו, 1005). לכן לא נרשמה שנת תחילת הגאונות.",
+   "שורה 344 בסדר הדורות (רבי שלמה אבן גבירול, 'תלמיד רב האי גאון') אינה עליו ולא שימשה.",
+   "המאמר מציין שבמקורות מסוימים מוזכר בן ('ר' יוסף מרומי'), אך שלא נולדו לו בנים - לא נכלל."
+  ],
+  "written": "2026-10-04"
+ }
+}

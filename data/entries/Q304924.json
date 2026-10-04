@@ -1,0 +1,232 @@
+{
+ "id": "Q304924",
+ "sources": {
+  "wikipedia": {
+   "title": "אביי",
+   "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%99%D7%99",
+   "revid": 43191458,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q304924.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q304924",
+   "url": "https://www.wikidata.org/wiki/Q304924",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q304924.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    320
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/א/אביי (בר כייליל הכהן)",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%90%2F%D7%90%D7%91%D7%99%D7%99_%28%D7%91%D7%A8_%D7%9B%D7%99%D7%99%D7%9C%D7%99%D7%9C_%D7%94%D7%9B%D7%94%D7%9F%29",
+     "revid": 763218,
+     "raw": "data/raw/toldot_tannaim/333270.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "אביי",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "toldot_tannaim"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "נחמני",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא בבל בדור הרביעי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": {
+    "value": "280",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "alt": [
+     {
+      "value": "278",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": null
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'צ\"ז",
+    "src": [
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": {
+   "value": "בכפר יבנית, כמובא בספר הגלגולים לרבי חיים ויטאל",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ראש ישיבת פומבדיתא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "דיין",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "דודו רבה בר נחמני",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q360557"
+   },
+   {
+    "value": "רב יוסף",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q359768"
+   }
+  ],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "כייליל"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": {
+     "relation": "דודו ומגדלו",
+     "name": "רבה בר נחמני"
+    },
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q360557"
+   },
+   {
+    "value": {
+     "relation": "אשתו",
+     "name": "חומא, נינתו של רב יהודה"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רב ביבי בר אביי"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "Q7016001"
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "מוזכר רבות בתלמוד הבבלי, ובפרט בהוויות אביי ורבא",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "summary": {
+   "value": "מגדולי אמוראי בבל בדור הרביעי וראש ישיבת פומבדיתא. נתייתם מאביו ומאמו, ודודו רבה בר נחמני גידלו ומסרו לאומנת, שאת דבריה הביא תמיד בלשון \"אמרה לי אם\". למד לפני רבה ולפני רב יוסף כל ימיהם, ואחר פטירת רב יוסף נבחר לראש הישיבה, כשרק דבריו לא נסתרו. מחלוקותיו עם חברו רבא, \"הוויות דאביי ורבא\", הן מיסודות התלמוד, והלכה כרבא חוץ משש שסימנן יע\"ל קג\"ם. בעניותו עבד את שדותיו בלילות, ואף שהיה מבית עלי חי כשישים שנה בזכות התורה וגמילות החסדים.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "מרגלא בפומיה דאביי: \"לעולם יהא אדם ערום ביראה, מענה רך משיב חמה, ומרבה שלום עם אחיו ועם קרוביו ועם כל אדם, ואפילו עם נכרי בשוק\" (ברכות יז.).",
+   "src": [
+    "toldot_tannaim"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה ד'צ\"ז מסדר הדורות (שורה 320). במאמר 338 לערך, בתיבת המידע 339 ובוויקינתונים 337-339; אלה אינן תואמות בדיוק את ד'צ\"ז, ולכן לא נרשמה שנה לועזית לפטירה.",
+   "שנת הלידה: במאמר 280 (לערך), בוויקינתונים 278 ו-280.",
+   "המאמר אינו מונה תלמידים בשמם; השדה נשאר ריק.",
+   "שורה 318 בסדר הדורות (פטירת רבה בר נחמני) אינה עליו ולא שימשה.",
+   "דף 'אביי' בתולדות תנאים ואמוראים הוא רשימת חכמים בשם 'בר אביי', ודף 'אביי (אמורא קדמון בא\"י בדור השני)' עוסק בחכם אחר; שניהם לא שימשו.",
+   "לפי תולדות תנאים ואמוראים (על פי אגרת רב שרירא גאון) נולד תקפ\"ט לשטרות ונפטר תרמ\"ט לשטרות; לא הומרו לשנים מבריאת העולם ולא נרשמו.",
+   "ה'זכור' הקודם (מבית עלי, חי כשישים שנה) הועבר לסיכום, ובמקומו מאמר מברכות יז. מתוך תולדות תנאים ואמוראים.",
+   "תולדות תנאים ואמוראים מזכיר את חומה כאשתו, אך לא את ייחוסה לרב יהודה; לכן הקשר המשפחתי נשאר לפי המקורות הקודמים."
+  ],
+  "written": "2026-10-04"
+ }
+}

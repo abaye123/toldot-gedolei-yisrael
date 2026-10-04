@@ -1,0 +1,292 @@
+{
+ "id": "Q742620",
+ "sources": {
+  "wikipedia": {
+   "title": "רב אשי",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%90%D7%A9%D7%99",
+   "revid": 42927788,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q742620.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q742620",
+   "url": "https://www.wikidata.org/wiki/Q742620",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q742620.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    325
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/א/רב אשי",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%90%2F%D7%A8%D7%91_%D7%90%D7%A9%D7%99",
+     "revid": 764429,
+     "raw": "data/raw/toldot_tannaim/333885.html"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רב אשי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא בבל בדור השישי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ד'צ\"ז",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "337",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "352",
+      "src": [
+       "wikipedia",
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "אויריא שבמדי",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'קפ\"ז",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   "gregorian": {
+    "value": "427",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "על פי המסורת באזור בניאס, ובדורות האחרונים נתייחד לו ציון בהר שנאן",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ראש ישיבת סורא, שהקים מחדש במתא מחסיא",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ראש הישיבה הגדולה במתא מחסיא, עיר הסמוכה לסורא",
+      "src": [
+       "toldot_tannaim"
+      ]
+     }
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רבא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ],
+    "ref": "Q1304973"
+   },
+   {
+    "value": "רב פפא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q742636"
+   },
+   {
+    "value": "אמימר",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q454422"
+   },
+   {
+    "value": "רב כהנא מפום נהרא",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q2603832"
+   },
+   {
+    "value": "רב נחמן בר יצחק",
+    "src": [
+     "toldot_tannaim"
+    ],
+    "ref": "Q2124834"
+   }
+  ],
+  "students": [
+   {
+    "value": "רבינא האחרון",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ],
+    "ref": "Q743217"
+   },
+   {
+    "value": "רפרם",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "בנו מר בר רב אשי",
+    "src": [
+     "wikidata"
+    ],
+    "ref": "Q2904113"
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "חותנו",
+     "name": "רמי בר אבא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "מר בר רב אשי (טביומי)"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ],
+    "ref": "Q2904113"
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רב סמא בריה דרב אשי"
+    },
+    "src": [
+     "wikipedia"
+    ],
+    "ref": "tta-344887"
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "התלמוד הבבלי",
+     "description": "החל בעריכתו יחד עם רבינא, והשלימוהו ממשיכי דרכו"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": {
+   "value": "מוזכר בתלמוד הבבלי",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "summary": {
+   "value": "מגדולי האמוראים ומראשי הדור השישי של אמוראי בבל. בצעירותו זכה לשמש את רבא בסוף ימיו, ואחריו קיבל מכל גדולי תלמידיו, ורבו המובהק היה רב כהנא מפום נהרא. כשראה שהתורה נתפזרה לישיבות רבות מאז פטירת רבא, כינס את כל הכוחות לישיבה אחת גדולה במתא מחסיא ועמד בראשה קרוב לשישים שנה. יחד עם רבינא וחכמי דורו החל בעריכת התלמוד הבבלי, שאת עריכתו השלימו ממשיכי דרכו. זכה ל\"תורה וגדולה במקום אחד\", ואף ראש הגולה היה כפוף לו.",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  },
+  "remember": {
+   "value": "אמרו חז\"ל: \"רב אשי ורבינא סוף הוראה\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הלידה: בפתיחת המאמר 337 ובתיבת המידע ד'צ\"ז (תואמים); בתיבת המידע ובוויקינתונים גם 352 - נרשם כחלופה.",
+   "מקום הקבורה: מסורות שונות (בניאס מהמאה ה-14 בערך, עכברה, הר שנאן מהמאה ה-20); המאמר מפקפק בכולן. בוויקינתונים: הר שנאן. נרשם בניסוח כללי.",
+   "רבינא כתלמידו: בתיבת המידע 'רבינא האחרון'; נרשם 'רבינא'. מר בר רב אשי כתלמידו מוויקינתונים בלבד.",
+   "works: אמוראים בדרך כלל ללא חיבורים; נרשמה עריכת התלמוד הבבלי משום שהיא עיקר פועלו לפי המאמר.",
+   "פרטי המחלוקת המדינית סביב הקבר בהר שנאן הושמטו.",
+   "דף 'אשי' בתולדות תנאים ואמוראים הוא רשימת חכמים בשם 'בר אשי' ולא שימש.",
+   "תולדות תנאים ואמוראים חולק על המאמר בכמה פרטים: לדעתו לא נולד ביום פטירת רבא אלא היה אז כבן ט\"ו (ולכן שנת הלידה ד'צ\"ז מוטלת בספק), מתא מחסיא היא עיר בפני עצמה הסמוכה לסורא, ולא בנה מחדש את בית הכנסת של רב; התפקיד לפי דבריו נרשם כחלופה.",
+   "לפי תולדות תנאים ואמוראים נפטר תשל\"ח לשטרות; לא הומר לשנה מבריאת העולם.",
+   "תלמידו: לפי תולדות תנאים ואמוראים רבינא הראשון היה קשיש מרב אשי ותלמיד חבר שלו, ותלמידו היה רבינא בר רב הונא (רבינא האחרון); הערך תוקן ל'רבינא האחרון' כבתיבת המידע של המאמר.",
+   "רב סמא 'בריה דרב אשי' (כתובות לג:) הוא לפי תולדות תנאים ואמוראים אולי בנו של רב אסי; נשאר כפי שבמאמר.",
+   "רב נחמן בר יצחק נוסף כרבו מתולדות תנאים ואמוראים בלבד."
+  ],
+  "written": "2026-10-04"
+ }
+}
