@@ -74,7 +74,7 @@ def main():
         "- `biographies-files.zip` - one JSON file per entry, `meta.json`, the schema, LICENSE, NOTICE, CREDITS.md\n"
         "- `SHA256SUMS` - checksums\n\n"
         "**Attribution is required:** any use of the biographies must credit **abaye** as their author, "
-        "visibly to users (\"הביוגרפיות נכתבו ע\"י abaye\"). License: AGPL-3.0 with an additional term (see NOTICE). "
+        "visibly to users (\"הביוגרפיות נערכו ע\"י abaye\"). License: AGPL-3.0 with an additional term (see NOTICE). "
         "The sources credited in each entry and in `credits` must be kept as well.\n"
     )
     (out / "NOTES.md").write_text(notes, encoding="utf-8", newline="\n")
