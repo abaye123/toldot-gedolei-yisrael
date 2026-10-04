@@ -1,0 +1,54 @@
+{
+  "wikipedia": {
+    "name": "ויקיפדיה העברית",
+    "site": "https://he.wikipedia.org",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+    "attribution": "על פי ערכי ויקיפדיה העברית. רשימת הכותבים מופיעה בדף היסטוריית הגרסאות של כל ערך.",
+    "required": true
+  },
+  "wikidata": {
+    "name": "ויקינתונים",
+    "site": "https://www.wikidata.org",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.he",
+    "attribution": "נתונים מובנים מוויקינתונים.",
+    "required": false
+  },
+  "seder_hadorot_segron": {
+    "name": "סדר הדורות המקוצר - סגרון",
+    "author": "הרב יוסף חיים שמואל סגרון",
+    "author_site": "http://dorot.jimdo.com",
+    "publisher": "מאגר תורת אמת",
+    "site": "http://www.toratemetfreeware.com",
+    "license": "CC BY-NC-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": "סדר הדורות המקוצר, באדיבות הרב יוסף חיים שמואל סגרון, מתוך מאגר תורת אמת. לשימוש שלא למטרות רווח.",
+    "required": true
+  },
+  "toldot_tannaim": {
+    "name": "תולדות תנאים ואמוראים",
+    "author": "הרב אהרן היימן",
+    "publisher": "ויקיטקסט",
+    "site": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+    "attribution": "תולדות תנאים ואמוראים להרב אהרן היימן (תר\"ע), הספר בנחלת הכלל; ההקלדה מתוך ויקיטקסט.",
+    "required": true
+  },
+  "hamichlol": {
+    "name": "המכלול",
+    "site": "https://www.hamichlol.org.il",
+    "license": "",
+    "license_url": null,
+    "attribution": "",
+    "required": true,
+    "note": "Fill in after written permission is granted; see scripts/sources/hamichlol.py."
+  },
+  "editorial": {
+    "name": "עריכה",
+    "license": null,
+    "attribution": null,
+    "required": false
+  }
+}
