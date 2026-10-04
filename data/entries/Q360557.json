@@ -1,0 +1,210 @@
+{
+ "id": "Q360557",
+ "sources": {
+  "wikipedia": {
+   "title": "רבה בר נחמני",
+   "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%94_%D7%91%D7%A8_%D7%A0%D7%97%D7%9E%D7%A0%D7%99",
+   "revid": 42509802,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q360557.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q360557",
+   "url": "https://www.wikidata.org/wiki/Q360557",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q360557.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    318
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/ר/רבה בר נחמני",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%A8%2F%D7%A8%D7%91%D7%94_%D7%91%D7%A8_%D7%A0%D7%97%D7%9E%D7%A0%D7%99",
+     "revid": 2806335,
+     "raw": "data/raw/toldot_tannaim/scans.json"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "amoraim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבה בר נחמני",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim",
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "רבה",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "honorific": null,
+  "generation": {
+   "value": "אמורא בבל בדור השלישי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [
+   {
+    "value": "בבל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": null,
+   "gregorian": null,
+   "place": {
+    "value": "בבל",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ד'צ\"ד",
+    "src": [
+     "seder_hadorot_segron"
+    ],
+    "alt": [
+     {
+      "value": "ד'ף'",
+      "src": [
+       "wikipedia"
+      ]
+     }
+    ]
+   },
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [
+   {
+    "value": "ראש ישיבת פומבדיתא",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רב הונא",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "רב יהודה בר יחזקאל",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "students": [
+   {
+    "value": "אביי",
+    "src": [
+     "wikipedia",
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": "רבא",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אחיינו, תלמידו ובן חסותו",
+     "name": "אביי"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "אחיו",
+     "name": "רב חנניה ורב אושעיא"
+    },
+    "src": [
+     "toldot_tannaim"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי חייא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "התלמוד הבבלי; בכל מקום שנאמר \"רבה\" סתם הוא רבה בר נחמני",
+   "src": [
+    "toldot_tannaim"
+   ]
+  },
+  "summary": {
+   "value": "מגדולי אמוראי בבל בדור השלישי, כהן מיוחס מבית עלי. למד אצל רב הונא ורב יהודה, ועמד בראש ישיבת פומבדיתא שנים רבות, ובימיו הגיעה הישיבה לשיא פריחתה. נודע כחריף ובעל פלפול, \"עוקר הרים\", ובמחלוקותיו הרבות עם חברו רב יוסף הלכה כמותו חוץ משלושה מקומות. היה רבו המובהק של אביי בן אחיו ושל רבא.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "העיד על עצמו: \"יחיד אני בנגעים, יחיד אני באהלות\", ובשעת פטירתו יצאה נשמתו באמרו \"טהור טהור\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הפטירה: סדר הדורות ד'צ\"ד, ויקיפדיה ד'ף' (320), ויקינתונים 330 - נבחר סדר הדורות; השנה הלועזית הושמטה כי אין מקור לאותה שנה.",
+   "שנת הלידה הושמטה: ויקיפדיה 260 או 280, ויקינתונים 270; תולדות תנאים ואמוראים דן באורך ימיו (ארבעים או שישים שנה).",
+   "בן החסות (אביו המאמץ) לפי ויקיפדיה; אחיו לפי תולדות תנאים ואמוראים בלבד."
+  ],
+  "written": "2026-10-05"
+ }
+}
