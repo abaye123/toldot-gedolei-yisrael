@@ -1,0 +1,125 @@
+{
+ "id": "Q2695791",
+ "sources": {
+  "wikipedia": {
+   "title": "אבטולמוס",
+   "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%98%D7%95%D7%9C%D7%9E%D7%95%D7%A1",
+   "revid": 38979795,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q2695791.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q2695791",
+   "url": "https://www.wikidata.org/wiki/Q2695791",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q2695791.json",
+   "credit": "wikidata"
+  },
+  "toldot_tannaim": {
+   "pages": [
+    {
+     "title": "תולדות תנאים ואמוראים/א/אבטולמוס (תנא דמתניתין)",
+     "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D%2F%D7%90%2F%D7%90%D7%91%D7%98%D7%95%D7%9C%D7%9E%D7%95%D7%A1_%28%D7%AA%D7%A0%D7%90_%D7%93%D7%9E%D7%AA%D7%A0%D7%99%D7%AA%D7%99%D7%9F%29",
+     "revid": 763213,
+     "raw": "data/raw/toldot_tannaim/scans.json"
+    }
+   ],
+   "credit": "toldot_tannaim"
+  }
+ },
+ "era": {
+  "value": "tannaim",
+  "src": [
+   "wikipedia",
+   "wikidata"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "אבטולמוס",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "toldot_tannaim"
+   ]
+  },
+  "known_as": [],
+  "honorific": null,
+  "generation": {
+   "value": "תנא בדור השלישי",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "region": [],
+  "born": {
+   "hebrew": null,
+   "gregorian": null,
+   "place": {
+    "value": "ציפורי",
+    "src": [
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": null,
+   "gregorian": null,
+   "place": null
+  },
+  "buried": null,
+  "roles": [],
+  "teachers": [],
+  "students": [
+   {
+    "value": "רבי יוסי",
+    "src": [
+     "toldot_tannaim"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "ייתכן שבנו",
+     "name": "רבי יונתן בן אבטולמוס"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [],
+  "mentioned_in": {
+   "value": "נזכר פעמים ספורות במשנה ובתוספתא",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "summary": {
+   "value": "תנא מן הדור השלישי, שנזכר פעמים ספורות במשנה ובתוספתא. רבי יוסי מוסר בשמו עדויות בענייני הלכה שקיבל משום חמישה זקנים.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "אמר רבי יוסי: העיד אבטולמוס משום חמשה זקנים (עירובין פ\"ב מ\"ד).",
+   "src": [
+    "wikipedia",
+    "toldot_tannaim"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "מקום הלידה (ציפורי) מוויקינתונים בלבד; המאמר ותולדות תנאים ואמוראים אינם מזכירים אותו.",
+   "רבי יוסי כתלמידו - לפי תולדות תנאים ואמוראים בלבד ('והיה רבו דר' יוסי'); המאמר אומר רק שרבי יוסי מוסר בשמו.",
+   "המאמר מעלה בספק זיהוי עם אבטולמוס בן ראובן שבבבא קמא; לא נכלל.",
+   "האזור (ארץ ישראל) לא נכתב במפורש במקורות ולכן הושאר ריק."
+  ],
+  "written": "2026-10-05"
+ }
+}
