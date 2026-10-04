@@ -1,5 +1,6 @@
 * text=auto eol=lf
 *.html -diff
-data/raw/** -diff linguist-generated
+# Raw snapshots are kept byte-for-byte as downloaded.
+data/raw/** -text -diff linguist-generated
 dist/** linguist-generated
 site/index.html linguist-generated
