@@ -1,0 +1,321 @@
+{
+ "id": "Q83960",
+ "sources": {
+  "wikipedia": {
+   "title": "שלמה לוריא",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%9E%D7%94_%D7%9C%D7%95%D7%A8%D7%99%D7%90",
+   "revid": 42884169,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q83960.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q83960",
+   "url": "https://www.wikidata.org/wiki/Q83960",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q83960.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    448,
+    465,
+    455,
+    473
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "acharonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי שלמה לוריא",
+   "src": [
+    "wikipedia",
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "המהרש\"ל",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "הרש\"ל",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "רבי שלמה מאוסטרהא",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "פולין-ליטא",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ה'ר\"ע",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'רע\"א",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1510",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "בריסק דליטא",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "י\"ב בכסלו ה'של\"ד",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "1573",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "לובלין",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "לובלין",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "ראש הישיבה ודיין בבריסק",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבה של אוסטרהא וראש ישיבתה",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רב הכולל של ווהלין",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "אב בית דין וראש ישיבה בלובלין",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "רבי יצחק קלויבר",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  ],
+  "students": [
+   {
+    "value": "רבי יהושע פלק כ\"ץ, בעל הסמ\"ע",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבי מרדכי יפה, בעל הלבושים",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבי שלמה אפרים מלונטשיץ, בעל כלי יקר",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": "רבי אליהו בעל שם מחלם",
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": "רבי משה מת, בעל מטה משה",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי יחיאל לוריא, אב\"ד סלוצק"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "חותנו",
+     "name": "רבי קלמן הברקשטן"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי יחיאל לוריא, ראש ישיבה בלובלין וחתן הרמ\"א"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "ים של שלמה",
+     "description": "בירור ההלכה לפי סדר מסכתות הש\"ס, מן המקורות ועד המנהגים"
+    },
+    "src": [
+     "wikipedia",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": {
+     "title": "חכמת שלמה",
+     "description": "הגהות ותיקוני גרסאות בתלמוד הבבלי, נדפס בסוף כל מסכת"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "שו\"ת מהרש\"ל",
+     "description": "תשובותיו, המובאות רבות בדברי הפוסקים"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "יריעות שלמה",
+     "description": "הגהות על פירוש רש\"י לתורה"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "עטרת שלמה",
+     "description": "הגהות על ספר שערי דורא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "עמודי שלמה",
+     "description": "הגהות על הסמ\"ג"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי הפוסקים ופרשני התלמוד ומגדולי מנהיגי יהדות אשכנז בדורו, בן דורו וקרובו של הרמ\"א. הרביץ תורה בישיבות בבריסק, באוסטרהא ובלובלין, והעמיד תלמידים הרבה, ורוב הפוסקים בדור שאחריו היו מתלמידיו. דרכו הייתה לברר כל הלכה ממקורה בעיון רב ולהביא את כל השיטות, ובספריו \"ים של שלמה\" ו\"חכמת שלמה\" נעשו יסוד בלימוד הש\"ס.",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "בהקדמתו כתב שבמשך כשתי שנים הגיע רק לחצי מסכת יבמות, ובמסכת כתובות יגע שנה שלמה והגיע רק לשני פרקים.",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הלידה: במאמר ה'ר\"ע, בסדר הדורות ה'רע\"א - נבחר נוסח המאמר.",
+   "התקופה (אחרונים) לפי הבקשה; המקורות אינם אומרים זאת במפורש.",
+   "האזור 'פולין-ליטא' - המאמר מזכיר פולין וליטא בנפרד."
+  ],
+  "written": "2026-10-05"
+ }
+}
