@@ -1,0 +1,269 @@
+{
+ "id": "Q473756",
+ "sources": {
+  "wikipedia": {
+   "title": "יעקב עמדין",
+   "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%A7%D7%91_%D7%A2%D7%9E%D7%93%D7%99%D7%9F",
+   "revid": 43959092,
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikipedia/Q473756.wikitext",
+   "credit": "wikipedia"
+  },
+  "wikidata": {
+   "id": "Q473756",
+   "url": "https://www.wikidata.org/wiki/Q473756",
+   "retrieved": "2026-10-04",
+   "raw": "data/raw/wikidata/Q473756.json",
+   "credit": "wikidata"
+  },
+  "seder_hadorot_segron": {
+   "rows": [
+    526
+   ],
+   "url": "http://www.toratemetfreeware.com/online/f_01825.html",
+   "raw": "data/raw/seder_hadorot_segron/f_01825.html",
+   "credit": "seder_hadorot_segron"
+  }
+ },
+ "era": {
+  "value": "acharonim",
+  "src": [
+   "editorial"
+  ]
+ },
+ "fields": {
+  "name": {
+   "value": "רבי יעקב עמדין",
+   "src": [
+    "wikipedia",
+    "wikidata",
+    "seder_hadorot_segron"
+   ]
+  },
+  "known_as": [
+   {
+    "value": "היעב\"ץ",
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   }
+  ],
+  "honorific": {
+   "value": "זצ\"ל",
+   "src": [
+    "editorial"
+   ]
+  },
+  "generation": null,
+  "region": [
+   {
+    "value": "אשכנז",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "born": {
+   "hebrew": {
+    "value": "ט\"ו בסיוון ה'תנ\"ח",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "ה'תנ\"ה",
+      "src": [
+       "seder_hadorot_segron"
+      ]
+     }
+    ]
+   },
+   "gregorian": {
+    "value": "1698",
+    "src": [
+     "wikipedia"
+    ],
+    "alt": [
+     {
+      "value": "1697",
+      "src": [
+       "wikidata"
+      ]
+     }
+    ]
+   },
+   "place": {
+    "value": "אלטונה",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "died": {
+   "hebrew": {
+    "value": "ל' בניסן ה'תקל\"ו",
+    "src": [
+     "wikipedia"
+    ]
+   },
+   "gregorian": {
+    "value": "1776",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   "place": {
+    "value": "אלטונה",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   }
+  },
+  "buried": {
+   "value": "בית הקברות היהודי באלטונה",
+   "src": [
+    "wikipedia",
+    "wikidata"
+   ]
+  },
+  "roles": [
+   {
+    "value": "רבה של אמדן (1728-1733)",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "teachers": [
+   {
+    "value": "אביו החכם צבי",
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": "חותנו רבי מרדכי הכהן כ\"ץ",
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "students": [],
+  "family": [
+   {
+    "value": {
+     "relation": "אביו",
+     "name": "רבי צבי הירש אשכנזי, ה\"חכם צבי\""
+    },
+    "src": [
+     "wikipedia",
+     "wikidata",
+     "seder_hadorot_segron"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו",
+     "name": "רבי משולם זלמן, רבה של קהילת המבורג בלונדון"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "relation": "בנו בכורו",
+     "name": "רבי מאיר, אב\"ד קונסטנטין"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "works": [
+   {
+    "value": {
+     "title": "שאילת יעב\"ץ",
+     "description": "שאלות ותשובות בהלכה"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "עמודי שמים (סידור יעב\"ץ)",
+     "description": "סידור עם פירוש לתפילות כל השנה ודיניהן ומנהגיהן"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "מור וקציעה",
+     "description": "חידושים על הטור והבית יוסף ועל שולחן ערוך אורח חיים"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "לחם שמים",
+     "description": "פירוש על המשנה"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   },
+   {
+    "value": {
+     "title": "מגילת ספר",
+     "description": "תולדות חייו מפרי עטו"
+    },
+    "src": [
+     "wikipedia",
+     "wikidata"
+    ]
+   },
+   {
+    "value": {
+     "title": "הגהות יעב\"ץ",
+     "description": "הגהות על הש\"ס שנדפסו בסוף התלמוד בדפוס וילנא"
+    },
+    "src": [
+     "wikipedia"
+    ]
+   }
+  ],
+  "mentioned_in": null,
+  "summary": {
+   "value": "מגדולי חכמי אשכנז, בנו של ה\"חכם צבי\", ומגדולי הלוחמים בכת שבתי צבי. כיהן כמה שנים ברבנות אמדן, שעל שמה נקרא, ואחר כך שב לאלטונה עיר מולדתו, פתח בה בית דפוס עברי ולא רצה עוד לשמש ברבנות. חיבר למעלה משישים ספרים בכל מקצועות התורה, ובהם סידורו הנודע ושו\"ת \"שאילת יעב\"ץ\".",
+   "src": [
+    "wikipedia"
+   ]
+  },
+  "remember": {
+   "value": "לאחר שעזב את הרבנות היה אומר בדרך הלצה שהוא מברך בכל יום \"ברוך שלא עשני אב\"ד\".",
+   "src": [
+    "wikipedia"
+   ]
+  }
+ },
+ "review": {
+  "status": "draft",
+  "flags": [
+   "שנת הלידה: במאמר ה'תנ\"ח (1698), בסדר הדורות ה'תנ\"ה, בוויקינתונים 1697 - נבחר נוסח המאמר.",
+   "הושמטו פרקי המחלוקות (עם רבי יהונתן אייבשיץ, הרמח\"ל ועוד) ופרטי הספר מגילת ספר; קונטרסי הפולמוס לא נכללו בחיבורים.",
+   "התקופה (אחרונים) נקבעה לפי הבקשה; המקורות אינם אומרים זאת במפורש."
+  ],
+  "written": "2026-10-05"
+ }
+}
