@@ -28,12 +28,28 @@ jobs:
   build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.data.outputs.ready }}
     steps:
-      - uses: actions/checkout@v5
+      # Nothing to deploy until the first release exists.
+      - id: data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view --repo "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::No release yet; push a v* tag to publish one. The site was not deployed."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.data.outputs.ready == 'true'
+        uses: actions/checkout@v5
         with:
           sparse-checkout: site
 
       - name: Assemble the site
+        if: steps.data.outputs.ready == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -41,14 +57,17 @@ jobs:
           cp site/template.html _site/index.html
           gh release download --repo "$GITHUB_REPOSITORY" --pattern biographies.json --dir _site
 
-      - uses: actions/configure-pages@v5
+      - if: steps.data.outputs.ready == 'true'
+        uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v4
+      - if: steps.data.outputs.ready == 'true'
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
   deploy:
     needs: build
+    if: needs.build.outputs.ready == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
