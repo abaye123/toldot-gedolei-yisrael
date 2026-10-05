@@ -170,11 +170,13 @@ function init(data){
   chips();render();
   if(location.hash)document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({block:"start"});
 }
-document.getElementById("q").addEventListener("input",()=>DATA&&render());
+// Rendering the cards is slow with thousands of entries: wait until typing pauses.
+let searchTimer;
+document.getElementById("q").addEventListener("input",()=>{clearTimeout(searchTimer);searchTimer=setTimeout(()=>DATA&&render(),300)});
 // A link to another sage must work even when filters hide his card.
 document.getElementById("list").addEventListener("click",ev=>{
   const a=ev.target.closest("a.ref");if(!a)return;
-  ev.preventDefault();activeEra=null;document.getElementById("q").value="";chips();render();
+  ev.preventDefault();clearTimeout(searchTimer);activeEra=null;document.getElementById("q").value="";chips();render();
   const id=a.getAttribute("href").slice(1);location.hash=id;document.getElementById(id)?.scrollIntoView({block:"start"});
 });
 document.getElementById("flagsBtn").onclick=()=>document.body.classList.toggle("show-flags");
