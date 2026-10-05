@@ -1,0 +1,39 @@
+# Push a tag (for example `git tag v1.0.0 && git push origin v1.0.0`) to
+# publish a release of the biographies; the Pages workflow then redeploys the
+# site with the new data.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+
+      - run: pip install mwparserfromhell
+
+      - name: Validate entries
+        run: python scripts/validate.py
+
+      - name: Build release assets
+        run: python scripts/package_release.py "$GITHUB_REF_NAME"
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh release create "$GITHUB_REF_NAME"
+          release/biographies.json release/biographies-files.zip release/SHA256SUMS
+          --title "$GITHUB_REF_NAME" --notes-file release/NOTES.md --verify-tag

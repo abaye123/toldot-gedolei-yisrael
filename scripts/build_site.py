@@ -1,13 +1,17 @@
 """Build the release bundle and the viewer from the entries.
 
 Usage:
-    python scripts/build_site.py
+    python scripts/build_site.py [--release TAG]
 
 Writes:
     dist/biographies.json   entries (claims + provenance) + eras + credits registry
-    site/index.html         searchable viewer with the bundle embedded
+    site/index.html         searchable viewer with the bundle embedded, for local use
+
+The published site is site/template.html as is: with no embedded bundle it
+loads biographies.json from the latest release (see .github/workflows/).
 """
 
+import argparse
 import json
 import re
 from datetime import date
@@ -43,7 +47,7 @@ def sort_key(e):
     return ERA_ORDER.get(e["era"]["value"], 99), years[0] if years else 9999, value(f["name"]) or ""
 
 
-def main():
+def build_bundle(release=None):
     entries = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(ENTRIES.glob("*.json"))]
     entries.sort(key=sort_key)
     used = {s["credit"] for e in entries for s in e["sources"].values()}
@@ -58,6 +62,17 @@ def main():
         "credits": {k: {key: v for key, v in CREDITS[k].items() if key != "note"} for k in sorted(used)},
         "entries": entries,
     }
+    if release:
+        bundle["release"] = release
+    return bundle
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--release", help="release tag recorded in the bundle")
+    args = ap.parse_args()
+    bundle = build_bundle(args.release)
+    entries = bundle["entries"]
     dist = ROOT / "dist"
     dist.mkdir(exist_ok=True)
     (dist / "biographies.json").write_text(json.dumps(bundle, ensure_ascii=False, indent=1), encoding="utf-8")
