@@ -21,7 +21,9 @@
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 var(--sans)}
 header{position:sticky;top:0;z-index:5;background:var(--panel);border-bottom:1px solid var(--line);padding:14px 16px 10px}
 .wrap{max-width:980px;margin:0 auto}
-h1{font:700 24px/1.2 var(--serif);margin:0 0 10px;color:var(--accent)}
+h1{font:700 24px/1.2 var(--serif);margin:0;color:var(--accent)}
+.byline{font-size:13px;color:var(--muted);margin:2px 0 10px}
+.byline a{color:var(--muted)}
 .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 input[type=search]{flex:1 1 240px;font:inherit;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
 button,.chip{font:inherit;font-size:14px;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:4px 12px;cursor:pointer}
@@ -53,10 +55,12 @@ body.show-src sup.s{display:inline}
 .alt{color:var(--muted);font-size:.9em}
 a.ref{color:var(--accent);text-decoration:none;border-bottom:1px dotted var(--accent)}
 .card:target{outline:2px solid var(--accent)}
-.lic{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 4px}
+.lic{unicode-bidi:isolate;font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 4px}
 footer{max-width:980px;margin:30px auto;padding:16px;font-size:13px;color:var(--muted);border-top:1px solid var(--line)}
 footer a{color:var(--muted)}
+footer p{margin:0 0 10px}
 .empty{color:var(--muted);text-align:center;padding:40px}
+.empty.err{color:var(--flag)}
 @media (max-width:600px){dl{grid-template-columns:1fr}dt{margin-top:4px}.card{padding:14px}}
 @media print{header{position:static}.bar,.chips,.count,button{display:none}body{background:#fff}.card{border-color:#ccc}}
 </style>
@@ -64,6 +68,7 @@ footer a{color:var(--muted)}
 <body>
 <header><div class="wrap">
   <h1>תולדות גדולי ישראל</h1>
+  <div class="byline">הביוגרפיות נערכו ע"י <b><bdi>abaye</bdi></b> · רישיון <a href="#license"><bdi>AGPL-3.0</bdi> בתנאי מתן קרדיט</a></div>
   <div class="bar">
     <input type="search" id="q" placeholder="חיפוש לפי שם, כינוי, חיבור, מקום...">
     <button id="srcBtn" title="הצגת המקור של כל פרט">מקור לכל פרט</button>
@@ -73,24 +78,30 @@ footer a{color:var(--muted)}
   <div class="chips" id="eras"></div>
   <div class="count" id="count"></div>
 </div></header>
-<main class="wrap" id="list"></main>
-<footer id="credits"></footer>
+<main class="wrap" id="list"><div class="empty">טוען את הערכים...</div></main>
+<footer>
+  <p id="license"><b>הביוגרפיות נערכו ע"י <bdi>abaye</bdi></b> ומופצות ברישיון
+  <a href="https://github.com/abaye123/toldot-gedolei-yisrael/blob/main/LICENSE" target="_blank" rel="noopener"><bdi>GNU AGPL-3.0</bdi></a>,
+  בתוספת תנאי לפי סעיף 7(ב) לרישיון, המפורט בקובץ <a href="https://github.com/abaye123/toldot-gedolei-yisrael/blob/main/NOTICE" target="_blank" rel="noopener"><bdi>NOTICE</bdi></a>:
+  כל שימוש, העתקה, הפצה או עיבוד של הביוגרפיות, כולן או חלקן ובכל צורה, מחייב מתן קרדיט למחבר, <bdi>abaye</bdi>,
+  באופן סביר הנראה למשתמשים, למשל: <q>הביוגרפיות נערכו ע"י <bdi>abaye</bdi></q>. יש לשמור גם את הקרדיט למקורות המפורטים להלן.</p>
+  <p><a href="https://github.com/abaye123/toldot-gedolei-yisrael" target="_blank" rel="noopener">קוד המקור</a> ·
+  <a href="https://github.com/abaye123/toldot-gedolei-yisrael/releases/latest" target="_blank" rel="noopener">הורדת הנתונים בקובץ <bdi>JSON</bdi></a></p>
+  <div id="credits"></div>
+</footer>
 <script>
-const DATA=/*__DATA__*/null;
+// build_site.py embeds the bundle for local use; the published site loads the
+// copy of the latest release that the Pages workflow puts next to this page.
+const EMBEDDED=/*__DATA__*/null;
+let DATA,eraLabel,IDS,present,activeEra=null;
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const eraLabel=Object.fromEntries(DATA.eras.map(e=>[e.key,e.label]));
 const SRC_TAG={wikipedia:"ויק",wikidata:"ו״נ",seder_hadorot_segron:"סה״ד",toldot_tannaim:"תו״א",hamichlol:"מכ",editorial:"ע"};
 const SRC_NAME=k=>(DATA.credits[k]&&DATA.credits[k].name)||k;
 const v=c=>c?c.value:null;
 const vs=a=>a.map(c=>c.value);
 const tag=c=>c?`<sup class="s" title="${esc(c.src.map(SRC_NAME).join(", "))}">${c.src.map(k=>esc(SRC_TAG[k]||k)).join(",")}</sup>`:"";
-const IDS=new Set(DATA.entries.map(e=>e.id));
 const linkTo=(c,text)=>c&&c.ref&&IDS.has(c.ref)?`<a class="ref" href="#${esc(c.ref)}">${text}</a>`:text;
 const show=c=>c?linkTo(c,esc(c.value))+tag(c)+(c.alt?c.alt.map(a=>` <span class="alt">(או: ${esc(a.value)}${tag(a)})</span>`).join(""):""):"";
-const present=new Set(DATA.entries.map(e=>e.era.value));
-let activeEra=null;
-try{activeEra=localStorage.getItem("bio-era")}catch(e){}
-if(activeEra&&!present.has(activeEra))activeEra=null;
 const erasEl=document.getElementById("eras");
 function chips(){
   erasEl.innerHTML=[`<span class="chip${activeEra?"":" on"}" data-era="">הכל</span>`]
@@ -106,7 +117,6 @@ function life(ev){
   return s;
 }
 function hay(e){const f=e.fields;return [v(f.name),...vs(f.known_as),...vs(f.region),v(f.born.place),v(f.died.place),v(f.buried),...vs(f.roles),...vs(f.teachers),...vs(f.students),...f.works.map(w=>w.value.title),v(f.summary),v(f.generation)].filter(Boolean).join(" ")}
-DATA.entries.forEach(e=>e._hay=hay(e));
 function card(e){
   const f=e.fields;
   const row=(k,x)=>x?`<dt>${k}</dt><dd>${x}</dd>`:"";
@@ -146,7 +156,21 @@ function render(){
   document.getElementById("list").innerHTML=html||`<div class="empty">לא נמצאו ערכים</div>`;
   document.getElementById("count").textContent=`${rows.length} ערכים`;
 }
-document.getElementById("q").addEventListener("input",render);
+function init(data){
+  DATA=data;
+  eraLabel=Object.fromEntries(DATA.eras.map(e=>[e.key,e.label]));
+  IDS=new Set(DATA.entries.map(e=>e.id));
+  present=new Set(DATA.entries.map(e=>e.era.value));
+  try{activeEra=localStorage.getItem("bio-era")}catch(e){}
+  if(activeEra&&!present.has(activeEra))activeEra=null;
+  DATA.entries.forEach(e=>e._hay=hay(e));
+  document.getElementById("credits").innerHTML=`<b>מקורות וזכויות:</b> הערכים נכתבו מחדש בתמצית על פי המקורות הבאים, לשימוש לימודי שלא למטרות רווח, בתנאי הרישיונות שלהם:<br>`+
+    Object.entries(DATA.credits).filter(([k])=>k!=="editorial").map(([k,c])=>`${esc(c.name)}${c.author?` - ${esc(c.author)}`:""}${c.publisher?`, ${esc(c.publisher)}`:""}${c.license?` - ${c.license_url?`<a href="${esc(c.license_url)}" target="_blank" rel="noopener"><bdi>${esc(c.license)}</bdi></a>`:`<bdi>${esc(c.license)}</bdi>`}`:""}${c.attribution?`. ${esc(c.attribution)}`:""}`).join("<br>")+
+    `<br>עודכן: ${esc(DATA.built)}${DATA.release?` (גרסה <bdi>${esc(DATA.release)}</bdi>)`:""}.`;
+  chips();render();
+  if(location.hash)document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({block:"start"});
+}
+document.getElementById("q").addEventListener("input",()=>DATA&&render());
 // A link to another sage must work even when filters hide his card.
 document.getElementById("list").addEventListener("click",ev=>{
   const a=ev.target.closest("a.ref");if(!a)return;
@@ -155,10 +179,11 @@ document.getElementById("list").addEventListener("click",ev=>{
 });
 document.getElementById("flagsBtn").onclick=()=>document.body.classList.toggle("show-flags");
 document.getElementById("srcBtn").onclick=()=>document.body.classList.toggle("show-src");
-document.getElementById("credits").innerHTML=`<b>הביוגרפיות: ${esc(DATA.author)}.</b> מופצות ברישיון AGPL-3.0; כל שימוש בהן מחייב מתן קרדיט ל-${esc(DATA.author)}.<br><b>מקורות וזכויות:</b> הערכים נכתבו מחדש בתמצית על פי המקורות הבאים, לשימוש לימודי שלא למטרות רווח, בתנאי הרישיונות שלהם:<br>`+
-  Object.entries(DATA.credits).filter(([k])=>k!=="editorial").map(([k,c])=>`${esc(c.name)}${c.author?` - ${esc(c.author)}`:""}${c.publisher?`, ${esc(c.publisher)}`:""}${c.license?` - ${c.license_url?`<a href="${esc(c.license_url)}" target="_blank" rel="noopener">${esc(c.license)}</a>`:esc(c.license)}`:""}${c.attribution?`. ${esc(c.attribution)}`:""}`).join("<br>")+
-  `<br>עודכן: ${esc(DATA.built)}.`;
-chips();render();
+if(EMBEDDED)init(EMBEDDED);
+else fetch("biographies.json",{cache:"no-cache"})
+  .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
+  .then(init)
+  .catch(()=>{document.getElementById("list").innerHTML=`<div class="empty err">טעינת הערכים נכשלה. נסו לרענן את הדף.</div>`});
 </script>
 </body>
 </html>
