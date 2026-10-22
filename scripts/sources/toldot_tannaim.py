@@ -197,6 +197,8 @@ def _same_section(a, b):
     ("ויחוסין" / "ויוחסין", "קרויא" / "קוריא")."""
     if a == b or a.startswith(b + " ") or b.startswith(a + " "):
         return True
+    if len(a) == len(b) >= 4 and sum(x != y for x, y in zip(a, b)) == 1:
+        return True
     return min(len(a), len(b)) >= 8 and difflib.SequenceMatcher(None, a, b).ratio() >= 0.9
 
 
@@ -213,7 +215,8 @@ def _section(scan_texts, span, alt_name=None):
     pages = [scan_texts.get(n) for n in range(span["from"], span["to"] + 1)]
     if all(p is None for p in pages):
         return None
-    text = "\n".join(re.sub(r"<noinclude>.*?</noinclude>", "", p or "", flags=re.S) for p in pages)
+    stripped = [re.sub(r"<noinclude>.*?</noinclude>", "", p or "", flags=re.S) for p in pages]
+    text = "\n".join(stripped)
     begin_name = span.get("onlysection") or span.get("fromsection")
     end_name = span.get("onlysection") or span.get("tosection")
     markers = [(m.start(), m.end(), m.group(1) in ("התחלה", "begin"), _section_key(m.group(2) or m.group(3)))
@@ -237,8 +240,17 @@ def _section(scan_texts, span, alt_name=None):
             begin_name = guess[0]
             hits = [e for s, e, is_begin, k in markers if is_begin and k == guess[0]]
         start = hits[0]
+    # A later page of the span that opens with a begin marker continues the
+    # section, sometimes under another spelling ("ברוריא" / "ברוריה").
+    cont, offset = set(), 0
+    for i, p in enumerate(stripped):
+        page_markers = [m for m in markers if offset <= m[0] < offset + len(p) + 1]
+        if i and page_markers and page_markers[0][2] and begin_name                 and _same_section(page_markers[0][3], _section_key(begin_name)):
+            cont.add(page_markers[0][3])
+        offset += len(p) + 1
     if end_name:
         ends = {_section_key(end_name), _section_key(span.get("onlysection") or span.get("tosection") or end_name)}
+        ends |= cont
         hits = [s for s, e, is_begin, k in markers if not is_begin and k in ends and s >= start]
         if not hits:
             # end marker spelled differently from the begin marker
@@ -250,7 +262,7 @@ def _section(scan_texts, span, alt_name=None):
         if begin_name and _same_section(_section_key(begin_name), _section_key(end_name)):
             # never run on into the next entry when its end marker is missing or misspelled
             nxt = [s for s, e, is_begin, k in markers
-                   if is_begin and s >= start and not _same_section(k, _section_key(begin_name))]
+                   if is_begin and s >= start and k not in cont and not _same_section(k, _section_key(begin_name))]
             if nxt and nxt[0] < stop:
                 stop = nxt[0]
     return _MARKER.sub(" ", text[start:stop])
