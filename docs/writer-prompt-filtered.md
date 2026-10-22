@@ -61,7 +61,11 @@ page that only says the name is a scribal error (ט"ס, צ"ל) or a variant
 reading of another sage is not a real person: skip it (report the other
 sage's id if it has one). A Toldot person who is not a sage (a relative known
 only as "father of", a litigant, an official, a king, a gentile, a collective
-title such as "דייני ..." or "רבותינו ...") is out of scope: skip it. If the
+title such as "דייני ..." or "רבותינו ...") is out of scope: skip it. Owner's
+decision 2026-10-22: women of Chazal named in the Talmud and Midrash, Kohanim
+Gedolim and priestly houses of the Second Temple, physicians quoted in the
+Mishnah, and Temple officials (ממונים) ARE in scope; write them (for a family
+or house, one card for the house). If the
 page gives nothing at all to place the sage in an era (a single bare
 reference), skip it and say so.
 
