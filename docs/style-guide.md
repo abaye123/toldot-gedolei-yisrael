@@ -172,7 +172,7 @@ Seder HaDorot row. Their cards are short - that is expected and correct.
   plainly ("בנימין, בנו של יעקב אבינו. נולד בשנת ב'ר"ז לבריאת העולם ונפטר
   בשנת ב'שי"ח."; "מלך ביהודה משנת ... עד שנת ..."); the provenance goes in
   `src`, and notes about the row (row numbers, uncertain years, which column)
-  go in `review.notes` or `review.flags`. If the row gives nothing but the name
+  go in `review.flags`. If the row gives nothing but the name
   and the category, a minimal plain sentence is enough ("צדיק מדור ..." only
   when the category itself is the one fact known, and never for the Avot,
   the Imahot, the tribes or other figures whose standing is obvious).

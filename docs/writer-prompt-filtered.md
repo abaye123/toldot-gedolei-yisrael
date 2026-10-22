@@ -87,7 +87,7 @@ Hard rules:
 - Never name a source in the card's text and never restate a source's list
   category as a fact: no "נמנה בסדר הדורות בין הצדיקים / הצדיקות / המלכים",
   no "שנתו שם היא". Write the facts plainly (see the last bullet of section 7
-  in the style guide); notes about rows and sources go in `review`.
+  in the style guide); notes about rows and sources go in `review.flags`.
 - Yeshivish register; no academic or secular framing; omit politics, public
   disputes and controversies unless central (then one respectful clause).
 - Never use the characters U+2013 or U+2014 anywhere.
