@@ -395,3 +395,6 @@ sage (variant or scribal error). Parked ids are listed with their reason in
 - y6 batch 20261022-112058-56f925: tta-399619 -> tta-1717418; tta-399630 -> Q1637336. Check: tta-399618 maybe = Q6652870; tta-399626 name only in DS reading; tta-399627 maybe = רב הונא מר בר אויא.
 - y1 batch 20261022-120753-3cf9aa: tta-399632 -> tta-1717316; tta-399636 scribal (רב חמא בר גוריון, no id); tta-399637 bare; tta-399638 maybe -> Q1637336 (hedged); tta-399647 -> tta-1716891; tta-399648 = Q6921148.
 - tta-1716909 removed and parked: its Toldot page has only name variants; the card was built from the next entry's text (brief bug fixed 2026-10-22).
+- y3 batch 20261022-122106-bf098f (scope decision): all 5 written. Check: tta-380560 maybe = tta-380583; tta-382789 Chomah written from the first lines only (open network).
+- y2 batch 20261022-122059-56478f (scope decision): all 10 written. Temple officials set to era tannaim (editorial); tta-375120 era zugot.
+- y1 batch 20261022-122052-d25b1e (scope decision): all 10 written. tta-333645 Imma Shalom and tta-334136 Kimchit written from the opening lines only (open network); tta-333635 era maybe zugot.
