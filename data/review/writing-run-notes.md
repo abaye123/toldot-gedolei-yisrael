@@ -393,3 +393,5 @@ sage (variant or scribal error). Parked ids are listed with their reason in
 - y7 batch 20261022-111827-499233: tta-381578 variant (ר' גידול, maybe Q7296280); tta-381584, tta-381586, tta-381593 not sages; tta-381589 town name. Check: tta-381596 identification; tta-381598 maybe = tta-381597.
 - y4 batch 20261022-111925-65f6e3: tta-383834 not a sage; tta-383841 variant (-> tta-1717426); tta-383842 not real; tta-399553 = Q319219; tta-399556, tta-399564 bare; tta-399562 = Q540824 (sh-322 has its own entry, likely same: merge). Check: tta-383835 maybe = tta-1708437.
 - y6 batch 20261022-112058-56f925: tta-399619 -> tta-1717418; tta-399630 -> Q1637336. Check: tta-399618 maybe = Q6652870; tta-399626 name only in DS reading; tta-399627 maybe = רב הונא מר בר אויא.
+- y1 batch 20261022-120753-3cf9aa: tta-399632 -> tta-1717316; tta-399636 scribal (רב חמא בר גוריון, no id); tta-399637 bare; tta-399638 maybe -> Q1637336 (hedged); tta-399647 -> tta-1716891; tta-399648 = Q6921148.
+- tta-1716909 removed and parked: its Toldot page has only name variants; the card was built from the next entry's text (brief bug fixed 2026-10-22).
