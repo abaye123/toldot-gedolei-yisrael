@@ -1,0 +1,296 @@
+# Writing run - review notes
+
+Judgement calls reported by the writer agents, one line per batch, for the
+owner's review. Ids are registry ids (`data/people.json`). "=" means the same
+person as another id (merge candidate), "->" means the page points to another
+sage (variant or scribal error). Parked ids are listed with their reason in
+`data/work/blocked.json`. New runs append here (see
+`docs/writing-run-filtered.md`).
+
+## Run of 2026-10-05 (workers w*, r*, z*)
+- Q1492866 רבן גמליאל דיבנה: registry links the wrong Toldot page "ר' גמליאל (החמישי)"; fix in overrides.json.
+- sh-286 is very likely the same person as Q1492866 (רבן גמליאל דיבנה); merge in overrides.json and drop sh-286.
+- tta-333261 ר' אבטולוס הזקן / tta-333348 ר' אבשלום הזקן: probably one person (two readings, Mechilta Beshalach 3).
+- tta-1717202 ר' חנין / tta-1717306 רבי חנן: possibly the same tanna (Tosefta Ohalot end).
+- tta-1717201 חנין: skipped, not a sage ("אוי לי מבית חנין"); add to config/exclude.json.
+- tta-333098 אבא בן יוסי: skipped, scribal error (צ"ל אבא יוסי); exclude.
+- Q3047056 איזטס השני: out of scope (king of Adiabene), Wikidata wrongly says "רב"; scope-overrides.
+- Q542710 אלישע בן אבויה: written; owner to decide whether he stays.
+- Q16155143 בן בג בג, Q2069730 חנניה בן חזקיה: article puts them at end of Zugot; written as tannaim.
+- Q2778130 יהושע בן פרחיה: writer changed era to zugot.
+- Q2892486 חנן המצרי: Wikipedia/Wikidata mix two sages; card may need splitting.
+- Q1329293 רבי אליעזר בן יעקב השני: thin, "(השני)" Toldot page and article not read (filter); redo on open network.
+- Q2553579 חוני המעגל: blocked 3 times even on the first 91 lines; write on open network.
+- Q982070 רבי אלעזר הקפר: family lists Bar Kappara as son; some identify him with Bar Kappara.
+- Q109334855 רב חגא: registry links the wrong Toldot page (ר' חגא או חגי ב); writer used 'רב חגא'. Fix link.
+- Q6715250: sources keep the Toldot page title 'רב חנן בר אבא - רבא - רבה' verbatim, with U+2013 (source identifier). Decide: allow in source titles, or map.
+- Q6921148 רב הונא בר חיננא: linked Toldot page is a different person; writer used 'רב הונא בר חיננא או חנינא'. Fix link.
+- tta-333260 ר' אבטולס (אמורא): Toldot page jumbled with fragments of other entries; only first line used.
+- Q1350978 יהודה אלחריזי: skipped, secular poet/translator; exclude.
+- Q124633033 עלי בן עמרם: scope/era check. Q1270399 ר' מאיר המעילי: opposition to Kabbala kept as one clause, decide.
+- Q16158501 Joseph of London: skipped, no Torah content; exclude. Q1599569 מרדכי כומטינו: scope check. Q1423836 ר' יעקב פולק: era check.
+- Q1706130 אבן עקנין: scope check (philosopher/physician/poet).
+- Q1852000 משה נרבוני: skipped, philosopher, out of scope; exclude. Q181498 משה אבן תבון: scope borderline.
+- Q2160640 חייא אלדאודי: scope check. Q25490125 בנימין זאב מארטה: tone check on controversies.
+- Q2891222: skipped, secular poet; exclude. Q2821863 אברהם די בלמש: scope check.
+- Q323448 אברהם אבולעפיה: controversial, scope decision. Q3154797 יצחק בן ברון: scope. Q3305715 (שכל טוב): registry wrongly linked to Seder row 396 (Meiri).
+- Q3327069 משה ארגיל: skipped, out of scope; exclude. Q31439 אברהם בר חייא, Q330775 אברהם אבן חסדאי: scope borderline.
+- Q348287 קלונימוס בן קלונימוס: scope check (poet/translator).
+- Q461640 יצחק אבן פולקר, Q463405 אליהו דלמדיגו: skipped, philosophers out of scope; exclude.
+- Q4662613 Aaron of York, Q467062 יהודה אברבנאל (Leone Ebreo): skipped, out of scope; exclude (owner may reconsider Leone Ebreo).
+- Era of the Spanish-expulsion generation is inconsistent (rishonim vs acharonim); needs one rule in the style guide.
+- Q6119558 יעקב מלונדון, Q6288216 יוסף אבן שם טוב: scope check.
+- Q6676966 מדמון הנגיד, Q679640 פתחיה מרגנשבורג: scope check.
+- Q7212953 יוסף דילה ריינה: minimal card; decide whether to keep. Q719393 משה אבן עזרא: piyut only.
+- Q722259 דוד הראובני, Q7413013 שמואל אבן צרצה: skipped, out of scope; exclude. Q723526 שלמה מולכו: scope decision. Q745336 יהודה אבן תבון: scope check.
+- Q7494073 שמריה האיקריטי, Q7558555 שלמה אלמולי: scope check. Q7558783: one clause based only on a section heading.
+- Q818900 ברכיה הנקדן: scope check.
+- Q959392 יוסף אבן כספי: scope decision (controversial philosopher).
+- sh-424 (Abarbanel) duplicates Q319902; sh-416 likely duplicates Q827747 (Mahariv). Written before the duplicate rule. sh-11 ארפכשד and similar biblical genealogy figures: scope check.
+- sh-229 דריוש השני: skipped, Persian king; exclude. sh-216 גדליהו בן אחיקם: role 'נציב' only; check.
+- sh-77, sh-80: duplicates of sh-108 / Q9077; merge. Q111983595 אברהם חמוי: scope check. Q107534211: student 'משה טולידנו' is not Q106081127; check link_refs.
+- Q113355547 מאיר ביקיים: Sabbatean leanings, scope decision.
+- Q1121943 משה קוניץ: skipped, Haskalah/Reform ties; scope decision.
+- Q12403958 אליעזר אליהו איגל (Maskil congregation), Q12403966 אליעזר ליפמן זילברמן (HaMagid editor): skipped; scope decision.
+- Q12407814 (proto-Zionist views left out), Q12408366 (role in ban on Frankel's school left out): editor decision. Q12408411 Livorno rabbi/lexicographer: scope check.
+- Q12409731 מתתיהו שמחה רבנר: skipped, Haskalah writer; exclude. Q12411792: thin, Vilna rabbinate dispute section unread.
+- Q12409308 מנשה מאיליא: controversial, scope decision.
+- Q1259417 יואל מילר: skipped, academic (Hochschule); exclude. Q12632285 הילל וקסלר: check the one clause on his kuntres.
+- Q137106468 ישראל יפה (chazzan): scope check.
+- Q16129013 אברהם אביש: Cleves get (what he is best known for) left out; consider one clause.
+- Q16130113 שלמה בכור חוצין: scope check (journalist, maskilic stance).
+- Q16339113 דוד אזוג: check mix-up with grandson באבא דודו (Taroudant).
+- Q202382 יוסף אתיאש (printer): skipped; exclude. Q19896519 מוריץ גרינוולד (Breslau seminary): scope decision.
+- Q20502458 יוסף חמיץ: Sabbatean theories left out; scope check.
+- Q2214907 שלמה איילון: Sabbatean ties; skipped; scope decision.
+- Q2467677 אהרן אלכסנדר (chess player): skipped; exclude. Q25490645 חיים וסרצוג: scope check. Q244522 קלישר: settlement activity in one clause; check.
+- Region values: writers sometimes use values outside the style guide list (e.g. 'עיראק'); normalize later.
+- Q2900120 (Timbuktu rabbi/merchant): scope borderline.
+- Q3018048 דוד חסין (poet): scope check.
+- Q29137400 ישראל מיכל רבינוביץ (maskil): skipped; exclude.
+- Q303765 אליקים כרמולי, Q3050892 אליה מורפורגו: skipped (bibliographer / Haskalah); exclude.
+- Q3128879 חיים שמואל יעקב פאלק (Baal Shem of London): skipped; scope decision. Q3154776 יצחק טייב: birth year (article 1786 vs SH 5513) likely wrong in article.
+- Q329866 אברהם כהן די הררה (kabbalist-philosopher): scope decision. Q3220007, Q3289684 (French consistorial chief rabbis): scope check.
+- Q4078739 ברוך שיק משקלוב (early maskil), Q4662589 מנחם מנדל מקמניץ (hotelier/chronicler): scope check.
+- Q4669158 (Sabbatean figure in Italy): skipped; exclude. Q4669241 אברהם יגל (physician/philosopher): scope check.
+- Q4700876 עקיבא להרן (banker/philanthropist): scope check.
+- Q48863895 (Neolog leader): skipped; exclude. Q4889050 בנימין מוספיה (Musaf HeAruch, Sabbatean sympathies): skipped; scope decision.
+- Q504218 (Status Quo rabbi, Pécs), Q508079 (thinker): scope check.
+- Q5362064 אליהו צבי סולובייצ'יק: skipped; exclude.
+- Q55915513 (critical Zohar research, lenient on Shabbat train travel): skipped; scope decision.
+- Q55227861 בן ציון רפאל הכהן פריצי (philosopher/physician): scope decision.
+- Q5687488 חיים חבשוש (Dor Deah, historiographer): skipped; exclude.
+- Q6204628 (Haskalah, astronomy): scope check. Q6214119: writer changed era to rishonim.
+- Q651247 יהודה אלקלעי (proto-Zionist): minimal card; scope/register review.
+- Q6806330 משה זקש (communal activist/shadar): scope check.
+- Q7063945 מנדל רוזנבאום (community head): scope check.
+- Q72145 מנואל יואל (liberal community, Breslau): skipped; exclude. Q72133 יצחק ברנייס: kept as Orthodox; check.
+- Q931272 צבי הרמן שפירא (maskil, mathematician): skipped; scope decision.
+- Q78889 אדולף ילינק (liberal preacher): skipped; exclude.
+- Q904358 גבריאל דסאואר (maskil scholar): scope check.
+- Duplicates skipped (merge in overrides.json): sh-485/Q244520, sh-487/Q2276171, sh-488/Q992584, sh-495/Q6816409, sh-501/Q8068356, sh-502/Q1320061, sh-503/Q7413005, sh-507/Q1328913. The resolver misses sh rows for acharonim whose names differ from the article title (named by their book); worth matching by book title + years.
+- More duplicates skipped: sh-458/Q4669262, sh-459/Q18714121, sh-464/Q5362066, sh-469/Q6810251, sh-473/Q5360950, sh-475/Q16165186, sh-477/Q1714061. sh-479 יהודה אריה ממודינה: minimal card; scope decision.
+- Q95349498 יחיאל מיכל אפשטיין (Kitzur Shelah, Sabbatean suspicion): scope check.
+- More duplicates skipped: sh-556/Q20502822, sh-557/Q8051291, sh-559/Q18121741, sh-571/Q7192424, sh-579/Q330132, sh-590/Q2662227, sh-591/Q6999811, sh-600/Q25493896, sh-602/Q7051241.
+- More duplicates skipped: sh-516/Q988520, sh-518/Q1171152, sh-531/Q3306982, sh-532/Q6287172, sh-548/Q1351984, sh-553/Q477362.
+- More duplicates: sh-603/Q8075274, sh-623/Q791779, sh-628/Q6994526, sh-630/Q1973117. sh-649: possibly ר' ברוך הגר מוויז'ניץ; check.
+- Q104554619 מאיר אוסטרליץ (Neolog), Q1059214 חיים בלוך (researcher/forger): skipped; exclude.
+- Q107324986 קולט אבולקר (not a Torah figure): skipped; exclude. Q106243 נחמיה נובל, Q106449953 משה שמואל טאג'ר: scope check.
+- Q4530047 הבתולה מלודמיר, Q460640 אסנת ברזאני: women, scope decision. Q6122291 שאול לוי מורטירה: Spinoza ban left out.
+- Q2553579 חוני המעגל: written on open network; era may be zugot. Q2892416 ידוע הבבלי: writer changed era to tannaim.
+- Q4256415 לוי בן אברהם (philosopher, Rashba controversy): scope check.
+- sh-327/Q743217 duplicate. Q449117 בר קפרא: era changed to tannaim. Q3324792 משה בן חנוך: maybe rishonim.
+- Q111272889 (chief rabbi of Algeria, historian): scope check.
+- Era boundary acharonim vs acharonei_zmanenu (people who died around 1900-1920) is inconsistent; set a cutoff year.
+- Dardaim (Q108035712, Q108394104): anti-Kabbalah views left out; scope decision. Q112084199 צמח רבינר (Berlin seminary, neo-Orthodox): scope check.
+- Q113946266 (religious-Zionist educator), Q114233005 (cantor/choir conductor): scope check.
+- Note: candidates.py already sets acharonei_zmanenu = died 1900 or later; the era flags for 1900-1920 deaths can be dismissed if that rule stands.
+- Q117833415 (preacher/writer, Mapu student): scope check.
+- Q118912938 קלמן אליעזר פרנקל (Mizrachi activist): scope check.
+- Q11714647 יצחק רובינשטיין (Vilna, senator): framing check.
+- Q118924843 אריה ליב גורדון (chemist/Chovevei Zion), Q118925855 מיכאל בראוור (writer): scope check.
+- Q12233801, Q12234210: writer changed era to acharonim (died 1924/1915) against the 1900 rule; revert if the rule stands. Prompt now states the rule. Q12132926 Mike Tress (activist), Q122026807 (Kermanshah): scope check.
+- More era changes to revert (written before the rule was added): Q123365280, Q123940824, Q12403344. Q1239915 עמנואל יעקובוביץ: known_as 'הלורד'; check.
+- Q12404313 אשר חננאל (Breslau seminary, lawyer, academic): scope check.
+- Q12404858 גדליהו נדל: most of the article (controversies) left out on purpose; check balance.
+- Q12407444 חיים בז'ראנו (Reform leanings): skipped; scope decision. Q12407187 זאב יעבץ (writer/historian, Mizrachi founder): scope check.
+- Q12407464 חיים טשרנוביץ (רב צעיר, Reform JIR professor): skipped; exclude.
+- Q12408163 יעקב ברמן (Mizrachi leader): scope check.
+- Q12408751 מאיר אברהם הלוי (liberal), Q12409618 משה צבי סגל (biblical criticism): skipped; exclude. Q12409094 מיכאל צבי נהוראי (Bar-Ilan professor): scope check. Q12410434 עקיבא יוסף שלזינגר: disputes left out; check.
+- Q12411826 שמואל קלמן מירסקי (RIETS, academic): scope check.
+- Q1272982 יוליוס קרליבך (sociologist): skipped; scope decision. Q12762598 (Status Quo rabbi, Slovakia): scope check.
+- Q133283551 (Bulgarian Zionist educator/editor): skipped; scope decision. Q133054553 (paytan, no rabbinic post): scope check.
+- Q135652935 יוסף ליכטנשטיין (Zionist Hungarian rebbe): check. Q134624980 רפאל גורדון: Yerushalmi Kodashim forgery dispute left out; consider a clause.
+- Q135934061 אהרן קנדינוב (Bukhara community leader): skipped; scope decision. Q1365144 מרדכי נורוק (Mizrachi/Knesset), Q13829144 מאיר דה הונד: scope check.
+- Q1391502 הרב הרצוג: sons (Chaim, Yaakov) left out; decide. Q140074 צדוק כהן (French consistory): scope check.
+- Q1431872 יהושע שטיינברג (maskil), Q1457834 אנדרה נהר (philosopher), Q15293698 מאיר וייס (Bible scholar): skipped; exclude. Q141624910 (paytan), Q15215308 אהרן דאום (Modern Orthodox academic): scope check.
+- Q15912539 אליעזר פרחי (maskil journalist): skipped; exclude. Q1563818 חיים בראדי, Q15983651 (Hamadan, Zionist): scope check.
+- Q16128575 אריאל בנשן, Q16129114 משה זאב סולה (liberal Hochschule): skipped; scope decision. Q16034252 (Paris consistoire): scope check.
+- Q16130120 שלמה בלאזר (activist/editor), Q16130201 דוד ריאחי (cantor): scope check.
+- Q16132715 (photographer, chief rabbi of Brazil): scope check. Q16132490 (Neturei Karta leader): framing check.
+- Q1616413 אומברטו קסוטו (biblical criticism), Q16338377 אברהם דנון (maskil): skipped; exclude.
+- Q16340919 משה ונטורה, Q16340941 משה אבינרי, Q1649541 מר שושני: scope check.
+- Q1674595 ישראל פרידלנדר (JTS professor), Q1686101 יחיאל מיכל פינס: scope check.
+- Q1691731 יואל משה סלומון (public figure, Petah Tikva founder), Q1708296 דינר: scope check.
+- Q18121732 יצחק מרעלי (maskil/poet, also dayan): scope check.
+- Q1947397 מרדכי ארנפרייז (Zionist writer), Q1949222 משה שמואל צוקרמנדל (Breslau seminary): skipped; scope decision.
+- Q18515543 (left Torah, communist editor), Q18536153 (Neolog seminary head): skipped; exclude. Q18422162 (Sarajevo, Vienna seminary): scope check.
+- Q18121771 שלמה טוויג'נה (Calcutta, journalist/translator): scope check.
+- Q19896520 שמעון דנקוביץ (maskil, progressive synagogue), Q19956046 משה בער בק (Neturei Karta activist): skipped; scope decision.
+- Q2009979 דוד כהנא (Vienna seminary, army chief rabbi), Q203367 דוד אסאו, Q20434579 יצחק אלקלעי (Yugoslavia): scope check.
+- Q214136 השרידי אש: academic studies, contested rulings and burial dispute left out; check balance.
+- Q214216 חנוך אלבק (academic), Q21592510 קאפל כהנא (Cambridge professor): scope check.
+- Q2355571 שמואל אברהם פוזננסקי, Q24288111 גיולה וייסבורג, Q244523 צבי פרץ חיות (Bible critic): skipped; exclude. Q2382713 יהודה לייב מימון: role 'first minister of religions' kept; check.
+- Q231377 צבי קורץ (Salonica): skipped; exclude. Q22693378 (Moravian rabbi), Q2336569 (MK/lawyer): scope check.
+- Q25490967 יהודה ליב לנדא (South Africa, poet): scope check.
+- Q25489897 (Tel Aviv zoo founder, no Torah content), Q25490923 (Breslau seminary midrash scholar): scope decision.
+- Q247538 מאיר כהנא: skipped; scope decision. Q24850891 יעקב שריבום (public servant): scope check.
+- Scope checks (politicians/activists written with Torah side only): Q2614411 אברהם רביץ, Q263543 חנן פורת, Q26242243 שמואל למברגר, Q2628948 אלכסנדר שפרן, Q25975250 (paytan).
+
+- z1 batch: Q2704231 (R' Tzvi Yehuda Kook): card covers Torah side only; consider one respectful clause on Eretz Yisrael in his teaching. Q27020109: honorific zt"l vs zy"a for a Sephardi kabbalist. Q2737824 (R' Elchanan Wasserman): hy"d, martyrdom as one clause.
+- z4 batch: Q2827408 (Belzer Rebbe): death place Jerusalem (article) vs Tel Aviv (Wikidata, in alt). Q28605828: "Malki Shuva" kept in known_as though it is a family-name addition.
+- z2 batch: skipped out of scope (scope.py says ok, confirm): Q2778326 (Nemirover, liberal/reform), Q2778438 (David Halivni, Conservative/UTCJ). Q27978769 (R' Yitzchak Abulafia, Penei Yitzchak): birth 1824 vs 1839 (alt); his retracted Karaite ruling dispute omitted.
+- z5 batch: scope check: Q2778213 (Yehuda Meir Abramowitz, mainly Agudah politician), Q2778248 (Menachem HaCohen, Labor MK, likely exclude; minimal card written). Q2778138 (R' Shimon Shkop): death year 5700 (article) vs 5699 (Seder HaDorot, alt). Q2776704 (Kehati): Unterman as teacher is Wikidata only.
+- z3 batch: scope check: Q2890045 (Zerach Warhaftig, mainly politician/jurist), Q2890060 (Mordechai Breuer, shitat habechinot omitted; likely exclude?). Q28792283 (Ben-Zion Eisenstadt): death year 5711 vs 5713. Q28807163 (Ben Zion Hazan): death place and teacher name conflicts. Q28857295: en dash kept in a Wikipedia page title in sources (exact title).
+- z1 batch 2: scope check Q2891446 (Uri Zohar, kiruv/Torah life only). Q2891231 (Kedushas Yom Tov): birth place Sighet vs Wikidata (alt). Q2891467 (Piaseczna Rebbe): Trawniki vs Treblinka; "Baal HaEsh Kodesh" in known_as is a Wikidata alias only. Q2893262: known_as "Maharei Steif" inferred from the responsa title.
+- z5 batch 2: scope check Q2898520 (Bernard Revel, RIETS, secular studies). Q2899239 (Alexander Rebbe, killed 1942): honorific zy"a vs hy"d. Q2897914 (R' Shlomo Heiman): Carlebach omitted from students on purpose.
+- z4 batch 2: scope check Q2895410 (mostly researcher/book collector). Q2894538: birthplace Smila vs Oleksandriya (article self-contradicts). Q2895494: student "R' Meir Shapira" from infobox only, verify before linking; 1927 vs 5689 mismatch.
+- z2 batch 2: Q2895787 (R' Shimon Schwab): Gregorian years only, 1934 Hirsch-article controversy omitted. Q2896541 (Nemanov): birth year 1904 vs 1903, left null.
+- z3 batch 2: skipped Q2899767 (Eliezer Steinman, secular Hebrew writer; scope.py says ok). Q2899407 (Moshe Aryeh Freund): Holocaust in summary + remember story, check tone. Q2899306 (Aharon Roth): birth 5655 vs 5654.
+- z1 batch 3: scope check Q2900747 (Moses Rosen, chief rabbi Romania, modern Orthodox), Q2901431 (Avraham Chaim Shag, Mizrachi MK), Q2902530 (Emanuel Rackman, Bar-Ilan), Q2902600 (Herman Branover, physicist; "Rav" from Wikidata only). Q2901086 (R' Naftali Trop): 5689 vs 5690 (alt).
+- z5 batch 3: scope check Q2904001 (Binyamin Elon), Q2904040 (Yisrael Rosen). Q2903825: titled "Rav" though he declined the title. Q2903915 (Telz): not called founder despite SH.
+- z2 batch 3: skipped out of scope (scope.py says ok): Q2906644 (Yisrael Shlomo Ben-Meir, politician), Q2906971 (Yair Levi, Shas MK), Q2907909 (Yitzhak Meir Levin, Agudah leader; borderline). Q2906999 (Eliezer Shlomo Schick, Breslov): controversial, allegations omitted; decide whether he belongs.
+- z3 batch 3: skipped Q2908897 (Saul Lieberman, JTS rector; scope.py says ok). Scope check Q2908206 (Ezra Zion Melamed, academic). Q2909366 (Zevin): Lubavitcher Rebbe not listed as teacher (correspondence only).
+- z4 batch 3: scope check (mostly political) Q2904066 (Avraham Deutsch), Q2904329 (Moshe Zev Feldman), Q2904731 (Shlomo Lorincz). Q2904862 (Minchas Elazar): burial Kropets vs first buried in Munkatch. Q2904983: title conflict (chief rabbi / av beit din / dayan).
+- z1 batch 4: skipped Q2909985 (Moshe Unna, Mafdal MK; scope.py says ok). Scope check Q2910768 (R' Aharon Lichtenstein). Q2910340 (Ridbaz): SH row spells "Milovsky".
+- z5 batch 4: skipped Q2915120 (Moshe Hirsch, Neturei Karta political activist; scope.py says ok). Scope check Q2911233 (Menachem Froman). Q2915710 (R' Meir Shapiro): validator warns on "aggadah" (legit).
+- z3 batch 4: skipped Q3015717 (Dante Lattes, Zionist journalist; scope.py says ok). Scope check Q30278217 (Meir Nahmad), Q30526595 (Avigdor Bensheck, psychologist).
+- z2 batch 4: scope check Q29548683 (Aharon Shmuel Tamaret, controversial thinker), Q29914051 (Baruch Toledano, teacher/researcher; forgery claim omitted). Q29886595: Sivan vs Nisan death date, chose Sivan.
+- z1 batch 5: scope check Q3155667 (Israel Levi), Q3157564 (Jacob Kaplan), Q3185786 (Joseph Wertheimer, strong), Q328515 (Moshe Levinger, strong). Q3155664 (Besancon): died Sept 2026, Elul 24 vs 25.
+- z2 batch 5: skipped Q359694 (Mendele Mocher Sforim), Q363106 (Isaac Hirsch Weiss, maskil). Scope check Q3574656 (chief rabbi of Beirut, school/plays), Q374965 (R' J.B. Soloveitchik, mixed standing). Q37999408 (Yudel Rosenberg): should Niflaos Maharal stay in works?
+- z3 batch 5: scope check Q336766 (Jonathan Sacks), Q3425725 (Rene-Samuel Sirat), Q357304 (Adin Steinsaltz; ban on his books in one clause, check wording).
+- z5 batch 5: skipped Q3337780 (Nechemia Shmuel Leibowitz, writer/scholar). Check tone Q330110 (Rav Kook). Scope check Q330118 (Avraham Yaakov Mark, hy"d), Q3327066 (Moshe Cassorla). Q3323875 (Teichtal): hy"d.
+- z4 batch 5: scope check Q385030 (Mozes Feldmann, Budapest seminary), Q3878469 (Norman Lamm, YU).
+- z1 batch 6: skipped Q4274489 (government rabbi of Moscow, Zionist/political). Q41943329: Hebrew death date 11 Tishrei 5740 (1979) vs 1980 Gregorian. Scope check Q43295367 (shadar/researcher).
+- z2 batch 6: skipped Q438286 (Hillel Kook, secular politician), Q4423223 (David Hartman, liberal theologian). Scope check Q440106 (Avichai Rontzki), Q4412754 (Moshe Zvi Segal), Q4426756 (Nathan Mileikowsky).
+- z5 batch 6: skipped Q4669230 (academic Talmud researcher, Mizrachi; scope.py says ok). Scope check Q46829899 (Zimroni Tzik, extreme messianist Chabad).
+- z3 batch 6: scope check Q46230651 (Raphael Della Pergola), Q4669133 (Avraham Pinter). Q458733 (R' David Zvi Hoffmann): biblical-criticism material omitted.
+- z4 batch 6: skipped Q4825769 (Yosef Dan, academic Kabbalah scholar). Scope check Q4828818 (Aptowitzer). Q4802692: zt"l vs hy"d (Holocaust).
+- z1 batch 7: skipped Q4829405 (Avraham Goldberg, academic, JTS). Q4829433 (R' Avraham Yitzchak Bloch, Telz): zt"l vs hy"d.
+- z5 batch 7: skipped Q49840386 (Gideon Langman, educator/public), Q4994443 (David Simonsen, chief rabbi of Denmark, academic).
+- z2 batch 7: scope check Q4830898 (Ta-Shma, academic), Q4890338 (Bent Melchior), Q4892929 (Yissachar Dov Bergman, fraud conviction; consider excluding).
+- z3 batch 7: skipped Q5067834 (Chaim Walder), Q5067843 (Chaim Yisrael Eiss, activist; Wikidata says rabbi).
+- z4 batch 7: scope check Q516228 (Eliezer Waldman), Q5200751 (Cyril Harris), Q5241478 (David de Sola Pool).
+- z1 batch 8: Q5353639: Berland-related controversies omitted. Q5302573: Yeshuas David description conflict.
+- z2 batch 8: skipped Q55226641 (chief rabbi of Rome, cremation). Scope check Q5382263 (businessman/community rabbi), Q5393394 (linguist). Q552210: era moved to acharonim (born c.1740; Wikidata dates look wrong), verify.
+- z5 batch 8: Q5362050 (R' Eliyahu Bakshi-Doron): criminal case, politics omitted. Q5368448 (R' Eliyahu Lopian): three birth years.
+- z4 batch 8: scope check Q55649203 (merchant/community leader).
+- z1 batch 9: skipped Q556870 (Philip Berg, Kabbalah Centre). Scope check Q557278 (Krinsky, no dates; era editorial), Q56303470 (Aryeh Weinberg, conviction omitted).
+- z3 batch 8: scope check Q555516 (H. Pereira Mendes, JTS founder/OU president).
+- z5 batch 9: scope check Q573861 (Elio Toaff), Q59524566 (Simon Eppenstein, academic), Q592433 (Meir Bar-Ilan).
+- z2 batch 9: skipped Q57175938 (Albert Katz, journalist/Zionist).
+- z3 batch 9: skipped Q6288194 (Joseph Shapotshnick, scandals), Q6292165 (Jose Faur, JTS), Q631006 (Moses Gaster, Haham of London, academic/Zionist; borderline).
+- z1 batch 10: skipped Q625515 (Menachem Elon, Supreme Court justice). Scope check Q61126201 (author/printer; rabbi only per Wikidata), Q6122740 (Breslau-ordained Italian Zionist leader).
+- z4 batch 9: skipped Q609273 (Wilhelm Bacher). Scope check Q605443 (Haredi politician/journalist), Q6078431 (Talne Rebbe / Harvard professor).
+- z5 batch 10: skipped Q6372379 (Conservative congregation rabbi/journalist; borderline), Q6447676 (cantor/journalist).
+- z2 batch 10: scope check Q6519064 (Leib Weissberg, Neo-Orthodox). Q6550106: maternal grandfather is editorial inference.
+- z3 batch 10: skipped Q65628 (Ismar Elbogen). Scope check Q656901 (Eliezer Berkovits), Q6576154 (technological yeshiva, ministry DG).
+- z4 batch 10: skipped Q6602825 (Menachem Kahana, academic). Q6606288 (Yehuda Boyar): tradition that R' Chaim Greineman wrote his books, omitted.
+- z1 batch 11: skipped Q6581908 (Ronen Neubirt, Beit Hillel). Q6578783: Gregorian birth date error in article.
+- z5 batch 11: Q661697 (Satmar Rebbe): one clause on opposition to Zionism, check.
+- z4 batch 11: scope check Q6668282 (HaModia founder, "rabbi" only per Wikidata). Q6667495: 29 Tishrei 5721 is 1960 not 1961.
+- z3 batch 11: scope check Q6642995 (Avraham Abele Ehrlich, "liberal" TiDE).
+- z1 batch 12: scope check Q6687446 (chief rabbi of South Africa, mostly political/academic), Q6689709 (Bucharest Sephardic rabbi, mainly finance).
+- z5 batch 12: scope check Q6694091 (Avraham Silbert), Q6695203 (Shmuel Zafrani), Q6721776 (Menachem Nachum Friedman of Itzkan, strongest candidate: Zionist, secular philosophy). Q6714197 (Sadigura): Zionist work omitted.
+- z3 batch 12: skipped Q677637 (liberal Prague Tempelgemeinde rabbi). Scope check Q6775578 (editor of Der Israelit), Q6782938 (Mizrachi educator).
+- z2 batch 12: skipped Q6738609 (Yaakov Kashmacher, artist). Scope check Q6739112 (Menachem Mendel Brayer, YU academic/psychologist).
+- z1 batch 13: scope check Q6790373 (Zionist/journalist/folklore), Q6792777 (Bible researcher/lecturer).
+- z4 batch 12: scope check Q6756596 (taught at JTS and French seminary), Q6757318 (unusual positions/disputes). Q6773697: 18 Cheshvan 5740 is 1979, source says 1980.
+- z5 batch 13: skipped Q6810242 (Meir Friedmann Ish-Shalom, maskil). Q6805783: "Orthodox separate community" rendered as "Charedi separate".
+- z3 batch 13: scope check Q6820295 (Zionist activist/educator, rabbi of Romanian community in Jerusalem). Q6816386: hy"d (Warsaw ghetto).
+## Run of 2026-10-05/06 (workers y1-y7)
+- y2 batch 1: skipped Q6841798 (Wolf Michel, rabbi + PhD, secular). Scope check Q6855346 (Zionist, secular education). Q6843886 honorific zy"a vs ztz"l.
+- y3 batch 1: skipped Q6859530 (Yaakov Laslavi, politician/banker), Q6865224 (Reuven Aharonovitch, Bnei Brak mayor). Scope check Q6870311 (Elyashiv Knohl), Q6883423 (Elimelech Yerachmiel Itamar, rabbinate official).
+- y6 batch 1: scope check Q6916098 (Tendler, biology professor), Q6916162 (Moshe Sherer, Agudah lay leader, given z"l), Q6914576 (Eliach, activist).
+- y1 batch 1: skipped Q6826450 (Meir Waxman, academic; also congregational rabbi - owner decides). Q682957 (R. Shlomo Goren) written, army/political sections left out.
+- y5 batch 1: scope check Q6904546 (Simcha Bunem Auerbach, professor), Q6909671 (Mordechai Piron, chief military rabbi). Q6909679 Sharabi honorific zy"a.
+- y4 batch 1: scope check Q6890663 (Getie Yirmiyahu, Ethiopian educator), Q6903955 (Gerstenkorn, Bnei Brak founder). Q6892134 teachers inferred (Chazon Ish, R. Eliyahu Lopian). Q6902846 town spelling check.
+- y3 batch 2: scope check Q6960129 (Yitzchak Isaac Taubes, maskil rabbi), Q6962016 (Pinchas Doron, professor). Q6953184 Kosovsky given "Rabbi" by convention.
+- y2 batch 2: Q6924012 R. Moshe Mutzafi grandfather vs uncle conflict. Q6934462 burial Sanhedria vs Mount of Olives.
+- y5 batch 2: skipped Q6990955 (Binyamin de Vries, academic; also Mizrachi rabbi - owner decides), Q6992366 (Shem Tov Gefen, philosopher). Q6988062 honorific zy"a hy"d.
+- y1 batch 2: skipped Q6984731 (Mordechai Margaliot, academic; registry wrongly suggested SH row 593 = R. Chaim Mordechai Margaliot). Scope/tone check Q6982633 (killed at Har Eival 2000), Q6983163 (psychological method, Sadnat Enosh). Q6982457 student "R. Shlomo Katz" verify.
+- y6 batch 2: scope check Q6963813 (Shmuel Zanvil Kahana, ministry DG), Q6974591 (Yitzchak Lewin, scholar/activist).
+- y4 batch 2: Q7003181 death place inferred; Q7013507 (Michelson) article calls him historian/theologian, Torah side only.
+- y3 batch 3: scope check Q7014615 (Antokolsky, "sofer maskil"), Q7022200 (Elnatan Horowitz, RZ educator, hy"d). Registry wrongly suggested SH row 526 (Yaavetz) for Q7023320.
+- y2 batch 3: scope check Q7033901 (Shraga Abramson, HUJI professor), Q7037235 (Hartom, civil service). Q7030247 hy"d vs ztz"l. Q7037435 Ashlag zy"a?
+- y3 batch 4: NetFree block, parked Q7066061.
+- y4 batch 3: NetFree block, parked Q7063736.
+- y6 batch 3: skipped Q7056766 (Aharon Shear-Yashuv, philosophy professor), Q7058793 (Dimitrovsky, HUJI/JTS professor). Scope check Q7053801 (Gershom Harpenes, PAI/journalism).
+- y5 batch 3: no issues of note (several RZ rabbis, politics omitted).
+- y1 batch 3: Q7052787 (Rav HaKotel) many sections left out, human look. Q7052952 communal activist.
+- y2 batch 4: scope check Q7194909 (Pinchas Peli, professor/poet).
+- y4 batch 4: balance check Q711917 (R. Aryeh Kaplan, meditation/academic left out), Q7063804 (Rivlin, Mizrachi lead omitted), Q708955 (Asher Michael Cohn, Agudah founding omitted).
+- y6 batch 4: skipped Q72150 (Isaac Ruelf, journalist/philosopher), Q7215184 (Meir Moritz Beck, Breslau seminary, reform). Q7213301 living son named.
+- y3 batch 5: skipped Q706669 (Jacob Katz, historian), Q7067477 (Antoine Levy, French consistorial preacher). Scope/tone check Q7066605 (Yechezkel Taub of Yablona, drifted and returned), Q7066965 (Meir Wunder, bibliographer).
+- y5 batch 4: scope check Q7217505 (Moshe Blau, communal leader, title from Wikidata), Q7217525 (Moshe Grylak, journalist). Q7217537 book attribution unclear.
+- y2 batch 5: NetFree block (see parked suspect in blocked.json).
+- y2/y5: NetFree blocks, parked Q730056, Q783344.
+- y4 batch 5: skipped Q742539 (Lilienblum, maskil). Scope check Q7410895 (Samuel Belkin, YU president). Q746233 brother vs grandnephew conflict.
+- y6 batch 5: scope check Q7499600 (wealthy Bukharan leader/kabbalist). Q7499666 hy"d vs zy"a.
+- y3 batch 6: skipped Q75021 (Jackie Mason, comedian - registry scope error). Scope check Q76999 (Shlomo Carlebach, z"l), Q7517471 (Simcha Krauss, contested agunah beit din).
+- y1 batch 5: skipped Q8048810 (Yaakov Meir Zalkind, anarchist), Q8051043 (Yechiel Eckstein, Fellowship). Scope check Q8051277 (Yehuda Levi, physicist).
+- y4 batch 6: NetFree block, parked Q8053923.
+- y2 batch 6: scope check Q735103 (Alfred Levy, French consistory), Q8051295 (Yehuda Herzl Henkin, Nishmat omitted). Q733669 Kaduri ztz"l vs zy"a.
+- y3 batch 7: skipped Q816401 (Ben-Zion Dinur), Q820393 (Nathan Porges), Q820919 (Israel Lewy). Scope check Q8075549 (Chabad poet, z"l).
+- y1 batch 6: scope check Q8340048 (Yehoshua Kling, French consistory), Q83544185 (Yehuda Leib Avida, folklore/Zionist).
+- y4 batch 7: skipped Q864089 (Binyamin Zeev Kahane, political activist). Scope check Q8053978 (R. Yichya Kafih, Dor Deah).
+- y5 batch 7: scope check Q87008235 (Dov Ber Ratner, Talmud researcher/trader), Q90649 (Avraham Berliner, historian), Q9160257 (Aharon Heppner, historian), Q9333369 (Shmuel Brot, Mizrachi/Sejm). Registry wrongly suggested SH row 692 for Q91029710.
+- y2 batch 7: skipped Q9334041 (Chaim Shaul Horowitz, Breslau seminary; had semicha - owner decides). Scope check Q9352627 (Shimon Federbusch, Sejm, doctorate).
+- y7 batch 1 DUPLICATES (merge in overrides.json): sh-657=Q2903948, sh-662=Q7058475, sh-666=Q1981562, sh-669=Q543723, sh-681=Q6815144, sh-684=Q2904983, sh-685=Q2737824, sh-688=Q12071865, sh-694=Q2907349. sh-689 (Sarah Schenirer) written with a"h.
+- y3 batch 8: skipped Q96528 (Menachem Erich Klibansky, gymnasium principal). Scope check Q96377427 (chazan/council head). Q96518 Carlebach hy"d.
+- y2 batch 8: NetFree block on first brief, parked tta-1709531.
+- y1 batch 7: scope check Q977354 (Zeev Gold, Mizrachi), Q97818092 (Wengrov, children's author).
+- y6 batch 7 DUPLICATES: sh-638=Q27978769, sh-652=Q16129287. sh-653 same years as row 652 (copy error?). Registry wrongly links Toldot page "ר' אלישיב" (an Amora) to Q983259 (R. Elyashiv).
+- y4 batch 8 DUPLICATES: sh-695=Q2905227, sh-733=Q2230623, sh-751=Q2898985. sh-742 name typo corrected (Friedlander). sh-749 (Rebbetzin Kanievsky) a"h.
+- y5 batch 8: skipped tta-1706749 (not a sage), tta-1706753 (scribal error for R. Yosi bar Yehuda). Written but not sages: tta-1709358 (Shivchat, son of R. Chanina), tta-1709386 (Shazfar, town head) - owner decides. Prompt updated after this batch: non-sages in Toldot are skipped.
+- y3 batch 9 (Toldot variants/duplicates): tta-1709748 -> scribal error for רבה בר רב עופרן (tta-1709873?); tta-1709752 -> tta-380631; tta-1709753 = tta-333069; tta-1709754 = tta-333084; tta-1709755 = tta-333070 (check); tta-1709757 = Q6708091; tta-1709758 variant of tta-333311 (check). tta-1709842 likely = tta-1709747. tta-1709760 possibly not a separate sage.
+- y2 batch 9 (Toldot variants): tta-1709535 variant of ר' יהודה איש טיבעים (no id); tta-1709730 corrupt reading; tta-1709732 = tta-1709883; tta-1709767 = tta-1709866; tta-1709771 not a person. tta-1709728 may = tta-1709726.
+- y1 batch 8: tta-1709776 = tta-333128 / Q4663673 (R. Abba bar Papi). tta-1709780 may = tta-333132. tta-1709774, tta-1709775 possibly variant readings.
+- y4 batch 9: tta-1709848 = Q7289541 (Rami bar Chama); tta-1709855 = tta-1709860; tta-1709859 = tta-333103; tta-1709862 = tta-333108. tta-1709863 may = tta-380648.
+- y6 batch 8: tta-1709787 = tta-333531 (scribal error). tta-1709841 / tta-1709842 / tta-1709747 may be one person (check).
+- y4 batch 10: NetFree block, parked tta-1710138; tta-1710137 is a variant of R. Yosi bar Chanina (no id).
+- y3 batch 10: skipped tta-1709888 (not a sage), tta-1709892/tta-1709893 (collective terms), tta-1709899 (scribal error), tta-1709900 = Q743217 (Ravina). tta-1709895 may = tta-333317, not clearly a sage.
+- y2 batch 10: skipped tta-1709901 (variant of Ravina), tta-1709906 (scribal error), tta-1709907 (Yerushalmi forms of R. Ami / R. Asi), tta-1709909 = Q116069944, tta-1709910 (relative), tta-1710090 (epithet). tta-1709903 may be a variant.
+- y5 batch 9: skipped tta-1709874 (not a sage). tta-1709875 borderline (not clearly a sage). tta-1709866 / tta-1709867 / tta-1709767 may be one person. tta-1709868 maybe = Q7221758.
+- y7 batch 3: skipped tta-1710092 (not a sage), tta-1710097 = Q19344644, tta-1710098 = Q7296288, tta-1710099 (variant, no content), tta-1710101 = tta-344865, tta-1710106 (scribal error). tta-1710100 is a Zohar figure.
+- y1 batch 9: tta-1710120 = Q6521345 (Rafram I); tta-1710121 = Q7282718 (Rafram II); tta-1710130, tta-1710132 not sages; tta-1710135 = Q131833 (R. Dosa ben Harkinas; Toldot page could enrich that entry).
+- y5 batch 10: NetFree block (see parked).
+- y6 batch 9: skipped tta-1710478, tta-1710480, tta-1710484 (relatives/laymen). tta-1710490 borderline.
+- y4 batch 11: skipped tta-1710492 (not a sage). tta-1710491 variant reading, check.
+- y3 batch 11: skipped group titles tta-1710496..tta-1710502 (exclude.json candidates), tta-1710504 cross-ref (= tta-333721), tta-1710506 gentile.
+- y2 batch 11: skipped tta-1710510, tta-1710517 (groups), tta-1710511, tta-1710512, tta-1710515 (not sages). tta-1710520 / tta-1710521 may be one person.
+- Four NetFree blocks at once (y1, y3, y5, y6): parked tta-1710553, and first ids of the y3/y5/y6 batches.
+- y4 batch 12: skipped tta-1710569, tta-1710575 (kings/queen), tta-1710570, tta-1710572 (relatives), tta-1710582 (example figure), tta-1710584 = Q7296295 (its Toldot link may point to the wrong page א/ב). tta-1710580 may = tta-1710655.
+- y7 batch 4: tta-1710536 -> tta-1717167; tta-1710537 variant; tta-1710540 -> tta-333523; tta-1710543 = tta-1717188; tta-1710544 -> Q4694893; tta-1710545 -> Q2219010. tta-1710542 only a father (keep?).
+- y1 batch 11: tta-1710548 scribal error; tta-1710551 = Q1794530 (Rav Huna, check); tta-1710619 misprint (-> tta-1710605 / Q1892187); tta-1710622, tta-1710624 not sages.
+- y6 batch 11: tta-1710562 not a sage; tta-1710565 = Q2902935; tta-1710566 not a sage; tta-1710634, tta-1710636 not attested; tta-1710635 -> tta-1716879/80. tta-1710561 may = tta-1710544; tta-1710567 borderline.
+- y3 batch 13: tta-1710592 not a sage; tta-1710597 variant (-> זונא); tta-1710605 = tta-1710604; tta-1710607 unattested. tta-1710598 name reading per Aruch (check).
+- y4 batch 13: tta-1710639 = Q7296294; tta-1710666 = Q5872985. tta-1710638 Zohar-only; tta-1710665 possibly not separate.
+- y5 batch 12: tta-1710528 -> Q7278538?; tta-1710529 = Q1794530; tta-1710530 variant; tta-1710632 = Q7296294 (R. Zeira). tta-1710557 may = tta-399629/399630.
+- y7 batch 5: tta-1710653 = Q42054008. tta-1710580 / tta-1710655 merge decision.
+- y2 batch 12: tta-1710609, tta-1710611, tta-1710617 written but possibly not sages (litigants/relatives). tta-1710615 name only in Yuchasin.
+- Round y*-12..14 (Toldot): skipped as not sages / variants / duplicates: tta-1710670 (Zohar only, no era - owner), tta-1710671, tta-1710696, tta-1710703 (collective), tta-1710711, tta-1710715 (-> tta-333107?), tta-1710720 (-> Q2904193), tta-1710721 = Q109334855, tta-1710723, tta-1710724, tta-1710728, tta-1710732, tta-1710734 (-> tta-333438), tta-1710741 (-> tta-375656?), tta-1710747, tta-1710748 (-> tta-375581), tta-1710750 (-> sh-193), tta-1710854, tta-1715122, tta-1715125, tta-1715933 = Q1391489, tta-1715935 (-> Q2219010), tta-1716044, tta-1716496, tta-1716533, tta-1716871 (-> tta-1717426), tta-1716873, tta-1716875 (-> tta-1716879/80).
+  Possible merges: tta-1715893 / tta-1715906 / tta-380504; tta-1710729 / tta-1716942; tta-1716497 / tta-379281; tta-1710749 / plain R. Chizkiya. Borderline: tta-1716040 (son of R. Akiva), tta-1715931, tta-1717120. Ben Azzai (tta-1715988) has no Wikidata id.
+- y5 batch 14: NetFree block, parked tta-1716908; tta-1716907 skipped (no era determinable).
+- y2 batch 14: tta-1716922 scribal error (-> R. Chiya bar Abba); tta-1716926 variant (-> tta-334476?); tta-1716929, tta-1716931, tta-1716934 fathers only; tta-1716932 = Q2904193.
+- y6 batch 13: tta-1716940, tta-1716949 fathers only; tta-1716941 -> Q467142; tta-1716947 -> tta-1717141. Possible merges: tta-1716946 / tta-1716952; tta-1716942 / tta-1710729. tta-1716948 guessed era.
+- y4 batch 15: tta-1716886 -> Q5872985; tta-1716893 -> tta-333430; tta-1716896 unattested. tta-1716892 very thin (maybe skip).
+- y3 batch 15: tta-1717114 -> Q1069053; tta-1717116 = tta-1716955; tta-1717121 -> Q2070205; tta-1717122, tta-1717129 too thin (single mention, no era) - owner decides. tta-1716955 may = tta-333639. tta-1717127 vs Q2897331.
+- y7 batch 7: tta-1716919 -> tta-333128 (and Q4663673 vs tta-333128 may be two ids for one sage).
+- y5 batch 15: tta-1717131 may = tta-334442. tta-1717136 (Abba Chilkiya) story partly unread, can be completed later.
+- y4 batch 16: tta-1717166 no era; tta-1717176 relative; tta-1717178 -> Q6715250?. tta-1717171 borderline (father only).
+- y7 batch 8: tta-1717298, tta-1717300 variants; tta-1717311 litigant. tta-1717313 (Chanan ben Avishalom) may duplicate Q2892486 or Q2895176 (listed under the decree-judges page) - check.
+- y6 batch 14: tta-1717152 -> Q5872985; tta-1717158 variant (-> tta-1717159/61); tta-1717163 father only. tta-1717164 thin, maybe skip; tta-1717154 tannaim/amoraim boundary.
+- y1 batch 14: tta-1717181 not a sage; tta-1717183 -> tta-399632; tta-1717184 -> tta-333497. Possible merges: tta-1717179/tta-1717180; tta-1717185/tta-1717188; tta-1717186/Q6964369. tta-1717187 guessed era.
+- y2 batch 15: tta-1717147 scribal error; tta-1717148 = tta-1716874. tta-1717141 may = tta-1716955.
+- y3 batch 16: tta-1717198 may = tta-334461; tta-1717207 guessed era.

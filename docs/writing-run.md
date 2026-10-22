@@ -1,7 +1,9 @@
 # Writing run
 
-How to write all entries, resumably. Run it from a Claude Code session opened
-in this repository (it reads `CLAUDE.md`).
+How a Claude Code session drives the writer agents, resumably. Run it from a
+Claude Code session opened in this repository (it reads `CLAUDE.md`). On a
+filtered network (NetFree), follow `docs/writing-run-filtered.md`, which
+builds on this file with `scripts/cycle.py` and `docs/writer-prompt-filtered.md`.
 
 ## Principles
 
