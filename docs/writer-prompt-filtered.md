@@ -84,6 +84,10 @@ Hard rules:
 - Source-bound: every value is supported by every provider in its `src`, for
   the whole value. Never add facts from your own knowledge.
 - Rewrite in your own words; short quotes of sayings are fine.
+- Never name a source in the card's text and never restate a source's list
+  category as a fact: no "נמנה בסדר הדורות בין הצדיקים / הצדיקות / המלכים",
+  no "שנתו שם היא". Write the facts plainly (see the last bullet of section 7
+  in the style guide); notes about rows and sources go in `review`.
 - Yeshivish register; no academic or secular framing; omit politics, public
   disputes and controversies unless central (then one respectful clause).
 - Never use the characters U+2013 or U+2014 anywhere.

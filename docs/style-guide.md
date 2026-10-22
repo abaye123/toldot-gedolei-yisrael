@@ -162,6 +162,20 @@ Seder HaDorot row. Their cards are short - that is expected and correct.
   never quote a garbled passage.
 - Seder HaDorot rows for kings and biblical figures: keep to the role and
   years; for kings of Israel and Judah state the kingdom and years of reign.
+- Never turn the source's list or category into a statement about the person,
+  and never name the source in the card's text. Do not write "נמנה בסדר
+  הדורות בין הצדיקים", "נמנית בסדר הדורות בין הצדיקות / הצדקניות", "נמנה
+  בסדר הדורות בין המלכים", "שנתו שם היא ...", "בסדר הדורות נמנו שנות
+  מלכותו ...". The column a row sits in only tells you what kind of figure it
+  is; calling Avraham Avinu or Rachel Imenu "one of the tzaddikim" is
+  self-evident and reads as odd. State who the person is and the facts
+  plainly ("בנימין, בנו של יעקב אבינו. נולד בשנת ב'ר"ז לבריאת העולם ונפטר
+  בשנת ב'שי"ח."; "מלך ביהודה משנת ... עד שנת ..."); the provenance goes in
+  `src`, and notes about the row (row numbers, uncertain years, which column)
+  go in `review.notes` or `review.flags`. If the row gives nothing but the name
+  and the category, a minimal plain sentence is enough ("צדיק מדור ..." only
+  when the category itself is the one fact known, and never for the Avot,
+  the Imahot, the tribes or other figures whose standing is obvious).
 
 ## 8. Output format
 
