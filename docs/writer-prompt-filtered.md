@@ -74,6 +74,8 @@ For each id:
    it if missing), then save it with `python scripts/save_entry.py <scratch file>`
    run from the repo root (atomic write + validation; set
    `PYTHONIOENCODING=utf-8`). Fix every ERROR it prints and save again.
+   Keep any helper scripts in that same folder of yours, never in a shared
+   or system temp folder (other writers overwrite them).
 3. If the brief shows the person is out of scope (not an Orthodox Torah
    figure), or is not a real person, do not write an entry; report it.
 
