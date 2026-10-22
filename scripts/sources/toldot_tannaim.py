@@ -191,6 +191,15 @@ def _section_key(name):
     return " ".join(name.replace('"', "").split())
 
 
+def _same_section(a, b):
+    """Two marker names of one section: equal, one extends the other by whole
+    words ("טבי עבדו דרבן גמליאל" / "... דיבנה"), or a one-letter typo
+    ("ויחוסין" / "ויוחסין", "קרויא" / "קוריא")."""
+    if a == b or a.startswith(b + " ") or b.startswith(a + " "):
+        return True
+    return min(len(a), len(b)) >= 8 and difflib.SequenceMatcher(None, a, b).ratio() >= 0.9
+
+
 def _section(scan_texts, span, alt_name=None):
     """Raw wikitext of a transcluded span: pages from..to joined and cut to
     `onlysection` (or fromsection/tosection). None when no scan page exists;
@@ -218,6 +227,9 @@ def _section(scan_texts, span, alt_name=None):
             guess = [k for k in begins if alt_name and k == _section_key(alt_name)]
             guess = guess or [k for k in begins if re.fullmatch(re.escape(want) + r" ?\d+", k)]
             guess = guess or [k for k in begins if k.startswith(want + " ") or want.startswith(k + " ")]
+            if len(guess) > 1 and all(_same_section(guess[0], k) for k in guess):
+                # one section marked with a longer name on a later page: take the first in the text
+                guess = [next(k for s, e, is_begin, k in markers if is_begin and k in guess)]
             if len(guess) != 1:
                 return ""
             if end_name == begin_name:
@@ -226,11 +238,21 @@ def _section(scan_texts, span, alt_name=None):
             hits = [e for s, e, is_begin, k in markers if is_begin and k == guess[0]]
         start = hits[0]
     if end_name:
-        hits = [s for s, e, is_begin, k in markers
-                if not is_begin and k == _section_key(end_name) and s >= start]
+        ends = {_section_key(end_name), _section_key(span.get("onlysection") or span.get("tosection") or end_name)}
+        hits = [s for s, e, is_begin, k in markers if not is_begin and k in ends and s >= start]
+        if not hits:
+            # end marker spelled differently from the begin marker
+            hits = [s for s, e, is_begin, k in markers
+                    if not is_begin and s >= start and any(_same_section(k, n) for n in ends)]
         if hits:
             # onlysection spanning pages has one end marker per page; take the last.
             stop = hits[-1] if span["to"] > span["from"] else hits[0]
+        if begin_name and _same_section(_section_key(begin_name), _section_key(end_name)):
+            # never run on into the next entry when its end marker is missing or misspelled
+            nxt = [s for s, e, is_begin, k in markers
+                   if is_begin and s >= start and not _same_section(k, _section_key(begin_name))]
+            if nxt and nxt[0] < stop:
+                stop = nxt[0]
     return _MARKER.sub(" ", text[start:stop])
 
 
