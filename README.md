@@ -51,6 +51,7 @@ scripts/
   link_refs.py     link mentioned teachers/students/relatives to their entries
   prune.py         remove a source from all entries
   build_site.py    entries -> dist/biographies.json + site/index.html
+  app_bundle.py    compact bundle for applications (release asset)
 data/
   raw/<provider>/  raw snapshots, byte-for-byte as downloaded
   people.json      the people registry
@@ -88,6 +89,10 @@ publishes a release with:
 
 - `biographies.json` - the whole bundle (entries, eras, credits, author,
   license, release tag)
+- `biographies-app.json.gz` - a compact gzipped bundle for applications
+  such as Otzaria: claim values only (competing values appended as
+  "(או: ...)"), `ref` links between entries, and per-entry source links;
+  no review notes (format in `scripts/app_bundle.py`)
 - `biographies-files.zip` - `entries/<id>.json`, `meta.json` (everything in
   the bundle but the entries, plus the entry ids in order), the schema,
   `LICENSE`, `NOTICE`, `CREDITS.md`
@@ -98,6 +103,11 @@ When the release is done, `.github/workflows/pages.yml` deploys the site:
 latest release. It also runs when the template changes on `main`, and by
 hand. Pages must be set to deploy from GitHub Actions (Settings > Pages >
 Source).
+
+`.github/workflows/mirror-release.yml` runs every six hours in a fork (for
+example Otzaria/toldot-gedolei-yisrael) and copies the parent's latest
+release into it, since syncing a fork does not copy releases. In the parent
+it does nothing. Actions must be enabled once in the fork's Actions tab.
 
 Fetching needs an unfiltered network (NetFree blocks the Wikipedia API and
 some article pages). Everything after fetching works offline from `data/raw`.
