@@ -35,5 +35,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: >
           gh release create "$GITHUB_REF_NAME"
-          release/biographies.json release/biographies-files.zip release/SHA256SUMS
+          release/biographies.json release/biographies-app.json.gz release/biographies-files.zip release/SHA256SUMS
           --title "$GITHUB_REF_NAME" --notes-file release/NOTES.md --verify-tag

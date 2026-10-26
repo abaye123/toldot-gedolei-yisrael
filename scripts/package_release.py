@@ -5,13 +5,14 @@ Usage:
 
 Writes to the output folder:
     biographies.json       the whole bundle in one file (as dist/biographies.json)
+    biographies-app.json.gz  compact bundle for applications (see app_bundle.py)
     biographies-files.zip  the same content as separate files:
                              meta.json        format, author, license, eras,
                                               credits, and the entry ids in order
                              entries/<id>.json  one file per entry
                              schema/biography.schema.json
                              LICENSE, NOTICE, CREDITS.md
-    SHA256SUMS             checksums of the two files above
+    SHA256SUMS             checksums of the three files above
     NOTES.md               the release description
 """
 
@@ -22,6 +23,7 @@ import shutil
 import zipfile
 from pathlib import Path
 
+from app_bundle import write_app_bundle
 from build_site import ROOT, build_bundle
 
 ZIP_EXTRAS = ["LICENSE", "NOTICE", "CREDITS.md", "schema/biography.schema.json"]
@@ -46,6 +48,8 @@ def main():
 
     (out / "biographies.json").write_text(dump(bundle, indent=1), encoding="utf-8", newline="\n")
 
+    write_app_bundle(out / "biographies-app.json.gz", args.tag)
+
     meta = {k: v for k, v in bundle.items() if k != "entries"}
     meta["entries"] = [e["id"] for e in entries]
     with zipfile.ZipFile(out / "biographies-files.zip", "w", zipfile.ZIP_DEFLATED) as z:
@@ -57,7 +61,7 @@ def main():
 
     sums = "".join(
         f"{hashlib.sha256((out / n).read_bytes()).hexdigest()}  {n}\n"
-        for n in ("biographies.json", "biographies-files.zip")
+        for n in ("biographies.json", "biographies-app.json.gz", "biographies-files.zip")
     )
     (out / "SHA256SUMS").write_text(sums, encoding="utf-8", newline="\n")
 
@@ -71,6 +75,7 @@ def main():
         f"{len(entries)} biographies, built {bundle['built']}.\n\n"
         "| תקופה | ערכים |\n|---|---|\n" + era_lines + "\n"
         "- `biographies.json` - the whole bundle in one file\n"
+        "- `biographies-app.json.gz` - compact gzipped bundle for applications: values only, with per-entry sources\n"
         "- `biographies-files.zip` - one JSON file per entry, `meta.json`, the schema, LICENSE, NOTICE, CREDITS.md\n"
         "- `SHA256SUMS` - checksums\n\n"
         "**Attribution is required:** any use of the biographies must credit **abaye** as their author, "
