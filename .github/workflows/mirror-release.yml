@@ -1,0 +1,44 @@
+# Copies the latest release of the parent repository into a fork, so a fork
+# (for example Otzaria/toldot-gedolei-yisrael) serves the same release assets
+# under its own URL. Syncing a fork copies branches but not releases.
+# Does nothing in a repository that is not a fork. Scheduled workflows are off
+# in a new fork until Actions are enabled in its Actions tab.
+name: Mirror release
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Copy the latest parent release if missing
+        run: |
+          parent=$(gh api "repos/$GITHUB_REPOSITORY" --jq '.parent.full_name // empty')
+          if [ -z "$parent" ]; then
+            echo "Not a fork; nothing to mirror."
+            exit 0
+          fi
+          tag=$(gh release view --repo "$parent" --json tagName --jq .tagName)
+          if gh release view "$tag" --repo "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            echo "$tag is already mirrored."
+            exit 0
+          fi
+          mkdir assets
+          gh release download "$tag" --repo "$parent" --dir assets
+          gh release view "$tag" --repo "$parent" --json body --jq .body > notes.md
+          sha=$(gh api "repos/$parent/commits/$tag" --jq .sha)
+          # The tag points at the parent's commit, which the fork network shares;
+          # if the fork cannot see it yet, tag the fork's default branch instead.
+          gh release create "$tag" assets/* --repo "$GITHUB_REPOSITORY" \
+              --title "$tag" --notes-file notes.md --target "$sha" \
+            || gh release create "$tag" assets/* --repo "$GITHUB_REPOSITORY" \
+              --title "$tag" --notes-file notes.md
+          echo "Mirrored $tag from $parent."
